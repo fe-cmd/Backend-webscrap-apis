@@ -1,0 +1,4035 @@
+[
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following quantities has the same unit as the watt?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nForce x time",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nForce x distance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nForce x acceleration",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nForce x velocity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nActual thickness = 34 - 22 = 12 \n\nerror thickness = 30 - 20 = 10 \n\nerror = 12 - 10 = 2mm that is, (11 \u00b1 1)mm\n\n%error = \\(\\frac{1}{11}\\) x \\(\\frac{100}{1}\\)\n\n= 9%"
+    },
+    "text": "The external and internal diameter of a tube are measured as (32 \u00b1 2)mm and (21 \u00b1 1)mm respectively. Determine the percentage error in the thickness of the tube.",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n27%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n14%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\theta\\) = tan-1\\(\\frac{3}{7}\\)"
+    },
+    "text": "Two forces of magnitudes 7N and 3N act at right angles to each other. The angle \\(\\theta\\) between the resultant and the 7N force is given by",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncos\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsin\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntan\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncot\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThrust = \\(\\frac{\\text{mass x velocity}}{time}\\) \n\n= 10 x 5 x 103\n\n\n= 5.0 x 104N"
+    },
+    "text": "A rocket burns fuel at the rate of 10kgs-1 and ejects it with velocity of 5 x 103ms-1. The thrust exerted by the gas on the rock is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5 x 107N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 x 104N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.0 x 102N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 10-3N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIntensity = \\(\\frac{1.002 \\times 102}{60}\\)\n\n= 1.67Nkg-1"
+    },
+    "text": "The force experienced by an object of mass 60.0kg in the moon's gravitational field is 1.002 x 102N. What is the intensity of the gravitational field?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.60Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.67Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.12 x 102Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9.81ms-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation"
+    },
+    "text": "Which of the following correctly describes the energy changes in the generation of light by a hydroelectric power station?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nElectrical \\(\\to\\) mechanical \\(\\to\\) potential",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npotential \\(\\to\\)mechanical \\(\\to\\)electrical \\(\\to\\) light",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmechanical \\(\\to\\) sound \\(\\to\\) electrical \\(\\to\\) light",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nkinetic \\(\\to\\) mechanical \\(\\to\\) electrical \\(\\to\\)light",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nV.R = \\(\\frac{1}{sin\\theta}\\) \n\n= 10\n\nsin = \\(\\frac{1}{10}\\)"
+    },
+    "text": "A plane inclined at angle \\(\\theta\\) has a velocity ratio of 10 : 1. The inclination of the plane to the horizontal is given by",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntan\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncot\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncos\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsin\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nP = 2 x 1000 x 10 \n\n= 2 x 104NM-2"
+    },
+    "text": "A weightless vessel of dimensions 4m x 3m x 2m is filled with a liquid of density 1000kgm-3 and sealed. What is the maximum pressure this container can exert on a flat surface? [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 x 104NM-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nvolume of object = \\(\\frac{400 \\times 10^{-2}}{600}\\)\n\n= 0.00067m3\n\nvolume of paraffin displaced = \\(\\frac{1}{2}\\) x 0.00067 \n\n= 0.00034m3\n\nmass of paraffin = 900 x 34 x 10-5\n\n= 0.3kg\n\nweight of paraffin = 0.3 x 10\n\n= 3N = upthrust = tension in the string"
+    },
+    "text": "An object of mass 400g and density 600kgm-3 is suspended with a sting so that half of it is immersed in paraffin of density 900kgm-3. The tension in the string is",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The thermometric properties of the thermocouple is that is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ne.m.f. changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nresistance changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvolume changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npressure changes with resistance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\na = \\(\\frac{1.36}{800 \\times (95 - 10)}\\) \n\n= 2.0 x 10-5K-1"
+    },
+    "text": "A metal rod 800mm long is heated from 10oC to 95oC. If it expands by 1.36mm, the linear expansivity of the metal is",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.0 x 102K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0 x 102K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.0 x 10-3K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 10-5K-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{P_1V_1}{T_1}\\) = \\(\\frac{P_2V_2}{T_2}\\)\n\nV1 = 2V2 and T2 = 2T1\n\n\\(\\frac{P_1\\times 2V_2}{T_1}\\) = \\(\\frac{P_2\\times V_2}{2T_1}\\)\n\n\nP2 = 4P1"
+    },
+    "text": "When the volume of a given mass of gas is halved and its temperature doubled, the pressure",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nremains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreases by a factor of 4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincreases by a factor of 3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndecreases by a factor of 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nHeat lost = heat gained\n\n200 x c x (90 - \\(\\theta\\))= 100\\(\\times\\) c \\(\\times\\) (\\(\\theta - 30\\))\nDividing through by 100c, we have\n2(\\(90 - \\theta\\)) = (\\(\\theta - 30\\))\nsimplifying, we have\n\\(\\theta\\) = 70\u00b0"
+    },
+    "text": "200g of water at 90\u00b0C is mixed with 100g of water at 30\u00b0C. What is the final temperature?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n70oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nL = - \\(\\lambda\\) \\(\\Rightarrow\\)4L = 3 \\(\\lambda\\)"
+    },
+    "text": "The relationship between L and the wavelength I of the stationary wave is",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2L = \\(\\lambda\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nL = \\(\\lambda\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nL = \\(\\frac {\\lambda}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4L = 3 \\(\\lambda\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDistance XX = \\(\\frac{1}{2}\\)\\(\\lambda\\)\n\n= \\(\\frac{1}{2}\\) x \\(\\frac{60}{1}\\)\n\n= 30cm"
+    },
+    "text": "Determine the distance between the consecutive antinodes XX if the wavelength is 60cm",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n60cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following waves can propagate through a vacuum?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHigh velocity sound waves",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nUltrasonic waves",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAcoustic waves",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInfra-red waves",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTime = 1 x 4 x 10-3sec \n\ndistance = velocity x time \n\n= 3 x 108 x 4 x 10-3\n\n= 6 x 105m"
+    },
+    "text": "Radio waves emitted from an antenna are picked up by a radar after reflection from an aircraft in 4 x 10-3S. How far is the aircraft from the antenna? [c = 3 x 108ms-1 ]",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.0 x 102ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.2 x 103km",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0 x 103km",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.0 x 10 5km",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{r}{2}\\) and v = mu\n\nF = \\(\\frac{UV}{U + V}\\)\n\n\\(\\frac{r}{2}\\) = \\(\\frac{U \\times mu}{U + mu}\\)\n\n\\(\\frac{r}{2}\\) = \\(\\frac{mu^2}{u(1 + m)}\\)\n\n\\(\\frac{r}{2} = \\frac{mu}{1+m}\\)\n\\(\\frac{r}{2} = \\frac{v}{1+m}\\)\n\\(\\frac{2v}{r} = 1+m\\)\n\\(m = \\frac{2v}{r} - 1\\)"
+    },
+    "text": "Which of the following expressions gives the linear magnification produced by a concave mirror of radius of curvature r, if U and V are the object and image distances respectively?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{V}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{2V}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{U}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{2U}{r}\\) - 1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{uv}{u + v}\\)\n\n20 = \\(\\frac{100 \\times v}{100 + v}\\)\n\nv = 25cm"
+    },
+    "text": "If the focal length of a camera lens is 20cm, the distance from the film at which the lens must be set to produce a sharp image of an object 100cm away is",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n17cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n25cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n100cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following may be used to explain a mirage? i. layers of air near the road surface have varying refractive indices in hot weather. ii. road surfaces sometimes become good reflectors in hot weathers. iii. light from the sky can be reflected upwards after coming close to the road surface.",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{4}{3}\\) = \\(\\frac{sin30}{sinr}\\)\n\nr = 22oC"
+    },
+    "text": "A beam of light is incident from air to water at an angle of 30oC. Find the angle of refraction if the refractive index of water is \\(\\frac{4}{3}\\)",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n18oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n22oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n24oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe ciliary body produces the fluid in the eye called aqueous humor.\nIt also contains the ciliary muscle, which\u00a0changes the shape of the lens when your eyes focus on a near object.\nThis process is called accommodation."
+    },
+    "text": "The property of the eye known as its power of accommodation is controlled by the",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npupil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvirteous humour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\niris",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nciliary muscles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following correctly explain(s) why a green leaf appears green in bright day light? i. it absorbs only the green component of sunlight. ii. it absorbs all colour of sunlight except green. iii. it reflects only the green component of sunlight.",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following correctly explains why soft iron is proffered to steel in electromagnets? i. soft iron is more readily magnetized than steel. ii. soft iron is more readily demagnetized than steel. iii. soft iron retains magnetism more than steel.",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii.",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A current carrying conductor experiences a force when placed in a magnetic field because the",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconductor is magnetized",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmagnetic field of the current interacts with external magnetic field",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nforce is due to the motor principle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectric field of the current interacts with the external magnetic field",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A simple cell with mercury-amalgamated zinc electrode prevents",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlocal actions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npolarization",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbuckling",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndegradation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following quantities has the same unit as the watt?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nForce x time",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nForce x distance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nForce x acceleration",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nForce x velocity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nActual thickness = 34 - 22 = 12 \n\nerror thickness = 30 - 20 = 10 \n\nerror = 12 - 10 = 2mm that is, (11 \u00b1 1)mm\n\n%error = \\(\\frac{1}{11}\\) x \\(\\frac{100}{1}\\)\n\n= 9%"
+    },
+    "text": "The external and internal diameter of a tube are measured as (32 \u00b1 2)mm and (21 \u00b1 1)mm respectively. Determine the percentage error in the thickness of the tube.",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n27%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n14%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\theta\\) = tan-1\\(\\frac{3}{7}\\)"
+    },
+    "text": "Two forces of magnitudes 7N and 3N act at right angles to each other. The angle \\(\\theta\\) between the resultant and the 7N force is given by",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncos\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsin\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntan\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncot\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThrust = \\(\\frac{\\text{mass x velocity}}{time}\\) \n\n= 10 x 5 x 103\n\n\n= 5.0 x 104N"
+    },
+    "text": "A rocket burns fuel at the rate of 10kgs-1 and ejects it with velocity of 5 x 103ms-1. The thrust exerted by the gas on the rock is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5 x 107N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 x 104N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.0 x 102N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 10-3N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIntensity = \\(\\frac{1.002 \\times 102}{60}\\)\n\n= 1.67Nkg-1"
+    },
+    "text": "The force experienced by an object of mass 60.0kg in the moon's gravitational field is 1.002 x 102N. What is the intensity of the gravitational field?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.60Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.67Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.12 x 102Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9.81ms-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation"
+    },
+    "text": "Which of the following correctly describes the energy changes in the generation of light by a hydroelectric power station?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nElectrical \\(\\to\\) mechanical \\(\\to\\) potential",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npotential \\(\\to\\)mechanical \\(\\to\\)electrical \\(\\to\\) light",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmechanical \\(\\to\\) sound \\(\\to\\) electrical \\(\\to\\) light",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nkinetic \\(\\to\\) mechanical \\(\\to\\) electrical \\(\\to\\)light",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nV.R = \\(\\frac{1}{sin\\theta}\\) \n\n= 10\n\nsin = \\(\\frac{1}{10}\\)"
+    },
+    "text": "A plane inclined at angle \\(\\theta\\) has a velocity ratio of 10 : 1. The inclination of the plane to the horizontal is given by",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntan\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncot\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncos\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsin\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nP = 2 x 1000 x 10 \n\n= 2 x 104NM-2"
+    },
+    "text": "A weightless vessel of dimensions 4m x 3m x 2m is filled with a liquid of density 1000kgm-3 and sealed. What is the maximum pressure this container can exert on a flat surface? [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 x 104NM-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nvolume of object = \\(\\frac{400 \\times 10^{-2}}{600}\\)\n\n= 0.00067m3\n\nvolume of paraffin displaced = \\(\\frac{1}{2}\\) x 0.00067 \n\n= 0.00034m3\n\nmass of paraffin = 900 x 34 x 10-5\n\n= 0.3kg\n\nweight of paraffin = 0.3 x 10\n\n= 3N = upthrust = tension in the string"
+    },
+    "text": "An object of mass 400g and density 600kgm-3 is suspended with a sting so that half of it is immersed in paraffin of density 900kgm-3. The tension in the string is",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The thermometric properties of the thermocouple is that is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ne.m.f. changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nresistance changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvolume changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npressure changes with resistance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\na = \\(\\frac{1.36}{800 \\times (95 - 10)}\\) \n\n= 2.0 x 10-5K-1"
+    },
+    "text": "A metal rod 800mm long is heated from 10oC to 95oC. If it expands by 1.36mm, the linear expansivity of the metal is",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.0 x 102K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0 x 102K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.0 x 10-3K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 10-5K-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{P_1V_1}{T_1}\\) = \\(\\frac{P_2V_2}{T_2}\\)\n\nV1 = 2V2 and T2 = 2T1\n\n\\(\\frac{P_1\\times 2V_2}{T_1}\\) = \\(\\frac{P_2\\times V_2}{2T_1}\\)\n\n\nP2 = 4P1"
+    },
+    "text": "When the volume of a given mass of gas is halved and its temperature doubled, the pressure",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nremains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreases by a factor of 4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincreases by a factor of 3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndecreases by a factor of 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nHeat lost = heat gained\n\n200 x c x (90 - \\(\\theta\\))= 100\\(\\times\\) c \\(\\times\\) (\\(\\theta - 30\\))\nDividing through by 100c, we have\n2(\\(90 - \\theta\\)) = (\\(\\theta - 30\\))\nsimplifying, we have\n\\(\\theta\\) = 70\u00b0"
+    },
+    "text": "200g of water at 90\u00b0C is mixed with 100g of water at 30\u00b0C. What is the final temperature?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n70oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nL = - \\(\\lambda\\) \\(\\Rightarrow\\)4L = 3 \\(\\lambda\\)"
+    },
+    "text": "The relationship between L and the wavelength I of the stationary wave is",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2L = \\(\\lambda\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nL = \\(\\lambda\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nL = \\(\\frac {\\lambda}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4L = 3 \\(\\lambda\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDistance XX = \\(\\frac{1}{2}\\)\\(\\lambda\\)\n\n= \\(\\frac{1}{2}\\) x \\(\\frac{60}{1}\\)\n\n= 30cm"
+    },
+    "text": "Determine the distance between the consecutive antinodes XX if the wavelength is 60cm",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n60cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following waves can propagate through a vacuum?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHigh velocity sound waves",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nUltrasonic waves",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAcoustic waves",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInfra-red waves",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTime = 1 x 4 x 10-3sec \n\ndistance = velocity x time \n\n= 3 x 108 x 4 x 10-3\n\n= 6 x 105m"
+    },
+    "text": "Radio waves emitted from an antenna are picked up by a radar after reflection from an aircraft in 4 x 10-3S. How far is the aircraft from the antenna? [c = 3 x 108ms-1 ]",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.0 x 102ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.2 x 103km",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0 x 103km",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.0 x 10 5km",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{r}{2}\\) and v = mu\n\nF = \\(\\frac{UV}{U + V}\\)\n\n\\(\\frac{r}{2}\\) = \\(\\frac{U \\times mu}{U + mu}\\)\n\n\\(\\frac{r}{2}\\) = \\(\\frac{mu^2}{u(1 + m)}\\)\n\n\\(\\frac{r}{2} = \\frac{mu}{1+m}\\)\n\\(\\frac{r}{2} = \\frac{v}{1+m}\\)\n\\(\\frac{2v}{r} = 1+m\\)\n\\(m = \\frac{2v}{r} - 1\\)"
+    },
+    "text": "Which of the following expressions gives the linear magnification produced by a concave mirror of radius of curvature r, if U and V are the object and image distances respectively?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{V}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{2V}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{U}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{2U}{r}\\) - 1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{uv}{u + v}\\)\n\n20 = \\(\\frac{100 \\times v}{100 + v}\\)\n\nv = 25cm"
+    },
+    "text": "If the focal length of a camera lens is 20cm, the distance from the film at which the lens must be set to produce a sharp image of an object 100cm away is",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n17cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n25cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n100cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following may be used to explain a mirage? i. layers of air near the road surface have varying refractive indices in hot weather. ii. road surfaces sometimes become good reflectors in hot weathers. iii. light from the sky can be reflected upwards after coming close to the road surface.",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{4}{3}\\) = \\(\\frac{sin30}{sinr}\\)\n\nr = 22oC"
+    },
+    "text": "A beam of light is incident from air to water at an angle of 30oC. Find the angle of refraction if the refractive index of water is \\(\\frac{4}{3}\\)",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n18oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n22oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n24oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe ciliary body produces the fluid in the eye called aqueous humor.\nIt also contains the ciliary muscle, which\u00a0changes the shape of the lens when your eyes focus on a near object.\nThis process is called accommodation."
+    },
+    "text": "The property of the eye known as its power of accommodation is controlled by the",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npupil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvirteous humour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\niris",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nciliary muscles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following correctly explain(s) why a green leaf appears green in bright day light? i. it absorbs only the green component of sunlight. ii. it absorbs all colour of sunlight except green. iii. it reflects only the green component of sunlight.",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following correctly explains why soft iron is proffered to steel in electromagnets? i. soft iron is more readily magnetized than steel. ii. soft iron is more readily demagnetized than steel. iii. soft iron retains magnetism more than steel.",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii.",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A current carrying conductor experiences a force when placed in a magnetic field because the",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconductor is magnetized",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmagnetic field of the current interacts with external magnetic field",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nforce is due to the motor principle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectric field of the current interacts with the external magnetic field",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A simple cell with mercury-amalgamated zinc electrode prevents",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlocal actions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npolarization",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbuckling",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndegradation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nE = 4 + 2r and E = 2 + 3r\n\ntherefore, r = 2\\(\\Omega\\)"
+    },
+    "text": "The terminal voltage of a battery is 4.0V when supplying a current of 2.0A, and 2.0V when supplying a current of 3.0A. The internal resistance of the battery is",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.5 \\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.0\\(\\Omega\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nQ = it \n\n= 100 x 10-3 x 2 x 60\n\n= 12C"
+    },
+    "text": "A current of 100mA passes through a conductor for 2 minutes. The quantity of electricity transported is",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n50C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.002C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nC = \\(\\frac {\\varepsilon_o\\ A}{d}\\)\n\n10-2 x 10-6 = \\(\\frac {9 \\times 10 ^{-12}}{d}\\) x 10-4\n\n= 9 x 10-7m"
+    },
+    "text": "A parallel plate capacitor of area 10cm2 in vacuum has a capacitance of 10-2\\(\\mu\\)F. What is the distance between the plates?(e = 9 x 10-12fm)",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9 x 10-13m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9 x 10-7m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9 x 10-3m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9 x 107m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nP = \\(\\frac{V}{R}\\) \n\nV = \\(\\sqrt{PR}\\)\n\nV = \\(\\sqrt{40 \\times 90}\\)\n\n= 60V"
+    },
+    "text": "A 40-W instrument has a resistance of 90\\(\\Omega\\). On what voltage should it be operated normally?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60V",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n150V",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n225V",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3600V",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAn induction coil is a\u00a0transformer for producing high-voltage alternating current from a low-voltage direct current, consisting essentially of two concentric coils with a common soft-iron core, a primary coil with relatively few windings of heavy wire, and a secondary coil with many turns of fine wire. Excitation of the primary coil by rapidly interrupted or variable current induces high voltage in the secondary coil."
+    },
+    "text": "Which of the following devices may be used to step up the voltage in a d.c. circuit?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na step-up transformer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na d.c. generator",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na wattmeter",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nan induction coil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The primary aim in high tension transmission is to",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nminimize electrical energy losses due to heat production",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincrease the rate of energy transfer by using high voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincrease the current in the wire",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngenerate electricity at high current and low voltage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nXL = 2\\(\\pi\\)FL\n\n= 2 x 3.142 x 30 x 10-3 x 1.3 x 103\n\n= 245\\(\\Omega\\)"
+    },
+    "text": "Determine the inductive reactance when a 30.0mH inductor with a negligible resistance is connected to a 1.3 x 103Hz oscillator.",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n39.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n122.5\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n245.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n39000.0\\(\\Omega\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following statements correctly describe(s) cathode rays? i. they consist of tiny particles carrying negative electric charges. ii. they are deflected in a magnetic field but not in an electric field. iii. they consist of fast moving neutrons and deflected in an electric field.",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Natural radioactivity is the random spontaneous disintegration of the nuclei of heavy isotopes of certain elements with the emission of",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\alpha\\), X, and \\( \\beta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\alpha\\), \\(\\beta\\) and \\(\\gamma\\)-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nX, \\(\\alpha\\), \\(\\gamma\\)-ray",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\alpha\\), \\( \\beta\\) and X-rays",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following are produced after a nuclear fusion process? i. one heavy nucleus. ii. neutrons-1. iii. protons. iv. Energy.",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni and ii",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ni and iv",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nii and iii",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iv",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(^{226}_{88}X\\) \\(\\to\\) \\((^{0}_{-1}e)\\) + \\(^{4}_{2}\\alpha\\) + \\(^{b}_{a}X\\)\n\na + 2 + (-2) = 88 a \\(\\Rightarrow\\) a = 88\n\nb + 4 + 0 = 266 b \\(\\Rightarrow\\) b = 222"
+    },
+    "text": "An element X of an atomic number 88 and mass number 226 decays to form an element Z by emitting two beta particles and an alpha particle. Z is represented by",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(^{222}_{82}Z\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(^{222}_{88}Z\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(^{226}_{86}Z\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(^{226}_{80}Z\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The kinetic theory of photoelectron liberated from a metallic surface depends on the",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nintensity of the incident radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntime duration of the incident radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntemperature of the incident radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nfrequency of the incident radiation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTotal Distance covered is the Area of the Trapezium\nArea of the Trapezium = \\(\\frac{1}{2}\\) X ( sum of parallel sides ) X height\n=\u00a0 \\(\\frac{1}{2}\\) X ( 30 + 45 ) X 10\n: S = 375m"
+    },
+    "text": "The diagram above shows a velocity time graph representing the motion of a car. Find the total distance covered during the acceleration and retardation of the motion",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n75m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n150m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n300m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n375m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the fig above,A lever of length 200m is used to lift a load of mass 180kg. The pivot at P is 20m from the load. what minimum force F must be applied at the end of the lever [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n18N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n20N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n200N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Two mirrors M1 and M2 are inclined at right angles as shown above calculate the angle of reflection of the ray of light at M2",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\( 30^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n\\( 45^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\\( 60^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n\\( 90^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The current I in the fig above is",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.00A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n1.30A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n0.80A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n0.75A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the network shown above, determine the potential difference across the 5\u00b5F capacitor",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n6V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n12V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n18V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  }
+][
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following quantities has the same unit as the watt?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nForce x time",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nForce x distance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nForce x acceleration",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nForce x velocity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nActual thickness = 34 - 22 = 12 \n\nerror thickness = 30 - 20 = 10 \n\nerror = 12 - 10 = 2mm that is, (11 \u00b1 1)mm\n\n%error = \\(\\frac{1}{11}\\) x \\(\\frac{100}{1}\\)\n\n= 9%"
+    },
+    "text": "The external and internal diameter of a tube are measured as (32 \u00b1 2)mm and (21 \u00b1 1)mm respectively. Determine the percentage error in the thickness of the tube.",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n27%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n14%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\theta\\) = tan-1\\(\\frac{3}{7}\\)"
+    },
+    "text": "Two forces of magnitudes 7N and 3N act at right angles to each other. The angle \\(\\theta\\) between the resultant and the 7N force is given by",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncos\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsin\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntan\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncot\\(\\theta\\) = \\(\\frac{3}{7}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThrust = \\(\\frac{\\text{mass x velocity}}{time}\\) \n\n= 10 x 5 x 103\n\n\n= 5.0 x 104N"
+    },
+    "text": "A rocket burns fuel at the rate of 10kgs-1 and ejects it with velocity of 5 x 103ms-1. The thrust exerted by the gas on the rock is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5 x 107N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 x 104N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.0 x 102N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 10-3N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIntensity = \\(\\frac{1.002 \\times 102}{60}\\)\n\n= 1.67Nkg-1"
+    },
+    "text": "The force experienced by an object of mass 60.0kg in the moon's gravitational field is 1.002 x 102N. What is the intensity of the gravitational field?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.60Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.67Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.12 x 102Nkg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9.81ms-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation"
+    },
+    "text": "Which of the following correctly describes the energy changes in the generation of light by a hydroelectric power station?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nElectrical \\(\\to\\) mechanical \\(\\to\\) potential",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npotential \\(\\to\\)mechanical \\(\\to\\)electrical \\(\\to\\) light",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmechanical \\(\\to\\) sound \\(\\to\\) electrical \\(\\to\\) light",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nkinetic \\(\\to\\) mechanical \\(\\to\\) electrical \\(\\to\\)light",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nV.R = \\(\\frac{1}{sin\\theta}\\) \n\n= 10\n\nsin = \\(\\frac{1}{10}\\)"
+    },
+    "text": "A plane inclined at angle \\(\\theta\\) has a velocity ratio of 10 : 1. The inclination of the plane to the horizontal is given by",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntan\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncot\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncos\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsin\\(\\theta\\) = \\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nP = 2 x 1000 x 10 \n\n= 2 x 104NM-2"
+    },
+    "text": "A weightless vessel of dimensions 4m x 3m x 2m is filled with a liquid of density 1000kgm-3 and sealed. What is the maximum pressure this container can exert on a flat surface? [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 x 104NM-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 x 104NM-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nvolume of object = \\(\\frac{400 \\times 10^{-2}}{600}\\)\n\n= 0.00067m3\n\nvolume of paraffin displaced = \\(\\frac{1}{2}\\) x 0.00067 \n\n= 0.00034m3\n\nmass of paraffin = 900 x 34 x 10-5\n\n= 0.3kg\n\nweight of paraffin = 0.3 x 10\n\n= 3N = upthrust = tension in the string"
+    },
+    "text": "An object of mass 400g and density 600kgm-3 is suspended with a sting so that half of it is immersed in paraffin of density 900kgm-3. The tension in the string is",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The thermometric properties of the thermocouple is that is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ne.m.f. changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nresistance changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvolume changes with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npressure changes with resistance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\na = \\(\\frac{1.36}{800 \\times (95 - 10)}\\) \n\n= 2.0 x 10-5K-1"
+    },
+    "text": "A metal rod 800mm long is heated from 10oC to 95oC. If it expands by 1.36mm, the linear expansivity of the metal is",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.0 x 102K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0 x 102K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.0 x 10-3K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 10-5K-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{P_1V_1}{T_1}\\) = \\(\\frac{P_2V_2}{T_2}\\)\n\nV1 = 2V2 and T2 = 2T1\n\n\\(\\frac{P_1\\times 2V_2}{T_1}\\) = \\(\\frac{P_2\\times V_2}{2T_1}\\)\n\n\nP2 = 4P1"
+    },
+    "text": "When the volume of a given mass of gas is halved and its temperature doubled, the pressure",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nremains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreases by a factor of 4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincreases by a factor of 3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndecreases by a factor of 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nHeat lost = heat gained\n\n200 x c x (90 - \\(\\theta\\))= 100\\(\\times\\) c \\(\\times\\) (\\(\\theta - 30\\))\nDividing through by 100c, we have\n2(\\(90 - \\theta\\)) = (\\(\\theta - 30\\))\nsimplifying, we have\n\\(\\theta\\) = 70\u00b0"
+    },
+    "text": "200g of water at 90\u00b0C is mixed with 100g of water at 30\u00b0C. What is the final temperature?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n70oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nL = - \\(\\lambda\\) \\(\\Rightarrow\\)4L = 3 \\(\\lambda\\)"
+    },
+    "text": "The relationship between L and the wavelength I of the stationary wave is",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2L = \\(\\lambda\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nL = \\(\\lambda\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nL = \\(\\frac {\\lambda}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4L = 3 \\(\\lambda\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDistance XX = \\(\\frac{1}{2}\\)\\(\\lambda\\)\n\n= \\(\\frac{1}{2}\\) x \\(\\frac{60}{1}\\)\n\n= 30cm"
+    },
+    "text": "Determine the distance between the consecutive antinodes XX if the wavelength is 60cm",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n60cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following waves can propagate through a vacuum?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHigh velocity sound waves",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nUltrasonic waves",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAcoustic waves",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInfra-red waves",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTime = 1 x 4 x 10-3sec \n\ndistance = velocity x time \n\n= 3 x 108 x 4 x 10-3\n\n= 6 x 105m"
+    },
+    "text": "Radio waves emitted from an antenna are picked up by a radar after reflection from an aircraft in 4 x 10-3S. How far is the aircraft from the antenna? [c = 3 x 108ms-1 ]",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.0 x 102ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.2 x 103km",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0 x 103km",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.0 x 10 5km",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{r}{2}\\) and v = mu\n\nF = \\(\\frac{UV}{U + V}\\)\n\n\\(\\frac{r}{2}\\) = \\(\\frac{U \\times mu}{U + mu}\\)\n\n\\(\\frac{r}{2}\\) = \\(\\frac{mu^2}{u(1 + m)}\\)\n\n\\(\\frac{r}{2} = \\frac{mu}{1+m}\\)\n\\(\\frac{r}{2} = \\frac{v}{1+m}\\)\n\\(\\frac{2v}{r} = 1+m\\)\n\\(m = \\frac{2v}{r} - 1\\)"
+    },
+    "text": "Which of the following expressions gives the linear magnification produced by a concave mirror of radius of curvature r, if U and V are the object and image distances respectively?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{V}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{2V}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{U}{r}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{2U}{r}\\) - 1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{uv}{u + v}\\)\n\n20 = \\(\\frac{100 \\times v}{100 + v}\\)\n\nv = 25cm"
+    },
+    "text": "If the focal length of a camera lens is 20cm, the distance from the film at which the lens must be set to produce a sharp image of an object 100cm away is",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n17cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n25cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n100cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following may be used to explain a mirage? i. layers of air near the road surface have varying refractive indices in hot weather. ii. road surfaces sometimes become good reflectors in hot weathers. iii. light from the sky can be reflected upwards after coming close to the road surface.",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{4}{3}\\) = \\(\\frac{sin30}{sinr}\\)\n\nr = 22oC"
+    },
+    "text": "A beam of light is incident from air to water at an angle of 30oC. Find the angle of refraction if the refractive index of water is \\(\\frac{4}{3}\\)",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n18oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n22oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n24oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe ciliary body produces the fluid in the eye called aqueous humor.\nIt also contains the ciliary muscle, which\u00a0changes the shape of the lens when your eyes focus on a near object.\nThis process is called accommodation."
+    },
+    "text": "The property of the eye known as its power of accommodation is controlled by the",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npupil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvirteous humour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\niris",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nciliary muscles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following correctly explain(s) why a green leaf appears green in bright day light? i. it absorbs only the green component of sunlight. ii. it absorbs all colour of sunlight except green. iii. it reflects only the green component of sunlight.",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following correctly explains why soft iron is proffered to steel in electromagnets? i. soft iron is more readily magnetized than steel. ii. soft iron is more readily demagnetized than steel. iii. soft iron retains magnetism more than steel.",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii.",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A current carrying conductor experiences a force when placed in a magnetic field because the",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconductor is magnetized",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmagnetic field of the current interacts with external magnetic field",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nforce is due to the motor principle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectric field of the current interacts with the external magnetic field",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A simple cell with mercury-amalgamated zinc electrode prevents",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlocal actions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npolarization",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbuckling",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndegradation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nE = 4 + 2r and E = 2 + 3r\n\ntherefore, r = 2\\(\\Omega\\)"
+    },
+    "text": "The terminal voltage of a battery is 4.0V when supplying a current of 2.0A, and 2.0V when supplying a current of 3.0A. The internal resistance of the battery is",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.5 \\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.0\\(\\Omega\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nQ = it \n\n= 100 x 10-3 x 2 x 60\n\n= 12C"
+    },
+    "text": "A current of 100mA passes through a conductor for 2 minutes. The quantity of electricity transported is",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n50C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.002C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nC = \\(\\frac {\\varepsilon_o\\ A}{d}\\)\n\n10-2 x 10-6 = \\(\\frac {9 \\times 10 ^{-12}}{d}\\) x 10-4\n\n= 9 x 10-7m"
+    },
+    "text": "A parallel plate capacitor of area 10cm2 in vacuum has a capacitance of 10-2\\(\\mu\\)F. What is the distance between the plates?(e = 9 x 10-12fm)",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9 x 10-13m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9 x 10-7m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9 x 10-3m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9 x 107m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nP = \\(\\frac{V}{R}\\) \n\nV = \\(\\sqrt{PR}\\)\n\nV = \\(\\sqrt{40 \\times 90}\\)\n\n= 60V"
+    },
+    "text": "A 40-W instrument has a resistance of 90\\(\\Omega\\). On what voltage should it be operated normally?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60V",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n150V",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n225V",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3600V",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAn induction coil is a\u00a0transformer for producing high-voltage alternating current from a low-voltage direct current, consisting essentially of two concentric coils with a common soft-iron core, a primary coil with relatively few windings of heavy wire, and a secondary coil with many turns of fine wire. Excitation of the primary coil by rapidly interrupted or variable current induces high voltage in the secondary coil."
+    },
+    "text": "Which of the following devices may be used to step up the voltage in a d.c. circuit?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na step-up transformer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na d.c. generator",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na wattmeter",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nan induction coil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The primary aim in high tension transmission is to",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nminimize electrical energy losses due to heat production",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincrease the rate of energy transfer by using high voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincrease the current in the wire",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngenerate electricity at high current and low voltage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nXL = 2\\(\\pi\\)FL\n\n= 2 x 3.142 x 30 x 10-3 x 1.3 x 103\n\n= 245\\(\\Omega\\)"
+    },
+    "text": "Determine the inductive reactance when a 30.0mH inductor with a negligible resistance is connected to a 1.3 x 103Hz oscillator.",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n39.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n122.5\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n245.0\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n39000.0\\(\\Omega\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following statements correctly describe(s) cathode rays? i. they consist of tiny particles carrying negative electric charges. ii. they are deflected in a magnetic field but not in an electric field. iii. they consist of fast moving neutrons and deflected in an electric field.",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Natural radioactivity is the random spontaneous disintegration of the nuclei of heavy isotopes of certain elements with the emission of",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\alpha\\), X, and \\( \\beta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\alpha\\), \\(\\beta\\) and \\(\\gamma\\)-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nX, \\(\\alpha\\), \\(\\gamma\\)-ray",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\alpha\\), \\( \\beta\\) and X-rays",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following are produced after a nuclear fusion process? i. one heavy nucleus. ii. neutrons-1. iii. protons. iv. Energy.",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni and ii",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ni and iv",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nii and iii",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii and iv",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(^{226}_{88}X\\) \\(\\to\\) \\((^{0}_{-1}e)\\) + \\(^{4}_{2}\\alpha\\) + \\(^{b}_{a}X\\)\n\na + 2 + (-2) = 88 a \\(\\Rightarrow\\) a = 88\n\nb + 4 + 0 = 266 b \\(\\Rightarrow\\) b = 222"
+    },
+    "text": "An element X of an atomic number 88 and mass number 226 decays to form an element Z by emitting two beta particles and an alpha particle. Z is represented by",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(^{222}_{82}Z\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(^{222}_{88}Z\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(^{226}_{86}Z\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(^{226}_{80}Z\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The kinetic theory of photoelectron liberated from a metallic surface depends on the",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nintensity of the incident radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntime duration of the incident radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntemperature of the incident radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nfrequency of the incident radiation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTotal Distance covered is the Area of the Trapezium\nArea of the Trapezium = \\(\\frac{1}{2}\\) X ( sum of parallel sides ) X height\n=\u00a0 \\(\\frac{1}{2}\\) X ( 30 + 45 ) X 10\n: S = 375m"
+    },
+    "text": "The diagram above shows a velocity time graph representing the motion of a car. Find the total distance covered during the acceleration and retardation of the motion",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n75m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n150m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n300m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n375m",
+        "imageUrl": "https://myschool.ng/storage/classroom/8751917622_1993.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the fig above,A lever of length 200m is used to lift a load of mass 180kg. The pivot at P is 20m from the load. what minimum force F must be applied at the end of the lever [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n18N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n20N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n200N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24797106967_19930002.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Two mirrors M1 and M2 are inclined at right angles as shown above calculate the angle of reflection of the ray of light at M2",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\( 30^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n\\( 45^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\\( 60^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n\\( 90^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714417925_19930004.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The current I in the fig above is",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.00A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n1.30A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n0.80A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n0.75A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27714419521_19930005.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the network shown above, determine the potential difference across the 5\u00b5F capacitor",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n6V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n12V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n18V",
+        "imageUrl": "https://myschool.ng/storage/classroom/17503846464_19930006.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1993
+  }
+]

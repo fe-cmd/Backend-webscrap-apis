@@ -1,0 +1,1601 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nLet the total score for the girls and the boys be A and B respectively.\n\\(\\frac{A}{20} = 52 \\implies A = 52 \\times 20\\)\nA = 1040\n\\(\\frac{B}{y} = 57 \\implies B = 57y\\)\n1040 + 57y = 2750\n57y = 2750 - 1040\n57y = 1710\ny = \\(\\frac{1710}{57}\\)\ny = 30"
+    },
+    "text": "Twenty girls and y boys sat on an examination. The mean marks obtained by the girls and boys were 52 and 57 respectively. if the total score for both girls and boys was 2750, find y.",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n51",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n48",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n18",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A sector of angle 120\u00b0 is cut out from a circle of radius 13.5cm. what area of the circle is remaining ? (\u03c0 = \\(\\frac{22}{7}\\))",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n14.1cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n95.5cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n190.9cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n381.9cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n763.7cm2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Two ladders of length 5m and 7m lean against a pole and make angles 45\u00b0 and 60\u00b0 with the ground respectively. What is their distance apart on the pole correct to two decimal places?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9.60m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.06m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.54m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.53m",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n2.00m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The chances of Usman and Dele passing a Mathematics test are 12 and 13 respectively. What is the probability that neither of them passes the test?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{3}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{2}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{4}{15}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{1}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n\\(\\frac{2}{15}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "x varies directly as y and inversely as z. when x = 5, y = 2 and z = 1. What is the value of x when y = 5 and z = 2?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.25",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.52",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n7.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Find the mean deviation of 20, 25, 21, 27, 28, 29, to the nearest whole number",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Calculate the area of a parallelogram whose diagonals are of length 8cm and 12cm and intersect at an angle of 135\u00b0",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n271.5cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n135.8cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n96.0cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n48.0cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n33.9cm2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The ratio of the base area of a hollow cone to that of its curved surface is 1:4. If its base radius is 7cm, calculate the slant height of the cone",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n22cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n28cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n49cm",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n154cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Increase 135 in the ratio 3:5",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n225",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n216",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n143",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n140",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n140",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nx\\(^2\\) + y\\(^2\\) + k\u00a0= 60\n(\u221a10)\\(^2\\) + (4)\\(^2\\) + k = 60\nk + 10 + 16\u00a0= 60\nk =\u00a0 60 - 26\nk = 34"
+    },
+    "text": "Given that x2 + y2 + k = 60 and x = \\(\\sqrt{10}\\) when y = 4, find the value of k.",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n56",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n34",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n32",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-34",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n-56",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Find y if sin y = cos 48\u00b0",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n21\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n24\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n42\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n48\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n102\u00b0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nWHERE:\n\\(Log_{4}16\\) = 2\n\\(Log_{3}27\\) = 3\n\\(Log_{8}4096\\) = 4\n: 2 + 3 + 4 = 9"
+    },
+    "text": "Simplify the expression:\u00a0 \\(Log_{4}16\\) +\u00a0 \\(Log_{3}27\\) + \\(Log_{8}4096\\)",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-9",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{1}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{9}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n9",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The radii of two similar cylindrical jugs are in the ratio 3:7. Calculate the ratio of their volumes",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1 : 04",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 : 07",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9 : 49",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.086111111",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n27 : 343",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A man travels at a rate of 25m/sec. If he travels for 10\u00bdhrs, how many kilometres has he covered?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n262.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n945",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n970",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n995",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n1822.9",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The ages of Abu, Segun, Kofi and Funmi are 17 years, (2x -13) years, 14 years and 16 years respectively. What is the value of x if their mean ages is 17.5 years?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n18",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n23",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n25",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n36",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n70",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "2 bags of sugar at Nx per bag are mixed with 3 bags of sugar at Ny per bag. What is the cost in N of the mixture per bag?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{(2x + 3y)}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{(x + y)}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{x}{2} +\\frac{y}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{(x + y)}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n\\(\\frac{(3x + 2y)}{5}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The ages of 10 students in a class are; 15, 16, 15.5, 17, 14.9, 14.5, 14.1, 15.1, 14.8. find the range of their ages.",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.9",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.1",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n1.9",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the 3rd and the 5th terms of an A.P are 6 and 10 respectively, find the 1st term and the common difference respectively.",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1, 2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2, 2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2, 3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3, 2",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n3,3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A pair of shoes was sold for N2,250.00 at a loss of 10%. What was the cost price?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN750.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN2,500.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN2,538.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN3,288.00",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nN4,038.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Find the coefficient of xy in the expansion of (x - 4y)(3x + 2y)",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n14",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n12",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-10",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n-12",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following angular inequalities defines an obtuse angle?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0\u00b0 < x < 90\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0\u00b0 \u2264 x > 180\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n90\u00b0 < x < 180\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n90\u00b0 \u2264 x < 180\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n90\u00b0 > x < 180\u00b0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If y + \\(\\frac{1}{y}\\) = 9, evaluate y2 + \\(\\frac{1}{y^2}\\)",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n27",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n38",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n54",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n63",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n79",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If N25,000.00 is kept in a bank at the rate of 2% simple interest, how much will it amount to at the end of 5 years?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN2,500.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN5,000.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN12,500.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN27,500.00",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nN125,000.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Construct a quadratic equation whose roots are -\\(\\frac{3}{2}\\) and 7",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3x2 + 11x + 21 = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2x2 + 11x + 21 = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2x2 - 11x \u2013 21 = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3x2 - 11x - 21 = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nx2 - 11x \u2013 21 = 0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A chord XY of a circle with centre O and radius 5.32cm has \u2220XOY = 140\u00b0. What is the length of the chord to the nearest centimetre?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3cm",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n1cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Rationalize the expression \\(\\frac{(7 - \\sqrt{3})}{(13 - \\sqrt{3})}\\)",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(44 + 3\\(\\sqrt{3}\\)) \u00f7 83",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(44 + 2\\(\\sqrt{3}\\)) \u00f7 83",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(44 - 3\\(\\sqrt{3}\\)) \u00f7 83",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(44 - 4\\(\\sqrt{3}\\)) \u00f7 83",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n(44 - 2\\(\\sqrt{3}\\)) \u00f7 83",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In proving the congruence of two triangles, which of the following is not important?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntwo sides and the included angles",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntwo angles and a side",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthree sides",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthree angles",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nright angle, hypotenuse and another side",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Bello chooses a number randomly from 1 to 10. What is the probability that it is either odd or prime?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{2}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{3}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n\\(\\frac{9}{10}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If tan \u03b1 = \\(\\frac{1}{2}\\) and tan \u03b2 = \\(\\frac{1}{3}\\) and both \u03b1 and \u03b2 are acute, find tan (\u03b1 + \u03b2).",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.015",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n39.81",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n45",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Multiply (3\\(\\sqrt{a}\\) - 4a) by (4a + 3\\(\\sqrt{a}\\))",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9a + 16a2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9a \u2013 16a2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3a + 16a2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3a - 16a2",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\na - 16a2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The median of a distribution can be estimated from",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBarchart",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCumulative frequency curve",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nFrequency polygon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPictorial",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nPie chart",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If A = \\(\\frac{1}{2}\\)h (a + b), make \u2018a\u2019 the subject of the formula",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(2A \u2013 2bh) \u00f7 b",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(2A \u2013 bh) \u00f7 h",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(2A \u2013 bh) \u00f7 b",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(A \u2013 2bh) \u00f7 h",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n(2A \u2013 h) \u00f7 bh",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The graph of cumulative frequency distribution is known as",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nan ogive",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na histogram",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na frequency polygon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrelative frequency",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nnone",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "T varies inversely as the square root of F when T = 7, F = 2\\(\\frac{1}{4}\\). Find T when F = \\(\\frac{27}{9}\\)",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12.6",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n21",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Evaluate (25 \u00d7 4-2) \u00f7 (2-3 \u00d7 26)",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{8}{9}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If 5x - 3 = 4x - 7, what is the value 6x?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n24",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-4",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n-24",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "which of the following properties is/are common to parallelograms and rectangles?\nI. all angles are right angles\nII. the diagonals are equals. \nIII. the opposite sides are equal and parallel.",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI and II",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI and III",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nII and III",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nI",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nIII",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "P = {x:(x - 2)(x + 3) (x - 4)(x + 5) = 0}. The elements in P are",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5,-2, 3, 4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-5, -3, 2, 4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-5, -3, -2,4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-4, -3, -2, 5",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n2, 3, 4, 5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Find the value of log\\(_{\\sqrt{3}}\\) 81",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n81",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n\\(\\sqrt{3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "FURTHER MATHEMATICS",
+    "type": "NECO",
+    "year": 2008
+  }
+]

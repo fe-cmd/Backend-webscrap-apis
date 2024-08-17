@@ -1,0 +1,1437 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nInsulin helps control blood glucose levels by signaling the liver and muscle and fat cells to take in glucose from the blood.\nThere is an explanation video available below."
+    },
+    "text": "The hormone which regulates the amount of glucose in the blood is called?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Adrenalin",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Auxin",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Insulin",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Thyroxine",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nDeamination is used to break down amino acids for energy, and occurs primarily in the liver.\nThere is an explanation video available below."
+    },
+    "text": "Deamination occurs in the?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Kidney",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Pancreas",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Spleen",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Liver",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe living components of an ecosystem are called the biotic components, option A has all living components.\nThere is an explanation video available below."
+    },
+    "text": "In an agricultural ecosystem, the biotic component consist of",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            crops, pests and beneficial insects",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            crops, temperature and humidity",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            pests, beneficial insects and water",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            crops, water and soil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCommensalism is a type of symbiosis, specifically, a biological relationship in which one specie benefits from an interaction, while the host species is neither positively or negatively affected to any tangible degree.\nThere is an explanation video available below."
+    },
+    "text": "Epiphytes growing on the branches of trees provide an example of the relationship known as?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            parasitism",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            commensalism",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            saprophytism",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            holophytism",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHyphae that have walls between the cells are called septate hyphae; hyphae that lack walls and cell membranes between the cells are called nonseptate or coenocytic hyphae)\nThere is an explanation video available below."
+    },
+    "text": "The hypha of rhizopus is said to be non-septate because it",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            does not contain chloropyll",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            has no cross wall",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            is vacuoled",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            stores oil globus",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nA ribosome is a cell organelle. It functions as a micro-machine for making proteins.\nThere is an explanation video available below."
+    },
+    "text": "The function of ribosome in cells is",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            protein synthesis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            starch synthesis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            transport of material",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            lipid storage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nExternal fertilization is a mode of reproduction in which a male organism's sperm fertilizes a female organism's egg outside of the female's body. Many fish, amphibians, and other sexual aquatic animals use external fertilization (the exceptions are aquatic mammals, sharks, and some other special types of fish).\nThere is an explanation video available below."
+    },
+    "text": "In which of the following does external fertilization take place?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            toad",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            lizard",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            bird",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            cockroach",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nVillis are specialized for absorption in the small intestine as they have a thin wall, one cell thick, which enables a shorter diffusion path.\nThere is an explanation video available below."
+    },
+    "text": "The villus in the small intestine is significant because",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Increases the surface area for absorption",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            increases the surface area for digestion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            assists in mixing digested food",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            assists in filtering undigested food",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nButterflies are important pollinators to most agricultural crops.\nThere is an explanation video available below."
+    },
+    "text": "The butterfly is of great economic importance because",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            of it's use in scientific studies",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            it sucks nectar from flowers",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            it adds to the beauty of the environment",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            it pollinates flowers of crops and other plants",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe males display their beautiful fanned trains as part of their courtship behaviour to the Peahens.\nThere is an explanation video available below."
+    },
+    "text": "The bright colours of the comb and feathers in the peacock are for?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            sex differentiation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            beauty",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            courtship",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            defence",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAn ecosystem consists of all the biotic and abiotic factors that influence that community.\nThere is an explanation video available below."
+    },
+    "text": "What is the term used to describe biotic and abiotic factors in the environment of the organism?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            habitat",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            biome",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            ecosystem",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            ecological niche",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCommon abiotic factors are atmosphere, chemical elements, sunlight/temperature, wind and water, all other options are instrument used to measure these apart from microscope which can be used to observe small objects, even cells.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following instruments is NOT used in measuring abiotic factors in any habitat?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            microscope",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            hygrometer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            windvane",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The smallest living organism which share the characteristics of both living and non-living matter are",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            bacteria",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            fungi",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            viruses",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            protozoa",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nYour body normally destroys old or faulty red blood cells in the spleen or other parts of your body through a process called hemolysis\nThere is an explanation video available below."
+    },
+    "text": "The process by which a red blood cell placed in distilled water absorbs water until it burst and realease it's content into the surrounding is known as",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            osmosis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            plasmolysis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            turgidity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            hemolysis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe waste products of a plant are carbon dioxide, water vapour and oxygen.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following waste products in plants is excreted through the stomata and lenticles?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            carbon dioxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            alkaloids",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            tannins",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            anthoocyanins",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the diagram to answer the question",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": "https://myschool.ng/storage/classroom/KKjkSE2g84UjOorrok3YPsQVsa4MygTJKqZYVB26.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            lumber",
+        "imageUrl": "https://myschool.ng/storage/classroom/KKjkSE2g84UjOorrok3YPsQVsa4MygTJKqZYVB26.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            thoracic",
+        "imageUrl": "https://myschool.ng/storage/classroom/KKjkSE2g84UjOorrok3YPsQVsa4MygTJKqZYVB26.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            caudal",
+        "imageUrl": "https://myschool.ng/storage/classroom/KKjkSE2g84UjOorrok3YPsQVsa4MygTJKqZYVB26.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            cervical",
+        "imageUrl": "https://myschool.ng/storage/classroom/KKjkSE2g84UjOorrok3YPsQVsa4MygTJKqZYVB26.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the diagram to answer the question",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": "https://myschool.ng/storage/classroom/eAvDjWwAjyEh0FbCPSN1AilyuvBTBBnCpMfqroM3.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            i",
+        "imageUrl": "https://myschool.ng/storage/classroom/eAvDjWwAjyEh0FbCPSN1AilyuvBTBBnCpMfqroM3.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            ii",
+        "imageUrl": "https://myschool.ng/storage/classroom/eAvDjWwAjyEh0FbCPSN1AilyuvBTBBnCpMfqroM3.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            iii",
+        "imageUrl": "https://myschool.ng/storage/classroom/eAvDjWwAjyEh0FbCPSN1AilyuvBTBBnCpMfqroM3.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            iv",
+        "imageUrl": "https://myschool.ng/storage/classroom/eAvDjWwAjyEh0FbCPSN1AilyuvBTBBnCpMfqroM3.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNephridia remove metabolic wastes from an animal's body. Nephridia come in two basic categories: metanephridia and protonephridia.\nThere is an explanation video available below."
+    },
+    "text": "The excretory structure in the earthworm is the",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            malphighian tubule",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            flame cell",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            nephridium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            kidney",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAmphibians utilize gills for breathing early in life, and develop primitive lungs in their adult life; additionally, they are able to breathe through their skin.\nThere is an explanation video available below."
+    },
+    "text": "In which of the following vertebrates does the skin function as a respiratory surface",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            rat",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            lizard",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            fish",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            frog",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nCoordination of voluntary movements. Most movements are composed of a number of different muscle groups acting together in a temporally coordinated fashion. One major function of the cerebellum is to coordinate the timing and force of these different muscle groups to produce fluid limb or body movements.\nThere is an explanation video available below."
+    },
+    "text": "The process of walking is under the control of the part of the brain called",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            optic lobe",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            olfactory lobe",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            cerebellum",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            medulla oblongata",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe ability of the eye to focus distant as well as nearby objects clearly on the retina of the eye is called accommodation. When our eyes see distant objects then the ciliary muscles relax and the focal length is maximum in this position.\nThere is an explanation video available below."
+    },
+    "text": "The ability of the eyes to focus on both near and distance objects is termed",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            image formation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            refraction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            hypermetropia",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            accommodation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA community is formed by populations of different species living together and interacting with each other. A community forms an ecosystem by its interaction with the abiotic environment.\nThere is an explanation video available below."
+    },
+    "text": "A group of organism of different species living in a particular area is described as a",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            colony",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            community",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            population",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            niche",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\ncompetition between species in a particular habitat is a biotic factor of ecological primary succession.\nThere is an explanation video available below."
+    },
+    "text": "The biological association that contributes directly to succession in a community is",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            competition",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            predation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            parasitism",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            commensalism",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPhytoplankton are microscopic marine organisms that sit at the bottom of the food chain, most phytoplankton are buoyant and float in the upper part of the ocean. However, they are not heterotrophic like the zooplanktons.\nmicrobes are living organisms around us that we can't see with our naked eyes.\nnektons are organisms that are able to swim and move independently of current.\nThere is an explanation video available below."
+    },
+    "text": "Floating microscopic heterotrophs are mostly grouped as",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            phytoplankton",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            zooplankton",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            microbes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            nekton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Vaccination is carried out in order to",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            check the production of poison",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            increase the activities of white blood cells",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            increase the number of red blood cells",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            stimulate the production of anti-bodies",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAnabolism centers around growth and building the organization of molecules. In this process, small, simple molecules are built up into larger, more complex ones while Catabolism is what happens when you digest food and the molecules break down in the body for use as energy.\nThere is an explanation video available below."
+    },
+    "text": "For growth to occur in organisms, the rate of",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            anabolism must exceed that of catabolism",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            catabolism must exceed that of anabolism",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            food storage must be low",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            food storage must be high",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The probability of a baby being a boy or a girl depends on the contribution of the",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            father's sex cells",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            father's stomatic chromosome",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            mother's sex cell",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            mother's X-chromosome",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Both recesssive and dominant characters are found",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            on different chromosome in the cell",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            at the same logus of a homologous chromosome",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            at a different loci of a homologous chromosome",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            on the same chromatid in a chromosome",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In a population of living things, the parameters of size, height, weight and colours are examples\u00a0of",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            continuous variation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            non-heritable variation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            discontinuous variation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            physiological variation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the diagram to answer the question.",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": "https://myschool.ng/storage/classroom/6aC3qS7VdVhWzkm79Op7uAB0xu79DvqqRs38zOMJ.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            evaporation and osmosis",
+        "imageUrl": "https://myschool.ng/storage/classroom/6aC3qS7VdVhWzkm79Op7uAB0xu79DvqqRs38zOMJ.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            osmosis and exhalation",
+        "imageUrl": "https://myschool.ng/storage/classroom/6aC3qS7VdVhWzkm79Op7uAB0xu79DvqqRs38zOMJ.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            osmosis and diffusion",
+        "imageUrl": "https://myschool.ng/storage/classroom/6aC3qS7VdVhWzkm79Op7uAB0xu79DvqqRs38zOMJ.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            urination and diffusion",
+        "imageUrl": "https://myschool.ng/storage/classroom/6aC3qS7VdVhWzkm79Op7uAB0xu79DvqqRs38zOMJ.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The noticeable adaptation of the animal to it's aquatic habitat is the possession of",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            webbed digits",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            four limb",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            wide mouth",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            large eyes",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Paternity disputes can most accurately be resolved through the use of",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            blood group typing",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            finger printing",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            tongue rolling",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            DNA Analysis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the table below to answer the question.",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": "https://myschool.ng/storage/classroom/MTXU2CpguFZAMcxjFrJKfL1ZqWshfdqFdO8WOjwQ.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            ii and iv",
+        "imageUrl": "https://myschool.ng/storage/classroom/MTXU2CpguFZAMcxjFrJKfL1ZqWshfdqFdO8WOjwQ.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            ii and iii",
+        "imageUrl": "https://myschool.ng/storage/classroom/MTXU2CpguFZAMcxjFrJKfL1ZqWshfdqFdO8WOjwQ.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            i and iii",
+        "imageUrl": "https://myschool.ng/storage/classroom/MTXU2CpguFZAMcxjFrJKfL1ZqWshfdqFdO8WOjwQ.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            i and iv",
+        "imageUrl": "https://myschool.ng/storage/classroom/MTXU2CpguFZAMcxjFrJKfL1ZqWshfdqFdO8WOjwQ.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the table to answer the question.",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": "https://myschool.ng/storage/classroom/N3NBvB9P7V0d4QT1bibIFBgWiiYQySnXKlcmOYab.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            i",
+        "imageUrl": "https://myschool.ng/storage/classroom/N3NBvB9P7V0d4QT1bibIFBgWiiYQySnXKlcmOYab.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            ii",
+        "imageUrl": "https://myschool.ng/storage/classroom/N3NBvB9P7V0d4QT1bibIFBgWiiYQySnXKlcmOYab.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            iii",
+        "imageUrl": "https://myschool.ng/storage/classroom/N3NBvB9P7V0d4QT1bibIFBgWiiYQySnXKlcmOYab.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            iv",
+        "imageUrl": "https://myschool.ng/storage/classroom/N3NBvB9P7V0d4QT1bibIFBgWiiYQySnXKlcmOYab.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "When bacteria swim from cold to warm regions, this is known as",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            positive phototaxis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            negative phototaxis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            positive thermotaxis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            negative chemotaxis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The only caste in the termite colony whose members can feed themselves are the",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            workers",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            reproductives",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            soldiers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            nymphs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following is the best explanation for a child who is phenotypically short and born of two tall parents",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            both parent possess genes for shortness",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            the father possess a gene for shortness",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            nature makes the child short",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following vertebrates has the most simple structured heart",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            reptile",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            fish",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            mammal",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Amphibian",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the diagram to answer the question.",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/wmMo2ZR02p8Ktl0lXpkEy3VUGDx01YZTjayQ3XI3.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            disruptive colouration",
+        "imageUrl": "https://myschool.ng/storage/classroom/wmMo2ZR02p8Ktl0lXpkEy3VUGDx01YZTjayQ3XI3.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            flash colouration",
+        "imageUrl": "https://myschool.ng/storage/classroom/wmMo2ZR02p8Ktl0lXpkEy3VUGDx01YZTjayQ3XI3.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            countershading colouration",
+        "imageUrl": "https://myschool.ng/storage/classroom/wmMo2ZR02p8Ktl0lXpkEy3VUGDx01YZTjayQ3XI3.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            warning colouration",
+        "imageUrl": "https://myschool.ng/storage/classroom/wmMo2ZR02p8Ktl0lXpkEy3VUGDx01YZTjayQ3XI3.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Use the diagram to answer the question.",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": "https://myschool.ng/storage/classroom/rBWCYuXgXPuRFpfiYvKbLVeNpU9J1OE4SbLIjH7y.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            photosensitive",
+        "imageUrl": "https://myschool.ng/storage/classroom/rBWCYuXgXPuRFpfiYvKbLVeNpU9J1OE4SbLIjH7y.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            radiosensitive",
+        "imageUrl": "https://myschool.ng/storage/classroom/rBWCYuXgXPuRFpfiYvKbLVeNpU9J1OE4SbLIjH7y.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            chemoreceptive",
+        "imageUrl": "https://myschool.ng/storage/classroom/rBWCYuXgXPuRFpfiYvKbLVeNpU9J1OE4SbLIjH7y.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            tactile",
+        "imageUrl": "https://myschool.ng/storage/classroom/rBWCYuXgXPuRFpfiYvKbLVeNpU9J1OE4SbLIjH7y.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "JAMB",
+    "year": 2020
+  }
+]

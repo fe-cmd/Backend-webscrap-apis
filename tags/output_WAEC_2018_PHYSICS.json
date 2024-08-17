@@ -1,0 +1,144 @@
+[
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "D",
+    "imageUrl": "https://nigerianscholars.com/assets/uploads/2017/03/physics-magnet2-1.jpg",
+    "text": "Two magnets are used to magnetize a soft iron bar PQ as illustrated in the diagram given. The correct polarity at P and Q respectively",
+    "explanation": "When a soft iron bar, like PQ in the diagram, is placed near two magnets, it gets magnetized by a process called magnetic induction. In this case, the north pole of the first magnet is facing point P and the south pole of the second magnet is facing point Q.During the magnetic induction process, the soft iron bar will develop the opposite polarity at the end closest to each magnet. This means that at point P, which is closest to the north pole of the first magnet, a south pole will be induced. Similarly, at point Q, which is closest to the south pole of the second magnet, a north pole will be induced.Therefore, the correct polarity at P and Q is Option D: N and S.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "In storing magnets, keepers are used to",
+    "explanation": "A magnet keeper, also known historically as an armature, is a paramagnetic bar made from soft iron or steel, which is placed across the poles of a permanent magnet to help preserve the strength of the magnet by completing the magnetic circuit.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "A \\(10\\mu \\mathrm{C}\\) charge moves with a velocity of \\(1.0 \\times 10^5 ms^{-1}\\) at right angle to a uniform magnetic field of flux density \\(5.0 \\times 10^{-4}T.\\) Calculate the force on the charge.",
+    "explanation": "To calculate the force on a charge moving in a magnetic field, we can use the formula:\\(F = qvB \\sin \\theta\\)Where \\(F\\) is the force, \\(q\\) is the charge, \\(v\\) is the velocity of the charge, \\(B\\) is the magnetic flux density, and \\(\\theta\\) is the angle between the velocity and the magnetic field. In this case, the charge is moving at a right angle to the magnetic field, so \\(\\theta = 90^{\\circ}\\), and \\(\\sin \\theta = 1\\). Thus, the formula becomes:\\(F = qvB\\)Now, we can plug in the given values:\\(q = 10\\mu \\mathrm{C} = 10 \\times 10^{-6} \\mathrm{C}\\)\\(v = 1.0 \\times 10^5 \\mathrm{ms^{-1}}\\)\\(B = 5.0 \\times 10^{-4} \\mathrm{T}\\)Substituting these into the formula, we get:\\(F = (10 \\times 10^{-6} \\mathrm{C}) \\times (1.0 \\times 10^5 \\mathrm{ms^{-1}}) \\times (5.0 \\times 10^{-4} \\mathrm{T})\\)Multiplying the values, we obtain:\\(F = 5.0 \\times 10^{-4} \\mathrm{N}\\)Thus, the force on the charge is \\(5.0 \\times 10^{-4} \\mathrm{N}\\), which corresponds to Option B. The other options are incorrect because they do not result from the proper application of the formula and given values.",
+    "options": [
+      {
+        "option": "A",
+        "text": "(10\\mu \\mathrm{C}\\) charge moves with a velocity of \\(1.0 \\times 10^5 ms^{-1}\\) at right angle to a uniform magnetic field of flux density \\(5.0 \\times 10^{-4}T.\\) Calculate the force on the charge.",
+        "imageUrl": null
+      }
+    ],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "Which of the following statements is not correct about steel and soft iron?",
+    "explanation": "Option A is not correct because steel does not generally become more magnetized than soft iron. In fact, it is soft iron that can be more readily magnetized and demagnetized than steel. Soft iron has a high permeability and low coercivity, which means it can be easily magnetized and demagnetized under external magnetic fields.Option B is correct because permanent magnets are usually made of steel or other similar materials with high coercivity, meaning they can maintain their magnetism over time. Option C is correct because soft iron is more readily magnetized due to its high permeability and ability to align its domains to an external magnetic field with ease. Option D is also correct because soft iron loses its magnetism more quickly than steel, as it realigns its domains with little or no external magnetic field.So, the statement that is not correct about steel and soft iron is option A: steel is more magnetized than soft iron.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "What determines the polarity at the ends of an electromagnet? The",
+    "explanation": null,
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "How many beta particle(s) are emitted in the radioactive decay of \\(^{198}_{79} \\mathrm{Au} \\leftarrow ^{198}_{80} \\mathrm{Hg}\\)?",
+    "explanation": "A beta particle forms when a neutron changes into a proton and a high-energy electron. The proton stays in the nucleus but the electron leaves the atom as a beta particle. When a nucleus emits a beta particle, these changes happen:the mass number stays the samethe atomic number increases by 1the nuclear charge increases by 1NB: Usually gold is created from platinum, which has one less proton than gold, or from mercury, which has one more proton than gold. Bombarding a platinum or mercury nucleus with neutrons can knock off an neutron or add on a neutron, which through natural radioactive decay can lead to gold.",
+    "options": [
+      {
+        "option": "H",
+        "text": " many beta particle(s) are emitted in the radioactive decay of \\(^{198}_{79} \\mathrm{Au} \\leftarrow ^{198}_{80} \\mathrm{Hg}\\)?",
+        "imageUrl": null
+      }
+    ],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "The phenomenon by which two light atomic nuclear combine to form a heavy nuclide with the release of energy is known as",
+    "explanation": "Nuclear fusion is a nuclear reaction in which atomic nuclei of low atomic number fuse to form a heavier nucleus with the release of energy.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "In a p-type semiconductor, the",
+    "explanation": "A p-type semiconductor is a type of semiconductor material that has been doped with impurities that introduce an excess of 'holes.' Holes are locations in the material where an electron is missing, and they can be thought of as positive charge carriers. The process of adding impurities to a semiconductor is called doping, and the impurities themselves are called dopants.In a p-type semiconductor, the correct answer is that holes are the majority charge carriers (Option D). This is because the dopants added to the material have one less electron in their outer shell compared to the semiconductor atoms. As a result, they create an excess of holes in the material, making holes the majority charge carriers.It's important to note that the other options are not accurate for a p-type semiconductor. In Option A, the number of holes is not equal to the number of electrons; there are more holes than electrons. In Option B, the electrical resistivity does not necessarily increase; doping can reduce the overall resistivity of the material because it increases the number of available charge carriers. And in Option C, electrons are not the majority charge carriers in a p-type semiconductor; they are the majority charge carriers in an n-type semiconductor, which is doped with different impurities.To summarize, in a p-type semiconductor, holes are the majority charge carriers due to the presence of dopants that introduce an excess of holes in the material.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "Let \u0394x be the uncertainty in the measurements of position and \u0394p the uncertainty in measurement of momentum. The uncertainty principle relation is given as",
+    "explanation": "Uncertainty principle, also called Heisenberg uncertainty principle or indeterminacy principle, statement, articulated (1927) by the German physicist Werner Heisenberg, that the position and the velocity of an object cannot both be measured exactly, at the same time, even in theory. The very concepts of exact position and exact velocity together, in fact, have no meaning in nature.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Two objects of masses 80kg and 50kg are separated by a distance of 0.2m. If the gravitational constant is 6.6 x 10\n-11\nNm kg, calculate the gravitational attraction between them.",
+    "explanation": "F = \\(\\frac{Gm_1m_2}{r^2} = \\frac{6.6 \\times 10^{-11} \\times 80 \\times 50}{0.2 \\times 0.2}\\)= 6.6 \u00d7 10-6N",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "WAEC",
+    "year": "2018"
+  }
+]

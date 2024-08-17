@@ -1,0 +1,342 @@
+[
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "An unfavourable balance of trade for a country means that her?",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "exports exceed imports",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "visible exports exceed invisible import",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "invisible exports exceed visible exports",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "imports and exports are equal",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "A chain store is known as?",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "department store",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "multiple store",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "supermarket",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "hypermarket",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "The source document used to make entries in the purchase day book is",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "debt note",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "credit note",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "invoice",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "receipt",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A book that contains individual accounts of suppliers is the",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "purchase ledger",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "general ledger",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "nominal ledger",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "sales ledger",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "In the operation of an imprest of petty cash, the",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "petty cashier pays all expenses",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "petty cashier pays money to the accuntant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "petty cashier regularly begins each period with the same amount of money",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "main cashier accounts to the petty cashier for some experiences made by him",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "An example pf a credit entry in a profit and loss account is",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "carriage inwards",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "carriage outwards",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "discounts allowed",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "discounts received",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Which of the following subsidiary books involves cash movements?",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "sales day book",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "purchases day book",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "returns inwards book",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "petty cash book",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "The accounting treatment for a dishonored cheque is; debt",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "customer's account; credit bank account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "bank account; credit customer's account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "customer's account; credit sales account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "sales account; credit customer account",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "Net turnover is referred to as",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "purchases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "assets",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "sales",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "profits",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "Which of the following transactions will result in disagreement between the cash book and the bank statements?",
+    "explanation": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "selling of goods on credit to a customer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "withdrawal of goods by the proprietor for his personel use",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "cheque paid directly into the bank account by a customer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "omission of purchase of purchases received from a supplier on credit",
+        "imageUrl": null
+      }
+    ],
+    "subject": "ACCOUNTS",
+    "type": "WAEC",
+    "year": "2017"
+  }
+]

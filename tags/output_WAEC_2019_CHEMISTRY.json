@@ -1,0 +1,323 @@
+[
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The minimum amount of energy required for effective collisions between reacting particles is known as",
+    "explanation": "The correct answer is Activation energy.Activation energy is the minimum amount of energy required for a chemical reaction to occur between reacting particles. It is necessary because molecules need to overcome a certain energy barrier to break existing bonds and form new ones during a reaction.Bond energy, on the other hand, is the energy required to break a particular chemical bond between atoms in a molecule, and it is not directly related to the energy needed for a reaction to occur.Kinetic energy is the energy possessed by an object due to its motion, and while it plays a role in chemical reactions, it is not the minimum energy required for effective collisions between reacting particles.Potential energy is stored energy in an object due to its position, and it also does not directly relate to the energy needed for a reaction to occur.In summary, activation energy is the minimum amount of energy required for effective collisions between reacting particles, which is necessary to initiate a chemical reaction.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The bond formed between \\(\\text{H}_2\\text{O}\\) and \\(\\text{H}^+\\) to form the hydroxonium \\(\\text{H}_3\\text{O}^+\\) is",
+    "explanation": "In order to understand the bond formed between \\(\\text{H}_2\\text{O}\\) (water) and \\(\\text{H}^+\\) (a hydrogen ion) to form the hydroxonium ion (\\(\\text{H}_3\\text{O}^+\\)), let's first take a look at the different types of chemical bonds:1. Covalent bond: This bond is formed when two atoms share a pair of electrons. Both atoms contribute one electron each to the shared pair.2. Ionic bond (Electrovalent bond): This bond is formed when one atom transfers one or more electrons to another atom, resulting in the formation of oppositely charged ions that are attracted to each other.3. Dative bond (Coordinate covalent bond): This bond is formed when one atom donates a pair of electrons to another atom, without the receiving atom contributing any electrons to the bond.In the case of the hydroxonium ion formation, a water molecule (\\(\\text{H}_2\\text{O}\\)) donates a pair of electrons to the hydrogen ion (\\(\\text{H}^+\\)). Since the hydrogen ion does not contribute any electrons to the bond, the bond formed is a dative bond. Thus, the correct answer is Option A: Dative.",
+    "options": [
+      {
+        "option": "T",
+        "text": " bond formed between \\(\\text{H}_2\\text{O}\\) and \\(\\text{H}^+\\) to form the hydroxonium \\(\\text{H}_3\\text{O}^+\\) is",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "An element \\(\\text{X}\\) forms the following oxides \\(\\text{X}_2\\text{O}, \\text{XO}\\) and \\(\\text{XO}_2.\\) This phenomenon illustrates the law of ________.",
+    "explanation": "The question is asking about the law that is illustrated by the formation of the oxides of an element X. The three oxides are X2O, XO, and XO2. The options to choose from are conservation of mass, definite proportion, mass action, and multiple proportion.The law of definite proportion states that in any given chemical compound, the elements are always present in the same proportion by mass. This law doesn't apply here because the compounds being referred to are not necessarily the same compound, but different oxides of the same element.The law of conservation of mass states that mass cannot be created or destroyed in a chemical reaction, but it is conserved. This law doesn't apply here because no chemical reaction is mentioned, just the formation of different oxides.The law of mass action describes the way that the rate of a chemical reaction is proportional to the concentrations of the reactants. This law doesn't apply here because there is no mention of a chemical reaction or reaction rate.The correct answer is the law of multiple proportion. This law states that when two elements form different compounds, the ratio of the masses of one element that combine with a fixed mass of the other element is in small whole numbers. This law is illustrated in this question because the element X is forming different oxides with oxygen, and the ratios of the masses of X to oxygen in the different oxides are in small whole number ratios, such as 1:1, 1:2, and 2:1.So, the correct answer is option D, the law of multiple proportion.",
+    "options": [
+      {
+        "option": "A",
+        "text": "element \\(\\text{X}\\) forms the following oxides \\(\\text{X}_2\\text{O}, \\text{XO}\\) and \\(\\text{XO}_2.\\) This phenomenon illustrates the law of ________.",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "How many moles of oxygen would contain \\(1.204 \\times 10^{24}\\) molecules?\n\n NB: Avogadro's constant (NA) \\(= 6.02 \\times 10^{23}\\)",
+    "explanation": "\\(6.02 \\times 10^{23}\\) molecules is \\(1\\) mole\\(1.204 \\times 10^{24}\\) molecules will be:\\(\\cfrac{1.204 \\times 10^24 \\times 1}{6.02 \\times 10^23}\\)\\(\\cfrac{1.204 \\times 10}{6.02}\\) \\(= \\cfrac{12.04}{6.02} = 2\\) moles",
+    "options": [
+      {
+        "option": "H",
+        "text": " many moles of oxygen would contain \\(1.204 \\times 10^{24}\\) molecules?\n NB: Avogadro's constant (NA) \\(= 6.02 \\times 10^{23}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Which of the following statements about solids is correct?",
+    "explanation": "In this question, you are asked to identify the correct statement about solids. The correct answer is Option D: Solid particles cannot be easily compressed.Solids are one of the three fundamental states of matter, with the other two being liquids and gases. They have a fixed shape and volume. The particles in a solid are closely packed together and have strong intermolecular forces holding them in place.Let's briefly discuss each option to understand why Option D is the correct answer:Option A: Solid particles are actually more orderly than those of a liquid. In solids, particles are arranged in a regular pattern, often in a crystalline lattice, while in liquids, particles are more randomly arranged and can flow past one another.Option B: Solids generally have higher densities than liquids because their particles are closely packed together. There are some exceptions, like ice being less dense than water, but this statement is generally incorrect.Option C: Solid particles have lower kinetic energies than those of liquids. In solids, particles are held in a fixed position and can only vibrate, whereas in liquids, particles can move more freely and have higher kinetic energies.Option D: This statement is correct. Solid particles cannot be easily compressed because they are already tightly packed together, and the strong intermolecular forces resist compression. This is in contrast to gases, which can be easily compressed due to the large spaces between particles and weaker intermolecular forces.So, the correct statement about solids is that they cannot be easily compressed, which helps to maintain their fixed shape and volume.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Which of the following apparatus can be used to measure a specific volume of a liquid accurately?",
+    "explanation": "The correct answer is Option D: Pipette. A pipette is a laboratory tool used to measure and transfer specific volumes of liquid accurately. It is designed to have a high level of precision, which is essential when performing various laboratory experiments that require accurate measurements.Now, let's briefly discuss the other options:Option A: Beaker - Beakers are common laboratory glassware used for holding, mixing, and heating liquids. While they do have volume markings, these are not very accurate, and beakers are not suitable for precise measurements of liquid volumes.Option B: Conical flask - Conical flasks, also known as Erlenmeyer flasks, are used for mixing, heating, and storing liquids. Like beakers, they have volume markings, but these are not very accurate. Conical flasks are not suitable for accurate volume measurements.Option C: Measuring cylinder - Measuring cylinders are used for measuring approximate volumes of liquids. They have volume markings along their sides, but they are not as accurate as pipettes. Although measuring cylinders provide better accuracy than beakers and conical flasks, they are still not as precise as pipettes.In summary, when you need to measure a specific volume of liquid accurately, a pipette is the best apparatus to use among the given options. It ensures that the volume measurements are precise and consistent, which is essential in many chemistry experiments.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The general gas equation \\(\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\) is a combination of",
+    "explanation": "The general gas equation, \\(\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\), is a combination of Boyle's Law and Charles' Law. Let's take a closer look at these two laws and how they relate to the general gas equation.Boyle's Law states that the pressure of a gas is inversely proportional to its volume, when the temperature and the amount of gas are held constant. Mathematically, this can be represented as:  \\[\\text{P} \\propto \\frac{1}{\\text{V}}\\]  Charles' Law states that the volume of a gas is directly proportional to its temperature, when the pressure and the amount of gas are held constant. Mathematically, this can be represented as:  \\[\\text{V} \\propto \\text{T}\\]  By combining these two laws, we can create the general gas equation, which is also known as the Ideal Gas Law. To do this, we first express both Boyle's Law and Charles' Law in terms of proportionality constants:  \\[\\text{P} = k_1 \\cdot \\frac{1}{\\text{V}}\\ \\text{and}\\ \\text{V} = k_2 \\cdot \\text{T}\\]  Now, we can substitute the expression for V from Charles' Law into Boyle's Law:  \\[\\text{P} = k_1 \\cdot \\frac{1}{k_2 \\cdot \\text{T}}\\]  By rearranging the equation and introducing a new constant (K), we obtain the general gas equation:  \\[\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\]  In conclusion, the general gas equation is a combination of Boyle's Law and Charles' Law, as shown in Option A.",
+    "options": [
+      {
+        "option": "T",
+        "text": " general gas equation \\(\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\) is a combination of",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "The spreading of the scent of a flower in a garden is an example of ________.",
+    "explanation": "From the definition of diffusion the scent of the flower was able to spread evenly.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "Propane and carbon (IV) oxide diffuse at the same rate because [H = 1.00, C = 12.0, O = 16.0]",
+    "explanation": "Propane and Carbon(iv)oxide diffuse at thesame rate bcos they have thesame relative molecular mass\nPropane C3H8=36+8=44g/mol\nCO2=12+16\u00d72=12+32=44g/mol\nExplanation provided by Jor Jagaba",
+    "options": [
+      {
+        "option": "P",
+        "text": "pane and carbon (IV) oxide diffuse at the same rate because [H = 1.00, C = 12.0, O = 16.0]",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "The energy which accompanies the addition of an electron to an isolated gaseous atom is",
+    "explanation": "Electron affinity of an atom or molecule is defined as the amount of energy released or spent when an electron is added to a neutral atom or molecule in the gaseous state to form a negative ion.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The minimum amount of energy required for effective collisions between reacting particles is known as",
+    "explanation": "The correct answer is Activation energy.Activation energy is the minimum amount of energy required for a chemical reaction to occur between reacting particles. It is necessary because molecules need to overcome a certain energy barrier to break existing bonds and form new ones during a reaction.Bond energy, on the other hand, is the energy required to break a particular chemical bond between atoms in a molecule, and it is not directly related to the energy needed for a reaction to occur.Kinetic energy is the energy possessed by an object due to its motion, and while it plays a role in chemical reactions, it is not the minimum energy required for effective collisions between reacting particles.Potential energy is stored energy in an object due to its position, and it also does not directly relate to the energy needed for a reaction to occur.In summary, activation energy is the minimum amount of energy required for effective collisions between reacting particles, which is necessary to initiate a chemical reaction.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The bond formed between \\(\\text{H}_2\\text{O}\\) and \\(\\text{H}^+\\) to form the hydroxonium \\(\\text{H}_3\\text{O}^+\\) is",
+    "explanation": "In order to understand the bond formed between \\(\\text{H}_2\\text{O}\\) (water) and \\(\\text{H}^+\\) (a hydrogen ion) to form the hydroxonium ion (\\(\\text{H}_3\\text{O}^+\\)), let's first take a look at the different types of chemical bonds:1. Covalent bond: This bond is formed when two atoms share a pair of electrons. Both atoms contribute one electron each to the shared pair.2. Ionic bond (Electrovalent bond): This bond is formed when one atom transfers one or more electrons to another atom, resulting in the formation of oppositely charged ions that are attracted to each other.3. Dative bond (Coordinate covalent bond): This bond is formed when one atom donates a pair of electrons to another atom, without the receiving atom contributing any electrons to the bond.In the case of the hydroxonium ion formation, a water molecule (\\(\\text{H}_2\\text{O}\\)) donates a pair of electrons to the hydrogen ion (\\(\\text{H}^+\\)). Since the hydrogen ion does not contribute any electrons to the bond, the bond formed is a dative bond. Thus, the correct answer is Option A: Dative.",
+    "options": [
+      {
+        "option": "T",
+        "text": " bond formed between \\(\\text{H}_2\\text{O}\\) and \\(\\text{H}^+\\) to form the hydroxonium \\(\\text{H}_3\\text{O}^+\\) is",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "An element \\(\\text{X}\\) forms the following oxides \\(\\text{X}_2\\text{O}, \\text{XO}\\) and \\(\\text{XO}_2.\\) This phenomenon illustrates the law of ________.",
+    "explanation": "The question is asking about the law that is illustrated by the formation of the oxides of an element X. The three oxides are X2O, XO, and XO2. The options to choose from are conservation of mass, definite proportion, mass action, and multiple proportion.The law of definite proportion states that in any given chemical compound, the elements are always present in the same proportion by mass. This law doesn't apply here because the compounds being referred to are not necessarily the same compound, but different oxides of the same element.The law of conservation of mass states that mass cannot be created or destroyed in a chemical reaction, but it is conserved. This law doesn't apply here because no chemical reaction is mentioned, just the formation of different oxides.The law of mass action describes the way that the rate of a chemical reaction is proportional to the concentrations of the reactants. This law doesn't apply here because there is no mention of a chemical reaction or reaction rate.The correct answer is the law of multiple proportion. This law states that when two elements form different compounds, the ratio of the masses of one element that combine with a fixed mass of the other element is in small whole numbers. This law is illustrated in this question because the element X is forming different oxides with oxygen, and the ratios of the masses of X to oxygen in the different oxides are in small whole number ratios, such as 1:1, 1:2, and 2:1.So, the correct answer is option D, the law of multiple proportion.",
+    "options": [
+      {
+        "option": "A",
+        "text": "element \\(\\text{X}\\) forms the following oxides \\(\\text{X}_2\\text{O}, \\text{XO}\\) and \\(\\text{XO}_2.\\) This phenomenon illustrates the law of ________.",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "How many moles of oxygen would contain \\(1.204 \\times 10^{24}\\) molecules?\n\n NB: Avogadro's constant (NA) \\(= 6.02 \\times 10^{23}\\)",
+    "explanation": "\\(6.02 \\times 10^{23}\\) molecules is \\(1\\) mole\\(1.204 \\times 10^{24}\\) molecules will be:\\(\\cfrac{1.204 \\times 10^24 \\times 1}{6.02 \\times 10^23}\\)\\(\\cfrac{1.204 \\times 10}{6.02}\\) \\(= \\cfrac{12.04}{6.02} = 2\\) moles",
+    "options": [
+      {
+        "option": "H",
+        "text": " many moles of oxygen would contain \\(1.204 \\times 10^{24}\\) molecules?\n NB: Avogadro's constant (NA) \\(= 6.02 \\times 10^{23}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Which of the following statements about solids is correct?",
+    "explanation": "In this question, you are asked to identify the correct statement about solids. The correct answer is Option D: Solid particles cannot be easily compressed.Solids are one of the three fundamental states of matter, with the other two being liquids and gases. They have a fixed shape and volume. The particles in a solid are closely packed together and have strong intermolecular forces holding them in place.Let's briefly discuss each option to understand why Option D is the correct answer:Option A: Solid particles are actually more orderly than those of a liquid. In solids, particles are arranged in a regular pattern, often in a crystalline lattice, while in liquids, particles are more randomly arranged and can flow past one another.Option B: Solids generally have higher densities than liquids because their particles are closely packed together. There are some exceptions, like ice being less dense than water, but this statement is generally incorrect.Option C: Solid particles have lower kinetic energies than those of liquids. In solids, particles are held in a fixed position and can only vibrate, whereas in liquids, particles can move more freely and have higher kinetic energies.Option D: This statement is correct. Solid particles cannot be easily compressed because they are already tightly packed together, and the strong intermolecular forces resist compression. This is in contrast to gases, which can be easily compressed due to the large spaces between particles and weaker intermolecular forces.So, the correct statement about solids is that they cannot be easily compressed, which helps to maintain their fixed shape and volume.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Which of the following apparatus can be used to measure a specific volume of a liquid accurately?",
+    "explanation": "The correct answer is Option D: Pipette. A pipette is a laboratory tool used to measure and transfer specific volumes of liquid accurately. It is designed to have a high level of precision, which is essential when performing various laboratory experiments that require accurate measurements.Now, let's briefly discuss the other options:Option A: Beaker - Beakers are common laboratory glassware used for holding, mixing, and heating liquids. While they do have volume markings, these are not very accurate, and beakers are not suitable for precise measurements of liquid volumes.Option B: Conical flask - Conical flasks, also known as Erlenmeyer flasks, are used for mixing, heating, and storing liquids. Like beakers, they have volume markings, but these are not very accurate. Conical flasks are not suitable for accurate volume measurements.Option C: Measuring cylinder - Measuring cylinders are used for measuring approximate volumes of liquids. They have volume markings along their sides, but they are not as accurate as pipettes. Although measuring cylinders provide better accuracy than beakers and conical flasks, they are still not as precise as pipettes.In summary, when you need to measure a specific volume of liquid accurately, a pipette is the best apparatus to use among the given options. It ensures that the volume measurements are precise and consistent, which is essential in many chemistry experiments.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The general gas equation \\(\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\) is a combination of",
+    "explanation": "The general gas equation, \\(\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\), is a combination of Boyle's Law and Charles' Law. Let's take a closer look at these two laws and how they relate to the general gas equation.Boyle's Law states that the pressure of a gas is inversely proportional to its volume, when the temperature and the amount of gas are held constant. Mathematically, this can be represented as:  \\[\\text{P} \\propto \\frac{1}{\\text{V}}\\]  Charles' Law states that the volume of a gas is directly proportional to its temperature, when the pressure and the amount of gas are held constant. Mathematically, this can be represented as:  \\[\\text{V} \\propto \\text{T}\\]  By combining these two laws, we can create the general gas equation, which is also known as the Ideal Gas Law. To do this, we first express both Boyle's Law and Charles' Law in terms of proportionality constants:  \\[\\text{P} = k_1 \\cdot \\frac{1}{\\text{V}}\\ \\text{and}\\ \\text{V} = k_2 \\cdot \\text{T}\\]  Now, we can substitute the expression for V from Charles' Law into Boyle's Law:  \\[\\text{P} = k_1 \\cdot \\frac{1}{k_2 \\cdot \\text{T}}\\]  By rearranging the equation and introducing a new constant (K), we obtain the general gas equation:  \\[\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\]  In conclusion, the general gas equation is a combination of Boyle's Law and Charles' Law, as shown in Option A.",
+    "options": [
+      {
+        "option": "T",
+        "text": " general gas equation \\(\\frac{\\text{PV}}{\\text{T}} = \\text{K}\\) is a combination of",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "The spreading of the scent of a flower in a garden is an example of ________.",
+    "explanation": "From the definition of diffusion the scent of the flower was able to spread evenly.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "Propane and carbon (IV) oxide diffuse at the same rate because [H = 1.00, C = 12.0, O = 16.0]",
+    "explanation": "Propane and Carbon(iv)oxide diffuse at thesame rate bcos they have thesame relative molecular mass\nPropane C3H8=36+8=44g/mol\nCO2=12+16\u00d72=12+32=44g/mol\nExplanation provided by Jor Jagaba",
+    "options": [
+      {
+        "option": "P",
+        "text": "pane and carbon (IV) oxide diffuse at the same rate because [H = 1.00, C = 12.0, O = 16.0]",
+        "imageUrl": null
+      }
+    ],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "The energy which accompanies the addition of an electron to an isolated gaseous atom is",
+    "explanation": "Electron affinity of an atom or molecule is defined as the amount of energy released or spent when an electron is added to a neutral atom or molecule in the gaseous state to form a negative ion.",
+    "options": [],
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": "2019"
+  }
+]

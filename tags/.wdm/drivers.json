@@ -1,0 +1,10 @@
+{
+    "win64_chromedriver_126.0.6478.182_for_126.0.6478": {
+        "timestamp": "27/07/2024",
+        "binary_path": "C:\\Users\\chint\\web-tags\\tags\\.wdm\\drivers\\chromedriver\\win64\\126.0.6478.182\\chromedriver-win32/chromedriver.exe"
+    },
+    "win64_chromedriver_127.0.6533.99_for_127.0.6533": {
+        "timestamp": "10/08/2024",
+        "binary_path": "D:\\web-tags1\\web-tags\\tags\\.wdm\\drivers\\chromedriver\\win64\\127.0.6533.99\\chromedriver-win32/chromedriver.exe"
+    }
+}

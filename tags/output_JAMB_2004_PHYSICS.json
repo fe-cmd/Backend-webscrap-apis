@@ -1,0 +1,1802 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\narmature coil should be made of silver",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncommutator should be replaced with slip ring",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncommutator should be replaced with split rings",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\narmature coil should be made of aluminium",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAverage life / Half life (T\\(_{\\frac{1}{2}}\\)) = ln2/\u03bb = 0.693/10\\(^{-7}\\)\n= 0.693 x 10\\(^7\\)\n= 6.93 x 10\\(^6\\)"
+    },
+    "text": "A radioisotope has a decay constant of 10\\(^{-7}\\)s\\(^{-1}\\). The average life of the radioisotope is",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.00 x 107s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.93 x 106s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.00 x 10-7s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.93 x 107s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nCurrent (I) in the circuit = V/Z\nBut z = \n\u221a\u00a0R2 + (XL - XC)2\u00a0\n\n= \n\u221a\u00a082 + (16 \u2013 10) 2\u00a0\n\n= \n\u221a\u00a064 + 36\u00a0\n\n= \n\u221a\u00a0100\u00a0 = 10\u03a9\n\n\u2234 Current (I) = V/Z = 12/10 = 1.2 A"
+    },
+    "text": "An a.c circuit of e.m.f 12V has a resistor of resistance 8\u03a9 connected in series to an inductor of inductive reactance 16\u03a9 and a capacitor capacitive reactance 10\u03a9. The current flow in the circuit is",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.4A",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.2A",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12.0A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n14.0A",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nTemperature coefficient of resistance is given by \n\u03b1 = Increase in resistance per oC rise in temp.__resistance at 0oC\nAnd for metals where resistance increase with temperature rise, temperature coefficient of resistance is positive; on the other hand in semi conductors, where resistance decrease with temperature rise, temperature coefficient of resistance is negative."
+    },
+    "text": "For semi conductor to have negative temperature coefficient of resistance implies that",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntheir resistance decrease with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe resistance increase with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntheir resistance is constantly changing with temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthey have electrons and holes at high temperature",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "X rays can be used in the study of crystal structure because they",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhave a very long-reaching wavelength",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhave extremely short wavelength",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nare invisible",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nare very fast",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nSensitivity of a measuring instrument is given by deflection per unit current: and given that deflection = 30o; and current (I) = 3A: then the sensitivity of the meter = 30/0 = 10.0"
+    },
+    "text": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30o deflection. The sensitivity of the instrument is",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n33.0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n90.0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10.0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nI wave - particle duality of matter, the momentum of sub-atomic particle is given by P = h/\u03bb where h = planck constant ; \u03bb = wave length\n=> \u03bb = h/P"
+    },
+    "text": "The particle and wave nature of matter are demonstrated in the equation",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u03bb = hc/E",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u03bb = h/P",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u03bb = c/f",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u03bb = 2 d sin \u03b8",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIn a reverse biased junction diode only a very small current flows in, carried by the minority carriers  which are the negative charges in the n-semi conductor"
+    },
+    "text": "In a reverse biased junction diode, current flows in by",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npositive holes alone",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmajority carriers",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nelectron alone",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nminority carriers",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn an R - L - C circuit resonance occurs when the inductive reactance (XL), is equal to the capacitive reactance (XC)\n1.e XL = XC"
+    },
+    "text": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance XL and XC respectively are related as",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nXL = XC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nXL = 1/2XC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nXL = 1/XC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nXL = 2XC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe binding energy of a nucleus, is the work done or energy needed to separate completely the nucleons (protons and neutrons) apart. Again, experiment shows that the total mass of all individual nucleons is greater than that of the nucleus, in which they are together. This difference in the mass is the measure of the binding energy of the particular nucleus. \nFor helium 4He,2\nit has altogether 4 nucleons 2 protons and 2 neutrons\n2:H = 2 x 1.00783 = 2.01566\n2:n = 2 x 1.00867 = 2.01734\n\u2234 2:H + 2:n = 4.03300u\nBut the helium nucleus has a mass of 4.00260u\n\u2234 Binding energy = difference of nucleons and nucleus\n= 4.03300U - 4.00260U = 0.03040U"
+    },
+    "text": "The binding energy of helium 4He is2\n[atomic mass of proton = 1.00783U,\natomic mass of neutron = 1.00867U]",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.033U",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.017U",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.033U",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.330U",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Flourescent tubes produces light by the",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nexcitation of gas molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconduction of solar energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nrefraction of light by gas molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthermal agitation of electron in the tubes",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nEnergy stored in a coil of inductance, L, and carry a current, I is given by \nE = 1/2 L I2\n= 1/2 x 5 x 10-3 x 6 x 6 \n= 9.0 x 10-2J"
+    },
+    "text": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9.0 x 10-3J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9.0 x 10-2J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.4 x 10-2J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.8 x 10-3J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIt has been scientifically proven that 100g of grapefruit contains 135g of potassium electrolyte."
+    },
+    "text": "Which of the following is an electrolyte?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nParaffin",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSugar solution",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGrape fruit",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAlcohol",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nEnergy stored = Ivt = current x back e.m.f x time \n= 2 x 3 x 0.4\n= 2.4J"
+    },
+    "text": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9.6J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.4J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12.0J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7.2J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The instrument used for securing a large number of similar charges by induction is called",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nelectrophorus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncapacitor",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nproof-plane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectroscope",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nCurrent (I) = q/t \u2192 q = i x t\n= 16 x 10-3 x 1\n= 1.6 x 10-2C\nBut 1.6 x 10-19C = I electronic charge \n1 coulomb = 1 / (1.6x10-19)\n\u2234 1.6 x 10-2 coulombs = 1 / (1.6x10-19) x 1.6x10-2 / 1\n= 1.0 x 10-2 x 1019\n= 1.0 x 1017"
+    },
+    "text": "If 16mA of current flows through a conductor in one second, the number of electron transported per seconds is \n[1 electronic charge = 1.6 x 10-19C]",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.00 x 1020",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.56 x 10-18",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.56 x -17",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.00 x 1017",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nEarthing is used\u00a0to protect you from an electric shock. It does this by providing a path (a protective conductor) for a fault current to flow to earth. It also causes the protective device (either a circuit-breaker or fuse) to switch off the electric current to the circuit that has the fault."
+    },
+    "text": "Electrical appliances at home are normally earthed so that?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe appliances are maintained at a lower p.d than the earth",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nboth the a.c and d.c sources can be used",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na person touching the appliances is safe from electric shock",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe appliances are maintained at a higher p.d than the earth",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n1/C = 1/0.3 + 1/0.5 + 1/0.2 = 10.3333\n=> C = 1 / 10.3333 = 0.09677\n\u2245 0.1\u03bcF\n\u2234 C = 0.1\u03bcF"
+    },
+    "text": "Given three capacitors 0.3\u03bcF, 0.5\u03bcF and 0.2\u03bcF, the joint capacitance when arranged to give minimum capacitance is",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.1\u03bcF",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.3\u03bcF",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.0\u03bcF",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.5\u03bcF",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The difference between X-rays and gamma rays is that",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx-rays are more penetrating than gamma rays",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nx-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx-rays have higher frequencies than gamma rays",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn order to protect a material from the influence of an external magnetic field, the material is placed in a soft iron ring, usually referred to as magnetic screening."
+    },
+    "text": "To protect a material from the influnce of an external magnetic field, the materials should be kept",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsquare steel ring",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntriangular zinc ring",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsoft iron ring",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nloop of copper wire",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nPower, P = I2R;\nand I = E/R\nBut effective Parallel resistance: is given by:\n1/R = 1/6 + 1/3 = 1+2/6 = 3/6 => R = 6/3 = 2\u03a9\nCurrent I = E/R = 12/2 = 6A\nBut I1 = (R1/R1+R2) x 1 = 3/9 x 6 = 2A\nagain I1 = (R1/R1+R2) x 1 = 6/9 x 6 = 4A\n\u2234P1 = I12 R1 = 2 x 2 x 6 = 24W\nP2 = I22 R2 = 4 x 4 x 3 = 48W\nthus P1/P2 = 24/48 = 1/2 ; OR P1 : P2 = 1:2"
+    },
+    "text": "In the diagram above, the ratio of he electric power dissipated in the 6\u03a9 and the 3\u03a9 resistor respectively is",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": "https://myschool.ng/storage/classroom/10881098912_phy200422.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2:1",
+        "imageUrl": "https://myschool.ng/storage/classroom/10881098912_phy200422.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n2:2",
+        "imageUrl": "https://myschool.ng/storage/classroom/10881098912_phy200422.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n1:3",
+        "imageUrl": "https://myschool.ng/storage/classroom/10881098912_phy200422.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n1:2",
+        "imageUrl": "https://myschool.ng/storage/classroom/10881098912_phy200422.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the angle between two vector P and Q is Oo, the vectors are said to",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nintersect at the angle 45o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nintersect at the angle 60o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbe parallel",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbe perpendicular",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nK.E = 1/2MV2 \nForce, F = ma => a = F/m = 12/4 = 3ms-2\nBut a = (V-U) / t => V = u + at\nIf the initial velocity U = 0, then V = at = 3 x 3 = 9ms-2\n\u2234 K.E, = 1/2ms-2\n1/2 4 x 9 x 9 = 162J"
+    },
+    "text": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n144J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n162J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n81J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n72J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nefficiency = (M.A / V.R) x 100/1 => 60/100 = M.A/5\n\u2234M.A = (60 X 5) / 100 = 3\nBut M.A = Load/Effort; => 3 = Load/500\n\u2234Load = 500 x 3\n= 1500N"
+    },
+    "text": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1500N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n500N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4166N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n750N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI and II only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI, II, III, and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI and III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nI, II and III only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nPressure developed in the effort piston = F/a\n\u2234F/a = 40/0.4 = 400/4 = 100Nm2\nthis pressure is transmitted to the larger piston of area A; => P = F/A\n\u2234 100 = 400/A\n=> A = 400/100 = 4m2"
+    },
+    "text": "In a hydraulic press , a force of 40N is applied on the effort piston of area 0.4m2. If the force exerted on the load piston is 400N, the area of the large piston is",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4m2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8m2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2m2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1m2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nCoefficient of friction \u03bc = F/R = F/mg = 500/1000 = 0.5\n\u2234 \u03bc = 0.5"
+    },
+    "text": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "As the pressure of a fluid increases, its viscosity",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndecreases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreases",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincreases then decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nremains constant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nComponent of 8N along the horizontal = 8 cos 60o = 8 x 0.5\n= 4N\nSimilarity Component of 6N along the horizontal = 6 cos 60o = 3N\n\u2234 Total force towards the right = 10 + 4 + 3\n= 17N\nAgain total force toward the left = 4N\n\u2234 Net horizontal force (towards the right) = 17-4\n= 13N"
+    },
+    "text": "the diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. the net horizontal force is",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": "https://myschool.ng/storage/classroom/16321706880_phy200429.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n13N",
+        "imageUrl": "https://myschool.ng/storage/classroom/16321706880_phy200429.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n17N",
+        "imageUrl": "https://myschool.ng/storage/classroom/16321706880_phy200429.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\u221a3N",
+        "imageUrl": "https://myschool.ng/storage/classroom/16321706880_phy200429.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n7\u221a3N",
+        "imageUrl": "https://myschool.ng/storage/classroom/16321706880_phy200429.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNOTE: Firstly, it should be noted that the mass, as well as the weight of a body is independent of its size.\n\u2234 Let the weight of the moon = Mm x gm\nweight of the earth = Me x ge\nBut ge = 80gm\n\u2234 weight of the earth = Me x 80gm\n=> weight of the moon / weight of the earth = Mm x gm / Me x 80gm\nthus Mm/Me \u221d gm/80gm \u221d 1/80\n=> Mm:Me \u221d 1:80"
+    },
+    "text": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1:80",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1:320",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1:1280",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1:4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In which of the following material media will sound travel fastest?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\noil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmetal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngas",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwater",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nParabolic mirrors",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPlane mirrors",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCylindrical mirrors",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSpherical mirrors",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What happens to the rays in a parallel beam of light?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThey diverge as they travel",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthey intersect",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThey converge as they travel",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThey meet at infinity.",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\n35o =35o = 70o\n180 - 70 = 110\n110/2 = 55o"
+    },
+    "text": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n35o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n55o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n70o",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n65o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA person with this condition is said to be short-sighted. Hence, to correct it, a concave lens is used for correction."
+    },
+    "text": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nConvex lens",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nBinoculars",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nConcave lens",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPlane glasses",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The pitch of a sound note depends on",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntimbre",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfrequency",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nharmonics",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nquality",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nMagnification, M = v/u = v (1/u)\nAnd for the Lens formula 1/u + 1/v = 1/f\n=> 1/u = 1/f - 1/v\n\u2234M = V(1/u)\n= V(1/f - 1/v) = v/f - v/v = v/f - 1\n\u2234M = v/f - 1"
+    },
+    "text": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nu/f - f",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nu/v + f",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nv/f + 1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nv/f - 1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n\nFrom the above diagram ; ? = 90o - 30o = 60o\nv = 90 - 60 = 30\n\u2234 refractive index = (sin ?)/(sin v) = (sin 60o / sin 30o) = \u221a3/2/1/2 \n= \u221a3/2 x 1/2\n= \u221a3"
+    },
+    "text": "The refractive index of the medium M in the diagram above is",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": "https://myschool.ng/storage/classroom/20402202705_phy200439a.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1/\u221a3",
+        "imageUrl": "https://myschool.ng/storage/classroom/20402202705_phy200439a.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n2\u221a3",
+        "imageUrl": "https://myschool.ng/storage/classroom/20402202705_phy200439a.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\u221a3",
+        "imageUrl": "https://myschool.ng/storage/classroom/20402202705_phy200439a.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n2/\u221a3",
+        "imageUrl": "https://myschool.ng/storage/classroom/20402202705_phy200439a.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincrease in the volume of water",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncontraction of the bottle",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nexpansion of the bottle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndecrease in the volume of water",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The phase difference between waves P and q in the diagram above is",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": "https://myschool.ng/storage/classroom/23122515048_phy200442.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2\u03c0",
+        "imageUrl": "https://myschool.ng/storage/classroom/23122515048_phy200442.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n\u03c0",
+        "imageUrl": "https://myschool.ng/storage/classroom/23122515048_phy200442.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\u03c0/4",
+        "imageUrl": "https://myschool.ng/storage/classroom/23122515048_phy200442.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n\u03c0/2",
+        "imageUrl": "https://myschool.ng/storage/classroom/23122515048_phy200442.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nVol. of ice = M/?D = 450/900 = 0.500m3\nvol. of water = M/D\" = 450/1000 = 0.450m3\n\u2234 Difference in vol. = 0.500 - 0.450\n= 0.05m3"
+    },
+    "text": "The change in volume when 450kg of ice is completely melted is\n[density of ice = 900 kgm-3, density of water = 1000 kgm-3]",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.50m3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.45m3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.05m3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.50m3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Tea pots are often silver-coated to prevent heat loss by",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconduction only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconvention only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconvection and conduction",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nradiation only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "I. Wavelength \nII. Medium of propagation \nIII. Wave velocity\nIV. Frequency\nV. Energy\nWhich of the above are used for characterizing waves?",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI, II and V",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI, III and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIII, IV and V",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHeat supplied by the heater in 10 mins\n= power x time\n= 50 x (10 x 60)\n= 30000 J\nThis heat is equal = MC\u0394t\n= 5 x c x 12\n= 60cJ\n= 60C = 30,000\nC = 30,000/60 \nC = 500 J kg-1K-1"
+    },
+    "text": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12oC is achieved, the specific heat capacity of the metal is",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n400 J kg-1K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n500 J kg-1K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n390 J kg-1K-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n130 J kg-1K-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nSafety gap = expansion of the rod\n= \\(\\alpha \\times L_0 \\times \\Delta t\\)\nwhere \\(\\alpha\\) = linear expansivity of the material\n\\(L_0\\) = Initial length of the material\n\\(\\Delta t\\) = Change in temperature\n\\(\\therefore\\) The safety gap = \\(2 \\times 10^{-5} \\times 20 \\times (75 - 25)\\)\n= \\(2 \\times 10^{-5} \\times 10^3\\)\n= \\(2 \\times 10^{-2} m\\)\n= 0.02 m"
+    },
+    "text": "Metal rods of length 20m each are laid end to end to form a bridge at 25oC. What gap will be provided between consecutive rails for the bridge to withstand 75oC?\n[Linear expansivity of the material = 2.0 x 10-5K-1",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.20m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.22m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.25m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.02m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndiffraction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrefraction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npolarization",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreflection",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPressure = Force / Area = Weight of the man / Area of his feet\n=> 2.8 x 103 = Weight of the man / 4 x 10-2\n\u2234 Weight of the man = 2.8 x 103 x 4 x 10-2\n= 112N"
+    },
+    "text": "A man exerts a pressure of 2.8 x 103Nm-2 on the ground and has 4 x 10-2m2 of his feet in contact with the ground. The weight of the man is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n102N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n70N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n140N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n112N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFrom the relation refractive index = Sin \\( \\left(\\frac{A+Dm}{2}\\right) \\)\n\nWhere A = refractive angle = 600, Sin\\( \\left(\\frac{A}{2}\\right) \\)\n\n\\( \\implies 1.4 = \\frac{\\text{Sin}\\left(\\frac{60^0 + Dm}{2}\\right)}{\\text{Sin}\\left(\\frac{60}{2}\\right)} \\\\\n\n= \\frac{\\text{Sin}\\left(\\frac{60 + Dm}{2}\\right)}{\\text{Sin}30^0} \\\\\n\n= \\frac{\\text{Sin}\\left(\\frac{60 + Dm}{2}\\right)}{0.5}\\\\\n\n\\text{Therefore} 1.4 \\times 0.5 = \\text{Sin}\\left(\\frac{60 + Dm}{2}\\right) \\\\\n\n\\text{Therefore} \\left(\\frac{60 + D_m}{2}\\right)= \\text{Sin}^{-1} 0.7000 \\\\\n\n= 44^0 12^1 \\\\\n\n60^0 + D_m = 88^0 24^1 \\\\\nD_m = 88^0 24^1 - 60^0 \\\\\n\n= 28^0 24 \\\\\n29^0 \\)"
+    },
+    "text": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n600",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n290",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n990",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n900",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nE = V + v\n\nwhere E = emf of cell.\nV = terminal p.d\nv = loss voltage of the cell.\n\nBut from ohm's law V=IR ; v = Iv\n\n\\( \\implies \\) lost voltage = V = Ir\n= 4 x 0.5\n= 2.0v"
+    },
+    "text": "A cell whose internal resistance is 0.5\u03a9 delivers a current of 4A to an external resistor,The loss voltage of the cell is",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.250V",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.000V",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.000V",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.125V",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nOriginal length = 20m\nfirst new length = 20.01m\n\nfirst increase in length = 20.01m - 20m = 0.01m\n\nSecond new length = 20.05m\nsecond increase in length = 20.05 - 20m = 0.05m\n\nFrom hooke's law = \\( \\frac{F_1}{e_1} = \\frac{F_2}{e_2} \\implies \\frac{50}{0.01} = \\frac{F_2}{0.05} \\\\\n\n\\implies F_2 = \\frac{50 \\times 0.05}{0.01} = 250N \\)"
+    },
+    "text": "If a force of 50N stretches a wire from 20m to 20.01m, what is the amount of force required to stretch the same material from 20m to 20.05m?",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n250N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n200N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n100N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n50N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2004
+  }
+]

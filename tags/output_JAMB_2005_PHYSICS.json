@@ -1,0 +1,1730 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nMarching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to resonance. The steps of the marching soldiers can set the bridge into vibration, and when the frequency of the bridge is equal to that of the steps of the soldiers, the resonance occurs,and at this resonance, the bridge vibrates violently with maximum amplitude, and can collapse."
+    },
+    "text": "Marching soldiers crossing a suspension bridge are usually advised to break their steps to avoid damaging the bridge owing to",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\noscillation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nresonance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nswinging",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nvibration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe sharpness of the boundary of the shadow of an object is determined by the rays of light passing through the object. The smaller the rays passing through , that is from a point source, the more sharp the shadow becomes, but the more the rays, that is rays from a large source, the more blurred the shadow becomes."
+    },
+    "text": "The sharpness of the boundary of the shadow of an object is determined by the",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nintensity of light striking the object",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrays of light passing through the object",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nnature of the object",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nopacity of the object",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nthe power of a lens is defined as the reciprocal of the focal length ,expressed in metre.Mathematically, the power of a lens in dioptres is given by:(1)/f(in cm).\nthus for lens of power of 4.0 dioptres we have that: (1)/(f) = +4.0\nf= (1)/(4.0)\u00a0\n= 0.25cm"
+    },
+    "text": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.50m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.03m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.00m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.25m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nfor a real image 3 times the size of the object, it implies that the magnification 3 = v/u, 3 = 24/u, therefore 3u = 24, u = 8cm thus we have from the relation:m = (f)/(u)-f; that 3 = (f)/(8) - f. therefore f = 3(8-f) f = 24 - 3f \u22344f = 24; f = 6cm OR: (1)/(u) + (1)/(v) = (1)/(f).\n(1)/(8) + (1)/(24) = (1)/(f)\ntherefore (3+1)/(24) = (1)/(f) \n4/24=1/f;therefore 4f = 24\nf = 6cm"
+    },
+    "text": "A real image three times the size of an object is formed 24cm from a converging mirror. what is the focal length of the mirror.",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n16cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The pair of physical quantities consisting of vectors only are",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmomentum and power",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvelocity and distance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndisplacement and torgue",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\naccelaration and speed",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIn a wheel and axle system of mechanic, the mechanical advantage is given by its ratio of the radius of the wheel R, to the radius of the axle r. that M.A = R/r"
+    },
+    "text": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(R/r)2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nr/R",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(r/R)2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nR/r",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nfor a body projected at an angle \u03b8 to the horizontal, the time of the flight is given by T = (2u sin \u03b8)/g =(2x 40)x sin (30)/10 =(2 x 40) x (0.5)/10 = 4.0secs."
+    },
+    "text": "An object is projected for the hieght of 80 m above the ground with a velocity of 40ms-1 at the angle of 30\u00b0 to the horizontal. The time of flight",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8 s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16 s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10 s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn a purely capacity circuit, voltage lags behind current by 90\u00b0, or current leads voltage by 90\u00b0"
+    },
+    "text": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n180\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n90\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n60\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n30\u00b0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nSince 1/32, is the fraction left of any radioactive material after 5half lives, that is:\n1/32= (1/2)5. Thus if a half life is 50 days, 5 half lives will be 50 x 5= 250 days"
+    },
+    "text": "the time it will take a certain radioactive material with a half-life of 50 days to reduce to 1/32of its original number is",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n250days",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n150days",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n300days",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n200days",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe force acting on moving charge in magnetic field is given by: F=q VBSin \u03b8\nsin \u03b8 =F=(8.0x10)-14/1.6x10-19x1.0x106x1.0 = (8.0x10)14/16 x 1013\n(8.0x 10)-14/16x10-14\n=0.5000\n\u2234 \u03b8= sin-1 0.5000\n=30\u00b0"
+    },
+    "text": "a proton moving with a speed of 1.0 x 106ms-1 through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 x 10-14 N. The angle between the proton''s velocity and the field is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n90\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n45\u00b0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWhen impurities are added to semi conductor , the semi conductor is said to be doped, and increases the conductivity of the semi-conductor."
+    },
+    "text": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincreases then decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreases",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndecreases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nremains constant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nSilicon is a tetra valent (4 valent) element, and in order to produce an n type semi-conductor, it has to be dropped with a penta valent (5valent)element, that, that is element in group five (v)"
+    },
+    "text": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nV",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIII",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe electrons and cations of ionized gas act as charge carriers."
+    },
+    "text": "The charge carriers in gasses are",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nions only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nelectrons and ions",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nelectrons and holes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectrons only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe ray which causes gas molecules to fluoresce or glow is the cathode rays"
+    },
+    "text": "the ray which causes gas molecules to glow is known as",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncathode ray",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nanode ray",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmolecular ray",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngamma ray",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe ray which causes gas molecules to fluoresce or glow is the cathode rays"
+    },
+    "text": "the ray which causes gas molecules to glow is known as",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncathode ray",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nanode ray",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmolecular ray",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngamma ray",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nin a transformer, E S/E P = N s/N p\nwhere E s=e.m.f(voltage)of the secondary\nE p=e.m.f(voltage)of the primary \nN s=no.of turns in the secondary \nN p= no. of turns in the primary.\nsince E s= V s; and E p= V p.\nV s/ V p= N s/N p \n\u223412/240= Ns/4000\nNs =(12x4000)/240\n=200"
+    },
+    "text": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n100",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n250",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n150",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nthe current in reverse biased junction diode is due to minority carriers, that is, the negative charges in the p-semi-conductor, and the positive charges in the n-semi-conductor."
+    },
+    "text": "The current in a reverse-biased junction is due to?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nminority carriers",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nelectrons",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmajority carriers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nholes",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "which of the following materials is a conductor?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGlass",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nWax",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSodium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPlastic",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nit is about to rain",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe relative humidity is high",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthere is plenty of sunshine",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe relative humidity is low",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nFor liquid W, its mass = vol. x density = 3 x 200 =600kg.\nsimilarly, for liquid L, its mass = 7 x 150 = 1050kg\n\u2234 Total mass of mixture = 600kg + 1050kg =1650kg.\nsimilarly total vol.of the mixture = 3m3 + 7m3 =10m3.\n\u2234 density of the mixture = (Total Mass)/Total Mixture = (1650kg)/10m3 \n=165kgm-3"
+    },
+    "text": "A 3m3 volume of liquid W of density 200kgm3 is mixed with another liquid L of volume 7m3 and density 150kgm-3. the density of mixture is?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n165kgm-3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n100kgm-3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n265kgm-3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n350kgm-3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nFor anybody falling through a viscous liquid, at its terminal velocity. the resultant force acting on its is zero. from the equation: Mg - v - u = 0. where v = viscous drag \nU = upthrust Mg = weight of the body.\n\u2234 36 x 10 - 260 - U = 0\n\u2234 U = 360 - 260 = 100N\nUpthrust on the body = 100N."
+    },
+    "text": "A body of mass 36kg falls through a viscous liquid which offers a drag force of 260N on the body. The upthrust on the body at terminal velocity is?\n\n\n[g = 10ms2]",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n100N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n620N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n50N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n310N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The process whereby the molecules of different substances move randomly is called?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncapillarity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsurface tension",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nosmosis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndiffusion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nReproducible\n\nSensitive\n\nHigh accuracy\n\nLow thermal capacity\nConsistency."
+    },
+    "text": "I. reproducibility\n\nII. Sensibility\n\nIII. High terminal capacity\n\niv. High accuracy\n\nThe quantities of a good thermometer include?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI, II and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI, III and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI, II and III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII, III and IV only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The process whereby a liquid turns spontaneously into vapour is called?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nregelation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsublimation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nboiling",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nevaporation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "I. Melting\nII. Boiling \nIII. Refraction\nIV. Conduction\nWhich combination of the above is evident of the molecular nature of matter?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nII , III and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI ,II and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI , III and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nI , II and III only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nof the even expansion of glass",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nglass is a crystal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nglass is a good conductor of heat",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nof the uneven expansion of gass",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Satellite communication network makes use of?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nvisible light",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsound wave",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nradio wave",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ninfra-red wave",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor the device rated 2000 W, 250 V, implies that current I, flowing is given by the relation \nPower = IV\nI = (power)/v = (200)/250\n= 8A.\n\u2234 the most suitable fuse for the device is 8A"
+    },
+    "text": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9 A",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8 A",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6 A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7 A",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmagnetic octopole",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmagnetic monopole",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmagnetic dipole",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmagnetic quadrupole",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor a car battery rated 45 AH, being charged by a charger of 2.5 A rating, the time for the battery to be fully charged is given by:\nT = (45)/2.5 = 18 hrs"
+    },
+    "text": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10 hrs",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n18 hrs",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20 hrs",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25 hrs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe electric force experienced in an electric field of intensity E is given by: \nF = qE: where q = the test charge. \nE = F/Q = 0.4/10-10 = 0.4 X 10-10\n= 4.0 X 109 NC-1"
+    },
+    "text": "The electric field intensity in a place where a charge of 10-10c experiences a force of 0.4N is?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.0 x 107 NC-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8.0 x 109 NC-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.O x 10-12 NC-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.0 x 109 NC-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe charge must be opposite in sign, since the positive charges will deflect to the negative plate, and the negative charge to the positive plate"
+    },
+    "text": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. if the charges are deflected in opposite directions, which of the following statements is true of the charge?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe charge must be of opposite sign",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npositive charges are more in number",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe charges are electrically neutral",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe charges are of the same sign",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nsince resistance R = p (l)/a\n= (4 x 10-7 x 20)/8.0 x 10-6\nR = 1.0 \u2126"
+    },
+    "text": "The resistance of a pieces of wire of length 20m are crossed-sectional area 8 x 10 -6m2is?\n\n\n[Resistivity of the wire = 4 x 10-7 \u2126 m]",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.0 \u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.5 \u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10.0 \u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.0 \u2126",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The figure above shows a plot of angles of deviation through a glass prism when light is incident at \u03b8 degrees on the prism. The incident angle that produces the minimum deviation is",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": "https://myschool.ng/storage/classroom/1363512963_phy20052.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20o",
+        "imageUrl": "https://myschool.ng/storage/classroom/1363512963_phy20052.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n18o",
+        "imageUrl": "https://myschool.ng/storage/classroom/1363512963_phy20052.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n35o",
+        "imageUrl": "https://myschool.ng/storage/classroom/1363512963_phy20052.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n25o",
+        "imageUrl": "https://myschool.ng/storage/classroom/1363512963_phy20052.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{17}{sin 60} = \\frac{17}{0.866}\\)\n\n= 20N"
+    },
+    "text": "The value of F in the figure above when in equilibrium is",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": "https://myschool.ng/storage/classroom/24543244926_phy200510.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543244926_phy200510.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n12N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543244926_phy200510.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n20N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543244926_phy200510.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n27N",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543244926_phy200510.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNormal reaction R = 3 kg x 10 = 30N\ncoefficient of friction , \u03bc = 0.5\n\u2234 acting frictional force = \u03bcR = 30 x 0.5\nPulling/sliding force F = 6kg x 10 = 60N.\n\u2234 Net downward force = ma = 60 - 15.0\n=> (3 + 6)a = 45\n\u2234 9a = 45 \na = 5m/s2"
+    },
+    "text": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": "https://myschool.ng/storage/classroom/23179748982_phy200511.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5 ms-2",
+        "imageUrl": "https://myschool.ng/storage/classroom/23179748982_phy200511.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n15 ms-2",
+        "imageUrl": "https://myschool.ng/storage/classroom/23179748982_phy200511.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n3 ms-2",
+        "imageUrl": "https://myschool.ng/storage/classroom/23179748982_phy200511.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n9 ms-2",
+        "imageUrl": "https://myschool.ng/storage/classroom/23179748982_phy200511.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIf the string is in equilibrium, the the tension in the string Q = 4N + 5N = 9N"
+    },
+    "text": "If the system above is in equilibrium, the tension in the string Q is",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": "https://myschool.ng/storage/classroom/12271638312_phy200514.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n11N",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271638312_phy200514.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n9N",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271638312_phy200514.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n4N",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271638312_phy200514.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n6N",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271638312_phy200514.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nSince the force is inclined at an angle 60o to the horizontal, the effective component of te force along the horizontal is given by F x cos 60o\n= 100 x 0.5 = 50N.\n\u2234 work done = F x cos 60 x displacement \n= 50 x 8.0m\n= 400.0J"
+    },
+    "text": "In the figure above, the work done by the force of 100N inclined at an angle of 60o to the object dragged horizontally to a distance of 8m is",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": "https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n800J",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n600J",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n100J",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n400J",
+        "imageUrl": "https://myschool.ng/storage/classroom/12271659786_phy2000515.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nThe fig above shows a conventional transistor, showing the three basic features, the Base, the Emitter and the collector. Thus comparing this with the figure in the question it implies that P = Emitter, Q = Base and R = collector"
+    },
+    "text": "In the circuit diagram of a transistor above, the terminal P, Q and R represent",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/24543335448_phy200521.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEMITTER, BASE and COLLECTOR",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543335448_phy200521.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nCOLLECTOR, EMITTER and BASE",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543335448_phy200521.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nBASE, COLLECTOR and EMITTER",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543335448_phy200521.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nBASE, ENITTER and COLLECTOR",
+        "imageUrl": "https://myschool.ng/storage/classroom/24543335448_phy200521.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n235U + 1n \u2192 144Ba + 90Kr + 2x9205636\nIn the reaction above, balancing the left with the right, show that X is neutron"
+    },
+    "text": "\\( ^{235} _{92}U + ^1 _0n \u2192 ^{144} _{56}Ba + ^{90} _{36}Kr +2X \\)\n\nIn the reaction above, X is",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nelectron",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nproton",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nneutrino",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nneutron",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nGenerally, from Hares Experiment, density is inversely proportional to height \ni.e h \u221d1/d; \u2192 h1d1 = h2d2\n\u2234 8 x 103 = h2 x 800\n\u2234 h2 = 8 x 103_800 \n= 10cm"
+    },
+    "text": "Two liquids L1 and L2 are contained in a U - tube. The height and the density of L1 are 8 cm and 103 kgm-3 respectively. If the density of L2 is 800 kgm-3, its height measured from the same level is",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12 cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nFrom the heat exchange involved, the latent heat of vaporization, L can be deduced from the relation:\nML = 106, where M = mass of the liquid.\n\u2234 2 x L = 106\n=> L = 106/2 = 5.0 x 105J kg-1"
+    },
+    "text": "106J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.0 x 106J kg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 x 106J kg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.0 x 105J kg-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0 x 105J kg-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n\nThe effective capacitance in the circuit is given by:\n1/C = 1/2 + 1/3 + 1/6 = 6/6\ntherefore C = 1\u03bcF or \n1.0 x 10-6F.\nSince C = Q/V, its implies that the charges Q, flowing in the circuit is given by Q = CV\n= 1.0 x 10-6 x 12\n= 12.0 x 10-6 Coulomb.\n\u2234 P.d across the 6\u03bcF,\nV = Q/C = 12.0 x 10-66.0 x 10-6F\n= 2.0 volts"
+    },
+    "text": "The figure above shows three capacitors, 2\u03bcF, 3\u03bcF and 6\u03bcF connected in series. If the p.d across the system is 12V, the p.d, across the 6\u03bcF capacitor is",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": "https://myschool.ng/storage/classroom/19089334880_phy200543.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4V",
+        "imageUrl": "https://myschool.ng/storage/classroom/19089334880_phy200543.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n12V",
+        "imageUrl": "https://myschool.ng/storage/classroom/19089334880_phy200543.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n2V",
+        "imageUrl": "https://myschool.ng/storage/classroom/19089334880_phy200543.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n6V",
+        "imageUrl": "https://myschool.ng/storage/classroom/19089334880_phy200543.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor the two point charges, the magnitude of the electrostatic force between them is given by the equation:\nF \u221d 1/r2, and if the distance is increased by a factor of 4, that is new distance = 4r,\nthen, new force F \u221d 1/(4r)2\n= \u221d 1/16r2\nThus it will be 1/16 of the former value"
+    },
+    "text": "If the distance between two point charges its increased by a factor of four, the magnitude of the electrostatic force between them will be",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1/4 of its former value",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1/16 of its former value",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1/2 of its former value",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4 times its former value",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn general, the velocity of sound in air varies directly as the square root of temperature measured in kelvin.\n\nThat V \\( \\propto \\sqrt{T} \\implies V^2 \\propto T. \\\\\n\n\\text{Therefore} \\frac{V^2_1}{T_1} = \\frac{V^2_2}{T_2} \\\\\n\n\\text{Thus Let } V_1 = 4m/s \\\\\nT_1 = 10K \\\\\n\\text{Therefore } V_2 = 2V_1 = 8m/s \\\\\n\n\\implies \\frac{4^2}{10} = \\frac{8^2}{T_2} \\\\\n\nT_2 = \\frac{64 \\times 10}{16} = 40K\\\\\n\nT_2 = 4T_1 \\)\n\nThus when the velocity of sound in air is doubled, it's absolute temperature will be quadrupled."
+    },
+    "text": "The velocity of sound in air will be doubled if it's absolute temperature is",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nQuadrupled",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nConstant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nHalved",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDoulbed",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nlet the masses of the two objects be M1 and M2\nand their distance apart = r\n\nTherefore the force acting F1 = \\( \\frac{GM1M2}{r^2} \\)\n\nfor a new distance of r/2, we have a force of \n\nF2 = \\( \\frac{GM2M2}{r/2} \\\\\n\n\\text{Thus } F1 \\times r^2 = GM1M1 \\text{and} \\\\\nF2 \\times (r/2)^2 = GM1M1 \\\\\n\n\\text{Since } GM1M1 = GM1M1 \\\\\n\n\\implies F1 \\times r^2 = F2 \\times (r/2)^2 \\\\\n\n\\text{Therefore } 200 \\times r^2 = F2 \\times r^2/4 \\\\\n\nF2 = \\frac{4 \\times 200 \\times r^2}{r^2} = 800N \\)"
+    },
+    "text": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n400N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n200N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n100N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n800N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nl =l1 + l2 = 3 + 6 = 9H"
+    },
+    "text": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9.0H",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n18.0H",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.5H",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0H",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFor Hooke's law F = Ke\n\n\\( \\implies F/e = K \\\\\n\nf1/e1=f2/e2 \\\\\n\n\\text{Let the original length} = t_0 \\\\\n\n\\text{therefore} e1 = (36 - t_0)cm ; e2 = (46 - t_0)cm \\\\\n\\text{if f1} = 40N \\text{f2} = 60N \\\\\n\\text{Then } \\frac{40}{36 - t_0} = \\frac{60}{45 - t_0} \\\\\n\\implies 40(45 - t_0) = 60(36 - t_0) \\\\\n\\text{therefore } 1800 - 40t_0 \\\\\n\n2160 - 60t_0 \\\\ \n60t_0 - 40t_0 = 2160 - 1800 \\\\\n20t_0 = 360 \\\\ \nt_0 = 18cm \\)"
+    },
+    "text": "Am elastic material has a length of 36cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n18cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2005
+  }
+]

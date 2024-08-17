@@ -1,0 +1,2738 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCarolus Linnaeus, the swedish naturalist, is the man behind this present way of classifying plants and animals."
+    },
+    "text": "The scientist who introduced binomial nomenclature in the classification of organisms was",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCharles Darwin",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCarolus Linnaeus",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nJohn Ray",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLouis Pasteur",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe prothorax contains the first pair of legs in the arthropods. It's the first of the three segments of the thorax."
+    },
+    "text": "Which of the following statements is true about arthropods?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nProthorax bears only legs",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMesothorax bears only legs",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMetathorax bears only wings",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nProthorax bears only wings",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nUnicellular organisms like the Amoeba, Spirogyra etc fall in the cellular level of organization."
+    },
+    "text": "What level of organization is Spirogyra?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSystem",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nOrgan",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCell",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTissue",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nCyclosis is also called Cytoplasmic streaming. It is defined as the streaming rotary motion of the protoplasm within certain cells and unicellular organisms. Paramecium is an example of a unicellular organism."
+    },
+    "text": "The streaming movement of cytoplasm within the Paramecium is known as",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTranspiration",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDigestion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCyclosis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nOsmosis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPlastids are found only in plants and algae. One common type of plastid is the chloroplast."
+    },
+    "text": "Which of the following organelles is found only in plant cells?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMitochondria",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nRibosomes",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLysosomes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPlastids",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDiffusion, as well as osmosis depends only on concentration gradient but active transport works against concentration gradient."
+    },
+    "text": "Active transport differs from diffusion in that active transport",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nis a very fast process",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nallows the movement of substances against concentration gradient",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntakes place in both light and dark reaction of photosynthesis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\noccurs in both plant and animal tissues",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFrom the first diagram, you notice the roots of the plants bending towards the porous water pot, hence this is a form of response in the direction of the stimuli of the water. This is a form of hydrotropism."
+    },
+    "text": "The diagrams above are illustrations of an experimental set-up to demonstrate a type of tropic response in plants. The type of response demonstrated is",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": "https://myschool.ng/storage/classroom/q1iJPt479ENaM9zFPuy4Hl4rgwnKMqgzZnmlRk7n.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nphototropism",
+        "imageUrl": "https://myschool.ng/storage/classroom/q1iJPt479ENaM9zFPuy4Hl4rgwnKMqgzZnmlRk7n.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\ngeotropism",
+        "imageUrl": "https://myschool.ng/storage/classroom/q1iJPt479ENaM9zFPuy4Hl4rgwnKMqgzZnmlRk7n.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nhydrotropism",
+        "imageUrl": "https://myschool.ng/storage/classroom/q1iJPt479ENaM9zFPuy4Hl4rgwnKMqgzZnmlRk7n.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nthigmotropism",
+        "imageUrl": "https://myschool.ng/storage/classroom/q1iJPt479ENaM9zFPuy4Hl4rgwnKMqgzZnmlRk7n.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe roots of the plants in diagram 1 bend towards the porous clay pot while growing and the well watered soil sees the plants growing straight and erect. The roots of the plants are positively hydrotropic (respond towards the pull of water positively)."
+    },
+    "text": "The conclusion drawn from the experiment in the diagram above is that",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": "https://myschool.ng/storage/classroom/M6KN52VZuK72ttXLBx5py4s0TPv0UWkBYHipsBp6.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nshoots of plants are negatively thigmotropic",
+        "imageUrl": "https://myschool.ng/storage/classroom/M6KN52VZuK72ttXLBx5py4s0TPv0UWkBYHipsBp6.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nshoots of plants are negatively geotropic",
+        "imageUrl": "https://myschool.ng/storage/classroom/M6KN52VZuK72ttXLBx5py4s0TPv0UWkBYHipsBp6.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nshoots of plants are positively phototropic",
+        "imageUrl": "https://myschool.ng/storage/classroom/M6KN52VZuK72ttXLBx5py4s0TPv0UWkBYHipsBp6.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nroots of plants are positively hydrotropic",
+        "imageUrl": "https://myschool.ng/storage/classroom/M6KN52VZuK72ttXLBx5py4s0TPv0UWkBYHipsBp6.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe odontoid process is a projection of the axis vetebra. It is seen at its point of joining with the body."
+    },
+    "text": "The odontoid process is found on the",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\naxis vetebra",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\natlas vetebra",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthoracic vetebra",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsacral vetebra",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A seedling was made to stand in a solution of red ink for three hours and a transverse section of the stem was examined under the microscope. The process being investigated was",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe importance of micro elements to plants",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nascent of water through the xylem",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndiffusion of colored substances",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndistribution of food in plants",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nGerminating seeds respire by using oxygen and producing carbon dioxide gas, they respire in the similar way as animals."
+    },
+    "text": "Which of the following structures would carry out cellular respiration? A",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ngerminating seed",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndecolorised leaf",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndry leaf",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nboiled cowpea",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAnimals take in oxygen in respiratory process, taking out carbondioxide."
+    },
+    "text": "Which of the following is NOT an excretory product of animals?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncarbondioxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nurea",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsweat",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\noxygen",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nHomeostasis is a living organism's way of maintaining a stable internal environment even in the event of external environmental changes. When the plant keeps supplying phosphorus to the phloem even in the case of a deficiency in the soil, it maintains a steady balance on its inside irrespective of the lack in the soil."
+    },
+    "text": "An example of homeostasis in living organisms is",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncooling effect resulting from evaporation of water from the body surface",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nroot hairs of a plant growing towards the source of light",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nchanging of the body colour of chameleon to match the colour of the foliage on which it is resting",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe release of phosphorus into the phloem of a plant growing in a phosphorus-deficient soil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe fine structure of the glomerulus and Bowman\u2019s capsule facilitate ultrafiltration. It is the non-specific filtration of the blood under high pressure and occurs in the Bowman\u2019s capsule of the nephron."
+    },
+    "text": "Ultrafiltration in the kidney takes place in the",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRenal vein",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMedulla",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLoop of Henle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBowman's Capsule",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe thyroid gland is an endocrine gland located at the base of the neck."
+    },
+    "text": "The thyroid gland is found at the base of the",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMidbrain",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nKidney",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNeck",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLiver",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nEach neuron has a threshold that must be met before an action potential travels the length of the neurons axon. In other words, the neurons don't just begin to act immediately, there is a threshold value where the intensity of the stimulus must get to in order to yield a response from the neuron. This is why you can consciously pinch your self and not feel anything serious but when it is unconscious, it gives you serious pain."
+    },
+    "text": "Which of the following statements about the response of neurones to stimulus is correct?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNeurons respond to stimulus of any strength",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNeurons respond to all stimuli applied in rapid succession",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNeurons respond more rapidly during the absolute refraction period",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIntensity of stimulus must reach a threshold value before the neurons can be excited",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nContact lenses have a way of causing infections to the eyes at some point. It can cause a lack of oxygen since they are worn directly in the eye, especially if worn for long periods at a stretch."
+    },
+    "text": "Which of the following practices may lead to infection of the eye? Use of",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncontact lenses",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconvex lenses",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbiconcave lenses",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconcave lenses",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nBreathing roots, also known as pneumatophores, have portions of the root which grow upward until they project some centimetres above the low-tide level. They have small openings called lenticels in their bark so that air can reach the rest of the plant\u2019s root system."
+    },
+    "text": "The structures for gaseous exchange in breathing roots are",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nstomata",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlenticels",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncuticle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmitochondria",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFrom the diagram, the larva is a caterpillar, hence, the adult is called a Butterfly."
+    },
+    "text": "The diagram above is an illustration of the life cycle of an insect. The adult fly in this cycle is called",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": "https://myschool.ng/storage/classroom/tNQeFwgSz4j2pSC8vYvY6WeP00xJfJs9gBXMQsu9.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHousefly",
+        "imageUrl": "https://myschool.ng/storage/classroom/tNQeFwgSz4j2pSC8vYvY6WeP00xJfJs9gBXMQsu9.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nButterfly",
+        "imageUrl": "https://myschool.ng/storage/classroom/tNQeFwgSz4j2pSC8vYvY6WeP00xJfJs9gBXMQsu9.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nCockroach",
+        "imageUrl": "https://myschool.ng/storage/classroom/tNQeFwgSz4j2pSC8vYvY6WeP00xJfJs9gBXMQsu9.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nMosquito",
+        "imageUrl": "https://myschool.ng/storage/classroom/tNQeFwgSz4j2pSC8vYvY6WeP00xJfJs9gBXMQsu9.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe diagram is the life cycle of a butterfly whose larva is called Caterpillar."
+    },
+    "text": "In the diagram above, the larva is also known as",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": "https://myschool.ng/storage/classroom/O5fIur4UNrpajkuydkpaYvdBfuH8lSZ2PUAxjhAh.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNymph",
+        "imageUrl": "https://myschool.ng/storage/classroom/O5fIur4UNrpajkuydkpaYvdBfuH8lSZ2PUAxjhAh.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nCaterpillar",
+        "imageUrl": "https://myschool.ng/storage/classroom/O5fIur4UNrpajkuydkpaYvdBfuH8lSZ2PUAxjhAh.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nMaggot",
+        "imageUrl": "https://myschool.ng/storage/classroom/O5fIur4UNrpajkuydkpaYvdBfuH8lSZ2PUAxjhAh.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nChrysalis",
+        "imageUrl": "https://myschool.ng/storage/classroom/O5fIur4UNrpajkuydkpaYvdBfuH8lSZ2PUAxjhAh.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe food production process (photosynthesis) makes use of the energy of light for the process."
+    },
+    "text": "The source of energy required by plants during food production is",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPhotosynthesis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nChlorophyll",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSunlight",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMicroorganisms",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe food produced by plants serve as food both for the plants and animals (herbivores and in extension, all animals.)"
+    },
+    "text": "One major difference between plant and animals nutrition is the ability of plants to synthesize",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFood for plants and animals",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nWater for plants",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nWater for animals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFood for plants only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCarbohydrates are broken down into their component sugars by hydrolysis. This type of hydrolysis is called Saccharification."
+    },
+    "text": "By what process is starch converted into maltose?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHydrolysis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCondensation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nTranslocation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPhotosynthesis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nTranspiration pull or the suction force is the force which aids in drawing the water upward from roots to leaves which is used by the leaves for photosynthesis and excess is released through the stomata."
+    },
+    "text": "The ascent of water in tall trees is mainly due to",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nadhesive forces",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntranspiration pull",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nroot pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncohesive forces",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThese three (starch, protein and lipids) have a process to undergo in the duodenum (the beginning of the small intestine), therefore, the surgery will affect them."
+    },
+    "text": "The duodenum of a person was surgically removed. Which of the following substances would have their digestion affected?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nstarch and protein only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstarch and lipids",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nstarch, peptones and maltose",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nstarch, protein and lipids",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe normal dental formula of rabbits is I2/1 C0/0 P3/2 M3/3 for 28 teeth."
+    },
+    "text": "Which of the following dental formulae represents the dentition in rabbits?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(I\\frac{2}{1}\\) \\(C\\frac{0}{0}\\) \\(P\\frac{3}{2}\\) \\(M\\frac{3}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(I\\frac{2}{2}\\) \\(C\\frac{1}{1}\\) \\(P\\frac{2}{2}\\) \\(M\\frac{3}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(I\\frac{1}{2}\\) \\(C\\frac{0}{0}\\) \\(P\\frac{2}{3}\\) \\(M\\frac{3}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(I\\frac{2}{1}\\) \\(C\\frac{0}{1}\\) \\(P\\frac{3}{2}\\) \\(M\\frac{3}{3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following structures will NOT be found in the nucleus of a cell?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDNA",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNucleolus",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLysosome",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCentriole",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An example of organ level of organization is _______",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbird",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nkidney",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nspermatozoon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nxylem",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A structural similarity between Parameciumn and Amoeba is the presence of______",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\none food vacuole",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntwo contractile vacuoles",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntwo nuclei",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\none gullet",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The classes of plants the root systems in diagrams I and II above represent respectively are______________",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": "https://myschool.ng/storage/classroom/VJcAmGnmsFncnv1CqIklY8fJ9LFBYFXlbLBwqNkr.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDicotyledoneae and Monocotyledoneae",
+        "imageUrl": "https://myschool.ng/storage/classroom/VJcAmGnmsFncnv1CqIklY8fJ9LFBYFXlbLBwqNkr.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nMonocotyledoneae and Dicotyledoneae",
+        "imageUrl": "https://myschool.ng/storage/classroom/VJcAmGnmsFncnv1CqIklY8fJ9LFBYFXlbLBwqNkr.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nDicotyledoneae and Dicotyledoncae",
+        "imageUrl": "https://myschool.ng/storage/classroom/VJcAmGnmsFncnv1CqIklY8fJ9LFBYFXlbLBwqNkr.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nMonocotyledoneae and Monocotyledoneae",
+        "imageUrl": "https://myschool.ng/storage/classroom/VJcAmGnmsFncnv1CqIklY8fJ9LFBYFXlbLBwqNkr.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The diagram above is an illustration of a stage in a biological process. Study it and answer this question",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": "https://myschool.ng/storage/classroom/81Qf4u3gxh4fdngZ6m04w9hF2aAgVrSEZFOQYTjM.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nProphase",
+        "imageUrl": "https://myschool.ng/storage/classroom/81Qf4u3gxh4fdngZ6m04w9hF2aAgVrSEZFOQYTjM.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nMetaphase",
+        "imageUrl": "https://myschool.ng/storage/classroom/81Qf4u3gxh4fdngZ6m04w9hF2aAgVrSEZFOQYTjM.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nAnaphase",
+        "imageUrl": "https://myschool.ng/storage/classroom/81Qf4u3gxh4fdngZ6m04w9hF2aAgVrSEZFOQYTjM.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nTelophase",
+        "imageUrl": "https://myschool.ng/storage/classroom/81Qf4u3gxh4fdngZ6m04w9hF2aAgVrSEZFOQYTjM.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The part labelled I is the________",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": "https://myschool.ng/storage/classroom/dbOThOvHc1wfbAWk2ww8VvPYXcwUGfKfaxCeR7YC.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncentromere",
+        "imageUrl": "https://myschool.ng/storage/classroom/dbOThOvHc1wfbAWk2ww8VvPYXcwUGfKfaxCeR7YC.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nspindle fibre",
+        "imageUrl": "https://myschool.ng/storage/classroom/dbOThOvHc1wfbAWk2ww8VvPYXcwUGfKfaxCeR7YC.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\ncentriole",
+        "imageUrl": "https://myschool.ng/storage/classroom/dbOThOvHc1wfbAWk2ww8VvPYXcwUGfKfaxCeR7YC.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nchiasmata",
+        "imageUrl": "https://myschool.ng/storage/classroom/dbOThOvHc1wfbAWk2ww8VvPYXcwUGfKfaxCeR7YC.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nDifference in concentration affects the rate of diffusion. The greater the concentration gradient, the quicker diffusion takes place."
+    },
+    "text": "The rate of diffusion of molecules between two media will be higher if_________?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe difference in concentration of the two media is low",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe difference in concentration of the two media is negligible",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe difference in concentration of the two media is high",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthere is no difference in the concentration of the two media",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Anaerobic respiration in the organism illustrated in the diagram above produces carbon dioxide and________",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": "https://myschool.ng/storage/classroom/c8lJmWu6xclOWKPZ2kygxeeeRes0SS0YwxNwLLF5.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nethanol",
+        "imageUrl": "https://myschool.ng/storage/classroom/c8lJmWu6xclOWKPZ2kygxeeeRes0SS0YwxNwLLF5.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nwater",
+        "imageUrl": "https://myschool.ng/storage/classroom/c8lJmWu6xclOWKPZ2kygxeeeRes0SS0YwxNwLLF5.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\noxygen",
+        "imageUrl": "https://myschool.ng/storage/classroom/c8lJmWu6xclOWKPZ2kygxeeeRes0SS0YwxNwLLF5.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nglucose",
+        "imageUrl": "https://myschool.ng/storage/classroom/c8lJmWu6xclOWKPZ2kygxeeeRes0SS0YwxNwLLF5.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Underground storage stems which grow horizontally in the soil are_______",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbulbs",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrunners",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nrhizomes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncorms",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Muscle fatigue in the body of an athlete is due to__________",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlow pH",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhigh oxygen content",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\naccumulation of lactic acid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\naccumulation of carbonic acid",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The heart can beat continuously without being fatigued because it is composed of________",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nskeletal muscles",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsmooth muscles",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncardiac muscles",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrenal muscles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The products of tissue respiration are_________",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nglucose, oxygen, and water",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\noxygen, water, and energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nglucose, carbon dioxide, and energy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwater, carbon dioxide, and energy",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Excretory products in plants responsible for the discoloration of flowers are called__________",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nalkaloids",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntannins",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nanthocyanins",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nresins",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The process of maintaining a steady internal environment is known as__________",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nosmoregulation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nequilibration",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhomeostasis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nplasmolysis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following statements is not true about hormones?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTheir responses are voluntary",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThey may affect more than one target organ",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThey are chemical messengers in animals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThey are transported by the blood to the target organs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The diagram above is an illustration of a human brain. Study it and answer this question",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": "https://myschool.ng/storage/classroom/P8NCRbZfQKkrx6DB78jQVfOGAUOSP56dUyHe0Goe.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nolfactory lobe",
+        "imageUrl": "https://myschool.ng/storage/classroom/P8NCRbZfQKkrx6DB78jQVfOGAUOSP56dUyHe0Goe.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\ncerebellum",
+        "imageUrl": "https://myschool.ng/storage/classroom/P8NCRbZfQKkrx6DB78jQVfOGAUOSP56dUyHe0Goe.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\ncerebrum",
+        "imageUrl": "https://myschool.ng/storage/classroom/P8NCRbZfQKkrx6DB78jQVfOGAUOSP56dUyHe0Goe.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nmed\u00fclla oblongata",
+        "imageUrl": "https://myschool.ng/storage/classroom/P8NCRbZfQKkrx6DB78jQVfOGAUOSP56dUyHe0Goe.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The function of the part labelled II is that it controls_______",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": "https://myschool.ng/storage/classroom/xmIbbZLVUXGdPQGbMljMpHBPUYy4FYDgFxSABQ7k.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nposture and balance of the body",
+        "imageUrl": "https://myschool.ng/storage/classroom/xmIbbZLVUXGdPQGbMljMpHBPUYy4FYDgFxSABQ7k.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nall voluntary actions",
+        "imageUrl": "https://myschool.ng/storage/classroom/xmIbbZLVUXGdPQGbMljMpHBPUYy4FYDgFxSABQ7k.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\ntemperature and appetite",
+        "imageUrl": "https://myschool.ng/storage/classroom/xmIbbZLVUXGdPQGbMljMpHBPUYy4FYDgFxSABQ7k.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nmany involuntary actions",
+        "imageUrl": "https://myschool.ng/storage/classroom/xmIbbZLVUXGdPQGbMljMpHBPUYy4FYDgFxSABQ7k.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "To focus on a distant object, the ciliary muscle of the eye______",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncontracts and the eye lens gets thicker",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrelaxes and the eye lens gets thinner",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncontracts and the eye lens gets thinner",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrelaxes and the eye lens gets thicker",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The main function of the amniotic fluid is for______________",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nrespiration in the foetus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nprotection of the foetus from shock",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLubricating the birth canal foetus",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnourishing the foetus",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The diagram above\u00a0is an illustration of the longitudinal section of a flower. Study it and answer this question",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": "https://myschool.ng/storage/classroom/5vQqLF74oTp3XUWxkjIGRZKgryCsyJexEoA1wX6S.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI",
+        "imageUrl": "https://myschool.ng/storage/classroom/5vQqLF74oTp3XUWxkjIGRZKgryCsyJexEoA1wX6S.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nII",
+        "imageUrl": "https://myschool.ng/storage/classroom/5vQqLF74oTp3XUWxkjIGRZKgryCsyJexEoA1wX6S.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nIII",
+        "imageUrl": "https://myschool.ng/storage/classroom/5vQqLF74oTp3XUWxkjIGRZKgryCsyJexEoA1wX6S.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nIV",
+        "imageUrl": "https://myschool.ng/storage/classroom/5vQqLF74oTp3XUWxkjIGRZKgryCsyJexEoA1wX6S.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The essential parts of the flower are labelled_______",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": "https://myschool.ng/storage/classroom/wqGNXR7YZTUJM2SqmxqfT1uxI1FZyf863LZjSu6U.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI, II and III",
+        "imageUrl": "https://myschool.ng/storage/classroom/wqGNXR7YZTUJM2SqmxqfT1uxI1FZyf863LZjSu6U.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nII, III and IV",
+        "imageUrl": "https://myschool.ng/storage/classroom/wqGNXR7YZTUJM2SqmxqfT1uxI1FZyf863LZjSu6U.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nIII, V and VI",
+        "imageUrl": "https://myschool.ng/storage/classroom/wqGNXR7YZTUJM2SqmxqfT1uxI1FZyf863LZjSu6U.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nIV, V and VI",
+        "imageUrl": "https://myschool.ng/storage/classroom/wqGNXR7YZTUJM2SqmxqfT1uxI1FZyf863LZjSu6U.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Deficiency in insulin could lead to________",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncirrhosis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhepatitis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndiabetes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnephritis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following forms of energy is utilized during photosynthesis?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPotential",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nKinetic",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSolar",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nChemical",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Light is excluded from a water culture experiment in order to________",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprevent overheating of the roots",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nenable the roots to grow straight down",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprevent ionization of water molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nprevent the growth of algae",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The major mineral present in the shell of Molluscs is________",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCopper",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSodium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIron",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCalcium",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The digestion of proteins starts in the______",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsmall intestine",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstomach",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlarge intestine",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmouth",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Tooth decay is usually caused by___________",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nundigested and absorbed food",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\neating a limited amount of sweetened food.",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe bacteria \u00edn the mouth that metabolize sugar to acids",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\neating a lot of proteinous foods",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The conversion of ammonium salts into nitrates is called_______",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nputrefaction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndenitrification",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfixation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnitrification",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The salinity of a brackish habitat________",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincreases immediately after rainfall",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreases at the end of the rain",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndecreases with an increase in the number of organisms",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nincreases during the dry season",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If 90 ants are found in a field with a total area of 100 m. what is the population density of the ants?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.09",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.90",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n90.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The complex relationship between the members of a community and their physical environment is known as________",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncommensalism",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsymbiosis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsaprophytism",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\necology",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The specific role of a species within \u00edts environment is known as its_________",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhabitat",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nniche",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntrophic level",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbiotic community",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following soil fertility improvement methods will have the most negative effect on the ecosystem if not controlled?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nApplication of N-P-K fertilizer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nShifting cultivation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMixed farming",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCrop rotation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Organisms in an ecosystem are usually grouped according to their trophic level into__________",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncarnivores and omn\u00edvores,",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconsumers and parasites",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nproducers, and saprophytes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nProducers and consumers",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the pyramid of energy illustrated above, the organism with the least amount of transferred energy is___________",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": "https://myschool.ng/storage/classroom/sHJq128LIIzG7XofaRcRIUd8fDqNwH4J5k1PCDiw.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSpirogyra",
+        "imageUrl": "https://myschool.ng/storage/classroom/sHJq128LIIzG7XofaRcRIUd8fDqNwH4J5k1PCDiw.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nTadpole",
+        "imageUrl": "https://myschool.ng/storage/classroom/sHJq128LIIzG7XofaRcRIUd8fDqNwH4J5k1PCDiw.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nFish",
+        "imageUrl": "https://myschool.ng/storage/classroom/sHJq128LIIzG7XofaRcRIUd8fDqNwH4J5k1PCDiw.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nBird",
+        "imageUrl": "https://myschool.ng/storage/classroom/sHJq128LIIzG7XofaRcRIUd8fDqNwH4J5k1PCDiw.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Tall trees with unbranched trunks which grow above the upper storey of the forest are commonly referred to as _____",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEmergents",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nHerbs",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLianes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nShrubs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Maize grains are best stored against insect attacks by__________________",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nkeeping in a silo",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstoring in the room",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nleaving them on their cobs",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncovering with leaves",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Cholera is mostly spread by_______",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nair",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsoil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nwater",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnoise",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following resources is renewable?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPetroleum",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCoal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIron",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTrees",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following roles is not performed by a government agency responsible for forest maintenance?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRegulating the harvest of timber and poaching",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCreating, protecting and managing the forest reserves",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nTracking the movement of timber, wood, and wildlife",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRegulating mining activities in the forest",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following factors is not a source of variation in living organisms?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEnvironment",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nInheritance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMitosis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMeiosis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nDonors with blood type AB\u00a0can donate to recipients with blood type AB only.\nDonors with blood type O can donate to recipients with blood types A, B, AB and O (O is the universal donor)"
+    },
+    "text": "Individuals with blood group AB can donate blood to individuals with blood group(s)___________?",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA and B",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nA and O",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAB only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nO only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The diagram above is an illustration of a process occurring in a living animal cell. Study it and answer this\u00a0question",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": "https://myschool.ng/storage/classroom/dljgLeaalGFglsyeUy7MZmVJTkDKSkHOje2FiNGj.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNucleus",
+        "imageUrl": "https://myschool.ng/storage/classroom/dljgLeaalGFglsyeUy7MZmVJTkDKSkHOje2FiNGj.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nMitochondrion",
+        "imageUrl": "https://myschool.ng/storage/classroom/dljgLeaalGFglsyeUy7MZmVJTkDKSkHOje2FiNGj.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nGolgi body",
+        "imageUrl": "https://myschool.ng/storage/classroom/dljgLeaalGFglsyeUy7MZmVJTkDKSkHOje2FiNGj.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nCytoplasm",
+        "imageUrl": "https://myschool.ng/storage/classroom/dljgLeaalGFglsyeUy7MZmVJTkDKSkHOje2FiNGj.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The process is called_______",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": "https://myschool.ng/storage/classroom/jYXZt6NJseeKPRBuDCyoCxZKmS5C27k0W7Rr17p6.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nreplication",
+        "imageUrl": "https://myschool.ng/storage/classroom/jYXZt6NJseeKPRBuDCyoCxZKmS5C27k0W7Rr17p6.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\ncell maturation",
+        "imageUrl": "https://myschool.ng/storage/classroom/jYXZt6NJseeKPRBuDCyoCxZKmS5C27k0W7Rr17p6.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\ncrossing over",
+        "imageUrl": "https://myschool.ng/storage/classroom/jYXZt6NJseeKPRBuDCyoCxZKmS5C27k0W7Rr17p6.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nmutation",
+        "imageUrl": "https://myschool.ng/storage/classroom/jYXZt6NJseeKPRBuDCyoCxZKmS5C27k0W7Rr17p6.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following nucleotides is not found in the DNA molecules?",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAdenine",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCytosine",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGuanine",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nUracil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In a complete dominance monohybrid cross between a pure breeding\u00a0yellow-flowered plant Y and a pure breeding white-flowered\u00a0plant y, the result of the first filial generation is _________",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50 % yellow flowers",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n75% yellow flowers",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nall yellow flowers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nall white flowers",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A man whose blood group is heterozygous B is married to a woman whose blood up is also heterozygous B",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThree of them belong to blood group B",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThree of them belong to blood group O",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNone of them belongs to blood group O",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTwo of them belong to blood group B",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The cross between RrTt and rrtt where R is a gene for red colour and T for tallness will result in______",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nall the offspring being tall with red fruits",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25 % tall with red fruits",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n50 % tall with red fruits",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n75 % tall with red fruits",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The yellow and black stripes on the body of wasps is an example of________",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmimicry",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncourtship behaviour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncamouflage",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwarning colouration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The biological importance of the dance by the worker honeybee is that it___________",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nacts as a signal for mating",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nserves as a warning signal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsignals the availability of food",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nserves as a means of identifying members of the caste",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "BIOLOGY",
+    "type": "WAEC",
+    "year": 2019
+  }
+]

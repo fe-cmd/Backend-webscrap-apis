@@ -1,0 +1,1765 @@
+[
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In linear molecules, the bond angle is",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n90o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n140o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n109o",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120o",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n180o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A sodium atom and a sodium ion have the same",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnumber of neutrons",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnumber of electrons",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nelectric charge",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectronic structure",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nchemical properties",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the atomic number of an element X is 11 and that of nitrogen is 7, the most likely formula of the nitride of X is",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nX3N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nXN3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nX3N2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN2X",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nNX2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An increase in the pressure of a gas results in a decrease in its",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmass",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvapour density",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvolume",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntemperature",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nconcentration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nApplying the Graham's law defination; i.e,\n\\(\\frac{R(SO_2)}{R(CH_4)} = \\sqrt{\\frac{M(CH_4)}{M(SO_2)}} = \\frac{t(CH_4)}{t(SO_2)}\\)\nWhere t(SO\\(_2\\)) = ?, M(SO\\(_2\\)) = 64\nt(Ch\\(_4\\)) = 20 sec, M(Ch\\(_4\\)) = 16\ntherefore, \\(\\frac{t(SO_2)}{20}\\) = \\(\\sqrt{\\frac{64}{16}}\\)\n\\(\\frac{t(SO_2)}{20}\\) = \\(\\frac{8}{4}\\)\nt(SO\\(_2\\)) = 8 x \\(\\frac{20}{4}\\)\n= 40 sec."
+    },
+    "text": "A given volume of methane diffuses in 20 seconds. How long will it take the same volume of sulphur (IV) oxide to diffuse under the same conditions? [CH4 = 16; SO2 = 64]",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5 seconds",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20 seconds",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n40 seconds",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60 seconds",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n80 seconds",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An acid is a substance which in the presence of water produces",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsalts",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\noxygen",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\neffervescence",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhydroxonium ions",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nhydrogen gas",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThere are several methods of preparation of acids. These include the following:\n\n1. By the reaction between an acidic oxide of a non-metal (acid anhydride) and water.\n\nSO2(g) + H2O(l) \u2192 H2SO3(aq) Trioxosulphate(IV)\n\nP4010(s) + 2H2O(l) \u2192 4HPO3(aq) Trioxophosphate(V)"
+    },
+    "text": "Which of the following is a general method of preparing acids?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDirect combination of constituent elements",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDouble decomposition involving a salt solution",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nReaction between an anhydride and water",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nReaction between a base and an amphoteric oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nDissolution of hydroxides followed by neutralization",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n(1) By dissolution of acid anhydride.\n(2) By combination of constituent elements.\u00a0\n(3) By the use of stronger acids with salts of weaker ones so as to liberate the weaker acids."
+    },
+    "text": "Which of the following is a general method of preparing acids?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDirect combination of constituent elements",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nReaction between a base and an amphoteric oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDouble decomposition involving a salt solution",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nReaction between an anhydride and water",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nDissolution of hydroxides followed by neutralization",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The loss of molecules of water of crystallization to the atmosphere by some crystalline salts is known as",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nefflorescence",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\neffervescence",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nphosphorescence",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nfluorescence",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ndeliquescence",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following ions will migrate to the cathode during electrolysis?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nZinc ions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nChloride ions",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSulphide ions",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTetraoxosulphate (Vl) ions",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nTrioxonitrate (V) ions",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What quantity of electrons (in mole) is lost when one mole of iron (ll) ions is oxidized to iron (lll) ions?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n1 mole",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The common feature of reactions at the anode is that",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nelectrons are consumed",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\noxidation is involved",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nions are reduced",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe electrode dissolves",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nthe electrolyte is diluted",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "From the following equations, what is the order of decreasing reactivity of X, Y and Z? Y (s) + X2+(aq) \u2192 Y2+(aq) + X(s) X(s) + Z2+(aq) \u2192 X2+(aq) + Z(s)",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nX>Y>Z",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nY > X > Z",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nZ > Y > X",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nY > Z > X",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nX > Z > Y",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What is the value of x in the following equation? MnO- 4 + 4H+ + xe- \u2192 MnO 2 + 2H2O",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n8",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the value of \u2206H for a reaction is negative, it means that the reaction is",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nslow",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nexothermic",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nspontaneous",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nirreversible",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nnot feasible",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "How much heat will be liberated if 8g of hydrogen burns in excess oxygen according to the following equation? 2H2 + O2\u2192 2H2O,\u2206H = -571.7KJ (H = 1)",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.42.9KJ",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n571.7KJ",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1143.4KJ",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n285.9KJ",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n2286.8KJ",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The position of equilibrium in a reversible reaction is affected by",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nparticle size of the reactants",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nchange in concentration of the reactants",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nchange in size of the reaction vessel",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nvigorous stirring of the reaction mixture",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\npresence of a catalyst",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Separation of mixture of solids by physical methods can be based on differences in the following except",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmelting point",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsolubility",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nparticle size",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmolar mass",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nmagnetic property",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Ethene undergoes mainly addition reactions because it is",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na gas",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na hydrocarbon",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nunsaturated",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\neasily polymerized",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\na covalent compound",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The reaction between alkanoic acids and alkanols in the presence of a mineral acid is known as",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsaponification",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhydrolysis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npolymerization",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nesterification",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ndehydration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nEmpirical formula = CH\\(_2\\)O\n= 12 + (2 x 1) + 16\n= 30\nMolecular formula = (CH\\(_2\\)O)\\(_n\\), where n is a whole number.\n= 30n\n\\(\\therefore\\) From the options, only 180 is a multiple of 30. Hence, that is the\u00a0only likely molecular mass with respect to CH\\(_2\\)O."
+    },
+    "text": "Which of the following is the relative molecular mass of a compound which has empirical formula CH\\(_2\\)O? (H = 1; C = 12; O = 16)",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n42",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n45",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n126",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n180",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n145",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The by-product of the fermentation of sugar to ethanol is",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npropane -1,2,3-triol",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nethyl ethanoate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nethanedioc acid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npropanol",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ncarbon (lV) oxide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Alkanes react with the halogens mainly by",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\noxidation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npolymerization",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\naddition",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreduction",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nsubstitution",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is used widely in the manufacture of flavours and perfumes?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAlkanoates",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAlkanones",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAlkanes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nComplex sugars",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nAliphatic compounds",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The use of diamond in abrasives is due ti its",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhigh melting point",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndurability",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlustre",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhardness",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\noctahedral shape",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the substance lettered P to V in the equation below would be left on the filter paper if the reaction mixture were filtered? P (aq) + Q(aq) \u2192 V(s) + R(aq) + T(g)",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nP",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nQ",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nV",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nT",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nR",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When chlorine is added to slaked lime, the product obtained is",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbleaching powder",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nchlorinated water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhydrochloric acid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\noxochlorate (l) acid",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ntrioxochlorate (V) salt",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following when heated strongly in air will leave a metal as residue?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSodium trioxonitrate (V)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPotassium trioxonitrate (V)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSilver trioxonitrate (V)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLead (ll) trrioxonitrate(V)",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nAluminium trioxonitrate (V)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is used as water softener?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNa2CO3.10H2O",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCuSO4. 5H2O",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMgSO4. 7H2O",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCaCI2.2H2O",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nNa2SO4. 10H2O",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The following oxides react with both acids and bases to form salts except",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nzinc oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlead (ll) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\naluminium oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntin (IV) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ncarbon (Iv) oxide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following metals is not extracted by electrolysis ?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlron",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSodium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCalcium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMagnesium",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nAluminium",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is an ore of aluminium?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHaematite",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMagnetite",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSiderite",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBauxite",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nCassiterite",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Lead and tin are the components of",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsteel",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbronze",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbrass",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndentist amalgam",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nsoft solder",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An atom 17 protons, 17 electrons and 18 neutrons has a mass number of",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n17",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n18",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n34",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n35",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n52",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If an element R belongs to the same group as sodium, an aqueous solution of ROH will",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbe neutral",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbe acidic",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbe coloured",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhave pH greater than 7",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nturn back litmus red",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Element X, with electronic configuration 2, 8, 2 and element Y with electronic configuration 2, 8, 7 are like to combine by",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmetallic bonding",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncovalent bonding",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nelectrovalent bonding",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndative bonding",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nhydrogen bonding",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The valence electrons of element 12Mg are in the",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1s orbital",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2s orbital",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2px orbital",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2py orbital",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n3s orbital",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following statements is correct about sodium chloride in the solid state?",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nit exists as aggregates of ions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nit conducts electricity",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nits melting point is below 100oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nit exists as discrete molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nits ions are linked by metallic bonds",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following Group 1 elements has the highest ionization energy?",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n55Cs",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n37Rb",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n19K",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n11Na",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n3Li",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe\u00a0absolute pressure exerted by a given mass of an ideal gas is inversely proportional to the volume it occupies\u00a0if the temperature and amount of gas remain"
+    },
+    "text": "Boyle's law can be expressed mathematically as",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nV \\(\\alpha\\) T (P constant)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nP \\(\\alpha\\) V (T constant)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nP \\(\\alpha\\) T",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nV \\(\\alpha\\) 1 / p(T constant)",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nV1/T1 = / T2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFrom the equation, C + O2 \u2192 CO2 : 22.dm3 of oxygen is required to form 44g of CO2 the volume of O2 required to produce 4.4gm is x, :. x = 44/44 X 22.4dm3"
+    },
+    "text": "What volume of oxygen at s.t.p would react with carbon to form 4.40g of CO2 according to the following equation? C(s) + O2(g) \u2192 CO2(g) [O = 16; C =12; 1 mole of a gas occupies 22.4dm3 at s.t.p]",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.224dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.24dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.40dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.48dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n22.4dm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A mixture of NaCI(s) and CaCO3(s) is best separated by",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndissolution followed by filtration",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsublimation followed by crystallization",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndissolution followed by evaporation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndissolution followed by crystallization",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nsublimation followed by dissolution",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What is the basicity of the acid in the followed reaction? NaCO + 2CHCOOH \u2192 2CH COONa + H2O + CO2",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n8",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1997
+  }
+]

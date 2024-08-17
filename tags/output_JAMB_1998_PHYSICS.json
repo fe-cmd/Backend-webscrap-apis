@@ -1,0 +1,1658 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF = ma\n\nTherefore, a = \\(\\frac{F}{m}\\)\n\na = \\(\\frac{7.5 \\times 10^{3}}{0.025}\\)\n\na = 3 x 105m/s2\n\nusing V2 = U2 + 2ax; \n\nV2 = 02 + (2 x 3 x 105 x 0.15)\n\nTherefore V = 300 m/s"
+    },
+    "text": "A bullet fired at a wooden block of thickness 0.15m manages to penetrate the block. If the mass of the bullet is 0.025kg and the average resisting force of the wood is 7.5 x 103N, calculate the speed of the bullet just before it hits the wooden block.",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n450ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n400ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n300ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n250ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nVelocity \\(\\alpha \\sqrt{temperature}\\)\n\n\\(\\frac{V_1}{V_2} = \\sqrt{\\frac{T_1}{T_2}}\\)\n\ntherefore, \\(\\frac{360}{V_2} = \\sqrt{\\frac{27 + 273}{127 + 273}}\\)\n\n\\(V_2 = 240\\sqrt{3}\\)m/s"
+    },
+    "text": "The velocity of a sound wave at 27oC is 360ms-1. Its velocity at 127oC is",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n120\u221a3 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n240 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n240\u221a3 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n720\u221a3 ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nImpulse = F x t = m(v-u)"
+    },
+    "text": "The physical quantity that has the same dimensions as impulse is",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nenergy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmomentum",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsurface tension",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npressure",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A ball is moving at 18ms-1 in a direction inclined at 60o to the horizontal. The horizontal component to its velocity is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9\u221a3ms-1 \u00b7",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6\u221a3ms-1 \u00b7",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8\u221a3ms-1 \u00b7",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9ms-1 \u00b7",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn free fall, every object will reach the ground at same time"
+    },
+    "text": "In free fall, a body of mass 1kg drops from a height of 125m from rest in 5s. How long will it take another body of mass 2kg to fall from rest from the same height? [g = 10ms-1\u00b7]",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nImpulse = m(v-u)\n\n= 0.15(50--30)\n= 0.15 X 80\n\n= 12N/s"
+    },
+    "text": "A ball of mass 0.15kg is kicked against a rigid vertical wall with a horizontal velocity of 50ms-1. If it rebounced with a horizontal velocity of 30ms-1, Calculate the impulse of the ball on the ball \u00b7 \u00b7",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.0Ns",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.5Ns",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7.5Ns",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12.0Ns",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nF \\(\\alpha \\frac{1}{r^2}\\)\n\ntherefore, \\(\\frac{F_1}{F_2}\\) = \\(\\frac{r_1}{(r_2)^2}\\)\n\n\\(\\frac{10^{-4}}{F_2}\\) = \\(\\frac{(0.06)^2}{(0.18)^2}\\)\n\nF = 9 x 10-4N"
+    },
+    "text": "The force of attraction between two point masses is 10-4N when the distance between them is 0.18m. If the distance is reduced to 0.06m, calculate the force.",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.1 x 10-5N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.3 x 10-5N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0 x 10-4N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9.0 x 10-4N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\nTaking moment about P,\n2 x d\u00a0= 0.5 x (50 - 30)\n2x = 10\nx = 5 cm"
+    },
+    "text": "A uniform meter rule weighing 0.5N is to be pivoted on a knife-edge at the 30cm-mark. where will a force of 2N be placed from the pivot to balance the meter rule?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n95cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPower x time = mgh\n\n120 x 20 = 80 x 10 x h\n\n2400 = 800h\n\nmaking h the subject of formula,divide both side by 800\n\n\\(\\frac{2400}{800}\\) = h\n\nh = 3m"
+    },
+    "text": "A man whose mass is 80kg climbs a staircase in 20s and expends power of 120W. Find the height of the staircase.[g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.8m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.5m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3.0m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A parachute attains a terminal velocity when",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nits density is equal to the density of air",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe viscous force of the air and the upthrust completely counteract its weight",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nit expands as a result of reduced external pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe viscous force of the air is equal to the sum of the weight and upthrust",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nEfficiency = \\(\\frac{\\text{work done by hand}}{\\text{work done by effort}}\\) \n\n80 = \\(\\frac{100{\\times 8}}{E {\\times} 40}\\) x \\(\\frac{100}{1}\\)\n\nE = 25N"
+    },
+    "text": "In a wheel and axle mechanism the diameters of the wheel and axle are 40cm and 8cm respectively. Given that the machine is 80% efficient, what effort is required to lift a load of 100N?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n50N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nStrain = \\(\\frac{extension}{\\text{original length}}\\)\n\n\\(\\frac{2 {\\times} 10^{-5}}{0.01}\\)\n\n= 2 x 10-3"
+    },
+    "text": "The tendon in a man's leg is 0.01m long. If a force of 5N stretches the tendon by 2.0 x 10-5m, calculate the strain on the muscle.",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5 x 106",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5 x 102",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2 x 10-3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 x 10-7",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of these statements are correct for the pressures in liquids? i. pressure in a liquid at a point acts equally in all directions. ii. pressure increases with depth. iii. pressure at a depth depends on the shape of the container. iv. pressure at the same depth in different liquids are proportional to the density at different liquids.",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni, ii, iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ni, ii, iv only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni, iii, iv only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii, iii, iv only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPressure = heg = 1000 x 10 x 10 = 105Nm-2\n\nTotal pressure = (1.3 x 106) + (1 x 105)\n\n= 1.4 x 106Nm-2"
+    },
+    "text": "The atmospheric pressure due to water is 1.3 x 106Nm-2. What is the total pressure at the bottom of an ocean 10m deep? [Density of water = 1000kgm-3, g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.3 x 107Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.4 x 106Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.4 x 105Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.0 x 10 5Nm-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nRd = \\(\\frac{\\text{upthrust in oil}}{\\text{upthrust in }H_2O}\\)\n\nthus; 0.875 = \\(\\frac{0.21}{\\text{upthrust in }H_2O}\\)\n\nupthrust in H2O = 0.24N"
+    },
+    "text": "A solid of weight 0.600N is totally immersed in oil and water respectively. If the upthrust of oil is 0.210N and the relative density of oil is 0.875. Find the upthrust in water.",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.600N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.360N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.240N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.180N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n8\\(\\Omega\\).....100oC\n\n6\\(\\Omega\\).....\\(\\theta\\)oC\n\n3\\(\\Omega\\).....0oC\n\n\\(\\frac{6 - 3}{8 - 3}\\) = \\(\\frac{\\theta - 0}{100 - 0}\\)\n\ntherefore, \\(\\theta\\) = 60oC"
+    },
+    "text": "A platinum resistance thermometer records 3.0\\(\\Omega\\) at 0oC and 8.0\\(\\Omega\\) at 100oC. If it records 6.0\\(\\Omega\\) in a certain environment, The temperature of the medium is",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n80oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n50oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n30oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nlinear expansivity = \\(\\frac {V_2 - V_1}{V_1 {\\times} {\\Delta}{\\theta}}\\)\n\n3 x 2 x 10-5 =\\(\\frac {V_2 - 15}{15 {\\times} (100 - 0)}\\)\n\nV2 = 15.09cm3"
+    },
+    "text": "The linear expansivity of brass is 2 x 10-5C-1. If the volume of a piece of brass is 15.00cm3 at 00C, What is the volume at 100oC?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n16.03cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16.00cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n15.09cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15cm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac {V_1}{T_1}\\) = \\(\\frac {V_2}{T_2}\\)\n\n\\(\\frac {100}{27 + 273}\\) = \\(\\frac {120}{T + 273}\\)\n\nT = 87oC"
+    },
+    "text": "A gas has a volume of 100cm3 at 27oC. If it is heated to temperature T until a final volume of 120cm3 is attained, calculate T",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n33oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n87oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n114oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHeat energy = Electrical energy\n\nmc\\(\\theta\\) = power x time \n\n0.6 x c x (100 - 25) = 500 x t1\n\nand, 0.2 x c x (100 - 10)= 100 x t2 \n\\(\\frac {t_1}{t_2}\\) = 5"
+    },
+    "text": "A 500W heater is used to heat 0.6kg of water from 25oC to 100oC in t2 seconds. If another 1000W heater is used to heat 0.2kg of water from 10oC to 100oC in t, seconds, find \\(\\frac {t_1}{t_2}\\)",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5/4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1/5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nHeat lost = Heat gained\n\nmc\\(\\theta\\) = mL\n\nm x 4200 x 17 = 42 x 3.4 x 105\n\ntherefore, m = 200g"
+    },
+    "text": "How many grams of water at 17oC must be added to 42g of ice at 0oC to melt the ice completely? [specific latent heat of fusion of ice = 3.4 x 105Jkg-1, specific heat capacity of water = 4200Jkg-1k-1]",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n300g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n320g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n400g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A vapour is said to be saturated when",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmore molecules return to the liquid than the amount that left it",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na dynamic equilibrium exists between the molecules of the liquid and the vapour molecules at a given temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe vapour pressure is equal to the atmospheric pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nall molecules are moving with the same speed in all directions at a given temperature",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "One valid assumption of the kinetic theory of gasses is the",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe molecules of a gas are constantly in a state of motion and the number of collision remains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe number of molecule of gas increases with increasing pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nas the temperature increases, the number of collision made by the gas molecule remains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe molecules of gas are all identical and are very small in size",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The physical properties of sound waves can best be described by",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nreflection and diffraction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npolarization and reflection",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npolarization and diffraction",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npolarization and refraction",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In a closed organ pipe producing a musical note, an antinode will always be produced at",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe closed end",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe open end",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe middle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nall the parts of the pipe",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn strings, \\(\\lambda\\) = 2L\n\nV = F\\(\\lambda\\)\n\n= 200 x 2 x 0.5\n\n= 200ms-1"
+    },
+    "text": "A steel wire of length 0.50m is stretched between two fixed points and its fundamental frequency is 200Hz. The speed of the wave in the wire is",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n100ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n120ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n200ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n250ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nF3 = 7Fo\n\n= 7 x 280\n\n= 1960Hz"
+    },
+    "text": "In a resonance tube experiment, if the fundamental frequency of the vibrating air column is 280Hz, the frequency of the third overtone is",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n70Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n840Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1120Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1960Hz",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn a concave mirror, when the object distance is less than the focal length, we have an image which is:\n- Virtual\n- Erect and\u00a0\n- Magnified."
+    },
+    "text": "An object 0 lies at a distance m in front of concave mirror of focal length f. If m < f, then the final image obtained will be",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nvirtual and diminished",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmagnified and erect",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nreal and inverted",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndiminished and erect",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNumber of image = \\(\\frac{360}{\\theta}\\) -1 \n\n7 = \\(\\frac{360}{\\theta}\\) -1\n\nthus,\\(\\theta\\) = 45o"
+    },
+    "text": "An object is placed in front of two plane mirrors inclined at an angle of 0o. If the total number of images formed is 7, Find the value of \\(\\theta\\)",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n30o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n45o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n51o",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n90o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIn optics, parabolic mirrors are used\u00a0to gather light in reflecting telescopes and solar furnaces, and project a beam of light in flashlights, searchlights, stage spotlights, and car headlights."
+    },
+    "text": "The most suitable type of mirror used for the construction of the search light is the?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconcave mirror",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconvex mirror",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nspherical mirror",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nparabolic mirror",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nn = \\(\\frac {\\text{real depth}}{\\text {apparent depth}{}}\\)\n\nn = \\(\\frac {t}{t-d}\\) \n\n\\(\\frac{t - d}{1}\\) = \\(\\frac{t}{n}\\)\n\n-d = \\(\\frac{t}{n}\\) - t \n\nd = - \\(\\frac{t}{n}\\) + t\n\nd = t - \\(\\frac{t}{n}\\)\n\nd =t (1 - \\(\\frac{1}{n}\\))"
+    },
+    "text": "The displacement d produced in a glass block of thickness t and refractive index n when an object is viewed through it is",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nt \u2013 n",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nt (1 + 1/n)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nt (1-1/n)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nt (1/n - 1)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{uv}{u - v}\\)\n\nF = +ve\n\nv = -ve\n\n30 = \\(\\frac {25 {\\times} (-v)}{25 - (-v)}\\)\nv = \\(\\frac {25 {\\times} (-v)}{25+v}\\)\nv = 14cm\n(Note that either negative or positive values go to show the positioning and hence, they are not a strong necessity in your final answer.)"
+    },
+    "text": "A man wears convex lens glasses of focal length 30cm in order to correct his eye defect. instead of the optimum 25cm, his least distance of distinct vision is",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n14cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n28cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n75cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n150cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following are true about the infra-red radiation? i. it is invisible ii. it is called heat ray iii. its frequency is higher than that of blue light iv. it travels as a transverse wave",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni, ii, iii and iv",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ni, ii, iv only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni, iii, iv only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nii, iii, iv only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF =\\(\\frac{1}{4{\\pi}{\\varepsilon}_o}\\) x \\(\\frac {q_1q_2}{r^2}\\)\n\nF =\\(\\frac {5 {\\times} 10 {\\times} 8 {\\times} 10}{0.002 {\\times} 0.002}\\) x 9 x 10 \n\nF = 900N"
+    },
+    "text": "The force of repulsion between two point positive charges 5\\(\\mu\\)C and 8\\(\\mu\\)C separated at a distance of 0.02 map art is. [\\(\\frac{1}{4{\\pi}{\\varepsilon}_o}\\) = 9 x 109Nm2C-2]",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.8 x 10-10N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9.0 x 10-8N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9.0 x 102N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.5 x 103N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An ebonite rod rubbed with fur attracts a glass rod rubbed with silk because",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nebonite has a negative charge while glass has a positive charge",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nebonite has a positive charge while glass has a negative charge",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nboth have negative charges",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nboth have positive charges",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following can be used to reduce local action in a Laclanche cell?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA carbon rod as the positive pole",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPure zinc as the negative pole",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPotassium permanganate solution in contact with the positive pole",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncommon salt solution",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nV = \\(\\frac{W}{Q}\\)\n\nW = VQ\n\nW = 100 x 2 \n\nW = 200J"
+    },
+    "text": "Find the work done in moving a 2 C charge between two points X and Y in an electric field if the potential difference is 100 volts",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n100J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n200J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n400J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nC = \\(\\frac{{\\varepsilon}_oA}{d}\\)\n\n= \\(\\frac{5{\\times} 10^{-8} {\\times} 10^{-12}{\\times} 9}{2 {\\times}10^{-3}}\\)\n\n= 22.5 x 10-17F"
+    },
+    "text": "A parallel plate capacitor has a common plate area of 5 x 10\\(^{-8}\\)m2 and plate separation of 2 x 10\\(^3\\)m, Assuming free space,",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.25 x 10-17F",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.50 x 10-17F",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.25 x 10-16F",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.50 x 10-16F",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The iron core of an induction coil is made from bundles of wire so as to",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nminimize eddy-currents",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngenerate eddy-current",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprevent sparking at the contact breaker",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nget the greatest posible secondary voltage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nElect. energy = I2Rt\n\n= 100 x 100 x 0.5 x 3600 \n\n= 1.8 x 107J"
+    },
+    "text": "Electricity is supplied to a school along a cable of total resistance 0.5\\(\\Omega\\) with the maximum current drawn from the mains as 100A. The maximum energy dissipated as heat for 1 hr is",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.6 x 103J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 x 103J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0 x 105J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.8 x 107J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nEfficiency = \\(\\frac{I_sV_s}{I_pV_p}\\) x 100"
+    },
+    "text": "A transformer which can produce 8V from a 240v a.c. supply, has an efficiency of 80%. If the current in the secondary coil is 15A, calculate the current in the primary coil.",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.625A",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.600A",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.500A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.250A",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nm = QZ \n\n= 2 x 104 x 1.3 x 10-7\n\n= 2.6 x 10-3kg"
+    },
+    "text": "The electrochemical equivalent of a metal is 1.3 x 10-7kgC-1. The mass of the metal which 2.0 x 104C of electricity will deposit from a suitable electrolyte is",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.5 x 10-2kg",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.6 x 10-2kg",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.5 x 10-3kg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.6 x 10-3kg",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nEnergy = mc2\n\n= 1 x (3 x 108)2 x 106\n\n= 9 x 1010J"
+    },
+    "text": "In a nuclear fusion experiment, the loss of mass amounts to 1.0 x 10-6kg. The amount of energy obtained from the fusion is",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.0 x 10-4J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.0 x 10-1J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9.0 x 104J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9.0 x 1010J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In photoelectric effect, electrons will leave the metal surface when illuminated by light of appropriate frequency if the photon energy is",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ngreater than the work function",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nless than the work function",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nequal to the work function",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nequal to the maximium kinetic energy of the electron",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe horizontal (eastward) component of the 10N force is = 10 cos60\n\u2192 10 x 0.5 = 5N.\u00a0\nThe equilibrant force needed to stop the body moving eastward must act in exactly the\nopposite direction.\u00a0\nTherefore, the needed force is 5N in the direction of West"
+    },
+    "text": "A body on the ground is acted on by a force of 10N at a point P as shown in the fig above. What force is needed to stop the body from moving eastwards?",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": "https://myschool.ng/storage/classroom/26257098618_1998.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5N in the direction of east",
+        "imageUrl": "https://myschool.ng/storage/classroom/26257098618_1998.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n5N in the diretion of west",
+        "imageUrl": "https://myschool.ng/storage/classroom/26257098618_1998.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n5V3N in the direction of west",
+        "imageUrl": "https://myschool.ng/storage/classroom/26257098618_1998.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n10N in the southwest direction",
+        "imageUrl": "https://myschool.ng/storage/classroom/26257098618_1998.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The total resistance measured at PQ in the diagram above is",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": "https://myschool.ng/storage/classroom/13128550470_19980001.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n18.0\u2126",
+        "imageUrl": "https://myschool.ng/storage/classroom/13128550470_19980001.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n11.0\u2126",
+        "imageUrl": "https://myschool.ng/storage/classroom/13128550470_19980001.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n4.0\u2126",
+        "imageUrl": "https://myschool.ng/storage/classroom/13128550470_19980001.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n2.0\u2126",
+        "imageUrl": "https://myschool.ng/storage/classroom/13128550470_19980001.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the AC circuit diagram above, the resonance frequency is",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": "https://myschool.ng/storage/classroom/23339647456_19980002.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5000\u03c0 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/23339647456_19980002.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n2500\u03c0 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/23339647456_19980002.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n5000/\u03c0 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/23339647456_19980002.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n2500/\u03c0 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/23339647456_19980002.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1998
+  }
+]

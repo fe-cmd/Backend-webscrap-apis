@@ -1,0 +1,150 @@
+[
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "The sum of the interior angles of regular polygon is \\(1800^{\\circ}\\). How many sides has the polygon?",
+    "explanation": "Sum \\(= (n - 2)180\\)\\(1800 = (n - 2)180\\)Divide both sides by \\(180^{\\circ}\\)\\(\\frac{1800}{180} = (n - 2)\\frac{180}{180}\\)\\(10 = n - 2\\)\\(10 + 2 = n\\)\\(n = 12\\)",
+    "options": [
+      {
+        "option": "T",
+        "text": " sum of the interior angles of regular polygon is \\(1800^{\\circ}\\). How many sides has the polygon?",
+        "imageUrl": null
+      }
+    ],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Find the coefficient of m in the expression of \\((\\frac{m}{2} - 1\\frac{1}{2})(m + \\frac{2}{3})\\)",
+    "explanation": "\\((\\frac{m}{2} - 1\\frac{1}{4})(m + \\frac{2}{3})\\)\\((\\frac{m}{2} - \\frac{3}{2})(\\frac{m}{1} + \\frac{2}{3})\\)\\(= \\frac{m^2}{3} + \\frac{3m}{6} - \\frac{6}{6}\\)\\(= \\frac{2m - 9m}{6}\\)\\(= \\frac{-7m}{6}\\)\\(= -1\\frac{1}{6}\\)",
+    "options": [
+      {
+        "option": "F",
+        "text": "d the coefficient of m in the expression of \\((\\frac{m}{2} - 1\\frac{1}{2})(m + \\frac{2}{3})\\)",
+        "imageUrl": null
+      }
+    ],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "The volume of a cuboid is 54 cm\n3\n. If the length, width and height of the cuboid are in the ratio 2:1:2 respectively, find its total surface area",
+    "explanation": "V = L \u00d7 B \u00d7 HV = 2x \u00d7 x \u00d7 x = 2x3= 54 cm3i.e. 2x3 = 54 x3 = 54 \u00f7 2 = 27x = 3 L = 2x i.e. 2 \u00d7 3 = 6 cmB = x i.e. x = 3 cmH = x i.e. x = 3 cmBut A = 2(LB + LH + BH) = 2(6 \u00d7 3) + (6 \u00d7 3) + (3 \u00d7 3) = 2(18 + 18 + 9) = 2(45)= 90 cm2",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "A side and a diagonal of a rhombus are 10cm and 12cm respectively, Find its area",
+    "explanation": "Using formula; \\(A=\\frac{1}{2}p \\sqrt{4} a^{2}- p^{2}\\) where a = side and p = diagonal\\(A=\\frac{1}{2}(12) \\sqrt{4(10)}^{2} - 12 ^{2}\\)\\(A= 6\\sqrt{256}\\)\\(A= 6 . 16\\)\\(A= 96cm ^{2}\\)",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "Factorise completely: 32x\n2\ny - x\n3\ny\n3",
+    "explanation": "Let's start by looking at the given expression: \\(32x^2y - x^3y^3\\).The first step in factorizing this expression is to identify the common factors in both terms. We can see that both terms have x and y as common factors. In fact, the least power of x in both terms is \\(x^2\\) and the least power of y in both terms is y. So, we can factor out \\(x^2y\\).When we factor out \\(x^2y\\), the expression becomes: \\(x^2y(32 - xy^2)\\).Now, let's examine the remaining expression inside the parentheses: \\(32 - xy^2\\). We can further factor out a constant from the first term. Since 32 is divisible by 16, we can rewrite the expression as:\\(x^2y(16(2 - \\frac{1}{16}xy^2))\\).Finally, we can simplify the expression inside the parentheses by multiplying the factor 16 with both terms:\\(16x^2y(2 - 3xy^2)\\).Comparing our result with the given options, we can see that our factorization matches Option A: 16x2y(2 - 3xy2), which is the correct answer.The other options are incorrect because they either don't have the correct common factors or they aren't completely factorized.",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "If \\(x\\) and \\(y\\) are variables and \\(k\\) is a constant, which of the following describes an inverse relationship between \\(x\\) and \\(y\\)?",
+    "explanation": "In order to understand the concept of an inverse relationship between two variables, let's first define what it means. In an inverse relationship, when one variable increases, the other variable decreases, and vice versa. This is different from a direct relationship, where both variables increase or decrease together.The correct answer is Option B: \\(y = \\frac{k}{x}\\). This equation represents an inverse relationship between \\(x\\) and \\(y\\), because as \\(x\\) increases, the value of \\(y\\) decreases, and as \\(x\\) decreases, the value of \\(y\\) increases. The constant \\(k\\) is a proportionality constant that determines the rate at which the relationship changes.Now let's explain why the other options are incorrect:Option A: \\(y = kx\\) - This equation represents a direct relationship between \\(x\\) and \\(y\\), because as \\(x\\) increases or decreases, \\(y\\) will also increase or decrease respectively.Option C: \\(y = k\\sqrt{x}\\) - This equation does not represent an inverse relationship because as \\(x\\) increases, \\(y\\) will also increase, but at a decreasing rate. It is neither a direct nor an inverse relationship.Option D: \\(y = x + k\\) - This equation represents a linear relationship between \\(x\\) and \\(y\\), with \\(k\\) being the constant term. As \\(x\\) increases, \\(y\\) will also increase, but at a constant rate. This is not an inverse relationship.In summary, an inverse relationship between two variables is represented by the equation \\(y = \\frac{k}{x}\\), where \\(k\\) is a constant. This means that as one variable increases, the other variable decreases, and vice versa.",
+    "options": [
+      {
+        "option": "I",
+        "text": "\\(x\\) and \\(y\\) are variables and \\(k\\) is a constant, which of the following describes an inverse relationship between \\(x\\) and \\(y\\)?",
+        "imageUrl": null
+      }
+    ],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "C",
+    "imageUrl": "https://nigerianscholars.com/assets/uploads/2017/03/mathematics-1-e1489559113102.jpg",
+    "text": "In the diagram, |QR| = 10 m, |SR| = 8 m, < QPS = 30\u00b0, < QRP = 90\u00b0 and |PS| = x. Find x.",
+    "explanation": "In right angled \u0394QPR tan 30\u00b0 = \\(\\frac{10}{x + 8}\\)(x + 8) tan 30\u00b0 = 10x + 8 = \\(\\frac{10}{0.5773}\\)x + 8 = 17.3x = 17.3 - 8x = 9.32 m",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "B",
+    "imageUrl": "https://nigerianscholars.com/assets/uploads/2017/03/mathematics-2-e1489560973374.jpg",
+    "text": "In the diagram, O is a circle centre of the circle PQRS and < PSR = 86\u00b0. If < PQR = x\u00b0, find x",
+    "explanation": "x\u00b0 = 86 \u00d7 2(angle at centre = 2 \u00d7 angle at circumference)= 172\u00b0",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "A",
+    "imageUrl": "https://nigerianscholars.com/assets/uploads/2017/03/mathematics-3-e1489562737807.jpg",
+    "text": "The diagram is a circle centre O. If < SPR = 2m and < SQR = n, express m in terms of n",
+    "explanation": "If n = 2mm = \\(\\frac{n}{2}\\)",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "C",
+    "imageUrl": "https://nigerianscholars.com/assets/uploads/2017/03/mathematics-4-e1489566248485.jpg",
+    "text": "In the diagram, MQ//RS, < TUV = 70\u00b0 and < RLV = 30\u00b0. Find the value of x",
+    "explanation": "L + 30\u00b0 - 180\u00b0(Sum of L = 180\u00b0 - 30\u00b0 = 150\u00b0L = q = 150\u00b0 (opposite angles) y = b = 30\u00b0 (alternating angles) b + c = 180\u00b0 (sum of angles on a straight line)30\u00b0 + c = 180\u00b0c = 180 - 30 c = 150\u00b0 b = a = 30\u00b0 (opposite angles) c = d = 150\u00b0 (opposite angles)a + k + 70\u00b0 = 180\u00b0 (sum of angles on a straight line)30\u00b0 + k + 70\u00b0 = 180\u00b0k + 100\u00b0 = 180\u00b0k = 180 - 100k = 80\u00b0 x + 80\u00b0 = 180(sum of angles on a straight line)x = 180\u00b0 - 80\u00b0 x = 100\u00b0",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "WAEC",
+    "year": "2017"
+  }
+]

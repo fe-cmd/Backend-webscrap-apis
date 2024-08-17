@@ -1,0 +1,1442 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n8\\(^{x - 2}\\) = 4\\(^{3x}\\)\n2\\(^{3(x - 2)}\\) = 2\\(^{2(3x)}\\)\n2 \\(^{3x - 4}\\) = 2\\(^{6x}\\)\n2 \\(^{x - 4}\\)\u00a0 = 6\\(^x\\)\n\\(\\frac{-4x}{-4}\\) = \\(\\frac{4}{-4}\\)\nx = -1"
+    },
+    "text": "Solve: 8\\(^{x - 2}\\) = 4\\(^{3x}\\)",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{P}{2} + \\frac{k}{3}\\) = 5\n\\(\\frac{3p + 2k}{6}\\) = 5\n2p + 3k = 30\n- 2p - k = 6\n\\(\\overline{\\frac{4k}{4} = \\frac{24}{4}}\\)\u00a0\nk = 6\n\u00a0\nFrom 2p - k = 6\n2p - 6 = 6\n\\(\\frac{2p}{2} = \\frac{12}{2}\\)\np = 6"
+    },
+    "text": "Solve; \\(\\frac{P}{2} + \\frac{k}{3}\\) = 5 and 2p = k = 6 simultaneously",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\np = -6, k = -6",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\np = -6, k = 6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\np = 6, k = 6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\np = 6, k = -6",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTan 75\\(^o\\) = Tan (45\\(^o\\) + 30\\(^o\\))\n= \\(\\frac{\\tan 45^o + \\tan 30^o}{1 - \\tan 45^o \\tan 30^o}\\)\n=\u00a0\\(\\frac{\\sqrt{3} + 1}{\\sqrt{3}\u00a0 - 1}\\)\nRATIONALIZE THE DENOMINATOR\n= \\(\\frac{\\sqrt{3} + 1}{\\sqrt{3}\u00a0 - 1}\\) X\u00a0\\(\\frac{\\sqrt{3} + 1}{\\sqrt{3}\u00a0 +1}\\)\n=\u00a0\\(\\frac{4 + 2\\sqrt{3}}{3\u00a0 - 1}\\)\n=\u00a0\\(\\frac{2(2\u00a0+ \\sqrt{3})}{2}\\)\n= 2\u00a0+ \\(\\sqrt{3}\\)"
+    },
+    "text": "Evaluate tan 75\\(^o\\); leaving the answer in surd form (radicals)",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\sqrt{3 + 2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\sqrt{3 + 1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\sqrt{3 - 1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\sqrt{3 - 2}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{1}{\\sqrt{2} + 1}\\) x \\(\\frac{\\sqrt{2} - 1}{\\sqrt{2} - 1}\\)\n= \\(\\frac{\\sqrt{2} - 1}{2 - 1}\\)\n= \\(\\frac{\\sqrt{2}\u00a0- 1}{1} = \\sqrt{2} - 1\\)"
+    },
+    "text": "Rationalize; \\(\\frac{1}{\\sqrt{2 + 1}}\\)",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\sqrt{2}\\) - 1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1 - \\(\\sqrt{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{\\sqrt{2} - 1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{1 - \\sqrt{2}}{2}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(^nC_2\\) = 15\n\\(\\frac{n!}{(n - 3)! 2!}\\) = 15\n\\(\\frac{n(n - 1)(n - 2)!}{(n - 2)!2}\\) = 15\u00a0\nn\\(^2\\) - n = 30\nn\\(^2\\) - n - 30 = 0\n(n - 6)(n + 5) = 0\nn = 6 or n = -5"
+    },
+    "text": "If \\(^nC_2\\) = 15, find the value of n",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n7",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{1}{x^2 - 4} = \\frac{P}{(x + 2)} + \\frac{Q}{(x - 2)}\\)\nI = p(x - 2) + Q(x + 2)\nLet x = 2\nI = P(2 - 2) + Q(2+ 2)\nI = -4Q\u00a0\nQ = \\(\\frac{1}{4}\\)\u00a0\nLet x = -2\nI = P(-2\u00a0 - 2) + Q(-2 + 2)\nI = -4p\u00a0\nP = \\(\\frac{1}{-4}\\)\u00a0\nPQQ = - \\(\\frac{1}{4} + \\frac{1}{4}\\)\n= 0"
+    },
+    "text": "Given that \\(\\frac{1}{x^2 - 4} = \\frac{p}{(x + 2)} + \\frac{Q}{(x - 2})\\)",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{3}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nd = -3 - (-7) = 4\nS\\(_{20}\\) = \\(\\frac{20}{2}\\){2(-7) + (20 - 1) 4}\n= 10(- 14 + 76)\n= 620"
+    },
+    "text": "Find the sum of the first 20 terms of the sequence -7-3, 1, ......",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n620",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n660",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n690",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1240",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\sqrt{4x^2 + 1}\\) = \\(\\frac{13x}{6}\\)\n4x\\(^2\\) + 1 = \\(\\frac{169x^2}{36}\\)\n4 + x\\(^2\\)\u00a0 = \\(\\frac{169x^2}{36}\\)\u00a0\ncross multiply\n169x\\(^2\\) - 144x\\(^2\\) = 36\n25x\\(^2\\) = 36\nx\\(^2\\) = \\(\\frac{36}{25}\\)\n: x = \\(\\pm\\frac{6}{5}\\)"
+    },
+    "text": "Find the value of x for which 6\\(\\sqrt{4x^2 + 1}\\) = 13x, where x > 0",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{6}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{25}{24}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{24}{25}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{5}{6}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\ndistance = \\(\\sqrt{(3 - (-5)^2 + (-1 - (-2)^2)}\\)\n= \\(\\sqrt{8^2 + 1^2}\\)\n= \\(\\sqrt{65}\\) units"
+    },
+    "text": "Calculate the distance between points (-2, -5) and (-1, 3)",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\sqrt{5}\\) units",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\sqrt{17}\\) units",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\sqrt{65}\\) units",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\sqrt{73}\\) units",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nPQ = \\(\\begin {pmatrix} 2 & 3\\\\\u00a0-4 & 1\\end {pmatrix}\\)\u00a0= \\(\\begin {pmatrix} 6 \\\\\u00a08 \\end {pmatrix}\\) =\u00a0\\(\\begin {pmatrix} 36 \\\\\u00a0- 16\\end {pmatrix}\\)\n\\(\\begin {pmatrix} 36 \\\\\u00a0-16 \\end {pmatrix} \\) = k =\u00a0\\(\\begin {pmatrix} 45 \\\\\u00a0-20 \\end {pmatrix} \\)\nk = \\(\\frac{36}{45}\\)\u00a0\n= \\(\\frac{4}{5}\\)"
+    },
+    "text": "If P = \\(\\begin {pmatrix} 2 & 3\\\\\u00a0\u00a0-4 &\u00a01 \\end {pmatrix}\\), Q = \\(\\begin{pmatrix} 6 \\\\ 8 \\end {pmatrix}\\) and PQ = k \\(\\begin {pmatrix} 45\\\\\u00a0-20 \\end {pmatrix}\\). Find the value of k.",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-\\(\\frac{5}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-\\(\\frac{4}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{4}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{5}{4}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nar = \\(\\frac{2}{9}\\) .....(i)\u00a0\nar\\(^3\\) = \\(\\frac{8}{81}\\) ......(ii)\u00a0\n\\(\\frac{ar3}{ar} = \\frac{8}{81} \\times \\frac{9}{2}\\)\u00a0\nr\\(^2 = \\frac{4}{9}\\)\u00a0\nr = \\(\\sqrt{\\frac{4}{9}}\\)\u00a0\n= \\(\\frac{2}{3}\\)\u00a0\nar = \\(\\frac{2}{9}\\)\u00a0\na(\\(\\frac{2}{3}\\)) = \\(\\frac{2}{9}\\)\na =\u00a0(\\(\\frac{2}{3}\\)) = \\(\\frac{2}{9}\\)\na = \\(\\frac{2}{9} \\times \\frac{3}{2}\\)\na = \\(\\frac{1}{3}\\)\u00a0\nT\\(_r\\) = ar\\(^5\\) = (\\(\\frac{1}{3}\\))(\\(\\frac{2}{5}\\))\\(^5\\)\u00a0\n= \\(\\frac{32}{729}\\)"
+    },
+    "text": "The second and fourth terms of an exponential sequence (G.P) are \\(\\frac{2}{9}\\) and \\(\\frac{8}{81}\\) respectively. Find the sixth term of the sequence",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{81}{32}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{9}{8}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{32}{729}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\u00a0\nh = 96 Tan 30\\(^o\\) = 55.425\nP = \\(\\frac{55.425}{Tan60^o}\\)\u00a0\n= 32m"
+    },
+    "text": "Point X and Y are on the same horizontal base as the foot of a building such that X is 96m due east of the building and Y is due west. If the angle of elevation of the top of that building from X is 30\\(^o\\) and that of Y is 50\\(^o\\), calculate the distance of Y from the base of the building.",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n30m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n32m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n42m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n50m",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\ny = 8x + 5\u00a0\nm = 8\ny = 3x\\(^2\\) - 2x - 5\u00a0\n\\(\\frac{dy}{dx}\\) = 6x - 2x - 5\n\\(\\frac{6x}{6} = \\frac{10}{6}\\)\u00a0\nx = \\(\\frac{5}{3}\\)\ny = 0"
+    },
+    "text": "Find the coordinates of the point in the curve y = 3x\\(^2\\) - 2x - 5 where the tangent is parallel to the line y = - 5 = 8x",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\begin{pmatrix} - \\frac{5}{3} &, 0 \\end {pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\begin{pmatrix} 0, & - \\frac{5}{3} \\end {pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\begin{pmatrix} 0, & \\frac{5}{3} \\end {pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\begin{pmatrix} \\frac{5}{3} &, 0 \\end {pmatrix}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{1 + 5 + x + 6 + x + 2 + 7 + 9}{6}\\) = 6\n26 + 2x = 36\u00a0\n2x = 36 - 26\n2x = 10\u00a0\nx = \\(\\frac{10}{2}\\) = 5\n2, 5, 6, 7, 7, 9\nMedian = \\(\\frac{6 + 7}{2}\\) = 6.5"
+    },
+    "text": "If the mean of 2, 5, (x + 1), (x + 2), 7 and 9 is 6, find the median.",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\nx - \\(\\bar{x}\\)\n(x - \\(\\bar{x}\\))\n\n\n\n5\n8\n2\n9\n6\n\n\n-1\n2\n-4\n3\n0\n\n\n1\n2\n4\n3\n0\n\n\n\n\n\u00a0\n\\(\\bar{x}\\) = \\(\\frac{30}{5}\\) = 6\n\\(\\sum |x - \\bar{x}|\\)\n= 10\nMean deviation = \\(\\frac{10}{5}\\)\n= 2"
+    },
+    "text": "Calculate the mean deviation of 5, 8, 2, 9 and 6",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nV = 3t\\(^2\\) - 6t\n\\(\\frac{ds}{dt} = 3t^2 - 6t\\)\ns = \\(\\int 3t^2 - 6t\\)\ns = \\(\\frac{3t^3}{3} - \\frac{6t^2}{2} + k\\)\ns = t\\(^3\\) - 3t\\(^2\\) + k\ns = 0, t = 0\ns = t\\(^3\\) - 3t\\(^2\\)\u00a0\ns = 4\\(^3\\) - 3t\\(^2\\)\u00a0\ns = 4\\(^3\\) - 3(4)\\(^2\\)\u00a0\n= 64 - 48 = 16m"
+    },
+    "text": "A particle starts from rest and moves\u00a0in a straight line such that its velocity, V ms\\(^{-1}\\), at time t second\u00a0is given by V = 3t\\(^2\\) - 6t. Calculate the acceleration in the 3rd second.",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n64m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n96m",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nV = 3t\\(^2\\) - 6t\n\\(\\frac{dx}{dt}\\) = 6r - 6\nat t = 4\n\\(\\frac{dx}{dt}\\) = 6 x 4 - 6 = 24 - 6\n= 18\nat t = 3\n\\(\\frac{dy}{dt}\\) = 6 x 4 - 6\u00a0\n= 24 - 6\n= 18\u00a0\nat t = 3\n\\(\\frac{dx}{dt}\\) = 6 x 3 - 6 = 18 - 6\n= 12\n\\(\\frac{dy}{dt}\\) = 18 - 12\u00a0\n= 6ms\\(^{-2}\\)"
+    },
+    "text": "A particle starts from rest and moves\u00a0in a straight line such that its velocity, V ms\\(^{-1}\\), at time t second\u00a0is given by V = 3t\\(^2\\) - 6t. Calculate the acceleration in the 3rd second.",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0 ms\\(^{-2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 ms\\(^{-2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6 ms\\(^{-2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9 ms\\(^{-2}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n6(2x\\(^2\\))\\(^2\\) (\\(\\frac{1}{x^2}\\))\\(^2\\) \u00a0\n= 6 x 2\n= 12"
+    },
+    "text": "Find the constant term in the\u00a0binomial expansion of (2x\\(^2\\) +\u00a0\u00a0\\(\\frac{1}{x^2}\\))\\(^4\\)",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n12",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n24",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n42",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n(0, 1.5), (-3, 0)\u00a0\nm = \\(\\frac{0 - 1.5}{-3, 0}\\) = 0.5\n0.5 = \\(\\frac{y - 1.5}{-3.0}\\) = 0.5\ny = 0.5x + 1.5\u00a0\n2y = x + 3\n2y - x - 3 < 0"
+    },
+    "text": "",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": "https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&_nc_ohc=h0CetEoWf8QAX-lzQxC&_nc_ht=scontent.flos8-1.fna&oh=c4949bfbbcd5cbecc9046f4d21f793d5&oe=6148ABD2",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2y + x - 3 < 0",
+        "imageUrl": "https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&_nc_ohc=h0CetEoWf8QAX-lzQxC&_nc_ht=scontent.flos8-1.fna&oh=c4949bfbbcd5cbecc9046f4d21f793d5&oe=6148ABD2"
+      },
+      {
+        "option": "B",
+        "text": "\n2y - x - 3 < 0",
+        "imageUrl": "https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&_nc_ohc=h0CetEoWf8QAX-lzQxC&_nc_ht=scontent.flos8-1.fna&oh=c4949bfbbcd5cbecc9046f4d21f793d5&oe=6148ABD2"
+      },
+      {
+        "option": "C",
+        "text": "\n2y - x + 3 < 0",
+        "imageUrl": "https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&_nc_ohc=h0CetEoWf8QAX-lzQxC&_nc_ht=scontent.flos8-1.fna&oh=c4949bfbbcd5cbecc9046f4d21f793d5&oe=6148ABD2"
+      },
+      {
+        "option": "D",
+        "text": "\n2y + x +3 < 0",
+        "imageUrl": "https://scontent.flos8-1.fna.fbcdn.net/v/t1.15752-9/s206x206/239427793_163978835866970_1367191365625210633_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEtfHRk7d1EIK8cCihivrj97OIzfgvAZrXs4jN-C8BmtWOI0oiPxJ34AsfA3vWEvOPyH33y18MI-wuA18NLR-z4&_nc_ohc=h0CetEoWf8QAX-lzQxC&_nc_ht=scontent.flos8-1.fna&oh=c4949bfbbcd5cbecc9046f4d21f793d5&oe=6148ABD2"
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nChange in momentum\u00a0\n= F x t = 35N x 2\u00a0\n= 70kg ms\\(^{-1}\\)"
+    },
+    "text": "A 35 N force acts on a body of mass 5 kg for 2 seconds. Calculate the change in momentum of the body.",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n70 kg ms\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n55 kg ms\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n50 kg ms\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n35 kg ms\\(^{-1}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n(0,3)\\(^x\\) = (0.5)\\(^8\\)\u00a0\nxlog 0,3 = 9 log 0.5\nx = \\(\\frac{8 \\log 0.5}{\\log 0.3}\\)\n= 4.606"
+    },
+    "text": "Solve, correct to three significant figures, (0.3)\\(^x\\) =\u00a0\u00a0(0,5)\\(^8\\)",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.61",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.606",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.461",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.0130",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nP \\(\\cap\\) (Q U Q`)\nP \\(\\cap\\) U = P"
+    },
+    "text": "Given that P and Q are\u00a0non-empty subsets of the universal set, U. Find P \\(\\cap\\) (Q U Q`).",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\np",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nP`",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nQ",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nQ`",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n(2x + \\(\\frac{3y}{4}\\))\\(^3\\)\n= 3(2x) (\\(\\frac{3y}{4}\\))\\(^2\\)\n= \\(\\frac{27}{8}\\)y\\(^2\\)"
+    },
+    "text": "Find the coefficient of the term in the binomial expansion of [2x + \\(\\frac{3y}{4}\\)]\\(^3\\) in descending powers of x.",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{27}{64}\\)y\\(^2\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{27}{8}\\)y\\(^2\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8y\\(^2\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9y\\(^2\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{3x^2}{3} + \\frac{3y^2}{3} - \\frac{6x}{3} + \\frac{9y}{3} - \\frac{5}{3}\\) = 0\n2gx = -2x, 2 fy = 3y\u00a0\ng = -1, f = \\(\\frac{3}{2}\\)\nCentre (1, - \\(\\frac{3}{2}\\))"
+    },
+    "text": "Find the coordinates of the centre of the circle 3x\\(^2\\) + 3y\\(^2\\) - 6x + 9y - 5 = 0",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(-3. \\(\\frac{9}{2}\\))",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(-1. \\(\\frac{3}{2}\\))",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(1, - \\(\\frac{3}{2}\\))",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(3. -\\(\\frac{9}{2}\\))",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\int^0_0 \\sqrt{x} dx\\)\n\\(\\frac{x^{\\frac{1}{2}} + 1}{\\frac{1}{2} + 1}\\) |\\(^9_0\\)\n\\(\\frac{2x^{\\frac{3}{2}}}{3}\\)|\\(^9_0\\)\n= \\(\\frac{2(9)^{\\frac{3}{2}}}{3}\\)\n= \\(\\frac{2(3)^3}{3}\\)\n= \\(\\frac{2 \\times 27}{3}\\)\n= 2 x 9\n= 18"
+    },
+    "text": "Evaluate \\(\\int^0_0 \\sqrt{x} dx\\)",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n18",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n27",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nf (x) = x\\(^2\\) + px + q\n\\(\\frac{dy}{dx}\\) = 2x + p\n2x + p = 0\n2(-3) + p = 0\np = +6\nf(-2) = -2\\(^2\\) + p(-2) + q\n= -6 2p + q = -10\n-2(-16) + q = -10\n-12 + q = -10\u00a0\nq = -10 + 12\u00a0\n= 2"
+    },
+    "text": "The function f : x \\(\\to\\) x\\(^2\\) + px + q has turning point when x = -3 and remainder of -6 when divided by (x + 2). Find the value of q.",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-8",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\ny = (5 - x)\\(^{-3}\\)\u00a0\n\\(\\frac{dy}{dx}\\) = -3(5 - x)\\(^{-4}\\)\n= \\(\\frac{-3}{(5 - x)^4}\\)"
+    },
+    "text": "If y = (5 - x)\\(^{-3}\\), and \\(\\frac{dy}{dx}\\)",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{-15}{(5 - x)^4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{-3}{(5 - x)^4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{3}{(5 - x)^4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{15}{(5 - x)^4}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following vectors is perpendicular to \\(\\begin{pmatrix} -1 & 3 \\end{pmatrix}\\)?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\begin{pmatrix} -3 & 1 \\end{pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\begin{pmatrix} 1 & 3 \\end{pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\begin{pmatrix} 1 & -3 \\end{pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\begin{pmatrix} 1 & 3 \\end{pmatrix}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCos \\(\\theta\\) = \\(\\frac{4(12) +\u00a0(-5)(3)}{\\sqrt{12^2 + (-5)^2}\\sqrt{4^2 + 3^2}}\\)\nCos\\(\\theta\\) = \\(\\frac{48 - 15}{(\\sqrt{189})(\\sqrt{25})}\\)\n\\(\\theta = cos^{-1}\\) (\\(\\frac{33}{61.28}\\))\n\\(\\theta\\) = cos\\(^{-1}\\)0.5367\n\\(\\theta\\) = 59\\(^o\\)"
+    },
+    "text": "Find correct to the nearest degree,5\u00a0the angle between p = 12i - 5j\u00a0and q = 4i +3j",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n59\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n75\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n76\\(^o\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\int^0_{-2} x + 1\\) x\\(^2 + x|^0_{-2}\\)\n0 - (2\\(^2 - 2\\))\n= 2 square units"
+    },
+    "text": "Find\u00a0the area between line y =\u00a0x + 1 and the x-axis\u00a0from x = -2\u00a0to x = 0.",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5 square units",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 square units",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2 square units",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1 square unit",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo of ways\u00a0\n= 4 x 5 x 3\n= 60 ways"
+    },
+    "text": "How many numbers greater than 200 can be formed from the digits 1,2,3,4, 5 if no digit is to be repeated in any particular number?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n288",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n300",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n(0.9 x 0.7) + (0.1 x\u00a00.7)\u00a0\n= (0.9 x 0.3)\n= 0.63 + 0.07 + 0.27\u00a0\n= 0.97"
+    },
+    "text": "The probabilities that John and Jane will pass an examination are 0.9 and 0.7 respectively. Find the probability that at least one of them will pass the examination.",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.28",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.67",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.72",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.97",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nP(X \\(\\cup\\) Y) = P(X)P(Y)\u00a0\n0.15 = 0.5m\nm = \\(\\frac{0.015}{0.5}\\)\n= 0.3"
+    },
+    "text": "Given that X and Y are independent events such that P(X) = 0.5, P(Y) = m and P(X U Y) = 0.75, find the value of m.",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.6",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.3",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\u00a0\n54 x 40 = 35 x 10 + 60F\u00a0\n160 = 350 + 60F\u00a0\nF = \\(\\frac{1810}{60}\\)\u00a0\n= 30N"
+    },
+    "text": "A uniform beam, PQ. is 100 m long and weighs 35 N. It is placed on a support at a point 40 cm from P. If weights of 54 N and FN are attached at P and Q respectively in order to keep it in a horizontal position, calculate, correct to the nearest whole number, the value of F.",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n69",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n60",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n35",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n30",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nLim(\\(\\frac{1 - x}{x^2 - 3x + 2}\\))\n= \\(^{lim}_{x \\to 1}\u00a0\\begin{pmatrix} \\frac{1 - x}{x^2 - 3x + 2} \\end {pmatrix}\\)\n= \\(^{lim}_{x \\to 1}\u00a0\\begin{pmatrix} \\frac{x - 1}{(x\u00a0- 2)(x + 1)} \\end {pmatrix}\\)\n= \\(\\frac{-1}{1 - 2}\\)\n= \\(\\frac{-1}{-1}\\)\u00a0\n= 1"
+    },
+    "text": "Evaluate: \\(^{lim}_{x \\to 1}\u00a0\\begin{pmatrix} \\frac{1 - x}{x^2 - 3x + 2} \\end {pmatrix}\\)",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n- \\(\\frac{1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An operation (*) is defined on the set T = {-1, 0, ...., 5} by x * y = x + y - xy. Which of the following operation(s) will give an image which is an element of T?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nII only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI and III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII and III only",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nf(20\\(^o\\)) = cos 20\\(^o\\) = 0.9397\ng(0.9397) = 3(0.9397)\n= 2.82"
+    },
+    "text": "Given that g ; x \\(\\to\\) 3x and f ; x \\(\\to\\) cos x. Find the value of\u00a0g\\(^o\\) f(20\\(^o\\))",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.50",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.94",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.60",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.82",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nQ(3 -3, 2) = [-(-3) + 2, -4(2)]\n= (3 + 2, -8)\u00a0\n= (5, -8)"
+    },
+    "text": "A linear transformation is defined by T: (x, y) \\(\\to\\) (-x + y, -4y). Find the image, Q`, of Q(-3, 2) under T",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nQ`(5, -8)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nQ`(-8, 5)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nQ`(5, -3)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nQ`(-5, -8)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\ng(-3) = 5 - 2(-3)\n= 5 + 6 = 11"
+    },
+    "text": "If g : r \\(\\to\\) 5 - 2r, r is a real number, find the image of -3",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n13",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n11",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-9",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Consider the following statements:",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA. (r ^ p) \\(\\to\\) q",
+        "imageUrl": null
+      },
+      {
+        "option": "A",
+        "text": "\n(r ^~ p) \\(\\to\\) q",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(r ^ q) \\(\\to\\) p",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(r ~ ^ p) \\(\\to\\) q",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "FURTHER MATHEMATICS",
+    "type": "WAEC",
+    "year": 2019
+  }
+]

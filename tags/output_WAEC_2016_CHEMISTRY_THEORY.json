@@ -1,0 +1,792 @@
+[
+    {
+        "correct explanation": {
+            "text": [
+                {
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(a) Nucleons refer to the protons and neutrons that are found in the nucleus OR Nucleons are nuclear particles which are protons and neutrons.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(b) Graham's law of diffusion states that, at constant temperature and pressure, the rate of diffussion of a gas is inversely proportional to the square root of its density or molar mass or vapour density",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(c) Aluminum oxide layer forms on the surface of the metal. The oxide layer forms a potective coating layer which does not flake off.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(d) — atomic radius, Ionic radius, ionization energy. —redox potentials, electronegativity, electron affinity. — melting point, boiling point, electrical conductivity.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(e) — Molecules of real gases have significant attractive forces between them.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "— The volume of the molecules of real gases is not negligible.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "--- Collision between the molecules are not perfectly elastic.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(f) — Separation of crude oil into its components / petroleurn refining. —Purification of ethanol. —Separation of liquefied air",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(g) —Position of the ions in the electrochemical series —Concentration of the ions in the electrolyte —Nature of the electrodes used.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(h)(i) Substitution reaction. (ii) Addition reaction.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(i) — Carbon or soot, Carbon two oxide (carbon II oxide), Water.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(j) Filtration, Crystallisation, Evaporation, decantation, centrifugation",
+                    "imageUrl": null
+                },
+                {
+                    "imageUrl": null
+                }
+            ]
+        },
+        "text": [
+            "(a) What are nucleons?",
+            "(b) State Graham's law of diffusion.",
+            "(c) Explain briefly why aluminium does not corrode easily.",
+            "(d) State three examples of periodic properties.",
+            "(e) State two reasons why real gases deviate from ideal gas behaviour.",
+            "(f) List three uses of fractional distillation in industry.",
+            "(g) What factors determine the selective discharge of ions at the electrodes during electrolysis?",
+            "(h) State the type of reaction represented by each of the following equations:",
+            "(i) C\\(_2\\)H\\(_6\\) + Br\\(_2\\) ---> C\\(_2\\)H\\(_5\\)Br + HBr;",
+            "(ii) C\\(_2\\)H\\(_4\\) + .Br\\(_2\\) ---> CH\\(_4\\)Br\\(_2\\)",
+            "",
+            "(i) Name the products formed when butane burns in limited supply of air.",
+            "(j) List three methods of separating a solid from a liquid."
+        ],
+        "structure": "THEORY",
+        "number": 1,
+        "imageUrl": null,
+        "options": [],
+        "subType": "MAY/JUNE",
+        "subject": "CHEMISTRY",
+        "type": "WAEC",
+        "year": "2016"
+    },
+    {
+        "correct explanation": {
+            "text": [
+                {
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(a)(i) Isotopy",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) They have different mass numbers or number of neutrons.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iii) —Hydrogen, —Chlorine. —Carbon, —Oxygen.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iv) 1 S\\(^2\\)2S\\(^2\\)2P\\(^62\\)3S\\(^2\\)3P\\(^5\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(b)(i)  1. DIFFERENCES IN PHYSICAL PROPERTIES",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "METALS",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "NON — METALS",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Good conductors of heat and electricity",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Poor conductors of heat and electricity",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Malleable - can be beaten into thin sheets",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Not malleable / brittle",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Ductile — can be stretched into wire",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Non ductile / biittle",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Possess metallic luster",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Do not possess metallic luster",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Are sonorous",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Not sonorous",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Solid at room temperature except mercury / high melting point",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Solids, liquids or gases at room temperature / low melting point",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "2. DIFFERENCES IN CHEMICAL PROPERTIES",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "METALS NON",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "METALS",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Lose their valence electrons easily / ionize by electron loss",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Gain or share valence electrons easily / ionize by electron gain",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Form oxides that are basic / amphoteric",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Form oxides that are acidic / neutral",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Are good reducing agents",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Are good oxidizing agents",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Have lower electro negativities",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Have higher electro negativities",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Have low ionization energy",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Have high ionization energy",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(Some reactive metals) react with dilute acids to give off hydrogen",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Do not react with dilute acids to give off hydrogen.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) (l) BeO, Al\\(_2\\)O\\(_3\\), ZnO, SnO\\(_2\\), PbO, PbO\\(_2\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(II) LiH, NaH, KH, CaCO\\(_3\\) MgH\\(_2\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(III) Li\\(_2\\)CO\\(_3\\), BeCO\\(_3\\), MgCO\\(_3\\), CaCO\\(_3\\), ZnCO\\(_3\\), PbCO\\(_3\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(IV) AlCl\\(_3\\), MgCl\\(_2\\), PCl\\(_3\\), SiCl\\(_4\\), NH\\(_4\\)Cl",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(c)(i) - form coloured compounds / ions, - exhibit variable oxidation states. - form complex compounds / ion. - have magnetic properties (paramagnetism). - have catalytic properties.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) —> 1s\\(^2\\)2s\\(^2\\)2p\\(^6\\)3s\\(^2\\)3p\\(^6\\)3d\\(^{10}\\)4s\\(^2\\) are fully filled",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(d) Mr(MgCO\\(_3\\)) = 24 + 12 + (16 x 3) 84",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Mr(Na\\(_2\\)CO\\(_3\\)) = (23 x 2) +12 + (3 x 16) = 106",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "moles of MgCO\\(_3\\) = \\(\\frac{3.36}{84}\\) = 0.04",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "moles of Na\\(_2\\)CO\\(_3\\) = moles of MgCO\\(_3\\) = 0.04",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "mass of NaCO\\(_3\\) = 0.04 x106 = 4.24g",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "OR",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Mr(MgCO\\(_3\\)) = 24 + 12 + (1 6 x 3) 84",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Mr(Na\\(_2\\)CO\\(_3\\)) = (23 x 2) +12 + (3 x 16) = 106",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "84g of MgCO\\(_3\\) produced from 10\\(^6\\)g Na\\(_2\\)CO\\(_3\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "3.36g of MgCO\\(_3\\) will be produced",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "From 106 x \\(\\frac{3.36}{84}\\) = 4.24g",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "imageUrl": null
+                }
+            ]
+        },
+        "text": [
+            "(a) Consider the following atoms: \\(^R_T\\)X; \\(^S_T\\)X.",
+            "(i) State the phenomenon exhibited by the two atoms.",
+            "(ii) What is the difference between the atoms?",
+            "(iii) Give two examples of elements that exhibit the phenomenon stated in (ai)",
+            "(iv) lf T is 17, write the electron configuration of the element",
+            "",
+            "(b)(i) State two differences between metals and-non-metals with respect to their:",
+            "I. physical properties;",
+            "2. chemical properties.",
+            "(ii) Give one example of each for the following compounds:",
+            "I. an amphoteric oxide;",
+            "II. a hydride which evolves hydrogen when reacted with water;",
+            "Ill. a trioxocarbonate (IV) salt which is readily decomposed on heating;",
+            "IV. a chloride salt which is readily hydrolyzed in water.",
+            "",
+            "(c)(i) State three characteristic properties of transition metals.",
+            "(ii) Write the electron configuration of \\(_{30}Zn\\)",
+            "(iii.) Explain briefly why zinc is not considered as a typical transition element.",
+            "",
+            "(d) Consider the reaction represented by the following equation:- Na\\(_2\\)CO\\(_{3(aq)}\\) + MgCl\\(_{2(aq)}\\) ----> 2NaCl\\(_{(aq)}\\) + MgCO\\(_{3(aq)}\\). Calculate the mass of sodium trioxocarbonate (IV) needed to produce 3.36 of magnesium trioxocarbonate (IV). [C = 12.0, O = 16.0, Na = 23.0, Mg = 24:0 ]"
+        ],
+        "structure": "THEORY",
+        "number": 2,
+        "imageUrl": null,
+        "options": [],
+        "subType": "MAY/JUNE",
+        "subject": "CHEMISTRY",
+        "type": "WAEC",
+        "year": "2016"
+    },
+    {
+        "correct explanation": {
+            "text": [
+                {
+                    "imageUrl": "https://myschool.ng/storage/classroom_answers/WGot4IRqab2UsHqd8gP0guRnhocB6mJ8IESCQQKS.png"
+                },
+                {
+                    "explanation": "(a)(i) Structural Isomers of C\\(_4\\)H\\(_4\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) (I)Tertiary(3°)alkanol.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(II) Primary (1°)alkanol.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(III) Secondary (2°) alkanol",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(b)(i)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(I) CH\\(_3\\)CH\\(_2\\)COOK, H\\(_2\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(II) CH\\(_3\\)CH\\(_2\\)COOC\\(_4\\)H\\(_9\\) H\\(_2\\)O",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(III) CH\\(_3\\)CH\\(_2\\)CH\\(_2\\)COOH",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) Major products in (b)(i) (1) — Potassuim propanoate (II) — Butyl propanoate (III) — Butanoic acid",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(C)(i) % carbon by mass = 100 – 14.3 (l) = 85.7%",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Ratio of atoms = \\(\\frac{C}{\\frac{85.7}{12.0}}\\) = 7.1415; \\(\\frac{H}{\\frac{14.3}{1.0}}\\) = 14.3",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Divide by smaller number = \\(\\frac{7.1415}{7.1415}\\) = 1; \\(\\frac{14.3015}{7.1415}\\) = 2",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Empirical Formular = CH\\(_2\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(i) 2.24dm\\(^3\\) = 7.0g of R",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "22.4dm\\(^3\\) =  \\(\\frac{7.0}{2.24}\\)  x 22.4 = 70gmol\\(^1\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "OR",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Molar volume of gas = 22.4 dm\\(^3\\) at s.t.p 22.4",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "22.4 dm\\(^3\\) gas = 1 mole",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "22.4 dm\\(^3\\) = \\(\\frac{2.24}{22.4} \\times 1\\) = 0.1 mol",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "But numbers of moles = 0.1",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Mr = \\(\\frac{7}{0.1}\\) = 70gmol\\(^1\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Molecular formular = C\\(_5\\)H\\(_{10}\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(CH_2)n = 70",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "14n = 70",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "n = \\(\\frac{70}{4}\\) = 5",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(d) The occurence of / existence of / condition whereby compounds with the same molecular formula have different structural formulae.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "imageUrl": "https://myschool.ng/storage/classroom_answers/WGot4IRqab2UsHqd8gP0guRnhocB6mJ8IESCQQKS.png"
+                },
+                {
+                    "imageUrl": null
+                }
+            ]
+        },
+        "text": [
+            "(a) (i) Draw the structures of the isomers of the alkene with molecular formurat C\\(_4\\)H\\(_8\\)",
+            "(ii) State the class of alkanols to which each of the following compounds belongs:",
+            "I. CH\\(_3\\)C(CH\\(_3\\))\\(_2\\)OH;",
+            "II. CH\\(_3\\)CH(CH\\(_3\\))CH\\(_2\\)OH;",
+            "III. CH\\(_3\\)CH\\(_2\\)CH(CH\\(_3\\))OH.",
+            "(b) (i) Write the formulae of the products formed in the following reactions:\nI. CH\\(_3\\)CH\\(_2\\)COOH \\(\\frac{K_{(s)}}{}\\)",
+            "II. CH\\(_3\\)CH\\(_2\\)COOH. \\(\\frac{C_4H_6OH, heat}{Conc.H_2SO_4}\\)",
+            "III. CH\\(_3\\)CH\\(_2\\)CH\\(_2\\)CH\\(_2\\)OH \\(\\frac{H^+/KMnO_4}{(excess)}\\)",
+            "(ii) Name the major product(s) of each of the reactions in (b)(i).",
+            "",
+            "(c) A gaseous hydrocarbon R of mass 7.0 g occupies a volume of 2.24 dm\\(^3\\) at s. t.p. If the percentage composition by mass of hydrogen is 14.3, determine its:",
+            "(i) empirical formula;",
+            "(ii) molecular formula. [ H = 1.00, C = 12.0, Molar volume of gas at s.t.p, = 22.4 dm\\(^3\\) ]",
+            "",
+            "(d) Define structural isomerism."
+        ],
+        "structure": "THEORY",
+        "number": 3,
+        "imageUrl": null,
+        "options": [],
+        "subType": "MAY/JUNE",
+        "subject": "CHEMISTRY",
+        "type": "WAEC",
+        "year": "2016"
+    },
+    {
+        "correct explanation": {
+            "text": [
+                {
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(a) (i) Concentrated tetraoxosulphate (vi) acid fused calcuim chloride.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) Pass or bubble each gas into lime water, if lime water turns milky then CO, is present if no reaction then CO is present.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(b) (i) –Atmospheric air is compressed and cooled to liquefy it. – The liquefied air undergoes fractional distillation. – Nitrogen boils out first at – 196°C followed by oxygen at – 183°C.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) – Splint burns brighter / continues to burn in oxygen. Splint is extinguished in nitrogen",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(c) (i) – Bauxite is more abundant than any other ore. – Bauxite has less percentage of silicates as impurity.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) . – iron (III) oxide. – Trioxosilicates(IV) / silica / sand.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iii) To dissolve the aluminium oxide so that the impurities can be filtered off",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iv) Aluminium is very reactive to be reduced by the eommon reducing agenfleoaction.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(v) Al\\(_2\\)O\\(_3\\) + 2NaOH \\(\\to\\) 2NaAlO\\(_2\\) +H\\(_2\\)O or Al\\(_2\\)O\\(_2\\) + 2NaOH + 3H\\(_2\\)O --> 2NaAl(OH)\\(_4\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(d) (i) The ions are not free at 25°C since sodium chloride is in the solid state but between 801°C and 1413°C the ions are free / mobile since it is now in the molten / liquid state.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) Sodium metal is very reactive with air/ it is easily oxidised in air / tarnishes easily.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(e) (i) Brown precipitate / reddish brown / orange solid formed",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) 3Na\\(_2\\)CO\\(_{3(aq)}\\) + 2Fe\\(^{3+}\\) --> Fe\\(_{2}\\) (CO\\(_3\\))\\(_{3(s)}\\) + 6Na\\(^{+}\\)",
+                    "imageUrl": null
+                },
+                {
+                    "imageUrl": null
+                }
+            ]
+        },
+        "text": [
+            "(a)(i) Name a suitable drying agent for the preparation of carbon (IV) oxide in the laboratory.",
+            "(ii) Using one chemical test, distinguish between carbon (II) oxide and carbon (IV) oxide.",
+            "",
+            "(b)(i) Describe briefly how oxygen and nitrogen could be obtained separately from air on an industrial scale",
+            "(ii) State how a lighted splint can be used to distinguish between samples of oxygen and nitrogen.",
+            "",
+            "(c)(i) Give one reason why bauxite is usually preferred as the ore for the extraction of aluminium.",
+            "(ii). List two main impurities. usually present in bauxite.",
+            "(iii) State the function of sodium hydroxide solution in the extraction of aluminium from its ore.",
+            "(iv) Explain briefly why it is difficult to extract aluminium by chemical reduction of aluminium oxide",
+            "(v) Write an equation for the reaction of aluminium oxide with aqueous sodium hydroxide.",
+            "",
+            "(d) (i) The melting and boiling points of sodium chloride are 801 °C and 141.3 °C respectively. Explain briefly why sodium chloride does not conduct electricity at 25°C but does so between 801 °C and 1413 °C.",
+            "(ii) State the reason why sodium metal is stored under paraffin oil in the laboratory.",
+            "",
+            "(e)(i) State what would be observed when aqueous sodium trioxocarbonate(IV) is added to a solution containing iron (III) ions",
+            "(ii) Write a balanced equation for the reaction in (e)(i)."
+        ],
+        "structure": "THEORY",
+        "number": 4,
+        "imageUrl": null,
+        "options": [],
+        "subType": "MAY/JUNE",
+        "subject": "CHEMISTRY",
+        "type": "WAEC",
+        "year": "2016"
+    },
+    {
+        "correct explanation": {
+            "text": [
+                {
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(a) (i) let x = oxidation number of sulphur 2(1) + 2 + 3(-2) = 0",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "x = +2",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) Allotropes of sulphur are: – rhombic / alpha sulphur. – monoclinic / Beta / prismatic sulphur. – amorphous / delta sulphur. – plastic sulphur",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iii) – Macromolecule / giant molecule /3 dimensional. – carbon atoms are covalently bonded. – crystalline in nature.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(b) (i) Carbon(IV)oxide. – methane. – nitrogen(I)oxide. –water vapour – ozone – chlorofluorocarbons.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii) – Global warming / climate change.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iii) – Ammonium trioxonitrate (V) /aerosol (accept ammonium nitrate). – Combustion of fuel at high temperature.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(iv)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(I) 2KNO\\(_3\\) --> 2KNO\\(_2\\) + O\\(_2\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(II) 2AgNO\\(_{_3(s)}\\) ---> 2Ag\\(_s\\) + 2NO\\(_{2(g)}\\) + O\\(_2\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(c) (i) – Heat the solution to concentrate it or leave in a warm place.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "- partially evaporate solution and allow to cool filter off crystals.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "- pick out crystals",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "- Dry crystals with filter paper.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(ii)(1) Ammonia readily associates with water molecules through hydrogen bonding.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(II) Chlorine molecules are smaller or chlorine molecules have fewer number of electrons and the strength of van der waals forces between molecules are weaker as compared to that of iodine OR iodine molecules are higher and the wander waal's forces between molecules are stronger as compared to that of chlorine.",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "(d) Mr(NaCl) = 23.0 + 35.5 = 58.5g/mol\\(^1\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Mass of NaCl = 5.85g",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Molar mass of NaCl= 58.5g/mol\\(^1\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Amount of NaCl in 85g = \\(\\frac{5.85g}{58.5gmol^{-1}}\\) = 0.1mol",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "1 mol of NaCI = 22.4dm\\(^3\\) of HCI",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": ":. 0.1 mol = \\(\\frac{0.1}{1}\\) x 22.4 = 2.24dm\\(^3\\)\n\nOR",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "Molar mass NaCl = 23.0 + 35.5 = 58.5gg/mol\\(^1\\)",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "58.5g of NaCl = 22.4dm\\(^3\\) HCl",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "58.5g = \\(\\frac{22.4}{58.5}\\) x 5.85",
+                    "imageUrl": null
+                },
+                {
+                    "explanation": "= 2.24dm\\(^3\\)",
+                    "imageUrl": null
+                },
+                {
+                    "imageUrl": null
+                }
+            ]
+        },
+        "text": [
+            "(a)(i) Determine the oxidation number of sulphur in Na\\(_2\\)S\\(_2\\)O\\(_3\\)",
+            "(ii) Name the allotropes of sulphur.",
+            "(iii) State two ways in which the structure of graphite and diamond are similar.",
+            "",
+            "(b)(i) Name two green-house gases.",
+            "(ii) State one effect of an increased level of green-house gases on the environment.",
+            "(iii) State one source from which nitrogen (I) oxide is released into the environment.",
+            "(iv) Write a chemical equation to show the effect of heat on each of the following compounds: I. KNO\\(_{3(s)}\\) II. AgNO\\(_{3(s)}\\)",
+            "",
+            "(C)(i)Describe briefly how pure crystals of calcium chloride could be obtained from a solution of calcium chloride",
+            "ii) Explain briefly each of the following observations:",
+            "I. ammonia gas is highly soluble in water;",
+            "II. boiling ploint of chlorine is lower than that of iodine",
+            "",
+            "(d) Consider the reaction represented by the following equation:- 2NaCl + H\\(_2\\)SO\\(_{4(s)}\\)  \\(\\to\\) Na\\(_2\\)SO\\(_{4(s)}\\) + 2HCl\\(_{(g)}\\)",
+            "Calculate the volume of HCl gas that can be obtained at s.t.p. from 5.85 g of sodium. chloride. [ Na = 23.0, Cl = 35.5, Molar volume of gas at s.t.p. = 22.4 dm\\(^3\\)]"
+        ],
+        "structure": "THEORY",
+        "number": 5,
+        "imageUrl": null,
+        "options": [],
+        "subType": "MAY/JUNE",
+        "subject": "CHEMISTRY",
+        "type": "WAEC",
+        "year": "2016"
+    }
+]

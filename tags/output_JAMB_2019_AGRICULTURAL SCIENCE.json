@@ -1,0 +1,2882 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nMaize, millet and guinea corn does not really require nursery."
+    },
+    "text": "Which of the following cereal crops most requires nursery practices?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMaize",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nRice",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMillet",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nGuinea corn",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nGroundnut (Arachis hypogea) maturity period is between four to five months"
+    },
+    "text": "The maturity period of groundnut in month is",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1 - 2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2 - 3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4 - 5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6 - 7",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nOil Palm (Elaeis guinensis) requires a pH scale of 5.5 to 6.5 i.e. it requires a pH scale which is acidic. Therefore, 5.5 - 6.5."
+    },
+    "text": "Oil palm trees do well in soils with pH level of",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5 - 3.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.5 - 4.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.5 - 6.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.5 - 7.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe optimum temperature for storing yam tuber under cold storage is 280K (7\u00b0C). Therefore, 7\u00b0C is correct."
+    },
+    "text": "The optimum temperature for storing yam tuber under cold storage is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7\u00b0C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9\u00b0C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n13\u00b0C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15\u00b0C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDure, Tenera and Pisifera are cultivate varieties of oil palm. Choice B is correct."
+    },
+    "text": "Dura, Tenera and Pisifera are all cultivated varieties of",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncoconut",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\noil palm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nrubber",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbanana",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nDure, Tenera and Pisifera are cultivate varieties of oil palm. Choice B is correct."
+    },
+    "text": "Dura, Tenera and Pisifera are all cultivated varieties of",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncoconut",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nrubber",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbanana",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\noil palm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nChoice B, A and C are oil crops but choice D is a leguminous crop. Therefore, choice D is correct."
+    },
+    "text": "The non-oil crop among the following is",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncoconut",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbeniseed",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmelon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncowpea",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nTenera is a variety of oil palm. Choice C is correct"
+    },
+    "text": "A variety of oil palm is",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAmelonado",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAcuminata",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nTenera",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTrinitario",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Fertilizer application in maize should be completed before",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTasseling",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSilking",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRiponing",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nKnee high stage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe ideal pH of coffee is between 6.5 to 7.5. Therefore, choice D is correct."
+    },
+    "text": "Ideal pH for coffee cultivation is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.0 - 4.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 - 5.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.0 - 6.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.5 - 7.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nBoron (B) is highly immobile because of its size. Therefore, choice A is correct."
+    },
+    "text": "Which of the following nutrient is highly immobile in plants?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nB",
+        "imageUrl": null
+      },
+      {
+        "option": "A",
+        "text": "\nMg",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nK",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nP",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nBlast of rice is a fungal disease. Therefore, choice C is correct."
+    },
+    "text": "Blast of rice is a",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nViral disease",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nBacteria disease",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nFungal disease",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDeficiency of zinc disease",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA soil may be called as alkaline when the pH of the soil is more than 7.0 pH scale than is less than 7.0 is acidic while pH scale that is greater than 7.0 is alkaline. pH scale that is equal to 7.0 is neutral. Therefore, choice C is correct."
+    },
+    "text": "A soil may be called as alkaline when the pH of the soil is more than",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7.0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nRice (Oryza Sativa) needs Silicon (si) for its growth. Choice C is correct."
+    },
+    "text": "Which of the following requires Silicon (Si) for its growth?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMaize",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nGroundnut",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRice",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nGreen grain",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nPhalaris minor is a crop associated with wheat. Choice A is correct."
+    },
+    "text": "Phalaris minor is a crop associated wood with crop",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nWheat",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMaize",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRice",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCotton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nChoice A is correct. Crop rotation involves the growing of crops one after other in a particular sequence"
+    },
+    "text": "What is crop rotation?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGrowing of crops one after the other in a particular sequence",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nGrowing more than one crop at a time",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGrowing of an associate crop in between the rows of the main crop",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nGrowing of crops together in strips",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe main made of infection of tinderpest disease is through inhalation of infected air by cattles. Choice D is correct"
+    },
+    "text": "The main mode of infection of rinderpest disease in cattle is through",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ngrazing",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndrinking",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncontact",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ninhalation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe pox diseases in livestock are caused by viruses. Choice B is correct"
+    },
+    "text": "The pox disease in livestock are caused by",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbacteria",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nviruses",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprotozoa",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nfungi",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe minerals that prevents the laying of thin-shelled eggs are calcium and phosphorus (Ca and P).\nThin-shelled eggs in poultry nutrition laid as a result of the deficiency of calcium and phosphorus. Therefore, choice A is correct."
+    },
+    "text": "In poultry nutrition, the minerals that prevent the laying of thin-shelled eggs are",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncalcium and phosphorus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsodium and calcium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nphosphorus and sodium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsulphur and phosphorus",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIodine is essential for the production of thyroxine in animals. Therefore, choice B is correct."
+    },
+    "text": "In animal nutrition, iodine is essential for the production of",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\noxygen",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthyrozine",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ninsulin",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nprogesterone",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe process of mating in sheep is termed tupping. Choice C is correct."
+    },
+    "text": "The process of mating in sheep is termed",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntreading",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncourting",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntupping",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nservicing",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFertilizers in fish farming are applied to fishponds to serve as nutrients for plankton. Choice C is correct."
+    },
+    "text": "Fertilizers are applied to fishponds to serve as",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbait for fish",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfood for fish",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nnutrients for plankton",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwater purifier",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNew zealand white, Chinchilla and californian white are breed of rabbits. Therefore, choice B is correct."
+    },
+    "text": "Which of the following is not a breed of rabbits?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNew zealand white",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLand race",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nChincilla",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCalifornian white",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nUreter is the correct option. Therefore, choice D is correct"
+    },
+    "text": "Which of the following is not a part of the reproduction system of a hen?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFunnel",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nisthmud",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\novary",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nureter",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nChoice A is correct. A good silage must contain good nutrients, moisture and fibre."
+    },
+    "text": "A good silage should be free of",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmoulds",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnutrients",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmoisture",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nfibre",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nChoice B is the most unreliable source of farm power and choice B is wind."
+    },
+    "text": "The most unreliable source of power on the farm is",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nheat engine",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nwind",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nelectricity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nanimal",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe farm machinery used to sow seeds and apply fertilizer at the same time is an harrow. Therefore, choice D is correct."
+    },
+    "text": "The farm machinery used to sow seeds and apply fertilizer at the same time is",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nland clearing",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthreshing",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nploughing",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nharrowing",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nChoice D is correct. Plough is not 2 source of farm power."
+    },
+    "text": "Which of the following is not a source of farm power?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nwind",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nBull",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nTractor",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPlough",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nChain is not a farm survey equipment but it is kind of used in measurement.\nTherefore, choice D is correct"
+    },
+    "text": "Farm survey equipment include the following except",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncross staff",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAbney level",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndatun",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nchain",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe engine oil of a tractor requires daily checking. Therefore, choice B is correct"
+    },
+    "text": "Which of the following required daily checking in a tractor?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nspark plug",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEngine oil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAir cleaner",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBattery",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn order to eliminate food shortage, farmers should cultivate more varieties of crops. Choice A is correct."
+    },
+    "text": "In order to eliminate food shortage, farm as should",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncultivate more varieties of crops",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npractise land tenure by inheritance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nshift from crop to animal production",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconstruct farm buildings",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nChoice C is correct\nAgriculture offers option A, B and D as benefits except C."
+    },
+    "text": "The following are importance of agriculture except",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nProvision of food",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nProvision of employment opportunities",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLack of good food",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nProvision of market for industrial goods",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nChoice A, C and B explains the features of subsistence agriculture but option D did not state the feature of subsistence agriculture.\nChoice D is correct."
+    },
+    "text": "The following are the features of subsistence agriculture except",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsubsistence agriculture is mostly practised by peasant farms",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIt requires the use of family labour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPests and diseases are not really controlled",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIt requires the use of both skilled and unskilled labour",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nOption A is correct. There is no such thing as keyhold land tenure system or the system in choice C and D. The types of land tenure system are;\ni. Freehold system\nii. Leasehold system\niii. Communal land tenure system\niv. Land tenure system by inheritance, e.t.c.\nThere is no such thing as international land tenure system or land tenure system by theft. Therefore, choice A is correct."
+    },
+    "text": "Which of the following is a type of land tenure system?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFreehold system",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nKeyhold system",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nInternational system",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLand tenure system by theft",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nKidding is not branch of agriculture. It is the act of giving birth in rabbits and goats. Choice C is correct"
+    },
+    "text": "Which of the following is not a branch of agriculture?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nForestry",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFishery",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nKidding",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAgricultural economics",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nChoice B is correct. A price inelastic demand would mean that an increase in price would not necessarily lead to a decline in quantity demanded or in case it does proportion of quantity change would be lesser vis a vis the change in price.\nDemand tends to be price inelastic for agricultural produce for the following reasons.\n1. Price changes don't affect consumption much\n2. These produce are mostly necessities\n3. Possibility of postponement is not there for most of these produce"
+    },
+    "text": "The demand for agricultural produce is generally",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nelastic",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ninelastic",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nunitary",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nstatic",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nChoice D is correct because most rural farmers don't actually have access to merchant banks, IMF, government etc."
+    },
+    "text": "Rural farmers mostly obtain loans from",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGovernment",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nInternational Monetary Fund",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMerchant Banks",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMoney Lenders",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe type of labour available to peasant farmers is family labour because most peasant farmers practise subsistence agriculture. Choice A is correct."
+    },
+    "text": "The type of labour available to peasant farmers is",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nfamily labour",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npaid labour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nskilled labour",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmigrant labour",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe factor of production whose reward is profit is entrepreneurship. The reward for land is rent, the reward for labour is wages or salaries while the reward for entrepreneur is profit and the reward for entrepreneur is profit and the reward for capital is interest. Therefore, choice D is correct."
+    },
+    "text": "The factor of production whose reward is profit is",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nland",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlabour",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncapital",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nentrepreneurship",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nChoice B is correct. The wear and tear of farm structures overtime is described as depreciation"
+    },
+    "text": "The wear and tear of farm structures over time is described as",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nappreciation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndepreciation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncapitalization",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsalvage value",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nSoil Texture is the classification of soil based on its physical texture and characteristics, particularly the size of the particles that make up the soil."
+    },
+    "text": "Soil texture can be refered to as",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndistribution of soil particles in a given sample",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmovement of water through the soil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDistribution of the different sizes of soil particles",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe degree of soil aeration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPolitical parties are organized group of people with the same political ideology that fields candidates to contest in an election in order to win and implement their agenda.\nOther options are related to agriculture except political parties."
+    },
+    "text": "Which one of the following i not a target group of an agricultural Extension agent",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNon-governmental organisation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCommercial farmers",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nBee keepers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPolitical parties",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nA good Extension worker must have;\norganisational ability, clear judgement, initiative which qualities helps him to organize and interact with his target groups, but involvement in local politics is not a quality of a good extension worker."
+    },
+    "text": "All but one are qualities of a good extension worker",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nOrganisational Ability",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nClear Judgement",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nInitiative",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInvolvement in local politics",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nPlanter is an equipment used in planting dead and it is only used after land preparation, where as disc plough is used for land preparation."
+    },
+    "text": "Which one of these is not part of a disc plough",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPlanter",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFurrow wheel",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCoulter",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDisc scraper",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nDisc plough is used to create wider ridges on the field than disc harrow, because its disc are notched and about 54 discs can be used together at once, and also it is first used before disc harrow."
+    },
+    "text": "One major difference between disc plough and disc Harrow is",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDisc plough is used to create wider ridges on the field than disc Harrow",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nA disc plough can have up to 54 discs on it at once whereas a disc harrow can have up to 6 disc",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDisc plough is used to tilled the disc harrowed land",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe disc part of plough is notched while that of harrow is round",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA castrated cockerel is referred to as capon"
+    },
+    "text": "A castrated cockerel is called?",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBoiler",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPullet",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCapon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nHen",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNew zealand is a breed of Rabbit"
+    },
+    "text": "New Zealand is a breed of which animal?",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGoat",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCattle",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRat",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRabbit",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNewcastle disease is an infection of domestic poultry and other bird species with virulent Newcastle disease virus (NDV)."
+    },
+    "text": "Newcastle disease is viral diseases that affect which animals?",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPoultry birds",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCattle",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGoat",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFish",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nFarm stead is the house belonging to a farm and the buildings around it, since it is not used for planting or cultivation, irrigation is not a factor to consider."
+    },
+    "text": "All are factors to consider when planning a farmstead except?",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAccessibility",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nTopography",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSoil type",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIrrigation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLegumes form symbiotic relationship with bacteria, rhizobium in the nodules of their roots to manufacture nitrogen compounds, which in turn serve as protein in the legumes, and seed being part of their storage form."
+    },
+    "text": "Legumes are different from grasses, because;",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThey have lesser protein content than grasses",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThey form symbiotic relationship with bacteria, rhizobian, in the nodules of their roofs",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThey are monocol plants",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThey do not bear seeds",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nA - horizon is the top layer of the soil horizon, it contains decomposed organic matter which is necessary for plant growth and also microorganisms"
+    },
+    "text": "In which of the soil layer does most biological activity occur?",
+    "structure": "OBJECTIVE",
+    "number": 51,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nB - horizon",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nC - horizon",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nD - horizon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nA - horizon",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nMole drainage is a subsurface method of draining clay soils that experience regular waterlogging from irrigation or high rainfall"
+    },
+    "text": "All but one are related to surface irrigation?",
+    "structure": "OBJECTIVE",
+    "number": 52,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMole drainage",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNatural flooding",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSprinkler irrigation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCheck flooding",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nMole drainage is a subsurface method of draining clay soils that experience regular waterlogging from irrigation or high rainfall"
+    },
+    "text": "All but one are related to surface irrigation?",
+    "structure": "OBJECTIVE",
+    "number": 53,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMole drainage",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNatural flooding",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSprinkler irrigation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCheck flooding",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nPlanting resistant varieties of a plant/crop is the most effective method of controlling or preventing viral diseases since, the varieties can resist viral infections."
+    },
+    "text": "The most effective method of controlling or preventing viral diseases in plants is by",
+    "structure": "OBJECTIVE",
+    "number": 54,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npractising crop rotation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nspraying crops regularly",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nplanting resistant varieties",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nburning affected crops",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThinning is the removal of some or parts of plants, to make room for the growth of others but does not involve the cutting of the whole tree."
+    },
+    "text": "Reduction of ten seedlings of maize to two per stand is referred to as",
+    "structure": "OBJECTIVE",
+    "number": 55,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThinning",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSpacing",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nWeeding",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPruning",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nMaize rust is caused by a fungus called Puccinia sorghi."
+    },
+    "text": "The causative organism of maize rust is?",
+    "structure": "OBJECTIVE",
+    "number": 56,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNematoda",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nInsect",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nBacterium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFungus",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nA capsule is a type of simple, dry, though rarely fleshy dehiscent fruit produced by many species of angiosperms. Only okra in the options is a capsule."
+    },
+    "text": "Which of the following fruit is a capsule?",
+    "structure": "OBJECTIVE",
+    "number": 57,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nOkra",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nApple",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMango",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCoconut",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe head of a tapeworm possesses structures like sucker, rostellum and hook, but the head collectively is referred to as Scolex."
+    },
+    "text": "The Head of the tapeworm is known as the",
+    "structure": "OBJECTIVE",
+    "number": 58,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsucker",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrostellum",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nscolex",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhook",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nForage is a food such as grass or hay for horses and cattle [grazing livestock]."
+    },
+    "text": "Crops grown primarily for feeding animals are known as",
+    "structure": "OBJECTIVE",
+    "number": 59,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nvegetables",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nforage",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncereal",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nshrubs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAll other options except mucous discharge from the rectum which is a sign of sickness are signs of heat in animals."
+    },
+    "text": "Which of the following is not a sign of heat in animals?",
+    "structure": "OBJECTIVE",
+    "number": 60,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMucous discharge from the rectum",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMucous discharge from the vulva",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMounting of other animals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRestlessness",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n27 days is the incubation period of turkey 21 days for chicken."
+    },
+    "text": "The incubation period for turkey is",
+    "structure": "OBJECTIVE",
+    "number": 61,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15 days",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n21 days",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n32 days",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n27 days",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nMortgage banks are banks that specializes in originating and / or servicing mortgage loans"
+    },
+    "text": "Which of the following is not a source of farm credit",
+    "structure": "OBJECTIVE",
+    "number": 62,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMortgage banks",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nGovernment agencies",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAgricultural banks",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCooperative societies",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nImproved sales of crop and livestock does not increase farm produce."
+    },
+    "text": "Increase in farm produce is not usually improved by the",
+    "structure": "OBJECTIVE",
+    "number": 63,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nuse of improved crop varieties",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIncreased use of manure and fertilizer",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nImproved sales of crop and livestock",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nUse of better farm equipment and tools",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nLand are popularly and commonly inherited in Nigeria, this has been the oldest and commonest land tenure in Nigeria."
+    },
+    "text": "The commonest method of land tenure in Nigeria is",
+    "structure": "OBJECTIVE",
+    "number": 64,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nOutright purchase",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nState allocation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPledge",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInheritance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIf 1kg manure = 0.32kg of phosphorus\nxkg manure = 1.5kg of phosphorus\n(Cross multiply)\n\n\n\nx\n=\n1.5\n 0.32\n=\n4.69kg\nof\nmanure"
+    },
+    "text": "If a crop requires 1.5kg phosphorus per hectare, how many kg of manure will be required per hectare is 1kg manure contains 0.32kg of phosphorus",
+    "structure": "OBJECTIVE",
+    "number": 65,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.47kg",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.69kg",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7.35kg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12.3kg",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWeathering is the process whereby rocks are broken down into small particles through factors such as rainfall, erosion etc."
+    },
+    "text": "The process whereby rocks are broken down into small particles through both physical and chemical factors is known as",
+    "structure": "OBJECTIVE",
+    "number": 66,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRock degradation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nWeathering",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nErosion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nOxidation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nParent materials are the weathered rock or sediment from which the soil was formed."
+    },
+    "text": "The parent material of a soil is formed from the disintegration of",
+    "structure": "OBJECTIVE",
+    "number": 67,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSand",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSilt",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGravel",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRock",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe sprinkler system is automatic, portable and can easily be controlled, so it is NOT difficult for local farmers to use."
+    },
+    "text": "The following are the advantages of the sprinkler method of irrigation except",
+    "structure": "OBJECTIVE",
+    "number": 68,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThe system can be made automatic",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThey are portable making them suitable for use",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRate of application of irrigation water can be controlled",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe method may be difficult for local farmers to use",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNewspaper can only be read by the literate farmers and majority of the farmers are ILLITERATE."
+    },
+    "text": "Which one of these is not an advantage of Newspaper as agricultural extension teaching methods?",
+    "structure": "OBJECTIVE",
+    "number": 69,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nIt is restricted to only few literate farmer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe pictures they often carry serves as useful teaching aids",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThey are less expensive",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThey can also be used in areas where there is no electricity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nPrice Elasticity of demand is the degree of responsiveness of demand to changes in the price of goods or produce."
+    },
+    "text": "The degree of responsiveness of demand to change in the price of goods or produce is referred to as",
+    "structure": "OBJECTIVE",
+    "number": 70,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRelative Elasticity of demand",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nUnit Elasticity of demand",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPrice Elasticity of demand",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPerfect Elastic demand",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nFixed cost does not affect the supply of agricultural produce."
+    },
+    "text": "Which one of these is not a factor that affect change in supply of agricultural produce",
+    "structure": "OBJECTIVE",
+    "number": 71,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTechnology",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nChanges in the cost of production",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nChanges in prices of commodity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFixed cost",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAbomasium is the fourth stomach of ruminant animals and it is a secretary stomach, which secrets digestive juices, and also acid hydrolysis of microbial."
+    },
+    "text": "The part of the ruminant stomach from which digestive juices secreted is the",
+    "structure": "OBJECTIVE",
+    "number": 72,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRumen",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nReticulum",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAbomasum",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPaunch",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nDeficiency in vitamin cannot improve fertility rather it decreases it, leads to loss of appetite, scurvy and rickets."
+    },
+    "text": "One of the symptoms of vitamin deficiency diseases in livestock includes except",
+    "structure": "OBJECTIVE",
+    "number": 73,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nImproved fertility",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLoss of appetite",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nScurvy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRickets",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLeather cannot be gotten from fish, rather from cow, cattle, goat."
+    },
+    "text": "Some of the by-products of fish include the following except",
+    "structure": "OBJECTIVE",
+    "number": 74,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFish meal",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLeather",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nOil",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFish silage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nSahel savanna plants/crops requires between 600 - 900mm of rainfall."
+    },
+    "text": "A crop not requiring more than 750mm annual rainfall is most suitable for cultivation in",
+    "structure": "OBJECTIVE",
+    "number": 75,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRain forest",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSahel savanna",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSudan savanna",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nGuinea savanna",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCalcium is a macro nutrient [nutrients required by plant in large quantity, while the rest are micro nutrients [nutrients required in small quantity]."
+    },
+    "text": "Which of the following nutrient element is a micro-nutrient",
+    "structure": "OBJECTIVE",
+    "number": 76,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCalcium",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIron",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nManganese",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBoron",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAll other options apart from farming systems affects the soil type, farming system only affects the soil texture."
+    },
+    "text": "The type of soil formed is affected by the following factors except",
+    "structure": "OBJECTIVE",
+    "number": 77,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nClimate",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nVegetation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nTopography",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFarming systems",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCrop rotation is the practice of growing a series of dissimilar or different types of crops in the same area in sequenced seasons."
+    },
+    "text": "The farm practices that does not have a very harmful effect on the soil is",
+    "structure": "OBJECTIVE",
+    "number": 78,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFlooding",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCrop rotation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nOver grazing",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBush burning",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nLoamy soil; this is the best soil for planting, because it contains all types of soil in the right proportion and required nutrients for growth of plant."
+    },
+    "text": "Maize grows best on",
+    "structure": "OBJECTIVE",
+    "number": 79,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSandy soil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSandy-clay soil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLoamy soil",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSilty-clay soil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nPalm oil"
+    },
+    "text": "Which of the following is not a source of minerals in animal nutrition?",
+    "structure": "OBJECTIVE",
+    "number": 80,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPalm oil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFish meal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nBlood meal",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nGreen pastures",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "AGRICULTURAL SCIENCE",
+    "type": "JAMB",
+    "year": 2019
+  }
+]

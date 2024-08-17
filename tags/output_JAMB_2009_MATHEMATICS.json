@@ -1,0 +1,4430 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNote that if we set \\(log_{\\sqrt{2}}4 = x_{1}, \\hspace{1mm}solving\\hspace{1mm}gives\\hspace{1mm}x_{1}=4\\\\if\\hspace{1mm}log_{\\frac{1}{2}}16 = x_{2}, \\Rightarrow x_{2} = -4\\\\Also \\hspace{1mm}for\\hspace{1mm}log_{4}32 = x_{3} = 2.5\\\\Combining\\hspace{1mm}results,\\hspace{1mm}x_{1}+x_{2}+x_{3} = 4+(-4)-2.5=-2.5\\)\nNote that the solution has been separated to simplify solving difficulty due to different bases."
+    },
+    "text": "Evaluate \\(log_{\\sqrt{2}}4+log_{\\frac{1}{2}}16-log_{4}32\\)",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-2.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nYou can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert."
+    },
+    "text": "Simplify 213\\(_4\\) x 23\\(_4\\)",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n103114",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n103214",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n122314",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n132114",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nUsing a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics.\n(32-x) + (24-x) + (x) + (4 who offer neither) = 40\n=> 60 - x = 40\n=> -x = -20\nTherefore x = 20."
+    },
+    "text": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\((\\frac{1}{0.06} \\div \\frac{1}{0.042})^{-1}\\)\n= \\((\\frac{100}{6} \\div \\frac{1000}{42})^{-1}\\)\n= \\((\\frac{100}{6} \\times \\frac{42}{1000})^{-1}\\)\n= \\((\\frac{7}{10})^{-1}\\)\n= \\(\\frac{10}{7}\\)\n= 1.4285 \\(\\approxeq\\) 1.43."
+    },
+    "text": "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))-1",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.43",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.53",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.14",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.42",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nC.P = N1800\nS.P = (270/5) x 40\u00a0= N2160.00\nProfit = S.P - C.P = N2160 - N1800 = N360.00"
+    },
+    "text": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN2,160.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN1, 620.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN630.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN360.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(1 - (\\frac{7}{3} \\times \\frac{5}{4}) + \\frac{3}{5}\\)\n= \\(1 - \\frac{35}{12} + \\frac{3}{5}\\)\n= \\(\\frac{60 - 175 + 36}{60}\\)\n= \\(\\frac{-79}{60}\\)"
+    },
+    "text": "Simplify 1 - (7/3 x 5/4) + 3/5",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-16/15",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-79/60",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-37/15",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-151/60",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n(\u221a98 - \u221a50)/\u221a32 = \u221a(49x2) - \u221a(25x2)  \u221a(16x2)\n=> (7\u221a2 - 5\u221a2)/4\u221a2 = 1/2"
+    },
+    "text": "Simplify (\u221a98 -\u221a50)/\u221a32",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1/2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1/4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n45/2% + 95/2% = 70%\n100% - 70% = 30% (i.e women)\n=> 30% = 84\n1% = 84/30\n95/2% = (84/30 x 95/2) = 133."
+    },
+    "text": "A cinema hall contains a certain number of people. If 22\\(\\frac{1}{2}\\)% are children, 47\\(\\frac{1}{2}\\)% are men and 84 are women, find the number of men in the hall.",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n63",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n84",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n113",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n133",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{9^{2x - 1}}{27^{x + 1}} = 1\\)\n\\(\\implies 9^{2x - 1} = 27^{x + 1}\\)\n\\((3^{2})^{2x - 1} = (3^{3})^{x + 1}\\)\n\\(2(2x - 1) = 3(x + 1) \\implies 4x - 2 = 3x + 3\\)\n\\(4x - 3x = 3 + 2 \\implies x = 5\\)"
+    },
+    "text": "If \\(\\frac{9^{2x-1}}{27^{x+1}} = 1\\), find the value of x.",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nConvert to base 10, divide and then re-convert to base 5."
+    },
+    "text": "The sum of four numbers is 1214\\(_5\\). What is the average expressed in base five?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n114",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n141",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n401",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n411",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nU = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30}\nP = {6,12,18,24,30}\nQ = {4,8,12,16,20,24,28}\nP\u222aQ = {4,6,8,12,16,18,20,24,28,30}\n(P\u222aQ)c = {2,10,14,22,26}"
+    },
+    "text": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P\u222aQ)c",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n{2, 10, 14, 22, 26}",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n{0, 10, 14, 22, 26}",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n{2,4, 14, 18, 26}",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n{0, 2, 6, 22, 26}",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(x\\propto \\frac{uv}{u+v}\\\\x = \\frac{kuv}{u+v}\\\\K = \\frac{x(u+v)}{uv}\\\\\\frac{3(3+1)}{3\\times1}\\\\\\frac{3\\times4}{3}\\\\k\u00a0= 4\\\\x=\\frac{4uv}{u+v}\\\\x=\\frac{4\\times 3\\times3}{3+3}\\\\x=\\frac{36}{6}\\\\x=6\\)"
+    },
+    "text": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7\n5 + x \\(\\leq\\) 8\nX \\(\\leq\\) 8 \u2013 5\nX \\(\\leq\\) 3\nAnd 13 + x \\(\\geq\\) 7\nX \\(\\geq\\) 7 \u2013 15\nX \\(\\geq\\) -7\nCombining the two together \n-6 \\(\\leq\\) x \\(\\leq\\) 3"
+    },
+    "text": "Find the range of the value of x satisfying the inequalities 5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-3 \\(\\leq\\) x \\(\\leq\\) 3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 \\(\\leq\\) x \\(\\leq\\) 6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-6 \\(\\leq\\) x \\(\\leq\\) 3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-6 \\(\\leq\\) x \\(\\leq\\) -3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nx\\(^2\\) + 4 = x\\(^2\\) - 3x + 2\n3x + 2 = y"
+    },
+    "text": "The graph of the function y = x\\(^2\\) + 4 and a straight line PQ are drawn to solve the equation x\\(^2\\) - 3x + 2 = 0. What is the equation of PQ?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ny = 3x - 2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ny = 3x + 2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ny = 3x - 4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ny = 3x + 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nL \u221d 1/W\nL = K/W\nK = WL\n= 1.5 * 20\n30"
+    },
+    "text": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n3x - 5y + 5 = 0 \u2192 eqn1 \n4x - 7y + 8 = 0 \u2192 eqn2\neqn1 * 4; 12x - 20y + 20 = 0 \u2192 eqn3\neqn2 * 3; 12x - 21y + 24 = 0 \u2192 eqn4\neqn3 - eqn4 = y - 4 = 0 \n\u2234 y = 4 \nFrom eqn1,\n3x - 5y + 5 = 0\n3x - 5(4) + 5 = 0\n3x - 20 + 5 = 0\n3x - 15 = 0\n3x = 15\nx = 5\nx and y = 5, 4 respectively"
+    },
+    "text": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5, -4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-4,. -5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4, 5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5, 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(r=\\frac{n}{n-2}\\hspace{1mm}and\\hspace{1mm}r=\\frac{n+3}{n}\\\\\u2234\\frac{n}{n-2}=\\frac{n+3}{n}\\\\n^2 = n^2 +3n - 2n-6\\\\0=n-6\\\\\u2234n=6\\\\But\\hspace{1mm}r = \\frac{n}{n-2}\\\\r=\\frac{6}{6-2}\\\\\\frac{6}{4}=\\frac{3}{2}\\)"
+    },
+    "text": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1/4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1/2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2/3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3/2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNote that if we set \\(log_{\\sqrt{2}}4 = x_{1}, \\hspace{1mm}solving\\hspace{1mm}gives\\hspace{1mm}x_{1}=4\\\\if\\hspace{1mm}log_{\\frac{1}{2}}16 = x_{2}, \\Rightarrow x_{2} = -4\\\\Also \\hspace{1mm}for\\hspace{1mm}log_{4}32 = x_{3} = 2.5\\\\Combining\\hspace{1mm}results,\\hspace{1mm}x_{1}+x_{2}+x_{3} = 4+(-4)-2.5=-2.5\\)\nNote that the solution has been separated to simplify solving difficulty due to different bases."
+    },
+    "text": "Evaluate \\(log_{\\sqrt{2}}4+log_{\\frac{1}{2}}16-log_{4}32\\)",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-2.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nYou can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert."
+    },
+    "text": "Simplify 213\\(_4\\) x 23\\(_4\\)",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n103114",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n103214",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n122314",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n132114",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nUsing a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics.\n(32-x) + (24-x) + (x) + (4 who offer neither) = 40\n=> 60 - x = 40\n=> -x = -20\nTherefore x = 20."
+    },
+    "text": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\((\\frac{1}{0.06} \\div \\frac{1}{0.042})^{-1}\\)\n= \\((\\frac{100}{6} \\div \\frac{1000}{42})^{-1}\\)\n= \\((\\frac{100}{6} \\times \\frac{42}{1000})^{-1}\\)\n= \\((\\frac{7}{10})^{-1}\\)\n= \\(\\frac{10}{7}\\)\n= 1.4285 \\(\\approxeq\\) 1.43."
+    },
+    "text": "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))-1",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.43",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.53",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.14",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.42",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nC.P = N1800\nS.P = (270/5) x 40\u00a0= N2160.00\nProfit = S.P - C.P = N2160 - N1800 = N360.00"
+    },
+    "text": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN2,160.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN1, 620.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN630.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN360.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(1 - (\\frac{7}{3} \\times \\frac{5}{4}) + \\frac{3}{5}\\)\n= \\(1 - \\frac{35}{12} + \\frac{3}{5}\\)\n= \\(\\frac{60 - 175 + 36}{60}\\)\n= \\(\\frac{-79}{60}\\)"
+    },
+    "text": "Simplify 1 - (7/3 x 5/4) + 3/5",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-16/15",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-79/60",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-37/15",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-151/60",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n(\u221a98 - \u221a50)/\u221a32 = \u221a(49x2) - \u221a(25x2)  \u221a(16x2)\n=> (7\u221a2 - 5\u221a2)/4\u221a2 = 1/2"
+    },
+    "text": "Simplify (\u221a98 -\u221a50)/\u221a32",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1/2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1/4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n45/2% + 95/2% = 70%\n100% - 70% = 30% (i.e women)\n=> 30% = 84\n1% = 84/30\n95/2% = (84/30 x 95/2) = 133."
+    },
+    "text": "A cinema hall contains a certain number of people. If 22\\(\\frac{1}{2}\\)% are children, 47\\(\\frac{1}{2}\\)% are men and 84 are women, find the number of men in the hall.",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n63",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n84",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n113",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n133",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{9^{2x - 1}}{27^{x + 1}} = 1\\)\n\\(\\implies 9^{2x - 1} = 27^{x + 1}\\)\n\\((3^{2})^{2x - 1} = (3^{3})^{x + 1}\\)\n\\(2(2x - 1) = 3(x + 1) \\implies 4x - 2 = 3x + 3\\)\n\\(4x - 3x = 3 + 2 \\implies x = 5\\)"
+    },
+    "text": "If \\(\\frac{9^{2x-1}}{27^{x+1}} = 1\\), find the value of x.",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nConvert to base 10, divide and then re-convert to base 5."
+    },
+    "text": "The sum of four numbers is 1214\\(_5\\). What is the average expressed in base five?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n114",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n141",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n401",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n411",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nU = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30}\nP = {6,12,18,24,30}\nQ = {4,8,12,16,20,24,28}\nP\u222aQ = {4,6,8,12,16,18,20,24,28,30}\n(P\u222aQ)c = {2,10,14,22,26}"
+    },
+    "text": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P\u222aQ)c",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n{2, 10, 14, 22, 26}",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n{0, 10, 14, 22, 26}",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n{2,4, 14, 18, 26}",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n{0, 2, 6, 22, 26}",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(x\\propto \\frac{uv}{u+v}\\\\x = \\frac{kuv}{u+v}\\\\K = \\frac{x(u+v)}{uv}\\\\\\frac{3(3+1)}{3\\times1}\\\\\\frac{3\\times4}{3}\\\\k\u00a0= 4\\\\x=\\frac{4uv}{u+v}\\\\x=\\frac{4\\times 3\\times3}{3+3}\\\\x=\\frac{36}{6}\\\\x=6\\)"
+    },
+    "text": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7\n5 + x \\(\\leq\\) 8\nX \\(\\leq\\) 8 \u2013 5\nX \\(\\leq\\) 3\nAnd 13 + x \\(\\geq\\) 7\nX \\(\\geq\\) 7 \u2013 15\nX \\(\\geq\\) -7\nCombining the two together \n-6 \\(\\leq\\) x \\(\\leq\\) 3"
+    },
+    "text": "Find the range of the value of x satisfying the inequalities 5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-3 \\(\\leq\\) x \\(\\leq\\) 3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 \\(\\leq\\) x \\(\\leq\\) 6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-6 \\(\\leq\\) x \\(\\leq\\) 3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-6 \\(\\leq\\) x \\(\\leq\\) -3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nx\\(^2\\) + 4 = x\\(^2\\) - 3x + 2\n3x + 2 = y"
+    },
+    "text": "The graph of the function y = x\\(^2\\) + 4 and a straight line PQ are drawn to solve the equation x\\(^2\\) - 3x + 2 = 0. What is the equation of PQ?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ny = 3x - 2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ny = 3x + 2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ny = 3x - 4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ny = 3x + 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nL \u221d 1/W\nL = K/W\nK = WL\n= 1.5 * 20\n30"
+    },
+    "text": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n3x - 5y + 5 = 0 \u2192 eqn1 \n4x - 7y + 8 = 0 \u2192 eqn2\neqn1 * 4; 12x - 20y + 20 = 0 \u2192 eqn3\neqn2 * 3; 12x - 21y + 24 = 0 \u2192 eqn4\neqn3 - eqn4 = y - 4 = 0 \n\u2234 y = 4 \nFrom eqn1,\n3x - 5y + 5 = 0\n3x - 5(4) + 5 = 0\n3x - 20 + 5 = 0\n3x - 15 = 0\n3x = 15\nx = 5\nx and y = 5, 4 respectively"
+    },
+    "text": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5, -4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-4,. -5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4, 5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5, 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(r=\\frac{n}{n-2}\\hspace{1mm}and\\hspace{1mm}r=\\frac{n+3}{n}\\\\\u2234\\frac{n}{n-2}=\\frac{n+3}{n}\\\\n^2 = n^2 +3n - 2n-6\\\\0=n-6\\\\\u2234n=6\\\\But\\hspace{1mm}r = \\frac{n}{n-2}\\\\r=\\frac{6}{6-2}\\\\\\frac{6}{4}=\\frac{3}{2}\\)"
+    },
+    "text": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1/4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1/2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2/3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3/2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2003
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe mode (m) = 4.\nNo of students who scored 4 and above = 12 + 10 + 6 + 4 + 1 = 33.\n\\(\\therefore\\) (n, m) = (33, 4)"
+    },
+    "text": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": "https://myschool.ng/storage/classroom/4067719956_math20061.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(33, 4)",
+        "imageUrl": "https://myschool.ng/storage/classroom/4067719956_math20061.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n(22, 4)",
+        "imageUrl": "https://myschool.ng/storage/classroom/4067719956_math20061.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n(33, 12)",
+        "imageUrl": "https://myschool.ng/storage/classroom/4067719956_math20061.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n(12, 4)",
+        "imageUrl": "https://myschool.ng/storage/classroom/4067719956_math20061.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe question will be answered in \n\\(^5C_4 = \\frac{6!}{(6-4)!4!}\\\\=\\frac{6!}{2!4!}\\\\=\\frac{6\\times5\\times4!}{2\\times1\\times4!}\\\\=15\\hspace{1mm}ways\\)"
+    },
+    "text": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n45",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nLet the consecutive numbers be a, a+1, a+2, a+3, a+4\nMean = \\(\\frac{(a+a+1+a+2+a+3+a+4)}{5}\\\\\n30 = \\frac{5a+10}{5}\\\\\n30 \\times 5 = 5a + 10\\\\\n5a = 150 - 10\\\\\n5a = 140\\\\\na = 28 \\\\\n\u2234 a + 4 = 28 + 4\\\\\n= 32\\)"
+    },
+    "text": "If the mean of five consecutive integers is 30, find the largest of the numbers",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n28",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n32",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n34",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nBlack = 5\nWhite = 4\nRed = x\nTotal = 9+x\nP(red) = 2/3\nx / (9+x) = 2/5\n5x = 2(9+x)\n5x = 18+2x\n5x-2 = 18\n3x = 18\nx = 6"
+    },
+    "text": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/5, find the value of x",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\n\\(\\sum x = 6x\\\\\n\\sum(x-\\bar{x})^2 = 2\\\\\n\\bar{x} = \\frac{\\sum x}{n}\\\\\n= \\frac{6x}{3}\\\\\n= 2x\\\\\nVariance = \\frac{\\sum(x-\\bar{x})^2}{n}\\\\\n= \\frac{2}{3}\\)"
+    },
+    "text": "Find the variance of 2x, 2x-1 and 2x+1",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2/3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u221a(2/3)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nP(GTN) = 5/20\nP(Qtel) = 3/20\n\u2234P(GTN or Qtel) = (5/20) + (3/20)\n= 8/20\n= 2/5"
+    },
+    "text": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": "https://myschool.ng/storage/classroom/18982773964_math20067.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3/20",
+        "imageUrl": "https://myschool.ng/storage/classroom/18982773964_math20067.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n1/4",
+        "imageUrl": "https://myschool.ng/storage/classroom/18982773964_math20067.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n2/5",
+        "imageUrl": "https://myschool.ng/storage/classroom/18982773964_math20067.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n3/4",
+        "imageUrl": "https://myschool.ng/storage/classroom/18982773964_math20067.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nExpenditure on housing = x\nExpenditure on food = 2x\nExpenditure on school fees = 90o\nExpenditure on transport = 45o\nx + 2x + 90 + 45 = 360o\n3x + 135 = 360o\n3x = 360 - 135\n3x = 225\nx = 225/3 = 75o\n\u2234\u2220 for food = 2x = 2 * 75\n= 150\n360o = N30,000\n1o = ?\n1o = 30,000/360\n150o = (30000/360) * (150/1)\n= N12500"
+    },
+    "text": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": "https://myschool.ng/storage/classroom/12203227674_math20068.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN 28 000",
+        "imageUrl": "https://myschool.ng/storage/classroom/12203227674_math20068.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nN 25 500",
+        "imageUrl": "https://myschool.ng/storage/classroom/12203227674_math20068.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nN15 000",
+        "imageUrl": "https://myschool.ng/storage/classroom/12203227674_math20068.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nN 12 500",
+        "imageUrl": "https://myschool.ng/storage/classroom/12203227674_math20068.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(^{n+1}C_3 = 4(^nC_3)\\\\\\frac{(n+1)!}{(n+1-3)!3!} = 4\\left(\\frac{n!}{(n-3)!3!}\\right)\\\\\\frac{(n+1)n!}{(n-2)(n-3)!}=4\\left(\\frac{n!}{n-3!}\\right)\\\\=\\frac{n+1}{n-2}=\\frac{4}{1}\\\\n+1 = 4(n-2)\\\\n+1 = 4n-8\\\\-3n = -9\\\\\\frac{-9}{-3}\\\\n=3\\)"
+    },
+    "text": "For what of n is n+1C3 = 4(nC3)?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\ndy/dx = 2x + 7\ny = \u222b2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n\u2234 The equation is y = x2 + 7x - 18"
+    },
+    "text": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ny = x2 + 7x + 9",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ny = x2 + 7x - 18",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ny = x2 + 7x + 18",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ny = x2 + 14x + 11",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\ny = (x2 - 1/x)2\ny = (x2 - 1/x)(x2 - 1/x)\ny = x4 - x - x + 1/x2\ny = x4 - 2x + 1/x2\ny= x4 - 2x + x-2\ndy/dx = 4x2 - 2 - 2x-3\n= 4x2 - 2 - 2/x3"
+    },
+    "text": "Differentiate (x2 - 1/x)2 with respect to x",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4x2 - 4x - 2/x",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4x2 - 2 + 2/x3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4x2 - 2 - 2/x3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4x2 - 3x + 2/x",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\ny = 3x\\(^3\\)\u00a0- 9x\\(^2\\)\ndy/dx = 9x\\(^2\\) - 18x\nAs dy/dx = 0\n9x\\(^2\\) - 18x = 0\n9x(x-2) = 0\n9x = 0 which implies x = 0\nx-2 = 0 implies x = 2\nd2y/dx2 = 18x - 18\nwhen x = 0\nd2y/dx2 < 0 \u2234 x is is minimum\nwhen x = 2d\\(^2\\)y/dx\\(^2\\)\u00a0= 18\n\u2234 the value > 0 x is minimum"
+    },
+    "text": "Find the value of x for which the function 3x\\(^3\\)\u00a0- 9x\\(^2\\) is minimum",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nzero",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\ndy/dx = x + cos x\ny = \u222b(x + cos x)dx\ny = 1/2x2 + sin x + C"
+    },
+    "text": "If dy/dx = x + cos x, find y",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx2 - sin x + c",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nx2 + sin x + c",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx2/2 - sin x + c",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx2/2 + sin x + c",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\ny = (cos\u03b8 - sin\u03b8)\ndy/dx = 2(cos\u03b8 - sin\u03b8)(-sin\u03b8 - cos\u03b8)\ndy/dx = 2(-cos\u03b8sin\u03b8 - cos2\u03b8 + sin2\u03b8)\ndy/dx = 2(- cos\\(^2\\)\u03b8 + sin\\(^2\\)\u03b8)\n= -2(cos\\(^2\\)\u03b8 - sin\\(^2\\)\u03b8)\n= -2(1 - 2sin\\(^2\\)\u03b8)\n= -2cos2\u03b8"
+    },
+    "text": "Differentiate (cos \u03b8 - sin \u03b8)\\(^2\\)",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-2 cos 2\u03b8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-2 sin2\u03b8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1 - 2 cos 2\u03b8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1 - 2 sin 2\u03b8",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\int_{-4}^0(1 - 2x)dx=[x-x^2]_{-4}^0\\\\= (0 - 0 + C) - (-4(-4)^2 + C)\\\\\n= C - (-4-16+C)\\\\\n= C-(-20+C)\\\\\n= C+20-C\\\\\n= 20\\)"
+    },
+    "text": "Evaluate \\(\\int_{-4}^0(1 - 2x)dx\\)",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-16",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-20",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{\\frac{7}{9}-\\frac{2}{3}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\\\\n=\\frac{\\frac{7-6}{9}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\\\\n=\\frac{\\frac{1}{9}}{\\frac{1}{3}+\\left(\\frac{2}{5}\\times \\frac{5}{4}\\right)}\\\\\n=\\frac{\\frac{1}{9}}{\\frac{1}{3}+\\frac{1}{2}}\\\n=\\frac{\\frac{1}{9}}{\\frac{2+3}{6}}\\\\\n=\\frac{\\frac{1}{9}}{\\frac{5}{6}}\\\\\n=\\frac{1}{9}\\times\\frac{6}{5}\\\\\n=\\frac{2}{15}\\)"
+    },
+    "text": "simplify \\(\\frac{\\frac{7}{9}-\\frac{2}{3}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\)",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{11}{12}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{5}{6}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{2}{15}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nm : n = 13 : 11\nm\\(^2\\) - n\\(^2\\) :\u00a0(m +\u00a0n)2\n= 13\\(^2\\) - 11\\(^2\\) : (13 + 11)\\(^2\\)\n= 169 - 121 : 24\\(^2\\)\n= 48 : 576\n= 1 : 12"
+    },
+    "text": "If m:n = 13:11, find m\\(^2\\) - n\\(^2\\) : (m + n)\\(^2\\)",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1:11",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1:13",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1:10",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1:12",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(3^{-4}\\times 9^2 \\times 81^{-1}\\\\\n=log_9 (3^{-4}\\times 9^2 \\times 81^{-1})\\\\\n=log_9 \\left(\\frac{1}{3^4}\\times 9^2 \\times \\frac{1}{81}\\right)\\\\\n=log_9 \\left(\\frac{1}{81}\\times \\frac{81}{1}\\times \\frac{1}{81}\\right)\\\\\n=log_9 \\frac{1}{81}\\\\\n=log_9 \\frac{1}{9^2}\\\\\n=log_9 9^{-2}\\\\\n=-2log_9 9\\\\\n-2 \\times 1\\\\\n=-2\\)"
+    },
+    "text": "Calculate the logarithm to base 9 of 3-4 * 92 * (81)-1",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nzero",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n(K2)\\(_6\\) * 3\\(_6\\) = 3\\(_5\\)(K4)\\(_5\\)\n(K*6\\(^1\\) + 2*6\\(^0\\))\u00a03*6\\(^0\\) = 3*5\\(^0\\)(K*5\\(^1\\)\u00a0+ 4*5\\(^0\\))\n3(6K + 2) = 3(5K + 4)\n6K + 2 = 5K + 4\n6K - 5K\u00a0= 4 - 2\nK = 2"
+    },
+    "text": "If (K2)\\(_6\\) * 3\\(_6\\) = 3\\(_5\\)(K4)\\(_5\\), what is the value of k?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n11012 + 101112 + 1112 = 101011\nThere is an explanation video available below."
+    },
+    "text": "Add 11012,101112 and 1112",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1110112",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1101102",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1010112",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1010102",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n125\\(_x\\)\u00a0= 20\\(_10\\)\n1 x\u00a0X\\(^2\\)\u00a0+ 2 x\u00a0X\\(^1\\)\u00a0+ 5x\u00a0X\u00a0\\(^0\\)\u00a0= 20\nX2 + 2X + 5 = 20\nX\\(^2\\)\u00a0+ 2X - 15 = 0\n(X + 5)( X - 3) = 0\nX + 5 implies X = -5\nX - 3 implies X = 3\nBut X cannot be negative\n\u2234X = 3\nThere is an explanation video available below."
+    },
+    "text": "If 125\\(_x\\) = 20\\(_10\\)\u00a0find x",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Evaluate \\(\\frac{\\left(\\frac{3}{8}\\div\\frac{1}{2}+\\frac{1}{2}\\right)}{\\left(\\frac{1}{8}\\times\\frac{2}{3}+\\frac{1}{3}\\right)}\\)",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1/4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1/3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1/2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNB: This is a correction to the\u00a0solution in the video lesson.\n123456 \\(\\approxeq\\) 123000.\nThere is an explanation video available below."
+    },
+    "text": "Express 123456 to 3 significant figures",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n123000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n124000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n125000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n126000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(I = \\frac{P \\times T \\times R}{100}\\\\\n=\\frac{7500 \\times 8 \\times 5}{100}\\\\\n=N3000\\)\nThere is an explanation video available below."
+    },
+    "text": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN3,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN600",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN300",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN150",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nN85 - N60 = N25 increase\n\u2234percentage increase = \\(\\frac{25}{60}\\times \\frac{100}{1}\\\\=\\frac{125}{3}\\\\=41.67%\\\\\n=42%\\)\nThere is an explanation video available below."
+    },
+    "text": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n42%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n41%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n40%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\\\\n=\\frac{1}{16^{\\frac{1}{2}}}\\times \\frac{1}{4^{\\frac{1}{2}}}\\times 27^{\\frac{1}{3}}\\\\\n=\\frac{1}{\\sqrt{16}} \\times \\frac{1}{\\sqrt{4}} \\times sqrt[3]{27}\\\\\n=\\frac{1}{4} \\times \\frac{1}{2} \\times \\frac{3}{1}\\\\\n= \\frac{3}{8}\\)\nThere is an explanation video available below."
+    },
+    "text": "simplify \\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\)",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3/8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2/3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3/4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3/2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIf logx1/264 = 3\n(X 1/2)3 = 64\n(X 1/2)3 = 4 3\nX 1/2 = 4\nX = 42\nX = 16\nThere is an explanation video available below."
+    },
+    "text": "If log\\(_{x^{1/2}}^{64}\\) \u00a0= 3, find the value of x",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n32",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n64",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{1+\\sqrt{2}}{1-\\sqrt{2}} \\times \\frac{1+\\sqrt{2}}{1+\\sqrt{2}}\\\\\n=\\frac{1+(1+\\sqrt{2})+\\sqrt{2}(1+\\sqrt{2})}{1^2 - (\\sqrt{2})^2}\\\\\n=\\frac{(1+\\sqrt{2}+\\sqrt{2}+2)}{1-2}\\\\\n=\\frac{3+2\\sqrt{2}}{-1}\\\\\n=-3-2\\sqrt{2}\\\\\n\u2234X and Y = -3 and -2\\)\nThere is an explanation video available below."
+    },
+    "text": "If \\(\\frac{1+\\sqrt{2}}{1-\\sqrt{2}}\\) is expressed in the form of x+y\u221a2 find the values of x and y",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(-3, -2)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(-2, 3)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(3,2)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(2,-3)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nX = {1,5,10}\nY = {3,4,6}\nX\u2229Y = \u2205\nThere is an explanation video available below."
+    },
+    "text": "If X = {n\\(^2\\) + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X\u2229Y.",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n{1,3}",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n{5,10}",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u2205",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n{4,6}",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nn(M) only = 30-10 = 20\nn(E) only = 20-10 = 10\nn(M\u2229E) = 10\n\u2234M\u222aE = 20+10+10\n= 40\nThere is an explanation video available below."
+    },
+    "text": "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books.\u00a0How many customers has he altogether?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n40",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n50",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(L=\\frac{4}{3}M\\sqrt{PQ}\\\\\n=\\frac{3}{4M} \\times L = \\sqrt{PQ}\\\\\n=\\left(\\frac{3L}{4M}\\right)^2=(\\sqrt{PQ})^2\\\\\n=\\frac{9L^2}{16M^2}=PQ\\\\\n=Q=\\frac{9L^2}{16M^2 P}\\)\nThere is an explanation video available below."
+    },
+    "text": "Make Q the subject of formula when \\(L=\\frac{4}{3}M\\sqrt{PQ}\\)",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{9L^2}{16M^2P}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{3L}{4M\\sqrt{P}}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{\\sqrt{3L}}{4MP}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{3L^2}{16M^2}P\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n2x2 - kx - 12 is divisible by x-4\nimplies x is a factor \u2234 x = 4\nf(4) implies 2(4)2 - k(4) - 12 = 0\n32 - 4k - 12 = 0\n-4k + 20 = 0\n-4k = -20\nk = 5\nThere is an explanation video available below."
+    },
+    "text": "If 2x\\(^2\\) - kx - 12 is divisible by x-4, Find the value of k.",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n(4x+3y)\\(^2\\) - (3x-2y)\\(^2\\)\u00a0\nUsing the differences of two squares:\n(4x+3y+3x-2y)(4x+3y-(3x-2y))\n(4x+3y+3x-2y)(4x+3y-3x+2y)\n(x+5y)(7x+y)\nThere is an explanation video available below."
+    },
+    "text": "Factorize completely; (4x+3y)\\(^2\\) - (3x-2y)\\(^2\\)",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(x+5y)(7x+y)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(x+5y)(7x-y)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(x-5y)(7x+y)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(x-5y)(7x-y)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n(x \u2013 3) \u221d y2\nX-3 = Ky2\nK = X-3 / y2\n= 5-2/22\n= 2/4\n= 1/2\n\u2234X-3 = 1/2y2\nX-3 = 1/2 (6)2\nX-3 = 1/2 x 36/1\nX-3 = 18\nX = 21\nThere is an explanation video available below."
+    },
+    "text": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n21",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\np \u221d 1/q\np = k/q\nK = q\\(^2\\)p\n= 4\\(^2\\)(8)\n\u2234p\u00a0= 128/q\n32 = 128/q\nq\\(^2\\) = 128/32\nq\\(^2\\) = 4\nq = \u221a4 = \\(\\pm\\) 2\nThere is an explanation video available below."
+    },
+    "text": "If p\u00a0varies inversely as the square of q and p=8 when q=4, find q\u00a0when p\u00a0=32",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\pm\\)16",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\pm\\)8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\pm\\)4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\pm\\)2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n4X - 7 \\(\\leq\\) 3X and 3X - 4 \\(\\leq\\) 4X\n4X - 3X \\(\\leq\\) 7 and 3X - 4X \\(\\leq\\) 4\nX \\(\\leq\\) 7 and -X \\(\\leq\\) 4 = X \\(\\geq\\) -4\nRange -4 \\(\\leq\\) x \\(\\leq\\) 7\nThere is an explanation video available below."
+    },
+    "text": "Find the range of values of x which satisfy the inequalities 4x - 7 \\(\\leq\\) 3x and 3x - 4 \\(\\leq\\) 4x",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-4 \\(\\leq\\) x \\(\\leq\\) 7",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-7 \\(\\leq\\) x \\(\\leq\\) 4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx \\(\\geq\\) -7",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-7 \\(\\leq\\) x \\(\\leq\\) 6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\\(^2\\)\u00a0- 5x + 6 = 0\n(X-2)(X-3) = 0\nX-2 = 0 implies X = 2\nX-3 = 0 implies X = 3\n\u2234 x \u2264 3, x \u2265 2\nThere is an explanation video available below."
+    },
+    "text": "Solve the quadratic inequalities x\\(^2\\) - 5x + 6 \u2265\u00a00",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx \u2264 2, x \u2265 3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nx \u2264 3, x \u2265 2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx \u2264 -2, x \u2265 -3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx \u2264-3, x \u2265 2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nU5 = 24, n = 5 and U11 = 96, n = 11\nUn = a + (n-1)d\n24 = a + (5-1)d imply 24 = a+4d .....eqn1\n96 = a + (11-1)d imply 96 = a+10d ...eqn2\neqn1 - eqn2 -72 = -6d\nd = 72/6 = 12\nbut 24 = a+4d\n24 = a + 4(12)\n24 = a + 48\na = 24-48\na = -24\nThere is an explanation video available below."
+    },
+    "text": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-12",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-24",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nX * Y = 2X - 3Y + 2\n2*3 = 2(2) - 3(3) + 2\n=4-9+2\n= -3\nBut -3 does not belong to positive integer\nThere is an explanation video available below."
+    },
+    "text": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncommutative and close on the set of positive integers",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nneither commutative nor closed on the set of positive integers",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncommutative but not closed on the set of positive integers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnot cummutative but closed on the set of positive integers",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nm\u0394n = m+n+mn\nLet e be the identity element\n\u2234m\u0394e = e\u0394m = m\nm+e+me = m\ne+me = m-m\ne+me = 0\ne(1+m) = 0\ne = 0 / (1+m)\ne = 0\nThere is an explanation video available below."
+    },
+    "text": "A binary operation on the real set of numbers excluding -1 is such that for all m, n \u2208 R, m\u0394n = m+n+mn. Find the identity element of the operation.",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nzero",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-1/2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n5 \\(\\times\\) x\\(^1\\)\u00a0\u00a0+ 5\u00a0\\(\\times\\) x\\(^0\\)\u00a0+ 5\u00a0\\(\\times\\) x\\(^1\\)\u00a0+ 2\u00a0\\(\\times\\) x\\(^0\\)\u00a0= 77\n(change all\u00a0 to base 10)\n5x\u00a0+ 5\u00a0+ 5x\u00a0+ 2\u00a0= 77\n10x\u00a0+ 7 = 77\n10x\u00a0= 77-7\n10x\u00a0= 70\nx = 70/10\nx = 7\nThere is an explanation video available below."
+    },
+    "text": "If 55\\(_x\\) + 52\\(_x\\)\u00a0= 77\\(_{10}\\)\u00a0find X",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}=5\\left(\\frac{1-9+6}{12}\\right)\\\\\n5\\left(\\frac{-2}{12}\\right)\\\\\n=4\\left(\\frac{12-2}{12}\\right)\\)\n(carry one from 5 and call it 12)\n\\(4\\frac{10}{12}\\\\\n=4\\frac{5}{6}\\)\nThere is an explanation video available below."
+    },
+    "text": "Simplify \\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}\\)",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n41/6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n45/6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n51/6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\\\\n=\\frac{181.25}{56.25}\\\\\n=\\frac{18125}{5625}\\\\\n\\frac{29}{9}\\\\\n=3\\frac{2}{9}\\\\\n\u2245 3.22\\)\nThere is an explanation video available below."
+    },
+    "text": "Evaluate \\(\\frac{81.81+99.44}{20.09+36.16}\\) correct to 3 significant figures.",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.24",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.22",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.78",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.13",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nC.P = N34000 + N2000 = N36000\nGain = 100 + 15 = 115%\nS.P = \\(\\frac{115}{100}\\times \\frac{N3600}{1}\\)\n= N41400\nThere is an explanation video available below."
+    },
+    "text": "A man bought a second-hand photocopying machine for N34,000. He serviced it\u00a0at a cost of\u00a0N2,000 and then sold it at a\u00a0profit of 15%. What was the selling price?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN37,550",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN40,400",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN41,400",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN42,400",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nLet his allowance = y.\n\\(Books = \\frac{y}{5}\\)\n\\(Remainder: y - \\frac{y}{5} = \\frac{4y}{5}\\)\n\\(Food: \\frac{1}{2} \\times \\frac{4y}{5} = \\frac{2y}{5}\\)\n\\(Contingencies: \\frac{4y}{5} - \\frac{2y}{5} = \\frac{2y}{5}\\)\nTherefore, he kept \\(\\frac{2}{5}\\) of his allowance for contingencies.\nThere is an explanation video available below."
+    },
+    "text": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7/15",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8/15",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2/5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4/5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLog 2 = 0.3010, Log 7 = 0.8451\n\u2234Log 280 = Log 28 x 10\n= Log 7x4x10\n=Log7 + Log4 + Log10\n= Log7 + Log2\\(^2\\)\u00a0+ Log10\n= Log7 + 2Log2 + Log10\n= 0.8451 + 2(0.3010) + 1\n= 0.8451 + 0.6020 + 1\n= 2.4471\nThere is an explanation video available below."
+    },
+    "text": "If log\\(_{10}\\)2 = 0.3010 and log\\(_{10}\\)7 = 0.8451, evaluate log\\(_{10}\\)280",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.4471",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.4471",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.4471",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.4071",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}=\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\times \\frac{3-\\sqrt{7}}{3-\\sqrt{7}}\\\\\n=\\frac{(5+\\sqrt{7})(3-\\sqrt{7})}{3^2 - \\sqrt{7}^2}\\\\\n=\\frac{15-5\\sqrt{7}+3\\sqrt{7}-7}{9-7}\\\\\n=\\frac{8-2\\sqrt{7}}{2}\\)\nFactorize then divide by 2\n\\(=\\frac{2(4-\\sqrt{7}}{2}\\\\\n=4-\\sqrt{7}\\)\nThere is an explanation video available below."
+    },
+    "text": "Simplify \\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\)",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n17-\u221a7",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4-\u221a7",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n15+\u221a7",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7-\u221a7",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nX = {n(^2\\)+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}\nImplies X = {2, 5, 10, 17, 26} i.e. put n= 1, 2, 3, 4 and 5\nY = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}\nPut X = 1, 2, 3, 4, and 5\nY = {5, 10, 15, 20, 25}\nX \\(\\cap\\) Y = {2, 5, 10, 17, 26} \\(\\cap\\) {5, 10, 15, 20, 25}\n= {5, 10}\nThere is an explanation video available below."
+    },
+    "text": "If x = {n\\(^2\\)+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5},\nY = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x \\(\\cap\\) y.",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n{5,10}",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n{5, 10, 15}",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n{2, 5, 10}",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n{5, 10, 15, 20}",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIf S \\(\\subset\\) T \\(\\subset\\) W,\nS \\(\\cap\\) T \\(\\cap\\) W = S is true since S \\(\\cap\\) T = S and S \\(\\cap\\) W = S.\nS \\(\\cup\\) T \\(\\cup\\) W = W is also true. S \\(\\cup\\) T = T and T \\(\\cup\\) W = W.\nHowever, to say that T \\(\\cap\\) W = S is not very true mathematically. Instead, it is safe to say S \\(\\subset\\) (T \\(\\cap\\) W).\nThere is an explanation video available below."
+    },
+    "text": "I.S\u2229T\u2229W=S II. S \u222a T \u222a W = W\nIII. T \u2229 W = S\nIf S\u2282T\u2282W, which of the above statements are true?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI and II",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI and III",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nII and III",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nI, II and III",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(p =\\sqrt{\\frac{rs^3}{t}}\\\\=\np^2 =\\frac{rs^3}{t}\\\\\ntp^2 = rs^3\\\\\nr = \\frac{p^2 t}{s^3}\\)\nThere is an explanation video available below."
+    },
+    "text": "If \\(p=\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{p^2 t}{s^3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{p^3 t}{s^3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{p^3 t}{s^2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{p^ t}{s^3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIf 4/3 and -3/5 are roots of a polynomial\nImply x = 4/3 and - 3/5\n3x = 4 and 5x = -3\n\u22343x-4 = 0 and 5x+3 = 0 are factors\n(3x-4)(5x+3) = 0 product of the factors\n15x2 + 9x \u2013 20x \u2013 12 = 0 By expansion\n15x2 - 11x \u2013 12 = 0\nThere is an explanation video available below."
+    },
+    "text": "A polynomial in x whose roots are 4/3 and -3/5 is?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15x2 - 11x \u2013 12",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n15x2 + 11x \u2013 12",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12x2 - x \u2013 12",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n12x2 + 11x \u2013 15",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nx = -2 and x = 1/4\nx = -2 and 4x = 1\nx+2 and 4x-1\n(x+2)(4x-1) = 0\n4x2 - x + 8x -2 = 0\n4x2 + 7x \u2013 2 = 0 but y intercept is positive. Multiply the equation by -1\n-4x2 - 7x + 2 = 0\n\u2234y = 2 \u2013 7x \u2013 4x2\nThere is an explanation video available below."
+    },
+    "text": "Which of the following equations represent the graph above?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": "https://myschool.ng/storage/classroom/14926060600_math200914.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\ny = 2+7x+4x2",
+        "imageUrl": "https://myschool.ng/storage/classroom/14926060600_math200914.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\ny = 2-7x+4x2",
+        "imageUrl": "https://myschool.ng/storage/classroom/14926060600_math200914.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\ny = 2+7x-4x2",
+        "imageUrl": "https://myschool.ng/storage/classroom/14926060600_math200914.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\ny = 2-7x-4x2",
+        "imageUrl": "https://myschool.ng/storage/classroom/14926060600_math200914.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(W \u221d U\\\\\nW = KU\\\\\nK = \\frac{W}{U}\\\\\nK = \\frac{5}{3}\\\\\nW = \\frac{5}{3}U\\\\\n\\frac{2}{7} = \\frac{5}{3}U\\\\\nU = \\frac{2}{7} \\times \\frac{3}{5}\\\\\nU = \\frac{6}{35}\\)\nThere is an explanation video available below."
+    },
+    "text": "W is directly proportional to U. If W\u00a0= 5 when U = 3, find U when W = 2/7",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6/35",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10/21",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n21/10",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n35/6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\\(^2\\) > 0\n(x+1)(x-1) > 0\nx = 1 or -1\n-1 < x < 1\nThere is an explanation video available below."
+    },
+    "text": "Determine the value of x for which (x\\(^2\\) - 1) > 0?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx < -1 or x > 1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-1 < x < 1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx > 0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx < -1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n3x - 7 \\(\\leq\\) 0 and x + 5 > 0\n3x \\(\\leq\\) 7 and x > -5\nx \\(\\leq\\) \\(\\frac{7}{3}\\)\n\u2234 Range -5 < x \\(\\leq\\) \\(\\frac{7}{3}\\)\nThere is an explanation video available below."
+    },
+    "text": "Find the range of values of x for which 3x - 7 \\(\\leq\\) 0 and x + 5 > 0?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5 < x < \\(\\frac{7}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-5 \\(\\leq\\) x \\(\\leq\\) \\(\\frac{7}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-5 < x \\(\\leq\\) \\(\\frac{7}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-5 \\(\\leq\\) x < \\(\\frac{7}{3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\na = 5, d = 6, n = n\nSn = n/2(2a + (n-1)d)\n= n/2(2(5) + (n-1)6)\n= n/2(10 + 6n-6)\n= n/2(6n+4)\n= 6n2/2 + 4n/2\n= 32 + 2n\n= n(3n + 2)\nThere is an explanation video available below."
+    },
+    "text": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nn(3n - 0.5)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nn(3n + 2)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nn(3n + 2.5)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nn(3n + 5)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(a=1, r=\\frac{9}{10}\\\\\nS_n = \\frac{a}{1-r}\\\\\nS_n = \\frac{1}{1-\\frac{9}{10}}\\\\\n=1\\div \\frac{1}{10}\\\\\n=1\\times \\frac{10}{1}\\\\\n10\\)"
+    },
+    "text": "Find to infinity, the sum of the sequence \\(1, \\frac{9}{10}, \\left(\\frac{9}{10}\\right)^2, \\left(\\frac{9}{10}\\right)^3,.....\\)",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10/9",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9/10",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nm * n = n - (m+2)\n= -5 - (3+2)\n= -5-5\n= -10\nThere is an explanation video available below."
+    },
+    "text": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-6",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-10",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-12",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(m \\otimes n = m + n + mn\\)\nLet the inverse of -5 be n.\n\\(\\therefore -5 \\otimes\u00a0n\u00a0= 0\\)\n\\(-5 + n\u00a0+ (-5n) = 0\\)\n\\(n - 5n = 5 \\implies -4n = 5\\)\n\\(n = -\\frac{5}{4}\\)\nThere is an explanation video available below."
+    },
+    "text": "A binary operation \u2297 defined on the set of integers is such that m\u2297n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5/4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-5/6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nzero",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nQ = \\( \\left[ \\begin{array}{ccc}\n9 & -2 \\\\\n-7 & 4 \\\\\n\\end{array} \\right]\\)\n|Q| = 9x4 - (-2x7)\n= 36 - 14\n= 22\nThere is an explanation video available below."
+    },
+    "text": "If Q is\\( \\left[ \\begin{array}{cc}\n9 & -2 \\\\\n-7 & 4 \\\\\n\\end{array} \\right]\\) , then |Q| is?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-50",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-22",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n22",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n50",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(P=\\left[\\begin{array}{cc}x+3 & x+2\\\\\nx+1 & x-1\\end{array}\\right]\\) evaluate x if |P| = -10\n(x+3)(x-1) - {(x+1)(x+2)} = -10\nx2 - x + 3x - 3 - {x2 + 2x + x + 2} = -10\nx2 + 2x - 3 - {x2 + 3x + 2} = -10\n-x - 5 = -10\n-5 + 10 = x\n5 = x\n\u2234x = 5\nThere is an explanation video available below."
+    },
+    "text": "If P \\(=\\left[\\begin{array}{cc}x+3 & x+2\\\\\nx+1 & x-1\\end{array}\\right]\\) evaluate x if |P| = -10",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\ny = x, Gradient (m1) = 1\ny = \u221a3x gradient (m2) = \u221a3\n\\(tan\\theta = \\frac{m_2 - m_1}{1+m_2 m_1}\\\\\ntan\\theta = \\frac{\\sqrt{3}-1}{1+\\sqrt{3}\\times 1}\\\\\n=\\frac{1.73 -1 }{1+1.73}=\n\\frac{0.73}{2.73}=0.268\\)\n\u03b8 = Tan-1 (0.268)\n= 15o\nThere is an explanation video available below."
+    },
+    "text": "Find the acute angle between the straight lines y = x and y = \u221a3x",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n45o",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nSum of interior angles of a polygon = each interior \u2220 x n\n(n-2)180 = 150 x n\n180n - 360 = 150n\n180n-150n = 360\n30n = 360\nn = 360/30\nn = 12 sides\nThere is an explanation video available below."
+    },
+    "text": "A regular polygon has 150\u00ba\u00a0as the size of each interior angle. How many sides does it have?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nIn \u0394 TYX\nXY = TY \u2234y =47\u00b0\u00a0base \u2220s of ISC\u0394\nBut y+x+34+47 = 180 interior\nopposite \u2220s are supplementary\n47 + x + 34 + 47 = 180\nx + 128= 180\nx = 180- 128\nx = 52\u00b0\nThere is an explanation video available below."
+    },
+    "text": "In the figure above , TS//XY\u00a0and XY = TY, \u2220STZ = 34\u00b0, \u2220TXY = 47\u00b0, find the angle marked n?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": "https://myschool.ng/storage/classroom/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n47o",
+        "imageUrl": "https://myschool.ng/storage/classroom/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n52o",
+        "imageUrl": "https://myschool.ng/storage/classroom/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n56o",
+        "imageUrl": "https://myschool.ng/storage/classroom/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n99o",
+        "imageUrl": "https://myschool.ng/storage/classroom/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nX\\(^2\\)\u00a0+ x\\(^2\\)\u00a0= 2\\(^2\\)\n2x\\(^2\\)\u00a0= 4\nx\\(^2\\)\u00a0= 4/2\nx\\(^2\\)\u00a0= 2\nx = +/-\u221a2\nArea of \u0394 = 1/2bh\n= 1/2 x \u221a2 x \u221a2\n= 2/2\n= 1 cm\\(^2\\)\nThere is an explanation video available below."
+    },
+    "text": "If the hypotenuse of a right-angled\u00a0isosceles triangle is 2cm. What is the area of the triangle?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1/\u221a2 cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1 cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u221a2 cm2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2\u221a2 cm2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\\(^2\\)\u00a0+ 5\\(^2\\)\u00a0= 13\\(^2\\)\nx\\(^2\\)\u00a0+ 25 = 169\nx\\(^2\\)\u00a0= 144\n\nx = \u221a\u00a0144\u00a0\n\n= 12\nLength of the chord AB = 2x\n2\\(\\times\\)12= 24cm\nThere is an explanation video available below."
+    },
+    "text": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n24cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\n154 = 4 x\n22\nx\u00a0 r\\(^2\\)\n\n\n7\n\n\n\n\u00a0\n\n\n\n154x7\n\nr\\(^2\\)\n\n\n\n4x22\n\n\n\n\u00a0\n\n\u221a\u00a049/4\u00a0 = r\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\n\n7\n= r\n\n\n2\n\n\n\n\n\u2234r = 3.50\n\u00a0\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "Find the radius of a sphere whose surface area is 154 cm\\(^2\\)?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7.00 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.50 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.00 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.75 cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nLocus of a particle which moves in the first quadrant so that it is equidistant from the lines\nX = 0 and Y = 0\u00a0are the x and y axes as the lines bisecting the angle between x and y axes.\nThere is an explanation video available below."
+    },
+    "text": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx + y = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nx - y = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx + y + k = 0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx - y - k = 0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\\(^2\\)\u00a0+ 3\\(^3\\)\u00a0= 5\\(^2\\)\nx\\(^2\\)\u00a0+ 9 = 25\nx\\(^2\\)\u00a0= 25 \u2013 9\nx\\(^2\\)\u00a0= 16\n\nx = \u221a\u00a016\u00a0\n\n= 4 cm\n\u2234 The locus is a circle of radius 4 cm with the center O\nThere is an explanation video available below."
+    },
+    "text": "What is the locus of\u00a0the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA circle of radius 4 cm and the center 0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe perpendicular bisector of the chords",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nA straight line passing through 0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nA circle of radius 6 cm and with center 0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n  Gradient = y2 - y1x2 - x1\n23 = 4-pp-(-1)\n23 = 4-pp+1\n3(4-p) = 2(p+1)\n12 - 3p = 2p + 2\n12 \u2013 2 = 2p + 3p\n10 = 5p\np = 105\n= 2\nThere is an explanation video available below."
+    },
+    "text": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 23?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA(4,2) and B(1,r), AB = 3 units\n\n3 = \u221a (x2- x1)2 + (y2-y1)2\n\n\n3 = \u221a (4-1)2 + (2-r)2\n\n\n3 = \u221a 32 + (2-r)2\n\n\n3 = \u221a 9 + 4 \u2013 4r + r2\n\n\n3 = \u221a r2 - 4r + 13\n\n9 = r2 - 4r + 13 By squaring both sides\nr2 - 4r + 4 = 0\n(r-2)(r-2) = 0\nr = 2\nThere is an explanation video available below."
+    },
+    "text": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\ny = 3 cos 4x\nApplying product rule:\n\\(\\frac{dy}{dx}\\) = u\\(\\frac{dv}{dx}\\) + v\\(\\frac{du}{dx}\\)\nWhere u = 3 and v = cos 4x\n\\(\\frac{du}{dx}\\) of 3 = 0 and\u00a0\n\\(\\frac{dv}{dx}\\) of cos 4x = -4sin 4x\n\n\\(\\frac{dy}{dx}\\)\u00a0= 3 \\(\\times\\)\u00a0-4 sin 4x\u00a0 +\u00a0 \u00a0cos 4x \\(\\times\\) 0\n\\(\\frac{dy}{dx}\\) = -12 sin 4x\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "If y = 3 cos 4x, dy/dx equals?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6 sin 8x",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-24 sin 4x",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12 sin 4x",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-12 sin 4x",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(Sin 45 - cos 30\\\\\n\\frac{\\sqrt{2}}{2}-\\frac{\\sqrt{3}}{2}\\\\\n=\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)\nThere is an explanation video available below."
+    },
+    "text": "Find the value of sin 45\u00b0\u00a0- cos 30\u00b0",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{2+\\sqrt{3}}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{\\sqrt{2}+\\sqrt{3}}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{\\sqrt{2}+\\sqrt{3}}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n\nTan 60 =\n300\n\n\nx\n\n\n\n\u00a0\n\n\n\nx =\n300\n\n\nTan 60\n\n\n\n\u00a0\n\u00a0\n\n\n\nx =\n300\n\n\n\u221a3\n\n\n\n\nx = (300/\u221a3) x (\u221a3/\u221a3)\n\u00a0\n\u00a0\n\n\n\nx =\n300\u221a3\n\n\n.....3\n\n\n\n\u00a0\n\nx = 100\u221a3\n\u00a0\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "A cliff on the bank of a river is 300 meter high. if the angle of depression of a point on the opposite side of the river is 60\u00ba, find the width of the river?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n100m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n75\u221a3 m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n100\u221a3m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n200\u221a3m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nx = (2+3t)(5t-4)\nLet u = 2+3t \u2234du/dt = 3\nand v = 5t-4 \u2234dv/dt = 5\ndx/dt = Vdu/dt + Udv/dt\n= (5t-4)3 + (2+3t)5\n= 15t - 12 + 10 + 15t\n= 30t - 2\n= 30x4/5 - 2\n= 24 - 2\n= 22\nThere is an explanation video available below."
+    },
+    "text": "If s = (2 + 3t)(5t - 4), find ds/dt when t = 4/5 secs",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0 units per sec",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n15 units per sec",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n22 unit per sec",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n26 units per sec",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nS = t\\(^3\\)\u00a0- t\\(^2\\)\u00a0- t + 5\nds/dt = 3t\\(^2\\)\u00a0- 2t - 1\nAs ds = 0\n3t\\(^2\\)\u00a0- 2t - 1 = 0\n(3t+1)(t-1) = 0\n\u2234 t = 1 or -1/3\nAt min pt t = 1\nS = t\\(^3\\)\u00a0- t\\(^2\\)\u00a0- t + 5\nput t = 1\n= 1\\(^3\\)\u00a0- \\1(^2\\)\u00a0- 1\u00a0+ 5\n= 1 - 1 - 1 + 5\n= 4\nThere is an explanation video available below."
+    },
+    "text": "The distance traveled by a particle from a fixed point is given as s = (t\\(^3\\) - t\\(^2\\)\u00a0- t + 5)cm. Find the minimum distance that the particle can cover from the fixed point?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.3 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.0 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.2 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.0 cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\u222bsec2\u03b8 d\u03b8 = \u222b 1/cos2 d\u03b8\n\u222b(cos)-2 d\u03b8,\nlet u = cos \u03b8\n\u2234\u222bu-2 = 1/u + c\n\u222bcos \u03b8 = sin \u03b8 + c\n\u222bsec-2\u03b8 = 1/u sin \u03b8 + c\n= (sin\u03b8 / cos\u03b8) + c\n= Tan \u03b8 + c\nThere is an explanation video available below."
+    },
+    "text": "Evaluate \u222bsec\\(^2\\)\u03b8 d\u03b8?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsec \u03b8 tan \u03b8 + k",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntan \u03b8 + k",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2sec \u03b8 + k",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsec \u03b8 + k",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120\nThere is an explanation video available below."
+    },
+    "text": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n180",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n120",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n110",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n40",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nSectorial angle of apple\n100 + 100 + 115 + x = 30o\n315 + x = 360\nx = 360 - 315\nx = 45o\n360o represents 400\n1o represents 400 / 360\n45o represents (400/360) x (45/1)\n= 50 apples\nThere is an explanation video available below."
+    },
+    "text": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/20362397190_math200943.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n45",
+        "imageUrl": "https://myschool.ng/storage/classroom/20362397190_math200943.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n50",
+        "imageUrl": "https://myschool.ng/storage/classroom/20362397190_math200943.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n60",
+        "imageUrl": "https://myschool.ng/storage/classroom/20362397190_math200943.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n75",
+        "imageUrl": "https://myschool.ng/storage/classroom/20362397190_math200943.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nP(pass) = 2/3\nP(not pass) = 1 - 2/3 = 1/3\nP(not passing any of the 3 Exams) = 1/3 x 1/3 x 1/3\n= 1/27\nThere is an explanation video available below."
+    },
+    "text": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2/3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4/9",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8/27",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1/27",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\nf\nfx\n\n\n5\n3\n15\n\n\n8\n2\n16\n\n\n6\n4\n24\n\n\nk\ni\nk\n\n\n\u00a0\n\u2211f=10\n\u2211fx=55+k\n\u00a0\n\n\n\n\u00a0\n\n\n\nMean =\n\u2211fx\n\n\n\u2211fx\n\n\n\n\u00a0\n\u00a0\n\n\n\n5.7 =\n55+k\n\n\n10\n\n\n\n\n57 = 55 + k\nk = 57 - 55\nk = 2\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\n\u2234x\nx-X\n/x-X/\n\n\nx\n1\n-1\n1\n\n\n2x\n2\n0\n0\n\n\nx+1\n2\n0\n0\n\n\n3x\n3\n1\n1\n\n\n\u00a0\n\u00a0\n\u00a0\n\u2211/x-X/=2\n\n\n\n\u00a0\n\n\n\nMean =\nx+2x+x+1+3x\n\n\n____4\n\n\n\n\u00a0\n\u00a0\n\n\n\n2 =\n7x+1\n\n\n_4\n\n\n\n\n8 = 7x+1\n7x = 8-1\n7x = 7\nx = 1\n\u00a0\n\u00a0\n\n\n\nMean deviation =\n\u2211/x-X/\n\n\n__n\n\n\n\n\u00a0\n\u00a0\n\n\n\n=\n2\n\n\n4\n\n\n\n\u00a0\n\u00a0\n\n\n\n=\n1\n\n\n2\n\n\n\n\n= 0.5\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2?",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\n= \\((^{5}C_{2} \\times\u00a0^{3}C_{1}) + (^{5}C_{1} \\times\u00a0^{3}C_{2})\\)\n= \\((10 \\times 3) + (5 \\times 3)\\)\n= 45.\nThere is an explanation video available below."
+    },
+    "text": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n28",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n45",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\n9P3 =\n_9!\nways\n\n\n(9-3)!\n\n\n\n\u00a0\n\n\n\n=\n9!\n\n\n6!\n\n\n\n\u00a0\n\u00a0\n\n\n\n=\n9x8x7x6!\n\n\n___6!\n\n\n\n\n= 504 ways\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "In how many ways can 9 people be seated if 3 chairs are available?",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n720",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n504",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n336",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n210",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nTotal number of students = 20\n\n\n\nMarks\nNo. of students\n\n\n5\n0\n\n\n6\n4\n\n\n7\n5\n\n\n\n\n8\n2\n\n\n9\n1\n\n\n\u00a0\n12\n\n\n\n\u00a0\n\n\n\nP(passing)=\n12\n\n\n20\n\n\n\n\u00a0\n\u00a0\n\n\n\n=\n3\n\n\n5\n\n\n\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n35",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n720",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nx(4 - x)\n\n4x - x2\n\n\\(\\frac{dy}{dx}\\) = 4 - 2x\n\n\\(\\frac{dy}{dx}\\) = 0\n\n2x = 4\n\nx = \\(\\frac{4}{2}\\)\n\n= 2\nThere is an explanation video available below."
+    },
+    "text": "What value of x will make the function x(4 - x) a maximum?",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\begin{array}{c|c} Mark & No. of Candidate\\\\\\hline 60 & 40\\\\ 70 & 25\\\\ 80 & 15\\\\ 90 & 10 \\\\100 & 5 \\\\\\hline & 95 \\end{array}\\)\nThere is an explanation video available below."
+    },
+    "text": "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks?",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": "https://myschool.ng/storage/classroom/5713639540_MATHS-3.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n80",
+        "imageUrl": "https://myschool.ng/storage/classroom/5713639540_MATHS-3.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n95",
+        "imageUrl": "https://myschool.ng/storage/classroom/5713639540_MATHS-3.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n100",
+        "imageUrl": "https://myschool.ng/storage/classroom/5713639540_MATHS-3.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n115",
+        "imageUrl": "https://myschool.ng/storage/classroom/5713639540_MATHS-3.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\u00a0the 36th percentile\u00a0i.e. 36% of the total frequency of 50.\n\\(\\frac{36}{100}\\) \\(\\times\\) 50 = 18\n= From the graph, 18\u00a0on the vertical axis corresponds to28\u00a0on the horizontal axis.\n\\(\\therefore\\) P\\(_{36}\\) = 28%\nThere is an explanation video available below."
+    },
+    "text": "The cumulative frequency curve above shows the distribution of the scores of 50 students in an examination. Find the 36th percentile scores?",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": "https://myschool.ng/storage/classroom/8570470410_maths-6.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n18%",
+        "imageUrl": "https://myschool.ng/storage/classroom/8570470410_maths-6.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n28%",
+        "imageUrl": "https://myschool.ng/storage/classroom/8570470410_maths-6.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n36%",
+        "imageUrl": "https://myschool.ng/storage/classroom/8570470410_maths-6.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n50%",
+        "imageUrl": "https://myschool.ng/storage/classroom/8570470410_maths-6.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n18630\\(_9\\) - 16418\\(_9\\) = 2211\\(_9\\)\nThere is an explanation video available below."
+    },
+    "text": "Subtract 16418\\(_9\\) from 18630\\(_9\\).",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1121\\(_9\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2112\\(_9\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2113\\(_9\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2211\\(_9\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(5^{2(x - 1)} \\times 5^{x + 1} = 0.04\\)\n\\(5^{2x -\u00a02} \\times 5^{x + 1} = 5^{-2}\\)\n\\(2x\u00a0- 2 + x + 1 = -2\\)\n\\(3x - 1 = -2 \\implies 3x = -2 + 1 = -1\\)\n\\(x = -\\frac{1}{3}\\)\nThere is an explanation video available below."
+    },
+    "text": "Solve \\(5^{2(x - 1)} \\times 5^{x + 1} = 0.04\\)",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{1}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n \\(-\\frac{1}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(-\\frac{1}{3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2009
+  }
+]

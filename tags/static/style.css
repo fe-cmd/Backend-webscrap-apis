@@ -1,0 +1,8 @@
+.question-desc img{
+max-width: 100%;
+height: auto !important;
+}
+
+.flow {
+   word-wrap: break-word; 
+}

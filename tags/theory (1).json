@@ -1,0 +1,65 @@
+{
+  "year": 2022,
+  "type": "WAEC",
+  "question": "when did the first world war happen",
+  "subject": "HISTORY",
+  "number": 1,
+  "subquestions": [
+    {
+      "question": "when did the second world war happen",
+      "index": "a",
+      "marks": "",
+      "subquestions": [
+        {
+          "question": "mention three past world leaders",
+          "index": "i",
+          "marks": ""
+        },
+        {
+          "question": "mention five past usa presidents",
+          "index": "ii",
+          "marks": ""
+        },
+        {
+          "question": "mention five past usa presidents",
+          "index": "ii",
+          "marks": ""
+        }
+      ]
+    },
+    {
+      "question": "when did the second world war happen",
+      "index": "b",
+          "marks": "",
+      "subquestions": [
+        {
+          "question": "mention three past world leaders",
+          "index": "i",
+          "marks": ""
+        },
+        {
+          "question": "mention five past usa presidents",
+          "index": "ii",
+          "marks": ""
+        }
+      ]
+    },
+    {
+      "question": "when did the second world war happen",
+      "index": "s",
+      "marks": "",
+      "subquestions": [
+        {
+          "question": "mention three past world leaders",
+          "index": "i",
+          "marks": ""
+        },
+        {
+          "question": "mention five past usa presidents",
+          "index": "ii",
+          "marks": ""
+        }
+      ]
+    }
+  ]
+}

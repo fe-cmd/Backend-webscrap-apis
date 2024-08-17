@@ -1,0 +1,1802 @@
+[
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n13,600 + (69,000 -\u00a051,600) +\u00a03,000 - 1500 (discount)\n13,600 + 17,400 + 3000 - 1500 = 32,500"
+    },
+    "text": "On November 1, 1998, Zaria Holdings owed N13,600 in respect of a creditor. On November 15, it purchases goods worth N69,000 and paid a cheque of N51,600. On November 29, one of the Holdings' cheques worth N3,000 was returned while the creditor granted a N1,500 discount. The amount owed by Zaria Holdings as at November 29 is?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN32,500",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN32,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN31,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN29,500",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "To write off bad debt, debt?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndebtor's account and credit provision for bad debt",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbad debt account and credit debtor's account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndebtor's account credit bad debt",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nprovision for bad debt account and credit debtor's account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In order to make the cash book balance equal to the bank statement, it is usual to add?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nuncredited cheques",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndirect payments by bank",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbank charges",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nunpresented cheques",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer question 4 and 5.\n\nSales N20,000\nCost sales N10,000\nOperating expenses N2,500\nExpenses prepaid included \nin operating expenses N500\n\nCalculate the net profit?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN12,500",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN10,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN8,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN7,500",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "what is the gross profit margin?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN100%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN50%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN40%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN30%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The main objective of bookkeeping is to record economic?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntransactions systematically for routine managerial decision-making",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nevents clearly to ensure adequate checks and balances",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nevents clearly to facilitate strategic managerial desicion-making",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntransaction systematically to ascertain the financial position of a business",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is an example of intangible assets?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntrade debtors",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstock of goods",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntrade creditors",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmotor vehicles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A source document that aids the ascertainment of amount paid out of current account is the?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nteller",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncheque stub",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncheque",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nteller stub",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The most convenient cash book used by a petty trader operating in an area where there is no banking facility is?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nfour column",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthree column",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsingle column",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntwo column",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe general ledger contains the date of the transaction,\u00a0a description of the details of the transactions, the\u00a0debit column that shows all the debit entries, the credit column that records all the credit entries of the account.\nHence we have; date, description, debit, and credit column"
+    },
+    "text": "A general journal contains?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndate, narration, folio, debit, and purchases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndate, narration, folio, debit and purchase",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfolio, credit, date, debit and sales",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndebit, credit, narration, and date",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following errors will affect the trial balance total?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nposting disscount allowed to the debit side of the discount allowed account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nomision of one account from the list when extracting from the ledger",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfailure to post sales of N2,000 and purchases of N2,000 from the subsidiiary ledger",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nomission of sales of N3,000 and purchases of N2,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An expenses account is closed by a debit to?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nan asset account and a credit to the expenses account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe expenses account and a credit to an asset account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprofit and loss account and a creit to the expenses account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe expenses account and a credit to profit and loss account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In a manufacturing company, the total cost of goods produced is equivalent to?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npurchases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsales",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncost of goods sold",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncost of materials used",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Given:\nSales Ledger Control Account (Extracts)\n\nBalance b/f N10,600\nTotal cash payments by debtors N32,275\nTotal credit sales N59,193\nDiscount received N9,700\nBalance c/f N20,751\nDiscount allowed N2,890\n\nDetermine the sales returns?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN24,577",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN13,877",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN7,067",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN2,890",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The simplest form of single entry procedure consists fo keeping a?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nday book or general journal",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncash book and ledger accounts showing debtors and creditors balances",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncash journal, sales journal and purchases journal",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nday book in which transactions are described in chronological order",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A fixed cost is fixed only in relation to?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe quality of goods produced",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe quantity of goods sold",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na given period of time and a range of activities",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na given period of time and the nature of activity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "One of the advantage of the shortcomings of single entry procedures is that?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na trial balance is not available",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nprofits are overestimated",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthere are no subsidiary books",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthere are no control accounts",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When a customer's cheque is returned unpaid in a debtor's control accounting system, the treatment will be?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndebit bank, credit custmer and credit conyrol account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncredit bank, debit customer, and credit control account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndebit customer, debit control accountand credit bank",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncredit control account, debit bank and debit customer",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Didi Ltd offered 10,000 ordinary shares of N1.50 each at a discount of 2% which were fully subscribed. With regard to the offer above?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nshares are never offered at a discount; the offer is invalid",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe value of shares in the capital account will be lowered by 2%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe company incurs a loss to the tune of 2% of the offer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\neach of the subscribers loses 2% of investment",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer questions \n\nMaro Merchant Bank plc is to issue N500,000 ordinary shares of 50k each at N 3.00 per share.\nApplications were received for N1,550,000 shares fully paid, N1,250,000 shares are to be issued on a pro rata basis and excess subscriptions were dishonored and refunds made?\nThe refund due to an application for N25,000 shares is?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN45,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN30,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7,500",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN5,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer questions Maro Merchant Bank plc is to issue N500,000 ordinary shares of 50k each at N 3.00 per share. Applications were received for N1,550,000 shares fully paid, N1,250,000 shares are to be issued on a pro rata basis and excess subscriptions were dishonored and refunds made? \n\nWhat will be the number of shares to be issued to a subscriber who applied for N30,000 shares?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN20,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN18,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN15,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN12,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following items does not feature in the balance sheet of a club?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nArrears of current year's subscription",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSalary arrears paid in the current year",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRental income received in advance",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAdvances subscription in respect of a coming year",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An outright sale of a partnership amounts to the?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncompensation of vendors by the purchase",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nadmission of a new partner",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npurchase of rights of a dead partner",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nchange of sharing ratio of vendors",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Given:\nOpening cash balance N20,000\nSales of match tickets N15,000\nClearing of pitch N1,200\nRefreshments N3,500\nReferees' allowance N1,000\nCost of petrol N1,120\nDonation from local government N3,800 \n\nThe club's balance is?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN39,180",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN34,830",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN34,380",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN31,980",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer question \n\nMaimalari Ltd had (i) Earning per share 47k\n(ii) Dividend per share 30k \n(iii) Par value of each share N1.20\n(iv) Market price per share N1.50\n\nThe company's earning yield is?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20.00%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25.00%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n31.33%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n39.17%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer question Maimalari Ltd had (i) Earning per share 47k (ii) Dividend per share 30k (iii) Par value of each share N1.20 (iv) Market price per share N1.50\n\nWhat will be the price earnings ratio of the company?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.91",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.19",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.95",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.55",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The Partnership Deed normally specifies?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhow profit or losses are to be shared",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe capital to be contributed annually",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhow salaries are paid to employees",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe profit that should be earned annually",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The accumulation fund of a non-trading concern can equally be referred to as?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmembers' equity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nshare capital",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngeneral fund",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsurplus fund",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When a purchase business is revalued, the effect is that?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na decrease in the value of asset has no effect on value of goodwill",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nan increase in the value of asset is treated as an increase in the value of goodwill",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na decrease in the value of asset is treated as an decrease in the value of goodwil",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nan increase in the value of asset is treated as an decrease in the value of goodwill",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An item of appropriation in partnership profit and loss account is?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ninterest on partners' capital",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ninterest on partners' loan",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nemployees' salaries",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npartners' drawings",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer question \n\nRakiya and Joy are in partnership and agreed that 5% interest per annul is to be charged on drawings. The drawing made by both partners in one year were: Rakiya, N200 on March 31 and N300 on September 30. Joy, N100 on April 1 and N240 on July 1.\n\nThe interest on joy's drawing is?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN6.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN7.25",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN9.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN9.75",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to answer question\n\nRakiya and Joy are in partnership and agreed that 5% interest per annul is to be charged on drawings. The drawing made by both partners in one year were: Rakiya, N200 on March 31 and N300 on September 30. Joy, N100 on April 1 and N240 on July 1.\n\nAssuming that Rakiya was not credited with any income during the period, what is her closing current account balance?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN340,000 credit",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN349,75 debit",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN500.00 credit",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN 511.25 debit",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A business is required at par when the?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npurchase consideration equals goodwill",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npurchase consideration equals net value",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npurchase consideration is greater than the net value",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnet assets is greater than the liabilitties",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Given:\ncash book item:\nPaid to suppliers N10,800\nExpenses paid N6,900\nDrawings made N900\nBalances at start N15,750\nBalances at end N3,870\nDrawings from bank to shop N1,720\n\nDetermine the receipt from debtors?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN22,470",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN17,470",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN8,440",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN5,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Given:\n\nDepreciation of plant and machinery N1,600\nFactory rent N650\nIndirect wages N695\nGeneral indirect expenses N726\nlubricants N1235\nCarriage inwards N829\nFactory power N350\nBank charges N612\nCarriage outwards N2,900\n\nDetermine the total factory overhead cost?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN4,485",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN5,256",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN6,085",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN6,556",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Yola Social Club \nStatement of Account 1998 financial year\n31/12/98:\nSubscription in arrears N21,000\nSubscription in advance N12,000\nReceipt during 1999: \n\nArrears 1998 N21,000\nDues 1999 N48,000\nAdvance 2000 N11,000 \n\nThe subscription transferable to the income and expenditure account is?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN48,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN59,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN60,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN69,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The most appropriate basis for apportioning inventory holding cost among departments is to use the value of?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npurchases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nopening stock",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nclosing stock",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\naverage stock",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The body constitutionally charged with the responsibility of examining the audited accounts of the Federation and other reports as referred by the National Assembly is the?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPublic Accounts Committee",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPublic Audit Committee",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nInternal Audit Committee",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nExternal Audit Committee",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "(i) Meet growth and diversification need.\n(ii) Reach out to particular customers or markets \n(iii) Comply with some regulatory directives\n(iv) Increase employees' income. \nWhich of the reasons above do companies consider in establishing branches?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni and ii",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ni, ii and iii",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nii, iii and iv",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\niii and iv",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The channel through which all government borrowing and domestic lending transactions pass is called?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nspecial trust fund",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nagency fund",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nnational loan fund",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncontingency fund",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Recurrent expenditure are expenses for the period not exceeding?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10 years",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5 years",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2 years",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1 year",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A major benefit derived from the reconciliation of branch and head office books is to?",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndetermine accurate returns by the branch",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nascertian the correct profit or loss on branch activities",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nenable the branch to keep control over stock",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nenable the branch to ascertain debtor's balance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Halal Limited with three departments has a total of N7,200,000 as net debtors for the year ended 31/12/97. \nThe company's policy provides for 15% bad debt annually. Which of the following represents the total balance of debtors before adjustment?",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN6,120,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN6,120,300",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN8,280,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8,820,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Yahuza Enterpises\nTrial Balance (Extracts) as at Dec. 31, 1998.\nCapital\nPremises 90,000 21,000\nDebtors 35,000\nProvisions 1/1/98:\nDepreciation 9,000\nBad and doubtful 1,500\n\nIf premises is to be depreciated at 10% on cost and a 5% provision is to be allowed on debtors, the total asset in the balance sheet is",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN 125, 000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN114,500",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN105,500",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN105,250",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The accounting convention which stipulates that money or goods taken from the business by the owner for personal use should be treated as deductions from capital is",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncost",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nprudence",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconsistency",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nentity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to this question \nCost of raw materials consumed 300,600\nCarriage inwards 6,700\nReturns of raw materials 10,800\nClosing stock of raw materials 100,250\nManufacturing wages 27,000\nLighting, power, insurance and rent \nrelation to the factory are \napportioned 1/3,2/5, 1/6 and 17\nwith totals N30,000; N 75,000; N36,000 and N 56,000 respectively.\n\nWhat is the cost of the opening raw materials?",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN 418,350",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN404,950",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN400,250",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN398,250",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the information below to this question Cost of raw materials consumed 300,600 Carriage inwards 6,700 Returns of raw materials 10,800 Closing stock of raw materials 100,250 Manufacturing wages 27,000 Lighting, power, insurance and rent relation to the factory are apportioned 1/3,2/5, 1/6 and 17 with totals N30,000; N 75,000; N36,000 and N 56,000 respectively. \n\nThe production cost of finished goods is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN 524,600",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nn408,600",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nn381,600",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nn327,600",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Amin Ltd. Creditor Ledger Control Account (Extracts)\n\nBeginning control account \nBalance: Debit 32,000\nCredit 61,000\nPurchases during the year: \nCash 30,000\nCredit 60,000\nPayment to suppliers:\nCash 13,000\nCheque 29,000\nDebtor's contra 6,000\nThe closing control account balance is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN 41,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN65,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN71,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN77,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The items entered in an opening statement of affairs of an enterprise that keeps incomplete record are",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsales income",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nreceipt from debtors",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfixtures and fittings",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrent paid",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Given\n\nDept A Dept B\nFloor space 40m2 60m2\nMachine hours 1200 1400\nTurnover N36 million N64 million\nLabour hours 1000 1400\nA joint cost of N 72 million incurred by the two departments was apportioned N30 million to A and N42 million to B. the basis used for apportionment must have been",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlabour hours",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfloor space",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nturnover",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmachine hours",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2000
+  }
+]

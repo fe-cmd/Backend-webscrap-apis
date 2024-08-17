@@ -1,0 +1,986 @@
+[
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following species is always present in acidified water?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNH+4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nO 2-",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nHCI",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nH3O+",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nHNO3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The most suitable method for preparing lead (ll) chloride is by",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\naction of dilute HCI on PbSO 4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nacts of dilute HCI on lead",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\naction of dilute HCI on PbCO3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbubbling chlorine into a solution of Pb(NO3)2",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nmixing aqueous solutions Pb(NO3)2 and NaCI.",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nBrown ring test\u00a0is used for the detection of nitrate ions in a solution. As the name suggests it detects presence of nitrate ions by formation of brown ring"
+    },
+    "text": "A positive brown ring test indicates the presence of",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNO 3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFe 3+",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSO 2-3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCU+",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nNO- 2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Consider the reaction represented by the equation below: XO + YO \u2192 X + YO2 In the reaction, YO acts as",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nan acidic oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na basic oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na reducing agent",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na weak base",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nan oxidizing agent",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Alums are classified as",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsimple salt",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nacid salts",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nanhydrous salts",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndouble salts",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nbasic salts",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Sodium chloride cannot conduct electricity in the solid state because it",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nis a normal salt",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nis highly soluble in water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nis an electrovalent compound",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndoes not have any effect on litmus",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ndoes not contain mobile ions",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What mass of copper will be deposited by the liberation of Cu2+ when 0.1F of electricity flows through an aqueous solution of a copper (ll) salt? [Cu = 64]",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n64g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n32g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12.8g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.4g",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n3.2g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What mass of copper will be deposited by the liberation of Cu2+ when 0.1F of electricity flows through an aqueous solution of a copper (ll) salt? [Cu = 64]",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n64g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n32g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12.8g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.4g",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n3.2g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is not correct of the reaction represented by the equation below? 2C(s) + O2(g) \u2192 2CO(g); \u2206H = - xKJ",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthere is an increase in entropy ;",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThere is anincrease in gaseous volume",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCarbon (lV) oxide is produced",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe oxidation number of carbon increases from 0 to +2",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nThe reaction is exothermic",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "H3O+(aq) + OH-(aq) \u2192 2H2O(l). The heat change accompanying the process represented by the equation above is the heat of",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nneutralization",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nformation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsolution",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndilution",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nhydration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The following statements about graphite are correct except that it",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nis used as a lubricant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhas a network structure",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncontains mobile free electrons",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nis good conductor",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nis an allotrope of carbon",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is hydrocarbons is unsaturated?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEthane",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nBenzene",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPropane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 - methylbutane",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n2,2,4-trimethylpentane",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The following can be obtained directly from the destructive distillation of coal except",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nammoniacal liquor",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncoke",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nproducer gas",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncoal gas",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\ncoal tar",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Fructose and glucose are classified as carbohydrates because they",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nare crystalline white solids",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nare energy -giving substances",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nare naturally occurring organic compounds",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncontain carbon oxygen and hydrogen",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nconform to the general formula Cx(H2O)y",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The gas produced when a mixture of sodium propanoate and soda lime is heated is",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmethane",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npentane",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nethane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbutene",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nethyne",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In which of the following processes are larger molecules broken down into smaller molecules?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nVulcanization of rubber",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nHydrogenation of palm oil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nHydrolysis of starch",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPolymerization",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nEsterification",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The following alkanols will yield alkanoic acids on reacting with excess acidified K2Cr2O7 except",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCH3CH2OH",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(CH3)2CHCH2OH",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(CH3)3CCH2OH",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(CH3)3COH",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nCH3CH2CH2CH2OH",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is an alloy of mercury?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nStainless steel",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSoft solder",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCoinage bronze",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAmalgam",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nDuralumin",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The function of limestone in the extraction of iron in the blast furnace is",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nremoval of the earthly impurities",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndecomposition of the iron ore",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconversion of iron (lll) to iron (ll) compounds",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngeneration of heat for the process",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nconversion of coke to carbon(ll)oxide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "E",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Metals which react with steam only when they are red-hot include",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncopper",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsodium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncalcium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngold",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\niron",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Copper (ll) tetraoxosulphate (VI) is often added to swimming pools because it",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprevents the growth of algae",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncoagulates suspended particles",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nneutralizes dissolved gases in water",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreacts with any excess chlorine present",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nincreases the amount of dissolved oxygen",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The following salts dissolve readily in cold water except",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCaCI2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPbSO4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(NH4)2SO4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNa2CO3",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\nNa2SO3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What is the amount (in mole) of hydrogen gas that would be produced if 0.6 mole of hydrochloric acid reacted with excess zinc according to the following equation? Zn(s) + 2HCI(aq) \u2192 ZnCI2(aq) + H2(g)",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.1 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.2mole",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.3 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.0 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n2.9 moles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What is the amount (in mole) of hydrogen gas that would be produced if 0.6 mole of hydrochloric acid reacted with excess zinc according to the following equation? Zn(s) + 2HCI(aq) \u2192 ZnCI2(aq) + H2(g)",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.1 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.2mole",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.3 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.0 mole",
+        "imageUrl": null
+      },
+      {
+        "option": "E",
+        "text": "\n2.9 moles",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 1995
+  }
+]

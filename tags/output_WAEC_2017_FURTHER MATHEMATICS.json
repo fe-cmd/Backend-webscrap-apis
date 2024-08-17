@@ -1,0 +1,1442 @@
+[
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(log_{y}\\frac{1}{8} = 3 \\implies y^{3} = \\frac{1}{8}\\) (Laws of logarithm)\n\\(y^{3} = \\frac{1}{2^{3}} = (\\frac{1}{2})^{3}\\)\nEquating both sides, we have\n\\(y = \\frac{1}{2}\\)"
+          },
+          "text": "If \\(log_{y}\\frac{1}{8}\\) = 3, find the value of y.",
+          "structure": "OBJECTIVE",
+          "number": 1,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n-2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n-\\(\\frac{1}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{1}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n2",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(a \\Delta b\\) = \\(\\frac{a+b}{\\sqrt{ab}}\\)\n\\(-3\\Delta -1\\) = \\(\\frac{-3 + -1}{\\sqrt{-3\\times -1}}\\)\n\\(\\frac{-4}{\\sqrt{3}}\\), rationalising, we have\n\\(\\frac{-4 \\times \\sqrt{3}}{\\sqrt{3}\\times \\sqrt{3}} = \\frac{-4\\sqrt{3}}{3}\\)"
+          },
+          "text": "A binary operation \\(\\Delta\\) is defined on the set of real numbers, R, by \\(a \\Delta b = \\frac{a+b}{\\sqrt{ab}}\\), where a\\(\\neq\\) 0, b\\(\\neq\\) 0. Evaluate \\(-3 \\Delta -1\\).",
+          "structure": "OBJECTIVE",
+          "number": 2,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(-4\\sqrt{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{-4\\sqrt{3}}{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{-3\\sqrt{3}}{4}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{-3\\sqrt{3}}{4}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(\\frac{1}{(1-\\sqrt{3})^{2}}\\) \n\\((1-\\sqrt{3})^{2} = (1-\\sqrt{3})(1-\\sqrt{3})\\)\n\\(1 - 2\\sqrt{3} + 3 = 4 - 2\\sqrt{3}\\)\n\\(\\frac{1}{4-2\\sqrt{3}}\\)\nAfter rationalising (multiplying the denominator and numerator with \\(4+2\\sqrt{3}\\), we have\n\\(\\frac{4+2\\sqrt{3}}{4} = 1 + \\frac{1}{2}\\sqrt{3}\\)"
+          },
+          "text": "Simplify \\(\\frac{1}{(1-\\sqrt{3})^{2}}\\)",
+          "structure": "OBJECTIVE",
+          "number": 3,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(1- \\frac{1}{2}\\sqrt{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(1+ \\frac{1}{2}\\sqrt{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\sqrt{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(1+\\sqrt{3}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nFor equal roots, we have that \\(b^{2} = 4ac\\), so, given a=1, b = -k and c = 9,\n\\((-k)^{2} = 4\\times1\\times9 \\implies k^{2} = 36\\)\n\\(k = \\sqrt{36} = \\pm6\\)"
+          },
+          "text": "If \\(x^{2} - kx + 9 = 0\\) has equal roots, find the values of k.",
+          "structure": "OBJECTIVE",
+          "number": 4,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n3, 4",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\pm3\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\pm5\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\pm6\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\nThe equation for a circle with centre coordinates (a, b) and radius r is\n\\((x-a)^{2} + (y-b)^{2} = r^{2}\\)\nExpanding the above equation, we have\n\\(x^{2} - 2ax +a^{2} + y^{2} - 2by + b^{2} - r^{2} = 0\\) so that\n\\(x^{2} - 2ax + y^{2} - 2by = r^{2} - a^{2} - b^{2}\\)\nTaking the original equation given, \\(3x^{2} + 3y^{2} - 4x + 8y = 2\\) and making the coefficients of \\(x^{2}\\) and \\(y^{2}\\) = 1,\n\\(x^{2} + y^{2} - \\frac{4x}{3} + \\frac{8y}{3} = \\frac{2}{3}\\), comparing, we have\n\\(2a = \\frac{4}{3}; 2b = \\frac{-8}{3}\\)\n\\(\\implies a = \\frac{2}{3}; b = \\frac{-4}{3}\\)"
+          },
+          "text": "Find the coordinates of the centre of the circle \\(3x^{2}+3y^{2} - 4x + 8y -2=0\\)",
+          "structure": "OBJECTIVE",
+          "number": 5,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n(-2,4)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n(\\(\\frac{-2}{3}, \\frac{4}{3}\\))",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n(\\(\\frac{2}{3}, \\frac{-4}{3}\\))",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n(2, -4)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\nIn a circular seating arrangement, we fix the position of one person and then rotate the others, so we have\n\\((6-1)! = 5! = 5\\times4\\times3\\times2 = 120\\)"
+          },
+          "text": "How many ways can 6 students be seated around a circular table?",
+          "structure": "OBJECTIVE",
+          "number": 11,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n36",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n48",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n120",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n720",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(\\begin{pmatrix}  2  &  1 \\\\  4 & 3 \\end{pmatrix}\\)\\(\\begin{pmatrix}  5 \\\\ 4 \\end{pmatrix}\\)  = k\\(\\begin{pmatrix}  17.5 \\\\ 40.0 \\end{pmatrix}\\)\n\\(\\begin{pmatrix}  10 + 4  \\\\  20 + 12\\end{pmatrix}\\) = \\(\\begin{pmatrix}  14 \\\\ 32\\end{pmatrix}\\) = k\\(\\begin{pmatrix}  17.5 \\\\ 40.0 \\end{pmatrix}\\)\nk = \\(\\frac{14}{17.5} = \\frac{32}{40} = 0.8\\)"
+          },
+          "text": "If \\(\\begin{pmatrix}  2  &  1 \\\\  4 & 3 \\end{pmatrix}\\)\\(\\begin{pmatrix}  5 \\\\ 4 \\end{pmatrix}\\)  = k\\(\\begin{pmatrix}  17.5 \\\\ 40.0 \\end{pmatrix}\\), find the value of k.",
+          "structure": "OBJECTIVE",
+          "number": 12,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n1.2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n3.6",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n0.8",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n0.5",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\ncos150° = -cos30°\n = \\(-\\frac{\\sqrt{3}}{2}\\)"
+          },
+          "text": "Express cos150° in surd form.",
+          "structure": "OBJECTIVE",
+          "number": 13,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(-\\sqrt{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(-\\frac{\\sqrt{3}}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(-\\frac{1}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{\\sqrt{2}}{2}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\n\\(2x+3y = 6 \\implies 3y = 6-2x\\)\n\\(y = \\frac{6}{3} - \\frac{2x}{3}\\) \nParallel lines have the same gradient\n\\(\\therefore\\) Gradient of the line = \\(\\frac{-2}{3}\\)\nLine passes through (-1,2)\nEquation: \\(\\frac{y-2}{x-(-1)} = \\frac{y-2}{x+1} = \\frac{-2}{3}\\)\n\\(3y-6 = -2x-2 \\implies 3y+2x = -2+6 =4\\)"
+          },
+          "text": "A straight line 2x+3y=6, passes through the point (-1,2). Find the equation of the line.",
+          "structure": "OBJECTIVE",
+          "number": 14,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n2x-3y=2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n2x-3y=-2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n2x+3y=-4",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n2x+3y=4",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(\\alpha + \\beta = \\frac{-b}{a}\\)\nFrom the equation, a = 2, b = -3 and c = 4\n\\(\\alpha + \\beta = \\frac{-(-3)}{2} = \\frac{3}{2}\\)"
+          },
+          "text": "\\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 3x + 4 = 0\\). Find \\(\\alpha + \\beta\\).",
+          "structure": "OBJECTIVE",
+          "number": 15,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n-2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n-\\(\\frac{3}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{3}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n2",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha} = \\frac{\\alpha^{2} + \\beta^{2}}{\\alpha\\beta}\\)\n\\(\\alpha + \\beta = \\frac{-b}{a}\\); \\(\\alpha\\beta = \\frac{c}{a}\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\alpha + \\beta)^{2} - 2(\\alpha\\beta)\\)\nFrom the equation, a = 2, b = -3, c =4\n\\(\\alpha + \\beta = \\frac{-(-3)}{2} = \\frac{3}{2}\\)\n\\(\\alpha\\beta = \\frac{4}{2} = 2\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\frac{3}{2})^{2} - 2(2)) = \\frac{9}{4} - 4 = \\frac{-7}{4}\\)\n\\(\\implies \\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha} = \\frac{\\frac{-7}{4}}{2} = \\frac{-7}{8}\\)"
+          },
+          "text": "\\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 3x + 4 = 0\\). Find \\(\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}\\)",
+          "structure": "OBJECTIVE",
+          "number": 16,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\frac{-9}{8}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{-7}{8}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{7}{8}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{9}{8}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(B.B^{-1} = 1\\), let \\(B^{-1} = \\begin{pmatrix}  a & b  \\\\  c & d  \\end{pmatrix}\\)\n\\(\\begin{pmatrix}  2 & 5  \\\\  1 & 3  \\end{pmatrix}\\)\\(\\begin{pmatrix}  a & b  \\\\  c & d  \\end{pmatrix}\\) = \\(\\begin{pmatrix}  1 & 0  \\\\  0 & 1  \\end{pmatrix}\\)\nMultiplying \\(B \\times B^{-1}\\), we have the following equations:\n\\(2a+5c = 1......... (1)\\); \\(a+3c = 0 ........(2)\\)\n\\(2b+5d = 0 ..........(3)\\); \\(b+3d = 1..........(4)\\)\nSolving the equations simultaneously, we have\n\\(a = 3; b = -5; c = -1; d = 2 \\implies B^{-1} = \\begin{pmatrix}  3 & -5  \\\\  -1 & 2  \\end{pmatrix}\\)"
+          },
+          "text": "If \\(B = \\begin{pmatrix}  2 & 5  \\\\  1 & 3  \\end{pmatrix}\\), find \\(B^{-1}\\).",
+          "structure": "OBJECTIVE",
+          "number": 17,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(A = \\begin{pmatrix} -3 & -5 \\\\ 1 & 2 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(A = \\begin{pmatrix} 3 & -5 \\\\ 1 & 2 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(A = \\begin{pmatrix} 3 & -5 \\\\ -1 & 2 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(A = \\begin{pmatrix} -3 & 5 \\\\ 1 & -2 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(\\cos(x+y) = \\cos x\\cos y - \\sin x\\sin y\\)\nGiven \\(\\sin\\) of an angle implies we have the value of the opposite and hypotenuse of the right-angled triangle. We find the adjacent side using Pythagoras' theorem.\n\\(Adj^{2} = Hyp^{2} - Opp^{2}\\)\nFor triangle with angle x, \\(adj = \\sqrt{13^{2} - 5^{2}} = \\sqrt{144} = 12\\)\nFor triangle with angle y, \\(adj = \\sqrt{17^{2} - 8^{2}} = \\sqrt{225} = 15\\)\n\\(\\therefore \\cos x = \\frac{12}{13}; \\cos y = \\frac{15}{17}\\)\n\\(\\cos(x+y) = (\\frac{12}{13}\\times\\frac{15}{17}) - (\\frac{5}{13}\\times\\frac{8}{17}) = \\frac{180}{221} - \\frac{40}{221}\\)\n= \\(\\frac{140}{221}\\)"
+          },
+          "text": "Given that \\(\\sin x = \\frac{5}{13}\\) and \\(\\sin y = \\frac{8}{17}\\), where x and y are acute, find \\(\\cos(x+y)\\).",
+          "structure": "OBJECTIVE",
+          "number": 18,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\frac{130}{221}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{140}{221}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{140}{204}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{220}{23}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nOn the y-intercept, x=0. At this point, y = 5(0) - 2y = -6; y = 3, so the y- intercept has coordinates (0,3).\nThe equation of the circle is given as \\((x-a)^{2} + (y-b)^{2} = r^{2}\\), where (a,b) is the centre and r is the radius.\nThe radius of the circle through the y- intercept = \\(\\sqrt{(4-0)^{2} + (5-3)^{2}} = \\sqrt{20}\\)\nThe equation of the circle is \\((x-4)^{2} + (y-5)^{2} = 20\\); expanding, we have\n\\(x^{2} + y^{2} + 8x - 10y + 21 = 0\\)"
+          },
+          "text": "A circle with centre (4,5) passes through the y-intercept of the line 5x - 2y + 6 = 0. Find its equation.",
+          "structure": "OBJECTIVE",
+          "number": 19,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(x^{2} + y^{2} + 8x - 10y + 21 = 0\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(x^{2} + y^{2} + 8x - 10y - 21 = 0\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(x^{2} + y^{2} - 8x - 10y - 21 = 0\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(x^{2} + y^{2} - 8x - 10y + 21 = 0\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(f(x) = 5x^{2} - 4x + 3\\)\n\\(f'(x) = 10x - 4 = 6 \\implies 10x = 10; x=1\\)\nWhen x = 1, f(x) = y = \\(5(1^{2}) - 4(1) + 3 = 4\\)\nThe coordinates are (1,4)"
+          },
+          "text": "Given that \\(f(x) = 5x^{2} - 4x + 3\\), find the coordinates of the point where the gradient is 6.",
+          "structure": "OBJECTIVE",
+          "number": 20,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n(4,1)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n(4,-2)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n(1,4)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n(1,-2)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "A",
+          "explanation": {
+              "text": "Explanation\n\\(y = \\frac{1+x}{1-x}\\)\nUsing quotient rule, \\(\\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^{2}}\\), we have\n\\(\\frac{dy}{dx} = \\frac{(1-x)(1) - (1+x)(-1)}{(1-x)^{2}} = \\frac{(1 - x +1 +x)}{(1-x)^{2}}\\)\n= \\(\\frac{2}{(1-x)^{2}}\\)."
+          },
+          "text": "If \\(y = \\frac{1+x}{1-x}\\), find \\(\\frac{dy}{dx}\\).",
+          "structure": "OBJECTIVE",
+          "number": 21,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\frac{2}{(1-x)^{2}}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{-2}{(1-x)^{2}}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{-1}{\\sqrt{1-x}}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{1}{\\sqrt{1-x}}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nExpanding \\((x+1)(x-2) = x^{2} - 2x + x - 2 = x^{2} - x - 2\\)\n\\(\\int_{-1}^{0} (x^{2} - x - 2) \\mathrm{d}x = [\\frac{x^{3}}{3} - \\frac{x^{2}}{2} - 2x]_{-1}^{0}\\)\n= \\([\\frac{0}{3} - \\frac{0}{2} - 2\\times0 - (\\frac{-1^{3}}{3} - \\frac{-1^{2}}{2} - 2\\times-1)]\\)\n= \\(0 + \\frac{1}{3} + \\frac{1}{2} - 2 = \\frac{-7}{6}\\)\nNote: This can also be solved using integration by parts. \n\\(\\int uv \\mathrm{d}x = u\\int v \\mathrm{d}x - \\int u'(\\int v \\mathrm{d}x)\\mathrm{d}x\\)."
+          },
+          "text": "Evaluate \\(\\int_{-1}^{0} (x+1)(x-2) \\mathrm{d}x\\)",
+          "structure": "OBJECTIVE",
+          "number": 22,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\frac{7}{6}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{5}{6}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{-5}{6}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{-7}{6}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\n\\(\\sqrt{128}  = \\sqrt{64\\times2} = 8\\sqrt{2}\\)\n\\(\\sqrt{32} = \\sqrt{16\\times2} = 4\\sqrt{2}\\)\nSimplifying, we have \\(\\frac{8\\sqrt{2}}{4\\sqrt{2} - 2\\sqrt{2}} = \\frac{8\\sqrt{2}}{2\\sqrt{2}}\\)\n= 4"
+          },
+          "text": "Simplify \\(\\frac{\\sqrt{128}}{\\sqrt{32} - 2\\sqrt{2}}\\)",
+          "structure": "OBJECTIVE",
+          "number": 23,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(2\\sqrt{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(3\\sqrt{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n3",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n4",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\nNo of boys in the class = 7; Girls = 20-7 = 13\nNo of selection = \\(^{13}C_{3} \\times ^{7}C_{2} = \\frac{13!}{(13-3)!3!} \\times \\frac{7!}{(7-2)!2!}\\)\n= \\(286\\times21 = 6006\\)"
+          },
+          "text": "There are 7 boys in a class of 20. Find the number of ways of selecting 3 girls and 2 boys",
+          "structure": "OBJECTIVE",
+          "number": 24,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n1638",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n2730",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n6006",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n7520",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nThe nth term of a GP is given by: \\(T_{n} = ar^{n-1}\\).\n\\(T_{3} = ar^{3-1} = ar^{2} = 81\\).......(1)\n\\(T_{7} = ar^{7-1} = ar^{6} = 16 \\) ...... (2)\nDividing (2) by (1), we have \\(r^{4} = \\frac{16}{81} = (\\frac{2}{3})^{4} \\implies r = \\frac{2}{3}\\)\nPutting \\(r = \\frac{2}{3}\\) in equation (1), we have \\(81 = a \\times (\\frac{2}{3}\\)^{2} = a \\times \\frac{4}{9} \\implies a = \\frac{729}{4}\\)\n\\(T_{5} = ar^{5-1} = ar^{4} = \\frac{729}{4} \\times (\\frac{2}{3})^{4}\\)\n= \\(\\frac{729}{4} \\times \\frac{16}{81} = 36\\)"
+          },
+          "text": "The 3rd and 7th term of a Geometric Progression (GP) are 81 and 16. Find the 5th term.",
+          "structure": "OBJECTIVE",
+          "number": 25,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\frac{4}{729}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{81}{16}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n27",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n36",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "A",
+          "explanation": {
+              "text": "Explanation\nThis can be done either by using quotient rule or by direct division of the equation, then differentiate.\n\\(\\frac{\\mathrm d}{\\mathrm d x} \\left( \\frac{5x^{3} + x^{2}}{x} \\right)\\)     \n= \\(\\frac{\\mathrm d}{\\mathrm d x} \\left ( \\frac{5x^{3}}{x} + \\frac{x^{2}}{x} \\right)\\)\n= \\(\\frac{\\mathrm d}{\\mathrm d x} \\left ( 5x^{2} + x \\right)\\)\n= \\(10x + 1\\)"
+          },
+          "text": "Differentiate \\(\\frac{5x^{3} + x^{2}}{x}, x\\neq 0\\) with respect to x.",
+          "structure": "OBJECTIVE",
+          "number": 26,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n10x+1",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n10x+2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\nx(15x+1)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\nx(15x+2)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\nThe line of symmetry of the curve is at the minimum point of the curve (ie y' = 0)\n\\(\\frac{ \\mathrm d}{ \\mathrm d x} \\left ( 5-x-2x^{2} \\right)\\) = -1 - 4x\nIf y' = 0, we have \\(-1 - 4x = 0 \\implies 4x = -1\\)\n\\(x = \\frac{-1}{4}\\)"
+          },
+          "text": "A curve is given by \\(y = 5 - x - 2x^{2}\\). Find the equation of its line of symmetry.",
+          "structure": "OBJECTIVE",
+          "number": 27,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(x = \\frac{-41}{8}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(x = \\frac{-1}{4}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(x = \\frac{1}{4}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(x = \\frac{41}{8}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\nLet A and B be the sum for the boys and girls respectively.\n\\(\\frac{A + B}{10 + 15} = \\frac{A + B}{25} = 90\\)\n\\(\\implies A + B = 90 \\times 25 = 2250\\)\nGiven the average for girls = x, we have \\(\\frac{B}{15} = x \\implies B = 15x)\n\\(\\therefore A + 15x = 2250; A = 2250 - 15x \\implies\\) average score for boys \\(= \\frac{2250 - 15x}{10}\\)\n= \\(225 - \\frac{3x}{2}\\)"
+          },
+          "text": "In a class of 10 boys and 15 girls, the average score in a Biology test is 90. If the average score for the girls is x, find the average score for the boys in terms of x.",
+          "structure": "OBJECTIVE",
+          "number": 28,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(200 - \\frac{2x}{3}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(225 - \\frac{3x}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(250 - 2x\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(250 - 3x\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\nSample size = 6 x 6 = 36."
+          },
+          "text": "A fair die is tossed twice. What is its smple size?",
+          "structure": "OBJECTIVE",
+          "number": 29,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n6",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n12",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n36",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n48",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(a = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}\\); \\(b = \\begin{pmatrix} -1 \\\\ 4 \\end{pmatrix}\\)\n\\(\\implies 2 \\times a = \\begin{pmatrix} 4 \\\\ 6 \\end{pmatrix}\\) and \\(\\frac{1}{4} \\times b = \\begin{pmatrix} -\\frac{1}{4} \\\\ 1 \\end{pmatrix}\\)\n\\(\\therefore 2a - \\frac{1}{4}b = \\begin{pmatrix} 4 - \\frac{-1}{4} \\\\ 6 - 1 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} \\frac{17}{4} \\\\ 5 \\end{pmatrix}\\)"
+          },
+          "text": "Given that \\( a = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}\\) and \\(b = \\begin{pmatrix} -1 \\\\ 4 \\end{pmatrix}\\), evaluate \\((2a - \\frac{1}{4}b)\\).",
+          "structure": "OBJECTIVE",
+          "number": 30,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 7 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 5 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 3 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 2 \\end{pmatrix}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\nProbability of obtaining a 5 = \\(\\frac{\\text{frequency of 5}}{\\text{total frequency}}\\)\n\\(12+18+y+30+2y+45 = 150 \\implies 105+3y = 150\\)\n\\(3y = 45; y = 15\\)\nProbability of 5 = \\(\\frac{2\\times 15}{150} = \\frac{1}{5}\\)"
+          },
+          "text": "Given the table above as the results of tossing a fair die 150 times. Find the probability of obtaining a 5.",
+          "structure": "OBJECTIVE",
+          "number": 31,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(\\frac{1}{10}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(\\frac{1}{6}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(\\frac{1}{5}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(\\frac{3}{10}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nThe mode is the occurrence with the highest frequency which, from the table, is 45 (the occurrence of obtaining a 6)."
+          },
+          "text": "Given the table above as the result of tossing a fair die 150 times, find the mode.",
+          "structure": "OBJECTIVE",
+          "number": 32,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n3",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n4",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n5",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n6",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n= \\(3(5i+4j) - 8(3i+7j) = 15i + 12j - 24i -56j\\)\n= \\(-9i - 44j\\)"
+          },
+          "text": "Given that a = 5i + 4j and b = 3i + 7j, evaluate (3a - 8b).",
+          "structure": "OBJECTIVE",
+          "number": 33,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n9i + 44j",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n-9i + 44j",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n-9i - 44j",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n9i - 44j",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nRecall, \\(F = mass \\times acceleration \\implies acceleration = \\frac{force}{mass}\\)\n= \\(\\frac{10i + 4j}{2} = (5i + 2j) ms^{-2}\\)\n= \\(v = u + at  \\implies v \\text{at 3 seconds} = 0 + (5i + 2j \\times 3)\\)\n= \\((15i + 6j) ms^{-1}\\)"
+          },
+          "text": "A force (10i + 4j)N acts on a body of mass 2kg which is at rest. Find the velocity after 3 seconds.",
+          "structure": "OBJECTIVE",
+          "number": 34,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\((\\frac{5i}{3} + \\frac{2j}{3})ms^{-1}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\((\\frac{10i}{3} + \\frac{4j}{3})ms^{-1}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\((5i + 2j)ms^{-1}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\((15i + 6j)ms^{-1}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(3^{2x} - 3^{x+2} = 3^{x+1} - 27\\)\n= \\((3^{x})^{2} - (3^{x}).(3^{2}) = (3^{x}).(3^{1}) - 27\\)\nLet \\(3^{x}\\) be B; we have\n= \\(B^{2} - 9B - 3B + 27 = B^{2} - 12B + 27 = 0\\).\nSolving the equation, we have B = 3 or 9.\n\\(3^{x} = 3\\) or \\(3^{x} = 9\\)\n\\(3^{x} = 3^{1}\\) or \\(3^{x} = 3^{2}\\)\nEquating, we have x = 1 or 2."
+          },
+          "text": "Solve \\(3^{2x} - 3^{x+2} = 3^{x+1} - 27\\)",
+          "structure": "OBJECTIVE",
+          "number": 35,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n1 or 0",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n1 or 2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n1 or -2",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n-1 or 2",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\n\\(p = (5i - 12j); |p| = \\sqrt{5^{2} + (-12)^{2}}\\)\n= \\(\\sqrt{169} = 13\\)\n\\(\\tan\\theta = \\frac{-12}{5} = -2.4 \\implies \\theta = -67.38°\\)\nDirection = \\(90° - (-67.38°) = 157.38°\\)"
+          },
+          "text": "Find the magnitude and direction of the vector \\(p = (5i - 12j)\\)",
+          "structure": "OBJECTIVE",
+          "number": 36,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n(13, 113.38°)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n(13, 067.38°)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n(13, 025.38°)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n(13, 157.38°)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(accl = \\frac{\\mathrm d V}{\\mathrm d t}\\)\n\\(V = 3t^{2} + 2t - 1 \\therefore a = \\frac{\\mathrm d V}{\\mathrm d t} = 6t + 2\\)\n\\(a \\text{(after 2 seconds)} = (6\\times 2) + 2 = 12+2 = 14ms^{-2}\\)"
+          },
+          "text": "The velocity, V, of a particle after t seconds, is \\(V = 3t^{2} + 2t - 1\\). Find the acceleration of the particle after 2 seconds.",
+          "structure": "OBJECTIVE",
+          "number": 37,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n10\\(ms^{-2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n12\\(ms^{-2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n14\\(ms^{-2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n17\\(ms^{-2}\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "A",
+          "explanation": {
+              "text": "Explanation\n\\(f(x) = 2x^{2} - 3; g(x) = x + 1\\)\n\\(g o f(x) = g (2x^{2} - 3)\\)\n= \\( 2x^{2} - 3 + 1 = 2x^{2} - 2 = 2(x^{2} - 1)\\)"
+          },
+          "text": "Given that \\(f(x) = 2x^{2} - 3\\) and \\(g(x) = x + 1\\) where \\(x \\in R\\). Find g o f(x).",
+          "structure": "OBJECTIVE",
+          "number": 38,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(2(x^{2} - 1)\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(2x^{2} + 4x - 1\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(2x^{2} + 6x - 1\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(3(x^{2} - 1)\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\n\\(P = {n^{2} + 1: n = 0,2,3} \\therefore P = {1, 5,10}\\)\n\\(Q = {n + 1: n = 2,3,5} \\therefore Q = {3, 4, 6}\\)\n\\(P \\cap Q = { }\\)"
+          },
+          "text": "If P = \\({n^{2} + 1: n = 0,2,3}\\) and Q = \\({n + 1: n = 2,3,5}\\), find P\\(\\cap\\) Q.",
+          "structure": "OBJECTIVE",
+          "number": 39,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n{5, 10}",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n{4, 6}",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n{1, 3}",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n{ }",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "A",
+          "explanation": {
+              "text": "Explanation\nDivide \\((2x^{3} - 5x^{2} - x + 6)\\) by \\((2x^{2} - x - 3)\\) to get the other factor. Be careful of sign conventions."
+          },
+          "text": "If \\((2x^{2} - x - 3)\\) is a factor of \\(f(x) = 2x^{3} - 5x^{2} - x + 6\\), find the other factor",
+          "structure": "OBJECTIVE",
+          "number": 40,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n(x - 2)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n(x - 1)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n(x + 1)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n(x + \\(\\frac{3}{2}\\))",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(f : x \\to \\sqrt{4 -2x}\\) defined on the set of real numbers, R, which has range from \\((-\\infty, \\infty)\\) but because of the root sign, it is defined from \\([0, \\infty)\\). \nThis is because the root of numbers only has real number values from 0 and upwards.\n\\(\\sqrt{4-2x} \\geq 0 \\implies 4-2x \\geq 0\\)\n\\(-2x \\geq -4; x \\leq 2\\)"
+          },
+          "text": "The function f: x \\(\\to \\sqrt{4 - 2x}\\) is defined on the set of real numbers R. Find the domain of f.",
+          "structure": "OBJECTIVE",
+          "number": 6,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n\\(x<2\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n\\(x \\leq 2\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(x = 2\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n\\(x > -2\\)",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "A",
+          "explanation": {
+              "text": "Explanation\nLet \\(f(x) = y\\), then we have\n\\(y = \\frac{x+1}{2} \\implies 2y = x+1; x = 2y-1\\)\nLet \\(f^{1}(x) = x; x = 2y-1\\), replacing y with x,\n\\(f^{1}(x) = 2x - 1 \\implies f^{1}(-2) = 2(-2) -1= -5\\)"
+          },
+          "text": "Given that \\(f(x) = \\frac{x+1}{2}\\), find \\(f^{1}(-2)\\).",
+          "structure": "OBJECTIVE",
+          "number": 7,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n-5",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n-3",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n\\(-\\frac{1}{2}\\)",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n5",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "D",
+          "explanation": {
+              "text": "Explanation\nTaking the LCM of the right hand side of the equation, we have\n\\(\\frac{4(2x-3) - 2(x+5)}{(x+5)(2x-3)} = \\frac{6x+m}{2x^{2}+7x-15}\\)\nComparing the numerators, we have\n\\(4(2x-3) - 2(x+5) = 6x+m\\)\n\\(8x-12-2x-10 = 6x -22 = 6x + m\\)\n\\(\\implies m = -22\\)"
+          },
+          "text": "Given that \\(\\frac{6x+m}{2x^{2}+7x-15} \\equiv \\frac{4}{x+5} - \\frac{2}{2x-3}\\), find the value of m.",
+          "structure": "OBJECTIVE",
+          "number": 8,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n20",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n12",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n-10",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n-22",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "C",
+          "explanation": {
+              "text": "Explanation\n\\(^{6}C_{4}(1)^{6-4}(-2x)^{4}\\) = \\(15\\times1\\times16x^{4} = 240x^{4}\\)\nThe coefficient of \\(x^{4}\\)= 240"
+          },
+          "text": "Find the coefficient of \\(x^{4}\\) in the expansion of \\((1-2x)^{6}\\).",
+          "structure": "OBJECTIVE",
+          "number": 9,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n-320",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n-240",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n240",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n320",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      },
+      {
+          "correctOption": "B",
+          "explanation": {
+              "text": "Explanation\n\\(T_{n} = a + (n-1)d\\)\n\\( d = T_{2} - T_{1} = T_{3} - T_{2} = -1.5 - (-4) = 2.5\\)\n\\(T_{21} = -4 + (21 - 1) \\times 2.5 = -4 + (20\\times 2.5) \\)\n= \\(-4 + 50 = 46\\)"
+          },
+          "text": "Find the 21st term of the Arithmetic Progression (A.P.):  -4, -1.5, 1, 3.5,...",
+          "structure": "OBJECTIVE",
+          "number": 10,
+          "imageUrl": null,
+          "options": [
+              {
+                  "option": "A",
+                  "text": "\n43.5",
+                  "imageUrl": null
+              },
+              {
+                  "option": "B",
+                  "text": "\n46",
+                  "imageUrl": null
+              },
+              {
+                  "option": "C",
+                  "text": "\n48.5",
+                  "imageUrl": null
+              },
+              {
+                  "option": "D",
+                  "text": "\n51",
+                  "imageUrl": null
+              }
+          ],
+          "subType": "MAY/JUNE",
+          "subject": "FURTHER MATHEMATICS",
+          "type": "WAEC",
+          "year": 2017
+      }
+  ]

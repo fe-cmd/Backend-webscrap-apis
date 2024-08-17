@@ -1,0 +1,1262 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAn accounting period definition is a period of time in which a company prepares its financial report. It could be yearly, bi-annually, monthly, weekly, or daily."
+    },
+    "text": "The term accounting period is used to refer to the",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntime span during which taxes are paid to the inland revenue board",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbudget period, usually one year, relied on by the accountant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntime span, usually one year, covered by financial statement",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nperiod within which debtors are expected to settle accounts",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Assigning revenues to the accounting period in which goods were sold or services rendered and expenses incurred is known as",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npassing of entries",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconsistency convention",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmatching concept",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nadjusting for revenue",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The accounting convention which states that profit must not be recognized until realized while all losses should be adequately provided for it termed",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmateriality",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nobjectivity",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconsistency",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconservatism",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Accounting information is used by investors and creditors of a company to predict",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nfuture cash flows of the company",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfuture tax payments of the company",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npotential merger candidates for the company",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nappropriate remunerations for the company's staff",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe question says 'an electronic shop bought generators'. Meaning it is for resale and not for office or personal use.\nThis means cash account will be credited because money has gone out of the business for the purchase of generators. Since the question didn't say the goods were paid for by cheque,\u00a0we are crediting the cash column, if it was paid by cheque, the bank column would be credited instead.\nOn the other hand, the purchase account (stock) will be debited because goods have come into the company as a result of the purchase.\nAlways remember this simple accounting entry; debit all receivables (purchases account receiving), credit all payment (cash account paying out).."
+    },
+    "text": "Antics Electronic Company recently bought six generators. Which of the following is the correct method of recording this transaction?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDebit generator account and credit cash account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDebit purchases account and credit cash account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDebit cash accounts and credit purchases account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDebit cash account and credit generator account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When a business incurs labour cost in installing a fixed asset, the cost is treated as",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nadditional cost to the asset",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbusiness wages and salaries",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ninstallation cost of the asset",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbusiness cost of the asset",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What is the cardinal rule of the double entry system?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDebit the increasing account and credit the decreasing account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDebit the receiving account and credit the giving account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDebit the asset account and credit the liability account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDebit the revenue account and credit the expenditure account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Mallam Gambo bought a freezer for his shop costing N10,500. In recording, he debited office expenses account and credited the bank account. What book-keeping error has he committed?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nError of commission",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nError of reversal of entries",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nError of principle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCompensating error",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe folio number is\u00a0a way to reference a bookkeeping entry, most often numbered in chronological or sequential order."
+    },
+    "text": "The use of the folio in the ledger is for",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nreferencing purposes",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nparticulars of the transaction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe account titles",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nonly credit items",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nSuspense accounts\u00a0are\u00a0used\u00a0when your trial balance is out of balance or when you have an unidentified transaction.\u00a0The\u00a0suspense account\u00a0is a general ledger\u00a0account\u00a0that acts as a\u00a0holding account\u00a0until the\u00a0error\u00a0is discovered or the unknown transaction is identified."
+    },
+    "text": "The suspense account is used to correct book-keeping error where the",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\namount involved is quite significant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nitem involved is not material",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nitem involved is unknown",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nerror does not affect the agreement of the trial balance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The discount column of a three column cashbook is not balanced off but periodically transferred to the discount account because discounts",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nare not important in cashbooks",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nare cash items only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndo not form part of double entry",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nare used for bank reconciliation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When is a petty cash account debited?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nWhen the fund is established and every time money is spent",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nWhen the fund is established and every time it is replenished",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nWhen the fund is established and when the size of the float is decreased",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nEvery time money is drawn from the petty cash",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When preparing a bank reconciliation statement, which of the following is deducted from the balance per bank statement?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBank charges",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nUncleared cheques",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nReturned cheques",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nunpresented cheques",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA\u00a0balance sheet\u00a0is a financial statement that reports a company's assets, liabilities and shareholders' equity. It simply shows the financial position of a business for\u00a0a particular given period"
+    },
+    "text": "The financial position of an organization at a particular time can be ascertained from the",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nstatement of sources and application of funds",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstatement of retained earnings",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbalance sheet",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nprofit and loss account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCost of goods sold:\n= Opening stock + purchases + carriage inwards - closing stock\n= 10000 + 20000 + 5000 - 5000\n= 35000 - 5000\n= 30000\n: Cost of goods sold = 30000\n\nThank you \n\nThanks to Gloria Adah for providing the explanationOur Facebook Page"
+    },
+    "text": "Given;\nPurchases = N20,000\nSales = N40,000\nCarriage inwards = N5,000\nCarriage outwards = N5,000\nOpening stock = N10,000\nClosing stock = N5,000\n\nWhat is the cost of goods sold?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN30,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN25,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN20,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN15,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The net profit or loss for the year is determined in profit and loss account after",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndeducting purchases from sales",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndeducting cost of goods sold from sales and adding administrative expenses",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nadding commissions received to gross profit",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\neliminating all expenses from gross profit and adding any other income",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If a bad debt previously written off is subsequently repaid, the amount collected is recorded as an",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincome in the profit and loss account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincome in the balance sheet",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nadditional cash in the profit and loss account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nexpense in the balance sheet",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Beginning and ending accounts receivable balances were N8,000 and N15,000 respectively. If collections from customers during the period were N36,000, then total sales on account would be",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN23,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN29,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN36,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN43,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "From which of the following sources are creditors control account most likely to be posted?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsupplier's invoices",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncash disbursements journal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsubsidiary debtors ledger",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npurchases journal",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following categories of labour cost will be classified as direct?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\naccountant's salary",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfactory workers' salary",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmanaging director's salary",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncashier's salary",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The major difference between the receipt and payment account and the income and expenditure account is that while the former",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nis kept by the treasurer, the latter is not",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndeals with all receipts and payments in the year regardless of the time it relates to, the latter is for just that year",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nis a T-account, the latter is not",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nis not in the ledger, the latter is",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The net profit from a trading account of a non-profit making organization would be treated as income in the",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincome and expenditure account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nreceipt and payment account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbalance sheet",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nstatement of affairs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndrawings account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nappropriation account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncapital account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncreditors account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Goodwill appears in the books of a business only if it has been",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npurchased at a certain price",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nraised in connection with the admission of a new partner",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nraised to account for the true value of a business on the death of a partner",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nraised in order to prevent the balance sheet showing that the business is insolvent",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nEquity is the same as capital. This\u00a0is funds paid into a business by investors in exchange for common or preferred stock.\n50,000 is Wamo's equity contribution."
+    },
+    "text": "Kayode, Akpan and Kachalla are in partnership. Their respective capital accounts had the following balances: N40,000, N50,000 and N70,000.\nThe partners agree to admit Wamo as a new partner with a one-fifth interest in the partnership capital in exchange for N50,000 cash. Wamo's equity in the resulting partnership is",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN32,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN40,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN42,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN50,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Under which of the following conditions is a partnership dissolved?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nChange of partnership's head office",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nadmission of a new partner",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPurchase of a large quantity of fixed asset",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRetirement of a manager who is not a partner",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "when shares issued are paid for, accounting entry required is",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndebit bank or cash account and credit share capital and/or premium account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncredit bank or cash account and debit share capital and/or premium account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndebit shares account and credit capital account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncredit shares account and debit capital account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million share was offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued \nWhat is the nominal value of each share?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN0.80",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN0.60",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN0.50",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A limited liability company has an authorized share capital of N50 million split into 100 million shares 80 million share was offered for subscription at 60k per share payable in full on application. These have been fully subscribed and issued \nWhat is the issued capital",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN40",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN48",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN50",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN80",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmemorandum of association",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\narticle of association",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprospectus",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncompany law",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An advantage of using accounting ratios is that they",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncan be easily calculated",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfacilitate decision making",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nare stipulated by law",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nshows error and fraud",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The expenditure on a good or services which is consumed either immediately or within a current accounting period is called",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nfixed expenditure",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncapital expenditure",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nannual expenditure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrecurrent expenditure",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The receipt from a special tax levy to pay maturing interest obligation are recorded in",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncapital fund project",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDebt Service Fund",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nTax Assessment Fund",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSpecial Revenue Fund",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The cash bass of accounting requires the recognition of revenue only when they are",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndue",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nearned",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npaid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreceived",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The amount of individual items on a government budget is called",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nvote",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndeposit",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nloan",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngrant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 1994
+  }
+]

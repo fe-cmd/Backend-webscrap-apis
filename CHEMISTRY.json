@@ -1,0 +1,146 @@
+[
+    {
+        "correctOption": "A",
+        "explanation": {
+          "text": "Explanation\nCommon name :\u00a0Isobutyl bromide\nIUPAC name\u00a0:\u00a01-Bromo-2-methylpropane\nBoiling point : 102\u00b0C\nFormula :\u00a0C\\(_4\\)H\\(_9\\)Br\nThere is an explanation video available below."
+        },
+        "text": "Give the common name for the following compound (CH\\(_{3}\\))\\(_{2}\\) CH CH\\(_{2}\\) -Br",
+        "structure": "OBJECTIVE",
+        "number": 1,
+        "imageUrl": null,
+        "options": [
+          {
+            "option": "A",
+            "text": "\r\n            Isobutyl bromide",
+            "imageUrl": null
+          },
+          {
+            "option": "B",
+            "text": "\r\n            Methyl bromide",
+            "imageUrl": null
+          },
+          {
+            "option": "C",
+            "text": "\r\n            propyl bromide",
+            "imageUrl": null
+          },
+          {
+            "option": "D",
+            "text": "\r\n            Butyl bromide",
+            "imageUrl": null
+          }
+        ],
+        "subType": null,
+        "subject": "CHEMISTRY",
+        "type": "JAMB",
+        "year": 2021
+      },
+      {
+        "correctOption": "B",
+        "explanation": {
+          "text": "Explanation\nZymase is an enzyme complex that\u00a0catalyzes the fermentation of sugar into ethanol and carbon dioxide. It occurs naturally in yeasts.\nThere is an explanation video available below."
+        },
+        "text": "The enzyme that converts glucose to ethyl\u00a0alcohol is?",
+        "structure": "OBJECTIVE",
+        "number": 2,
+        "imageUrl": null,
+        "options": [
+          {
+            "option": "A",
+            "text": "\r\n            maltase",
+            "imageUrl": null
+          },
+          {
+            "option": "B",
+            "text": "\r\n            zymase",
+            "imageUrl": null
+          },
+          {
+            "option": "C",
+            "text": "\r\n            Diatase",
+            "imageUrl": null
+          },
+          {
+            "option": "D",
+            "text": "\r\n            Invertase",
+            "imageUrl": null
+          }
+        ],
+        "subType": null,
+        "subject": "CHEMISTRY",
+        "type": "JAMB",
+        "year": 2021
+      },
+      {
+        "correctOption": "D",
+        "explanation": {
+          "text": "Explanation\nThe principle described by the physicist Albert Einstein's famous formula: E = mc^2, involves\u00a0mass\u2013energy equivalence.\nI.e. the relationship between mass and energy.\nThere is an explanation video available below."
+        },
+        "text": "The scientist who stated that matter can be converted into energy is?",
+        "structure": "OBJECTIVE",
+        "number": 3,
+        "imageUrl": null,
+        "options": [
+          {
+            "option": "A",
+            "text": "\r\n            Boyle",
+            "imageUrl": null
+          },
+          {
+            "option": "B",
+            "text": "\r\n            Lavoiser",
+            "imageUrl": null
+          },
+          {
+            "option": "C",
+            "text": "\r\n            Avogadro",
+            "imageUrl": null
+          },
+          {
+            "option": "D",
+            "text": "\r\n            Einstein",
+            "imageUrl": null
+          }
+        ],
+        "subType": null,
+        "subject": "CHEMISTRY",
+        "type": "JAMB",
+        "year": 2021
+      },
+      {
+        "correctOption": "B",
+        "explanation": {
+          "text": "Explanation\nPropyne (methylacetylene) is an alkyne with the chemical formula\u00a0HC\\(\\equiv\\)CCH\\(_{3}\\)\nThere is an explanation video available below."
+        },
+        "text": "What is the IUPAC name for the following compound? HC\\(\\equiv\\)CCH\\(_{3}\\)",
+        "structure": "OBJECTIVE",
+        "number": 4,
+        "imageUrl": null,
+        "options": [
+          {
+            "option": "A",
+            "text": "\r\n            Acetylene",
+            "imageUrl": null
+          },
+          {
+            "option": "B",
+            "text": "\r\n            Methyl acetylene",
+            "imageUrl": null
+          },
+          {
+            "option": "C",
+            "text": "\r\n            Butanol",
+            "imageUrl": null
+          },
+          {
+            "option": "D",
+            "text": "\r\n            Decanoic acid",
+            "imageUrl": null
+          }
+        ],
+        "subType": null,
+        "subject": "CHEMISTRY",
+        "type": "JAMB",
+        "year": 2021
+      }
+]

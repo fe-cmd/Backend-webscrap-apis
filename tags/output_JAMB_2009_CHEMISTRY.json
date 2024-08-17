@@ -1,0 +1,1802 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nSulfur is\u00a0insoluble in water but sugar is soluble.\nHence; dissolution of sugar to have sulfur as the only insoluble solid.\nFiltration:\u00a0The filtrate is the liquid that passes through the filtration filter.\u00a0Meanwhile, the residue is the solid that remains on the filtration filter.\nEvaporation: water as part of the\u00a0filtrate changes\u00a0into a gas to leave\u00a0sugar as residue.\nThere is an explanation video available below."
+    },
+    "text": "A mixture of sugar and sulphur can be separated by?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndissolution in water, evapouration and filtration",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfiltration, evaporation and dissolution in water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndissolution in water, filtration and evaporation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nevaporation, dissolution in water and filtration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nFreezing is a physical change.\u00a0It involves a liquid changing states to a solid. Thus, freezing a substance will not change its chemical identity, but its state.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following is a physical change?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFreezing ice cream",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndissolving calcium in water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nburning kerosene",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nExposing white phosphorus to air",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nmolar mass of water [7H\\(_2\\)O] = 7[ 2 * 1 + 16]\u00a0\u2192 7 * 18 = 126g/mol\nmolar mass of\u00a0ZnSO\\(_4\\).7H\\(_2\\)O = [65 * 1] + [32 * 1] + [16 * 4] +\u00a07[ 2 * 1 + 16]\u00a0\n\u2192 65 + 32 + 64 + 126 = 287g/mol\npercentage of water of crystallization = \\(\\frac{mass of water of crystallization}{mass of hydrated compound} * 100%\\)\n\u2192 \\(\\frac{126}{287} * 100\\) =\u00a043.9\n\u2248 44%\nThere is an explanation video available below."
+    },
+    "text": "The percentage of water of crystallization in ZnSO\\(_4\\).7H\\(_2\\)O is?\n[Zn = 65, S = 32, O = 16, H = 1]",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n33%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n44%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n55%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n87%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n1mole of gas at STP = 22.4dm\\(^3\\)\n0.0075 mole of CaCO3 \u00a0= xdm\\(^3\\)\ncross multiply;\nwhere 22.4dm\\(^3\\) = 22400cm\\(^3\\)\nx * 1 = 0.0075 * 22400 \u2192 168cm\\(^3\\)\n\u00a0the gas CO2 which evolved was gotten from CaCO3 so we use the number of moles of CaCO3 only\nThere is an explanation video available below."
+    },
+    "text": "0.0075 mole of calcium trioxocarbonate (IV) is added to 0.015 mole of a solution of hydrochloric acid. The volume of gas evolved at s.t.p is?\n[Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n224cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n168cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n112cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n100cm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nGas pressure is\u00a0the name given to the force exerted by gas particles colliding with the wall of their container.\nThere is an explanation video available below."
+    },
+    "text": "A gas exerts pressure on its container because?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe molecules of a gas collide with the walls of the container",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsome of the molecules are moving faster than others",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nof the collisions of the molecules with each other",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nof the mass of the molecules of the gas",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAn elastic\u00a0collision\u00a0is an encounter between two bodies in which the total kinetic energy of the two bodies remains the same.\nThere is an explanation video available below."
+    },
+    "text": "The basic assumption in the kinetic theory of gases that the collisions of the gaseous molecules are perfectly elastic implies that the?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nforces of attraction and repulsion are in equilibrium",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngaseous molecules can occupy any available space",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngaseous molecules will continue their motion indefinitely",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngases can be compressed",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nSodium has atomic / proton number of 11 and belongs to Group 1[alkali metals] on the periodic table\nThere is an explanation video available below."
+    },
+    "text": "If an atom is represented as \\( _{11}^{23}X \\), which of the following deduction is correct?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nit contains 12 protons",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nit forms a covalent chloride",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nits atomic number is 23",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nit is an alkali metal",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nCathode rays travel in a straight line and can cast sharp shadows.\nCathode rays are negatively charged.\nElectric field and magnetic field deflect cathode rays.\nThere is an explanation video available below."
+    },
+    "text": "Cathode rays causes an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nare positively charged",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nare negatively charged",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhave mass",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntravel in straight lines",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe principal quantum number, n,\u00a0describes the energy of an electron and the most probable distance of the electron from the nucleus.\nIn other words, it refers to the size of the orbital and the energy level an electron is placed in.\nThe\u00a0azimuthal quantum number\u00a0is a quantum number for an atomic orbital that determines its orbital angular momentum and describes the shape of the orbital.\nThere is an explanation video available below."
+    },
+    "text": "Which quantum number divides shells into orbitals?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprincipal",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nArzimuthal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMagnetic",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSpin",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\({Cu(NH_3)_4}^2\\)+: The bonding in this ion consists of\u00a0coordinate covalent bonds\u00a0with all bonding electrons supplied by the nitrogen atom.\nThere is an explanation video available below."
+    },
+    "text": "The type of bonding in \\({Cu(NH_3)_4}^2\\)+ is?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncoordinate covalent",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nelectrovalent",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmetallic",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncovalent",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nkrypton and xenon for high-speed pictures\u00a0in a photographer's flash tube\u00a0\nThere is an explanation video available below."
+    },
+    "text": "The mixture of gases used in a photographer's flash tube is?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nargon and krypton",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nkrypton and xenon",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhelium and argon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nargon and xenon",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nefflorescence, spontaneous loss of water by a hydrated salt, e.g\u00a0\u00a0Sodium trioxocarbonate (IV) decahydrate\u00a0\\(Na_2CO_3.\u00a010H_2O)\\) also\u00a0known as washing soda\nThere is an explanation video available below."
+    },
+    "text": "When sodium trioxocarbonate (IV) decahydrate loses its water of crystallization to the atmosphere, the process is?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndeliquescence",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nefflorescence",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhygroscopic",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\neffervesecence",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn flame of pure hydrogen burning in air, the hydrogen (H2) reacts with oxygen (O2) to form\u00a0water \\(H_2O\\)\u00a0with the release of energy.\u00a0\nHydrocarbon combustion\u00a0refers to the chemical reaction where a\u00a0hydrocarbon\u00a0reacts with oxygen to create carbon dioxide, water, and heat.\nThe electrolysis of brine yields\u00a0chlorine, hydrogen and sodium hydroxide.\nThere is an explanation video available below."
+    },
+    "text": "Water can be obtained as the only product during the?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncombustion of hydrocarbons",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nneutraliization of an acid by base",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncombustion of hydrogen",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectrolysis of brine",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "If 10.5g of lead (II) trioxonitrate (V) is dissolved in 20cm3 of distilled water at 18oC, the solubility of the solute in mol dm-3 is\n[Pb = 207, N = 14, O = 16]",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.60",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.25",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n525.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "For a given solute, the concentration of its saturated solution in different solvents are",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe same at the same temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndifferent at the same temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe same at different temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconstant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNitrogen oxides form when fuel is burned at high temperatures\nThere is an explanation video available below."
+    },
+    "text": "The major source of oxides of nitrogen is from the burning of",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncoal",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nwood",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfuel",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nchlrofluorocarbons",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe electrolyte is dilute\u00a0sulfuric\u00a0acid (= acidified\u00a0water) which, during\u00a0electrolysis\u00a0is split into hydrogen and oxygen gases.\nThere is an explanation video available below."
+    },
+    "text": "The acid used in electrolysis of water is dilute?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHNO3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCH3COOH",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nH2SO4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nHCl",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What volume of 1.5M solution of KOH would contain 0.045 moles",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n67.50 cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30.00 cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.75 cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3.00 cm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCitric acid has 3 carboxyl groups, therefore, when reacts with NaOH, there is a simple salification reaction that will produce the\u00a0trisodium citrate /\u00a0sodium\u00a0citrate.\nTrisodium citrate is\u00a0a tribasic salt of citric acid. It is produced by complete neutralization of citric acid with high purity sodium hydroxide or carbonate and subsequent crystallization and dehydration.\nThere is an explanation video available below."
+    },
+    "text": "The salt formed from a reaction between citric acid and sodium hydroxide in solution will be?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nacidic",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbasic",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncomplex",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nneutral",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nReducing agent like SO\\(_2\\).\nSulphur dioxide\u00a0gas (SO\\(_2\\)) is bubbled through\u00a0acidified potassium\u00a0dichromate. The orange solution turns green.\nThere is an explanation video available below."
+    },
+    "text": "The colour changes observed when testing for reducing agents using acidified potassium heptaoxodichromate (VI) solution is?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nyellow to purple",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\norange to green",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngreen to orange",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npurple to yellow",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPotassium dichromate,\u00a0K\\(_2\\)Cr\\(_2\\)O\\(_7\\)\u00a0\n\u2192 [1\u00a0* 2] + [Cr * 2] + [-2\u00a0* 7] = 0\n\u2192 2\u00a0+ 2Cr -\u00a014\u00a0= 0\n\u2192 2Cr = 12\n\u2192Cr = \\(\\frac{12}{2}\\) \u2192 6\nThere is an explanation video available below."
+    },
+    "text": "The oxidation state of Cr in K\\(_2\\)Cr\\(_2\\)O\\(_7\\) is?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n+7",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n+6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n+5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nElectrolysis is used extensively\u00a0in metallurgical processes, such as in extraction (electrowinning) or purification (electrorefining) of metals from ores or compounds and in deposition of metals from solution (electroplating).\nCopper\u00a0is purified by\u00a0electrolysis\u00a0. Electricity is passed through solutions containing\u00a0copper\u00a0compounds, such as\u00a0copper(II) sulfate.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following metals is purified commercially by electrolysis?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nZn",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFe",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSn",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCu",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What current will deposit 3.25g of zinc in 2hrs?\n[Zn = 65, F = 96500 mol-]",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.25A",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.00A",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.34A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.67A",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFor a reaction to be feasible,\u00a0\u0394G has to be negative.\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "C(s) + H2O(g) \u2192 H2(g) + CO2(g)\n\u0394G for the reaction above at 1300k is -43KJ. At this temperature, the reaction is?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnot feasible",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nat equilibrium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfeasible",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nexothermic",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWhen two or more gases are mixed together at constant volume, there is an increase in entropy.\nThere is an explanation video available below."
+    },
+    "text": "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth - to - mouth to each other at room temperature. The entropy in the mixture of gases is likely to?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nremain unchange",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincrease",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndecrease",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nchange",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In the diagram above, which of the curves represents the evolution of oxygen with time in the equation 2KClO3(s) \u2192 2KCl(s) + 3O2(g)?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": "https://myschool.ng/storage/classroom/17580954326_chem200927.png",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nX",
+        "imageUrl": "https://myschool.ng/storage/classroom/17580954326_chem200927.png"
+      },
+      {
+        "option": "B",
+        "text": "\nY",
+        "imageUrl": "https://myschool.ng/storage/classroom/17580954326_chem200927.png"
+      },
+      {
+        "option": "C",
+        "text": "\nZ",
+        "imageUrl": "https://myschool.ng/storage/classroom/17580954326_chem200927.png"
+      },
+      {
+        "option": "D",
+        "text": "\nR",
+        "imageUrl": "https://myschool.ng/storage/classroom/17580954326_chem200927.png"
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe rate of a reaction can be increased by adding a suitable catalyst.\nA catalyst is a substance which increases the rate of a chemical reaction but it is not used up (remains chemically unchanged at the end).\nIt provides an alternative reaction pathway of lower activation energy.\nThere is an explanation video available below."
+    },
+    "text": "A catalyst increase the rate of a chemical reaction by providing a path that?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nraise the activiation energy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincrease the temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlowers the activation energy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nincrease the concentration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nWhen amount / volume of gaseous reactants equal\u00a0amount / volume of gaseous products, the change in pressure has no effect on the equilibrium position.\nThere is an explanation video available below."
+    },
+    "text": "CuO(s) + H\\(_2\\)(g) \u2194 Cu(s) + H\\(_2\\)O(g)\nWhat is the effect of increasing the pressure on the equilibrium reaction above?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThe equilibrium is shifted to the left",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe equilibrium is shifted to the right",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThere is no effect",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMore H2(g) is produced",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The equilibrium of an endothermic reaction which proceeds with an increase in volume can be shifted in the reverse direction by",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincreasing the temperature and decreasing the pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreasing the pressure and increasing the temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndecreasing the temperature and increasing the pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndecreasing the pressure and decreasing the temperature",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn the presence of heated platinum catalyst, ammonia reacts with excess air to produce nitrogen (II) oxide, NO, (instead of nitrogen) and water.\nThere is an explanation video available below."
+    },
+    "text": "The oxidation of ammonia in excess air produces?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNO",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN2O",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNO2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN2O4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nWhen\u00a0Hydrogen sulphide gas is bubbled through solutions of such metals, the colored sulphides are precipitated.\nHydrogen sulphide\u00a0is a also strong reducing agent.\nThere is an explanation video available below."
+    },
+    "text": "Hydrogen sulphide gas can act as?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nan oxidizing agent",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na dehydrating agent",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na bleaching agent",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na precipitating agent",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nGasification is a process that converts biomass- or fossil fuel-based carbonaceous materials into synthetic gases\n\u00a0\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "The gasification of coke is used for the manufacturing of?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nproducer gas",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnatural gas",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsynthetic gas",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nindustrial gas",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe ozone layer in the stratosphere\u00a0absorbs a portion of the radiation from the sun, preventing it from reaching the planet's surface.\nMost importantly, it absorbs the portion of UV light called UVB.\nThere is an explanation video available below."
+    },
+    "text": "The gas that is most useful in protecting humans against solar radiation is?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nchlorine",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nozone",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncarbon (IV) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhydrogen sulphide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nWhen an element exists in more than one crystalline form, those forms are called allotropes; the two most common allotropes of carbon are\u00a0diamond and graphite.\nGraphite is used in\u00a0pencils and lubricants. It is a good conductor of heat and electricity. Its high conductivity makes it useful in electronic products such as electrodes, batteries, and solar panels.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following allotrope of carbon is a constituent of a lead pencil?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGraphite",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDiamond",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLampblack",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSoot",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe\u00a0reactivity series\u00a0of metals, also known as the activity series, refers to the arrangement of metals in the descending order of their reactivities.\nNa > Ca > Mg > Al > Zn > Fe > Sn > Pb > Cu > Ag.\nConsidering\u00a0metallic property which increases down the group, barium will be ranked calcium\u00a0\u00a0\nThere is an explanation video available below."
+    },
+    "text": "which of the following metals will show the highest metallic character?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nZinc",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCopper",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nBarium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCalcium",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nOxidation of Copper turnings\u00a0with concentrated trioxonitrate (V) acid\u00a0wil\n\u00a0Cu + 4HNO\\(_3\\)\u00a0\u2192 CuNO\\(_3\\)\u00a0+ 2H\\(_2\\)O +2NO\\(_2\\).\nThere is an explanation video available below."
+    },
+    "text": "Copper metal dissolves in concentrated trioxonitrate (V) acid with the resultant evolution of?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCO2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSO2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNO2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCO",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nuses\u00a0of wrought iron\n\nIt is used to make decor items like table base, candle holder, curtain rods etc.\nIt is used in making pipes.\nIt is used in making fences and gates.\nIt is used in making nuts, bolts, rivets etc.\nIt is used in making chains.\n\nThere is an explanation video available below."
+    },
+    "text": "The type of iron that is best suited for welding, making nails, chains and iron rods is?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npig iron",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nwrought iron",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncast iron",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\niron pyrites",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In the electrolytic extraction of aluminum, the function of the molten cryolite is to",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprecipitate aluminium hdroxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlower the melting point of aluminium oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nact as a raw materials",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nact as a solvent",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "One of the products of the thermal decomposition of sodium trioxonitrate (V) is?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsodium",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnitrogen",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsodium dioxonitrate (III)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsodium oxide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A cracking process in petroleum refining can be represented by",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nheptane to heptene",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nheptane to 3-methylhexane",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nheptane to propene and butane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nheptane to 2,3,3-trimethybutane",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPositional isomers of C\\(_3\\)H\\(_7\\)Br : 1- bromo propane and\u00a02- bromo propane\nThere is an explanation video available below."
+    },
+    "text": "Which of the following molecules has two other positional isomers?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCH3CH2Br",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCH3CHBrCH3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCBr2F2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCH2CHBrCH2Br",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following class of compounds can exist as dipolar ions in solution?",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAlkanoic acid",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFatty acids",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDialkanoic acids",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAmino acids",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nLucas' reagent is a solution of anhydrous zinc chloride in concentrated hydrochloric acid. This solution is used\u00a0to classify alcohols.\nThere is an explanation video available below."
+    },
+    "text": "Lucas reagent is used to test for?",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nalkanes",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nalkanoic acids",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nalkanols",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\namines",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A compound commonly used for sterilization and preservation of specimens and food is",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nethanol",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbenzene",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nether",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nammonia",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAlkenes react in the cold with pure liquid bromine, or with a solution of bromine in an organic solvent like tetrachloromethane. The double bond breaks, and a bromine atom becomes attached to each carbon. The bromine loses its original red-brown colour to give a colourless liquid.\nAlkynes also react with bromine, decolorising it though not as immediate as alkenes.\nThere is an explanation video available below."
+    },
+    "text": "An organic compound reacted with bromine water to give a colourless solution. The compound is probably an?",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nalkene",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nalkanal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nalkyl",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nalkanone",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following hydrocarbons is mainly used as fuel?",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMethylene",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEthylene",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMethane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nEthyne",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The molecular formula of a common organic laboratory anaesthetic is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCHCl3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCHI3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCCl4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCHF3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe smallest branched alkane is isobutane. Notice that isobutane has the same molecular formula, C4H10, as n-butane but has a different structural formula.\nThere is an explanation video available below."
+    },
+    "text": "The simplest branched-chain hydrocarbon is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nethane",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nethene",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npropane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbutane",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn chemistry, an alkene is\u00a0a hydrocarbon containing a carbon\u2013carbon double bond. Alkene is often used as synonym of olefin, that is, any hydrocarbon containing one or more double bonds.\nThere is an explanation video available below."
+    },
+    "text": "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have?",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na single bond",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na double bond",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na triple bond",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nan ionic bond",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "If the relative atomic\u00a0mass of an element is not a whole number, it can be deduced that the element is?",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNaturally radioactive",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nabundant in nature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na transition metal",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nan isotopic mixture",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2009
+  }
+]

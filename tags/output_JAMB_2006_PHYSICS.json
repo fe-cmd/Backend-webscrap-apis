@@ -1,0 +1,1874 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor the uniform cube 10cm volume = 10 x 10 x 10 = 103 cm3\nMass = 700g \n\u2234 density = (Mass)/Volume = (700)/100 = 0.7gcm-3 \nsince the density is less than the density of water, the cube will float"
+    },
+    "text": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe cube will melt after a period of time",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe cube will float",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe cube will sink in water",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe cube will rest at an equilibrium position in water",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "At low humidity in an environment, the human skin is usually?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndamp and rough",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndamp and smooth",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndry and rough",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndry and smooth",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nR.D = (density of the subs)/density of water\n19.2 =(P)/103; \u2234P = 19.2 X 103\nBut Vol. = (Mass)/density = (2.4)/19.2 x 103\n= 1.25 x 10-4 M3"
+    },
+    "text": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8.00 x 10-3 m3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.25 x 10-4 m3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.92 x 10-4 m3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.61 x 10-3 m3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe thermometric property of a constant volume thermometer is change in pressure with temperature"
+    },
+    "text": "The thermometric property of a constant volume thermometer is?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nchange in volume",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndifferential expanssion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nchange in pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nchange in length",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nPower of heater = lvt = 2 x 240 x t\nheat required to boil the water = Mct = 2.5 x 4.2 x 103 x (100.52) = 2.5 x 4. 2 x 103 x 48\n2 x 240 x t = 2.5 x 4.2 x 103 x 48\n\u2234 t = (2.5 x 4.2 x 103 x 48)/2 x 240 \n= 1050s or 1.05 x 103s"
+    },
+    "text": "An immersion heater rated 2.0A, 240V is used to boil water from temperature 52\u00b0c to 100\u00b0c. If the mass of the water is 2.5kg. determine the time taken to boil the water. \n\n\n[specific heat capacity of water = 4.2 x 103 jkg-1 k-1]",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.05 x 103s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.05 x 105s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.05 x 102s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.05 x 104s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The thermos flask is designed to?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprevent heat loss or gain by conduction, convection amd radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstore hot tea or water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprevent heat gain by conduction, convection and radiation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nprevent head lost conduction, convention and radiation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe glass will break",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe glass will shrink",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe liquid will rise up in the stem",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe liquid will go down in the stem",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A drop of petrol makes a finger colder than a drop of water would because?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npetrol takes its latent heat of veporization from the finger",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npetrol takes its latent heat of fusion from the finger",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nwater is more viscious than petrol",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwater has higher surface tension dan petrol",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPower = I\\(^2\\)R\u00a0\n= \\((\\frac{E}{R + r})^2 R\\)\nTo get point of maximum power transfer, we take the derivative and equate it to 0.\n\\(P = E^2 (\\frac{R}{(R + r)^2})\\)\n\\(\\frac{\\mathrm d P}{\\mathrm R} = E^2 (\\frac{(R + r)^2 - 2R(R + r)}{(R + r)^4})\\)\n= \\(E^2 (\\frac{(R + r)[(R + r) - 2R}{(R + r)^4})\\)\n\\(\\frac{\\mathrm d P}{\\mathrm d R} = E^2 (\\frac{r - R}{(R + r)^3})\\)\nMaximum power is gotten when r - R = 0 i.e. r = R."
+    },
+    "text": "A cell of internal resistance r is connected to an external resistor R. The conductor for maximum power transfer is?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nR < r",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nR = r",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nR = 2r",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nR > r",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The production and type of charge of a body can only be accounted for by the?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndeficiency or surplus of electrons",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nequibrium in protons and neutrons",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndeficiency or surplus of protrons",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndeficiency or surplus of neutrons",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The main purpose of the transformer in an a.c radio set is to?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincrease power to the radio",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstep up the voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconvert energy from a.c to d.c",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nstep down the voltage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nElectrical power = IV or I2R or (V)/R\nWith V = 240v, R = 960\u2126\nPower (V2)/R = (240 X 240)/960\n=60Watts"
+    },
+    "text": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960\u2126. find the power rating of the heater.",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.25 W",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.00 W",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n38.40W",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60.00W",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the capacitance of an capacitor is C = (\u03b5A)/d, which of the following parameters is varied when a variable capacitors is used for tuning radio sets?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconstant (\u03b5) and area",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\narea and distance.",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconstant (\u03b5) only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndistance only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn a capacitive circuit, current leads voltage by 90\u00b0, or voltage lags current by 90\u00b0"
+    },
+    "text": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nleads the voltage by 90\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlags behind the voltage by 90\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nand voltage are in phase",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nand voltage are 180\u00b0 out of phase",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The electrolyte in the Nickei-iron (Nife) accumulator is",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npotassium hydroxide solution",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndilute tetraoxosulphate(VI)acid",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncopper tetraoxosulphate(VI)solution",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nammonium chloride solution",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nM = Itz; z = (M)/It = (2)/0.5 x 3 x 60 x 60\n= 3.703 x 10-4 gc-1\n\u2234 M = Itz = 1.5 x 1 x 60 x 60 x 3.703 x 10-4 \n= 1.99962g.\n=2.0g"
+    },
+    "text": "During electrolysis, 2.0 g of a metal is deposited using a current of 0.5 A in 3 hours. The mass of the same metal which can be deposited using a current of 1.5 A in 1 hour is?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.0 g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.5 g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0 g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe r.m.s value of an a.c voltage/current is the value of the d.c. voltage/ current that will dissipate the same amount of energy in a given resistance as the a.c. Thus the r.m.s value of the a.c supply is 12v."
+    },
+    "text": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12.0 V",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.5 V",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n17.0 V",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nR = (igrg)/I-ig = (50 x 10-3 x 5)/5-(50 x 10-3) = (0.25)/4.95 = 0.0505 = 0.05\u2126"
+    },
+    "text": "An ammeter of resistance 5\u2126 has a full-scale deflection when a current of 50 mA flows in it. The value of the resistor required to adapt it to measure a current of 5 A is?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.25\u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.00\u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n19.80\u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.05\u2126",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The motion of smoke particles from a chimney is typical of?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nrandom motion",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncircular motion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nrotational motion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\noscillatory motion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In an experiment to determine terminal velocity, as the pressure increases, the viscosity off a liquid",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincreases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndecreases",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincreases then decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nremains constant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nV = \u221a2GM/R.\n=\u221a[2 x\u00a06.67\u00a0x 10\\(^{-11}\\) x 6.0\u00a0x 10\\(^24\\)] / 6.4 x 10\\(^6\\)\n=\u00a0\u221a12.506 x\u00a010\\(^7\\)\n=\u00a011,183.13\nOR\nV =\u221a2gR\nV=\u221a[2 * 10 *\u00a0\u00a06.4 x 10\\(^6\\)]\u00a0\nV =\u00a0\u221a128,000,000\n11,313.708"
+    },
+    "text": "If the radius of the earth is 6.4 x 10\\(^6\\)m, the escape velocity of a satellite from the earth is?\n\n\n[g = 10 ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.13 x 104 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9.00 x 103 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.00 x 103 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.27 x 104 ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The component of vector X along the direction of vector Y is zero when",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nX and Y are in opposite directions to each other",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nX is at an angle of 45\u00b0 to Y",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nX is perpendicular to Y",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nX and Y are parallel to each other",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The correct unit of energy density is?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nkg m3 s-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nkg m2 s-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nkg m-3 s-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nkg m-1 s-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "I. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIv. Effort is always larger than load.\nwhich of statements above about machines are true?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nII and III",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIII and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI and III",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII and iv",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nE = hf\nf = (E)/h \n\u2234 f = (3.3 x 1.6 x 10-19)/6.6 x 10-34\n= 0.8 x 1015 = 8.0 x 1014 Hz"
+    },
+    "text": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 ev. calculate the frequency of the photon. \n\n\n[e = 1.6 x 10-19c; h = 6.6 x 10-13js]",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.3 x 10-15 Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3.1 x 1052 Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.2 x 10-53 Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.0 x 1014 Hz",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The process through which free electrons leave the surface of hot metal is known as?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nphoton emission",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nphoto emission",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthermionic emission",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nelectron emission",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The battery connection that permits current to flow across a p-n junction is called?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nreverse baised",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nforward baised",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\namplification.",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrectification",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "One of the properties of gamma rays is that they are?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nneutral",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmassive",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npositively charged",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnegatively charged",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n16 days = 4 half lives.\nThe fraction left 16 days = after 4 half live, = (1/2)4 = (1)/16."
+    },
+    "text": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(15)/16",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(1)/16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(3)/4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(1)/4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor,is?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nstring theory",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nparticle theory",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngroup theory",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nband theory",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "I. The number of neutrons released exceeds the number that caused the fission.\nII. There is loss of mass.\nIII. Energy is produced.\nIV. Smaller nuclei merge to form larger nuclei\nwhich of the statement above are correct about nuclear fission?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nII,III and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI, II and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI,II and III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nI, III and IV only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAn n- type semi conductor is usually formed by dopping the semi conductor(a four valent element)with a five valent\nelement.(arsenic and antimony)"
+    },
+    "text": "A certain manufacturer wishes to make an n-type semiconductor. Which materials would he select for doping?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nboron and antimony",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nboron and sodium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\naluminium and indium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\narsenic and antimony",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A p-n junction diode is used as?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na rectifier in a d.c circuit",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nan amplifier in d.c circuit",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nan anplifier in an a.c circuit",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na rectifier in an a.c circuit",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nat the centre of convature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nat the radius of curvature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nat infinity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10 cm from the focus",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nRefraction index (n)= (Real depth)/App. depth\nFor 80 m Real depth: (4)/3 = (80)/App. depth \nApp. dept = (80 x 3)/4 = 60 m\nFor 60 m real depth; (4)/3 = (60)/ App. depth \nApp. depth = (60 x 3)/4 = 45 m \n\u2234change in App. depth = 60 -45 = 15 m"
+    },
+    "text": "A submarine is observed to rise from a real depth off 80 m to 60 m in water. calculate the change in apparent depth.\n\n\n[Refraction index of water (4)/3]",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n45 m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n80 m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n15 m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60 m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Non-luminous object can be seen because they",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nreflect light",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nare near",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nare polished",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nemit light",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn a closed tube, the fundamental note occurs when the length of the tube l = (\u03bb)/4,\nthe first over tone occurs when the length of the tube l = (3)/4\u03bb.\n\u03bb = (4)/3 l = (4)/3 x (33)/T = 44 cm"
+    },
+    "text": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n33 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n44 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n22 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n17 cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe least distance of distinct vision required = 25 cm. \n\u2234 for the person to see an object clearly at 25 cm from the eye, the image must be formed at 75 cm on the same side of lens, at his near point.\n\u2234 U = 25 cm; V = -75 cm (image should be virtual)\nthus (1)/f = (1)/v +(1)/u \n= (1)/75 + (1)/25\n=(-1 + 3)/75 = (2)/75\n\u2234f = (75)/2 = 37.50"
+    },
+    "text": "A person can focus objects when they lie beyond 75 cm from his eyes. The focal length of the lens required to reduce his least distance of distinct vision to 25 cm is?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n37.50 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n75.00 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n18.75",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25.00 cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWork done = product of the charge Q, and the p.d V. \n(i)/e work done = Q.V = 600 x 10-6 x 3.0 x 10-3 = 1.8 J."
+    },
+    "text": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600 \u00b5C across the field is?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.8 J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.8 J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9.0 J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n18.0 J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nR = (1)/a, P = (R.a)/1 = (0.1 x 3.14)/2 (10-3/2)3\n\u2234 P = (0.1 x 3.14 x 10-6)/2 x 4\n= 0.3925 x 10-7 OR -3.930 X 10-8 \u2126m"
+    },
+    "text": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1\u2126, its resistivity is?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.55 x 105 \u2126m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.55 x 102 \u2126m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.93 x 10-6 \u2126m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3.93 x 10-8 \u2126m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIn general, power = IV; 40kw = IV.\n\u2234 40,000 = 1 x 800\n1 = (40.000)/800 = 50A. tune the current through resistor = 50A. \n\u2234 power loss = 12R = 502 X 2 = 2500 X 2 = 5.0 X 103W"
+    },
+    "text": "A 40 kW electric cable is used to transmit electricity through a resistor of resistance 2.0\u2126 at 800 V. The power loss as internal energy is?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.0 x 102W",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.0 x 102W",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.0 x 103W",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0 x 103W",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The instrument that measures both a.c and d.c is?",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na current balance",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na moving current ammeter",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na moving iron ammeter",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nan inverter",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPower of the lamp = 60W = (V2)/R and the voltage rate = 120v.\nR = (V2)/60 = (120 X 120)/60 = 240 \u2126, the fuse wire that should ensure current does not exceed this value should be rated 200 \u2126"
+    },
+    "text": "A 120 V, 60 W lamp is to be operated on 220 V a.c. the supply mains. calculate the values of non-inductive resistance that would be required to ensure that the lamp is run on current value.",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n100 \u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n200 \u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n300 \u2126",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n500 \u2126",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n80 days = 4 half lives (i.e 4 x 2odqs = 80 days)\nBut the fraction always left by any radioactive material after 4half lives is (1/2)4 = (1)/16"
+    },
+    "text": "A radioactive substance has a half-life of 20 days what fraction the original radiation nuclei will remain after 80 days?",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(1)/32",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(1)/16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(1)/ 8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(1)/4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nIn the stress - strain graph shown above, X represents the breaking point of the wire"
+    },
+    "text": "The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent?",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": "https://myschool.ng/storage/classroom/6817746970_phy20061.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBreaking point",
+        "imageUrl": "https://myschool.ng/storage/classroom/6817746970_phy20061.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nYield point",
+        "imageUrl": "https://myschool.ng/storage/classroom/6817746970_phy20061.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nElastic limit",
+        "imageUrl": "https://myschool.ng/storage/classroom/6817746970_phy20061.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nProportional limit",
+        "imageUrl": "https://myschool.ng/storage/classroom/6817746970_phy20061.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nPressure of the Gas, P = A + h\n= 76 + 10\n86 cm Hg"
+    },
+    "text": "In the diagram above, the pressure of the gas is",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": "https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n86 cm of mercury",
+        "imageUrl": "https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n66 cm of mercury",
+        "imageUrl": "https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n96 cm of mercury",
+        "imageUrl": "https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n76 cm mercury",
+        "imageUrl": "https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nFor vertical equilibrium, we have \n2Ty = 75N\nBut Ty/T = adj/hyp = cos 60o\n\u2234 Ty = T Cos 60o\n=> 2Ty = 2Tcos 60o = 75N\n2 x T x 0.5 = 75 => T = 75N\n\u2234 Total tension in the rope = 2T.\n= 2 x 75 = 150N"
+    },
+    "text": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30o with horizontal, the tension in the cord is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n100N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1500N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n250N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n150N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nIF the volume of gas is plotted against the reciprocal of pressure, the slope will be given as \nSlope = V/1/P = P x V \nthus the unit of the slope will be;\nP = ForceArea\n= Nm-2, = V = M3 = NM.\nThe unit NM (Newton - Meter) is the practical unit of work, which is the product of force (N) and Displacement (M).\nNote: It should be noted that the practical unit of work is Newton-Meter, whereas its S.I unit is Joules, just as energy."
+    },
+    "text": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nforce",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntemperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npower",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwork",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHorizontal range = 3 x maxi. height \n=> (U2Sin2\u03b8) / g = (3 x U2sin2\u03b8) / 2g\n\u2234sin2\u03b8 = 3sin2\u03b82\n=> 2sin\u03b8cos\u03b8 = 3sin2\u03b82\n\u2234 4sin\u03b8cos\u03b8 = 3sin2\u03b8\n=> 4cos\u03b8 = 3sin\u03b8\n\u2234 sin\u03b8/cos\u03b8 = 4/3; => tan\u03b8 = 4/3 = 1.3333\n\u03b8 = tan-1 (1.3333)\n= 53o"
+    },
+    "text": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this?",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n68o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n53o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30o",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n45o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIn terms of dimension: power , P, = ML2T3\nForce F1 = MLT-2; Vel, V, LT-1\nFrom the above, => P = F x V\ni.e, ML2T-3 = MLT-2 x LT-1\nML2T-3\n=> 80,000 = F x 32\n\u2234 F = 80,00032\n= 2500N\n= 2.50 x 103N"
+    },
+    "text": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 ms-1. The forces required to bring it to rest is",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.56 x 106N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.50 x 106N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.80 x 103N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.50 x 103N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nY = sin \u03c0(150\u03c0t - \u03c0x/4)\ncomparing the above with the standard wave equation:\nY = A sin \u03c0 ((2vt)/\u03bb - (2x)/\u03bb)\n=> the phase difference x/4 = 2x/\u03bb\n\u2234 1/4 = 2/\u03bb => \u03bb = 8cm\n\u2234 2\u03c0x/8 = \u00a045\u00b0\nsince \u03c0\u00a0= 180\u00b0\n45\u00b0 X\u00a08 = 2 X\u00a0180\u00b0 x\n\u2234 x =\u00a0 1cm"
+    },
+    "text": "A progressive wave equation is represented by y = a sin(150 \u03c0t - \u03c0x/4). if the phase difference of a progressive wave is 45\u00b0, the value of x in the equation is",
+    "structure": "OBJECTIVE",
+    "number": 51,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2 cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nGenerally, period T = 1/f(reciprocal of frequency).\n=> f = 1/T\nAnd from the diagram, period T = 4s\n\u2234 frequency, f = 1/T = 1/4 = 0.25 Hz"
+    },
+    "text": "The frequency of the wave in the diagram above is",
+    "structure": "OBJECTIVE",
+    "number": 52,
+    "imageUrl": "https://myschool.ng/storage/classroom/16364762664_PHY200648.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.17 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/16364762664_PHY200648.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n0.25 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/16364762664_PHY200648.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n1.57 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/16364762664_PHY200648.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n1.05 Hz",
+        "imageUrl": "https://myschool.ng/storage/classroom/16364762664_PHY200648.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2006
+  }
+]

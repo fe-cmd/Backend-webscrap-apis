@@ -1,0 +1,1766 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nF = m (v-u)\n\n= kg x m x S-2\n\n= M1L1T-2"
+    },
+    "text": "At what respective values of X, Y and Z would the unit of force, the newton, be dimensionally equivalent to MxLyTz?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-1, 1, 2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1, 1, -2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1, -1, 2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-1, 1, -2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nspeed = \\(\\frac{dx}{dt}\\)\n\n\\(\\frac{dx}{dt}\\) = 10 + 12t2\n\n\\(\\frac{dx}{dt}\\) = 24t\n\n\\(\\frac{dx}{dt}\\) =24 x 3\n\n\\(\\frac{dx}{dt}\\) = 72 ms-1"
+    },
+    "text": "The distance xm travelled by a particle in time t seconds is described by the equation x = 10 + 12t2, Find the average speed of the particle between the time interval t = 2s and t = 5s",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n72 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n84 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n108 ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nma = mgsin\\(\\theta\\)\n\na = \\(\\frac{5 {\\times} 10 {\\times} sin30}{t}\\)\n\na = 5ms2"
+    },
+    "text": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane? [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.0 ms-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.8 ms-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.7 ms-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25.0 ms-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nM1U1 + M2U2\n\n= (m1 + m2)v\n\n= \\(\\frac{(0.1 {\\times} 15) + (0.4 {\\times} 0)}{(0.1 + 0.4)}\\)\n\nv = 3ms-1"
+    },
+    "text": "An arrow of mass 0.1kg moving with a horizontal velocity of 15ms-1 is shot into a wooden block of mass 0.4kg lying at rest on a smooth horizontal surface. Their common velocity after impact is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15.0 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n7.5 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.8 ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3.0 ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nRange = \\(\\frac{U^2sin2{\\theta}}{g}\\)\n\n\\(\\frac{R_x}{R_y}\\) = \\(\\frac{U^2_xsin60}{U^2_ysin120}\\)\n\nsin60o = sin120o\n\n\\(\\frac{R_x}{R_y}\\) = \\(\\frac{1}{1}\\)\n\nhence, = 1:1"
+    },
+    "text": "Two bodies X and Y are projected on the same horizontal plane, with the same initial speed but at angles 30 and 60 respectively to the horizontal. Neglecting air resistance, the ratio of the range of X to that of Y is",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1:1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1:2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u221a3:1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u221a3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following with respect to a body performing simple harmonic motion are in phase?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndisplacement and velocity of the body",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndisplacement and force on the body",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvelocity and acceleration of the body",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nforce acting on the body and the acceleration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nF = mg + ma\n\nF = 2 [10 + \\(\\frac{(40 - 10)}{4}\\)]\n\nF = 35 N"
+    },
+    "text": "A body of mass 2kg moving vertically upwards has its velocity increased uniformly from 10ms-1 to 40ms-1 in 4s. Neglecting air resistance, calculate the upward vertical force acting on the body.[g = 10 ms-1]",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n35N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n45N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\ng = \\(\\frac{GM}{R^2}\\)\n\n\\(\\frac{G_1M_1}{r^2_1}\\) = \\(\\frac{G_2M_2}{r^2_2}\\)\n\n\\(\\frac{G_1M_1}{r^2_1}\\) = \\(\\frac{G_2 {\\times}10 M_1}{(2r_1)^2}\\)\n\n\\(\\frac{G_1}{G_2}\\) = \\(\\frac{2}{5}\\)"
+    },
+    "text": "A planet has mass m1 and is at a distance r, from the sun. A second planet has mass m2 = 10m1 and at a distance of r2 = 2r1 from the sun. Determine the ratio of the gravitational force experienced by the planets.",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1 : 5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2 : 5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 : 5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4 : 5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nUsing, v2 = u2 - 2gx\n\n(20)2 = u21/2 x 10 x 10 \n\nu2 = 600(m/s)2\n\ninitial K.E = - mu2\n\n= \\(\\frac{1}{2}\\) x 600 \n\n= 30 J"
+    },
+    "text": "An object of mass 100g projected vertically upwards from the ground level has a velocity of 20ms-1 at a height of 10m. calculate its initial kinetic energy at the ground level.[g = 10ms-2, neglect air resistance]",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10 J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20 J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30 J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n50 J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nEfficiency = output x 100\n\n= \\(\\frac{\\frac{200 {\\times} 10 {\\times} {6}}{10}}{1500}\\) x \\(\\frac{100}{1}\\)\n\n= 80%"
+    },
+    "text": "An electric water pump rate 1.5 kW, lifts 200kg of water through a vertical height of 6 meters in 10 seconds. What is the efficiency of the pump? [g = 10ms-2, neglecting air resistance]",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n90.0%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n85.0%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n80.0%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n65.0%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nYoung's modulus = \\(\\frac{F}{A}\\) \\(\\div\\) \\(\\frac{e}{L}\\)\n\n= \\(\\frac{20}{8 \\times 10^{-7}}\\) \\(\\div\\) \\(\\frac{10^{-4}}{3}\\)\n\n= 7.5 x 1011Nm-2"
+    },
+    "text": "A load of 20N on a wire of cross-sectional area 8 x 10-7m2, produces an extension of 10m2. calculate Young's modulus for the material of the wire if its length is 3m",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7.0 x 1011Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n7.5 x 1011Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.5 x 1011Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9.0 x 1011Nm-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nVolume of water displaced = volume of cube\n\ntherefore, 0.1 x 0.1 x 0.1 = 0.001m3\n\nmass of H2O = 0.001 X 1000 \n\n= 1kg\n\nupthrust = mg \n\n= 1 x 10\n\n=10N"
+    },
+    "text": "A cube of sides 0.1m hangs freely from a string. What is the upthrust on the cube when totally immersed in water? [density of water is 1000kgm-2, g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1000 N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n700 N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n110 N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10 N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A piece of wire gauze can be made to lie on water because",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe wire guaze is less dense than water",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe water molecules repels the wire guaze upwards",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe water surface has the effect of an elastic thin skin",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nof the cohensive forces between the water and the wire guaze molecules",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nDensity of liquid = \\(\\frac{1 {\\times} 10^3}{2.5 {\\times} 2 {\\times} 4}\\)\n\n= 50kgm3\n\npressure heg = 50 x 10 x \\(\\frac{4}{2}\\)\n\n= 1 x 103Nm-2"
+    },
+    "text": "A liquid of mass 1.0 x 103kg fills a rectangular tank of length 2.5m and width 2.0m. If the tank is 4m high, what is the pressure at the middle of the tank?[g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.0 x 104Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0 x 103Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.5 x 103Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.0 x 103Nm-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nR.d = \\(\\frac{\\text {density of petrol}}{\\text{density of water}}\\)\n\n0.72 = \\(\\frac{\\text{density of petrol}}{1000}\\)\n\nDensity of petrol =720kgm3\n\nmass of petrol = 720 x 60 x 10-3\n\n=43.2kg"
+    },
+    "text": "An empty 60 litre petrol tank has a mass of 10kg. Its mass when full of fuel of relative density 0.72 is",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7.2kg",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n33.2kg",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n43.2kg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n53.2kg",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{175 - 25}{225 - 25} = \\frac{x - 0}{100 - 0}\\)\n\\(\\frac{150}{200} = \\frac{x}{100}\\)\n\\(x = \\frac{150 \\times 100}{200}\\)\n= 75\u00b0C"
+    },
+    "text": "The length of mercury thread when it is at 0\u00b0C, 100\u00b0C and at an unknown temperature \\(\\theta\\) is 25mm, 225mm and 175mm respectively. The value of \\(\\theta\\) is",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n85.0oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n80.0oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n75.0oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n70.0oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Equal masses of copper and rubber are raised to the same temperature. After sometimes, the copper was observed to be at a lower temperature because",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe specific heat capacity of copper is lower than that of rubber",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncopper expands more than rubber",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe specific heat capacity of rubber is lower than that of copper",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrubber expands more than copper",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{P_1}{T_1}\\) = \\(\\frac{ P_2}{T_2}\\)\n\n\\(\\frac{3 \\times\\ 10^6}{27 + 273}\\) = \\(\\frac{4 \\times\\ 10^6}{0 + 273}\\)\n\n\\(\\theta\\) = 127oC"
+    },
+    "text": "Before starting a journey, the tyre pressure of a car was 3 x 105Nm-2 at 27oC. At the end of the journey, the pressure rose to 4 x 105Nm-2. Calculate the temperature of the tyre after the journey, assuming the volume is constant",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n400oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n300oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n273oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n127oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What happens when a, certain quantity of pure ice is completely changed to water at 0oC?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlatent heat is absorbed, the mass remains constant, and the volume decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlatent heat is given out, the mass remains constant and the volume decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlatent heat is given out, the mass increases and the volume remains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nlatent heat is absorbed, the mass decreases and the volume increases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nHeat energy = Elect. energy \n\n0.5 x 2.3 x 106 = 100t\n\nt = 1.15 x 104s"
+    },
+    "text": "A heating coil rated at 100W is used to boil off 0.5kg of boiling water. The time taken to boil off the water is [specific latent heat of vaporization of water = 2.3 x 106Jkg-1]",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.15 x 109 s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.15 x 107 s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.15 x 105 s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.15 x 104 s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHeat lost = heat gained\n\nmH x c x (70 - 45) = mc x c x (45 - 30)\n\n\\(\\frac{m_c}{m_H}\\) = \\(\\frac{5}{3}\\)"
+    },
+    "text": "A mass of a liquid at 30oC is mixed with a mass of the same liquid at 70oC and the temperature of the mixture is 45oC. Find the ratio of the mass of the cold liquid to the mass of the other liquid.",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3 : 5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5 : 3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 : 7",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7 : 3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What happens when a gas expands at constant temperature?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nits pressure decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe total momentum of its molecules remains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nits pressure decreases and the total momentum of its moleculees remains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nits pressure decreses and the total kinetic energy of its molecule decreases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nExamples of transverse waves include:\n\nripples on the surface of water.\nvibrations in a guitar string.\na Mexican wave in a sports stadium.\nelectromagnetic waves \u2013 eg light waves, microwaves, radio waves.\n\nSome\u00a0basic properties of light :\n\nReflection of light.\nRefraction of light.\nDiffraction of light.\n\nAll kinds of waves have the same fundamental properties of\u00a0reflection, refraction, diffraction and interference,\nand all waves have a wavelength, frequency, speed and amplitude."
+    },
+    "text": "Ripples on water and light waves are similar because both?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhave the same frequency",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncan be refracted and diffracted",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nare longitudinal waves",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhave the same velocity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{1}{2L}\\)\\(\\sqrt\\frac{T}{m}\\)\n\nF1L1 = F2L2\n\n500 x 0.9 = 150 x L2\n\ntherefore, L2 = 3m"
+    },
+    "text": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m. At what length is the frequency 150Hz?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA simple form of interference pattern is obtained if two plane waves of the same frequency intersect at an angle. Interference is essentially an energy redistribution process."
+    },
+    "text": "The colours seen in the thin films of oil on the road and in soap bubbles are due to",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nreflection",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ninterference",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndiffraction",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npolarization",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the load at the end of a sonometer wire is immersed in a bucket of water, the original fundamental frequency of the wire could be restored by",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndecrease the length of the wire",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreasing the length of the wire",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nincreasing the mass per unit length of the wire",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nchanging the temperature of the wire",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A boy on looking into a mirror observed that his face appeared to have grown bigger. The boy must have been looking at a",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconvex mirror with his face at the focus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconcave mirror with his face between the focus and the mirror",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconcave mirror with his face at the focus",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconvex mirror with his face between the focus and the mirror",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nn = \\(\\frac{3 \\times\\ 10^8}{2.4 \\times\\ 10^8}\\)\n\nn = 1.25"
+    },
+    "text": "Light of velocity 3 x 108ms-1 is incident on a material of reflective of index n. If the velocity of light is reduced to 2.4 x 108ms-1 in the material, what is n?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.33",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.25",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.33",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.25",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The electromagnetic waves that are sensitive to temperature changes are",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nX-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nGamma-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nUltra-violet rays",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInfra-red rays",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nE.m.f = 1.5\n\nr = \\(\\frac{1 \\times\\ 1 \\times 1}{(1 \\times\\ 1) + (1 \\times\\ 1) + (1 \\times\\ 1)}\\)\n\nr = \\(\\frac{1}{3}\\)\\(\\Omega\\)\n\nI = \\(\\frac{E.m.f}{r + R}\\)\n\nI = \\(\\frac{1.5}{\\frac{1}{3}\\ + \\frac{2}{3}}\\)\n\nI = 1.5A"
+    },
+    "text": "Three electric cells each of e.m.f 1.5V and internal resistance of 1.0\\(\\Omega\\) are connected in parallel across an external resistance of \\(\\frac{2}{3}\\)\\(\\Omega\\). Calculate the value of the current in the resistor",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.5 A",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.9A",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.5A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.5A",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A galvanometer of internal resistance 50\\(\\Omega\\) has a full scale deflection for a current of 5mA. What is the resistance required to covert it to a voltmeter with full scale deflection of 10V?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1750\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1950\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2000\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2500\\(\\Omega\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nV = \\(\\frac{W}{Q}\\)\n\nV = \\(\\frac{8 \\times\\ 10^{-2}}{100 \\times\\ 10^{-6}}\\)\n\nV = 8.0 x 10\\(^2\\) v"
+    },
+    "text": "If 8 x 10\\(^{-2}\\) J of work is required to move 100\\(\\mu\\)C of charge from a point X to a point Y in an electrical circuit, the potential difference between X and Y is",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4.0 x 102 v",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.0 x 104 v",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.0 x 102 v",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.0 x 10-2 v",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLet the point be x \n\n\\(\\frac{2}{x}\\) = \\(\\frac{3}{100 - x}\\)\n\nmaking x subject of formula,\n\n2(100 - x) = 3x\n\n200 - 2x = 3x\n\n200 = 3x + 2x\n\n200 = 5x \n\ndivide both side by 5 \n\nx = 40cm"
+    },
+    "text": "In a meter bridge experiment, two resistor 2\\(\\Omega\\) and 3\\(\\Omega\\) occupy the left and right gaps respectively. Find the balance point from the left side of the bridge",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n40cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n60cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor series, C = \\(\\frac{50 \\times\\ 50}{50 + 50}\\)\n\nC= 25\\(\\mu\\)F\n\nQ = CV\n\nQ = 25 x 100 x 10-3\n\nQ = 2.5 x 10-3C"
+    },
+    "text": "Two 50\\(\\mu\\)F parallel plate capacitors are connected in series. The combined capacitor is then connected across a 100-V battery. The charge on each plate of the capacitor is",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.00 x 10-5C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.50 x 10-3C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.25 x 10-3C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.00 x 10-2C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nEnergy = power x time \n\n= 1000 x 5 x 3600\n\n= 1.8 X 107J"
+    },
+    "text": "What is the total electrical energy consumed by using an electric cooker rated 1000W for 5 hrs?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.3 x 103J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.5 X 103J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.8 X 107J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.3 X 107J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nP = IVcos\\(\\theta\\)\n\n= 5 x 10 x cos60\n\n= 25W"
+    },
+    "text": "The power dissipated in an a.c. circuit with an r.m.s, current of 5A, r.m.s voltage of 10V and a phase angle of 60o is",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n25W",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n50W",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n120W",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n125W",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nV = 311 sin314.2t compare with,\n\nV = V sin2\\(\\pi\\)Ft\n\n2\\(\\mu\\)F = 314.2\n\nF = \\(\\frac{314.2}{2 \\times\\ 3.142}\\)\n\nF = 50Hz"
+    },
+    "text": "The voltage of the domestic electric supply is represented by the equation V = 311 sin314.2t. Determine the frequency of the a.c. supply [\\(\\pi\\) = 3.142]",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n50.0Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n100.0Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n311.0Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n314.2Hz",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In a purely inductive circuit, the current",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlags behind the voltage in phase by 90o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nleads the voltage in phase by 90o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nis in the same phase with the voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nleads the voltage by 180o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "One of the features of the fission process is that",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nits products are not radioactive",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nit leads to chain reaction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nneutrons are not released",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe sum of the masses of the reactants equals the sum of masses of the products",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The graphite rods surrounding the uranium fuel rods in a nuclear reactor, are used to",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nabsorb the neutrons and hence halt the nuclear process",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncreate the neutrons and hence slow up the nuclear process",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nslowdown the neutrons and hence slow up the nuclear process",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nspeed up the neutrons and hence speed up the nuclear process",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The following are the scores of ten students in a test of 20 marks: 15, 16, 17, 13, 16, 8, 5, 16, 19, 17. What is the modal?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n13",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n15",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n19",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nx = \\(\\frac{\\sum x}{N}\\) = \\(\\frac{0}{11}\\)\n\n= 0\n\n\\(\\begin{array}{c|c} x & (x - x) & (x - x)^2\\\\ \\hline -5 & -5 & 25 \\\\ -4 & -4 & 16\\\\-3 & -3 & 9\\\\ -2 & -2 & 4\\\\ -1 & -1 & 1\\\\ 0 & 0 & 0 \\\\1 & 1 & 1\\\\ 2 & 2 & 4 \\\\ 3 & 3 & 9 \\\\ 4 & 4 & 16\\\\ 5 & 5 & 25 \\\\ \\hline & & 110\\end{array}\\)\nS.D = \\(\\sqrt{\\frac{\\sum(x - x)^2}{\\sum f}}\\)\n\n= \\(\\sqrt{\\frac{110}{11}}\\) \n\n= \\(\\sqrt{10}\\)"
+    },
+    "text": "Find the standard deviation of the following data -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u221a10",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u221a11",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "For what value of 6 are the forces in the diagram above in equilib4ruim",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": "https://myschool.ng/storage/classroom/20421184658_19970002.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\( 15^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/20421184658_19970002.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n\\( 30^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/20421184658_19970002.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\\( 45^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/20421184658_19970002.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n\\( 60^{\\circ} \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/20421184658_19970002.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The fig above shows a block of mass m sliding down a rough inclined plane QP at angle \\( \\theta \\) . The forces acting on the block along QP are",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": "https://myschool.ng/storage/classroom/2917312800_19970003.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmg sin\u03b8 and the normal reaction",
+        "imageUrl": "https://myschool.ng/storage/classroom/2917312800_19970003.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nmg sin\u03b8 and the force of friction",
+        "imageUrl": "https://myschool.ng/storage/classroom/2917312800_19970003.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nmg sin\u03b8 and the normal reaction",
+        "imageUrl": "https://myschool.ng/storage/classroom/2917312800_19970003.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nmg cos\u03b8 and the normal reaction",
+        "imageUrl": "https://myschool.ng/storage/classroom/2917312800_19970003.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A uniform light beam XZ is Hinged at X and kept in equilibrium by the forces T and F as shown in the diagram above. if XO = 20m and OY = 30cm, express T in terms of F",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": "https://myschool.ng/storage/classroom/13127910156_19970001.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nT =2\u221a3/3",
+        "imageUrl": "https://myschool.ng/storage/classroom/13127910156_19970001.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nT= 2F",
+        "imageUrl": "https://myschool.ng/storage/classroom/13127910156_19970001.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nT = 5V3F/3",
+        "imageUrl": "https://myschool.ng/storage/classroom/13127910156_19970001.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nT = 5F",
+        "imageUrl": "https://myschool.ng/storage/classroom/13127910156_19970001.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "For a rough inclined plane on which lies a body of weight W, the angle \u03b8 in the diagram above becomes the angle of friction if",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": "https://myschool.ng/storage/classroom/18962541520_1997.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntan \u03b8 = coefficient of static friction",
+        "imageUrl": "https://myschool.ng/storage/classroom/18962541520_1997.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\ncos \u03b8 = coefficient of dynamic friction",
+        "imageUrl": "https://myschool.ng/storage/classroom/18962541520_1997.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nsin \u03b8 = coefficient of sliding friction",
+        "imageUrl": "https://myschool.ng/storage/classroom/18962541520_1997.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nsec \u03b8 = limiting frictional force",
+        "imageUrl": "https://myschool.ng/storage/classroom/18962541520_1997.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The diagram above shows two wave forms P and Q at a particular instant in time. the two waves will interface",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": "https://myschool.ng/storage/classroom/14586573300_19970004.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndestructively to produce a wave of larger amplitude",
+        "imageUrl": "https://myschool.ng/storage/classroom/14586573300_19970004.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\ndestructively to produce a wave of smaller amplitude",
+        "imageUrl": "https://myschool.ng/storage/classroom/14586573300_19970004.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nconstructively to produce a wave of larger amplitude",
+        "imageUrl": "https://myschool.ng/storage/classroom/14586573300_19970004.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nconstructively to produce a wave of smaller amplitude",
+        "imageUrl": "https://myschool.ng/storage/classroom/14586573300_19970004.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When the sun, moon and the earth are as shown in the diagram above an observer standing in X is in",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": "https://myschool.ng/storage/classroom/5834630932_19970005.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPenumbra and sees a partial eclipse",
+        "imageUrl": "https://myschool.ng/storage/classroom/5834630932_19970005.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nPenumbra and sees a total eclipse",
+        "imageUrl": "https://myschool.ng/storage/classroom/5834630932_19970005.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\numbra and sees a partial eclipse",
+        "imageUrl": "https://myschool.ng/storage/classroom/5834630932_19970005.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\numbra and sees a total eclipse",
+        "imageUrl": "https://myschool.ng/storage/classroom/5834630932_19970005.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\( \\theta _3 \\) shows the angle of deviation"
+    },
+    "text": "In the diagram above, which of the angles \\( \\theta _1 \\) , \\( \\theta _2 \\) , \\( \\theta _3 \\) and \\( \\theta _4 \\) is the angle of deviation of the ray of light passing through the glass prism XYZ?",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": "https://myschool.ng/storage/classroom/7293290020_19970006.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\( \\theta _3 \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/7293290020_19970006.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n\\( \\theta _2 \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/7293290020_19970006.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n\\( \\theta _1 \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/7293290020_19970006.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n\\( \\theta _4 \\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/7293290020_19970006.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1997
+  }
+]

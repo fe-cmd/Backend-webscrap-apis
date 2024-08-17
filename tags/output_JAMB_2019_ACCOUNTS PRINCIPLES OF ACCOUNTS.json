@@ -1,0 +1,2558 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe main\u00a0principle\u00a0of\u00a0double-entry\u00a0system is that for every debit there is a corresponding credit for an equal amount of money and for every credit there is a corresponding debit for an equal amount of money; i.e. for every transaction one account is debited for, the amount of transaction and the other account is also credited."
+    },
+    "text": "Transactions are recorded or posted to the ledger in line with",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAccounting Concept",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSource document",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDouble Entry Principle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nData collection",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn the double-entry principle, we debit income and credit expenses.\nThe rent account will be debited with the sum of #50,000 in regards to the landlord (because money has been paid in as rent, e.i income), while the bank column will be credited with N50,000 (money has gone out of Mr. Rio bank account via the cheque that was issued to the landlord)"
+    },
+    "text": "Show how the following transaction will be recorded applying the double-entry principle:\nRent \u20a650,000 was paid by Mr. Roi to his landlord on 1st July 2017 by cheque.",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDr Rent A/c; Dr Bank A/c",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDr Bank A/c; Cr Rent A/c",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDr Rent A/c; Cr Bank A/c",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDr Rent A/c; Cr Mr. Roi",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA ledger is a separate record within the general\u00a0ledger\u00a0that is assigned to a specific asset, liability, equity item, revenue type, or expense type. Examples of\u00a0ledger accounts\u00a0are: Cash,\u00a0Accounts\u00a0receivable."
+    },
+    "text": "A statement in a double-entry system in which are recorded all the transactions of one specific class, which takes place during the period is called",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDouble entry system",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLedger",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCash Book",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPetty Cash Book",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nDouble-entry\u00a0accounting is easy to prepare and\u00a0helps guarantee accurate financial records by revealing data\u00a0entry\u00a0errors.\u00a0Double-entry\u00a0accounting provides a complete record of financial transactions for a business."
+    },
+    "text": "The advantage of double entry is that",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nit is easy to prepare the final account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nit increase assets",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhas cash and bank column",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIt disburses cash",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nA\u00a0personal account\u00a0is an\u00a0account\u00a0for use by an individual for that person's own needs.\u00a0A few\u00a0examples\u00a0of\u00a0personal accounts\u00a0include debtors, creditors, banks, outstanding/prepaid\u00a0accounts,\u00a0accounts\u00a0of credit customers,\u00a0accounts\u00a0of goods suppliers, capital, drawings, etc.\nimpersonal accounts: Accounts which are not held in the name of the persons or are directly related to the customers or suppliers of a business.\u00a0\u00a0a. Real\u00a0Accounts, e.g. Asset\u00a0Account; and, 2. Nominal\u00a0Accounts, e.g. Income and Expenditure\u00a0Accounts."
+    },
+    "text": "Accounts can be classified into",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncash and credit transactions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncash and credit accounts",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npersonal and private account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npersonal and impersonal account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWhen a purchase was made, a credit purchase invoice would have been issued by the supplier, Tosanwumi International, which would be signed by Mr. Roi as evidence of his acceptance of liability to pay for the goods.\nThe two accounts needed to record this transaction are the purchase Account and Tosanwumi International Account. purchase account would be debited while the\u00a0Tosanwumi International Account credited."
+    },
+    "text": "Goods were purchased for resale on credit costing \u20a6150,000 on 30th September 2008 from Tosanwumi International. The entry to record these transaction is debit",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTosanwumi International, credit purchase Account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPurchase Account \u20a6150,000, credit Tosanwumi International Account \u20a6150,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCredit Account \u20a6150,000, Credit Tosanwumi International \u20a6150,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTosanwumi International \u20a6150,000, credit credit Account \u20a6150,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nWages should be charged in the trading account only if shown separately on the trial balance from salaries. In such circumstances, the assumption, unless you are otherwise told, is that the wage is a direct trading expense to be included in the trading account while salary is an Indirect (i.e overhead) expense to be included in the P & L account."
+    },
+    "text": "If only wages is shown on the trial balance, it should be charged to the",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprofit and loss account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntrading account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbalance sheet",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nwages account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nGross profit % on sales = gross profit\u00a0\u00f7 sales x 100\n= \\(\\frac{63,000}{233,000}\\) x 100 =27%"
+    },
+    "text": "What is the Gross Profit on percentage of sale?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.7%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.27%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n27.0%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n29.8%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNet profit on % of expenses =\nNet profit\u00a0 \u00a0 x 100\nExpenses\n= \\(\\frac{25000}{38000}\\) x 100\n= 65.7%"
+    },
+    "text": "Calculate the net profit on percentage of expenses.",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n13%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n65.7%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFirstly, convert margin to mark-up i.e,\n33 \\(\\frac{1}{3}\\)%\n= \\(\\frac{100}{300}={1}{3-1}={1}{2}\\) or 50%\nSecondly, Cost of goods sold = Opening stock + Purchases - Closing Stock\nC.p = 7,000 + 60,000 - 12,000\nC.p = \u20a655,000\n\nThirdly, Profit = 50% \u00d7 55,000 = \u20a627,500\nTherefore,\nSales = Cp + P\n\u21d2 55,000 + 27,500 = \u20a682,500"
+    },
+    "text": "Mr Ojo gives you the following information on 31st July 2017\nOpening Stock \u00a0 \u00a0 \u00a0 \u00a0 7,000\nClosing Stock \u00a0 \u00a0 \u00a0 \u00a0 12,000\nPurchases \u00a0 \u00a0 \u00a0 \u00a0 60,000\nExpenses \u00a0 \u00a0 \u00a0 \u00a0 4,500\nUniform margin of 33 \\(\\frac{1}{3}\\) %\nYou are required to calculate the sales",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n#55,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n#82,500",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n#27,500",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n#50,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPaid up capital is the total amount paid up or credited as paid up, on the issued share capital.\nFrom the question above, the issued share capital is \u20a6100,000 and two of the shareholder owes \u20a620,000. Therefore, the paid up is 100,000 - 20,000 = \u20a680,000."
+    },
+    "text": "The company's paid-up capital is",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n#70,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a680,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a6220,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a6120,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nUnissuer capital is the total amount which has not been issued out on the authorized, nominal or registered capital.\nTherefore, unissued capital = Authorized\ncapital - issued capital which is :\n200,000 - 100,000 = \u20a6100,000"
+    },
+    "text": "The Unissued capital of the company is",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a6310,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a6200,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a6210,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a6100,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nOrdinary share dividend = 5% \u00d7 10,000 = 5000\nRetained profit = (27,370 + 28,000 - 4100 + 1500 - 4050 + 5000 + 2100 + 2500)\n\u21d2 55,570 - 19,250 = \u20a636,320"
+    },
+    "text": "Given:\nOrdinary share dividend \u20a6100,000, General reserve \u20a64,100, Net profit b/d \u20a627,370, corporation tax \u20a62,500, Profit and loss \u20a628,200, Interim ordinary dividend \u20a64,050, Goodwill 20,50 provide for preference Dividend \u20a62100 and Final ordinary Dividend of 5% and also write off Goodwill at \u20a61500.\nThe retained profit in the Appropriation account is",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a655,570",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a636,320",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a650,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a630,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nRetained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion."
+    },
+    "text": "Retained profits is an example of",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRevenue reserve",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCapital reserves",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGeneral reserves",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLoan capital",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Sam's share of profit is",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4921",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n991.8",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nInterest on drawings:\nOjo = 5% \u00d7 1000 = \u20a650\nSam = 5% \u00d7 2000 = \u20a6100\nAde = 5% \u00d7 900 = \u20a645\n\nInterest on Capital:\nOjo = 5% \u00d7 5000 = \u20a6250\nSam = 5% \u00d7 4,000 = \u20a6200\nAde = 5% \u00d7 6000 = \u20a6300"
+    },
+    "text": "The rate of interest on capital for Ade is",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n250",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n200",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n300",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n400",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\nSubscription account\n\n\nDr\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Cr\n\n\nBal b/f\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0700\ncash\u00a0 \u00a0(99)\u00a0 \u00a0 \u00a0 \u00a07500\n\n\nJ $ K\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a07400\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (2000)\u00a0 \u00a0 1000\n\n\nBal c/d\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1000\nBal c/d\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 600\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 9,100\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 9100"
+    },
+    "text": "Calculate the subscriptions in the Income and expenditure account",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8400",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n7400",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6400",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7200",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe \u20a61000 represent liability in the balance sheet, since it is paid by the members representing dues for next year.\u00a0Subscription in advance are liabilities, because the company that received the money has not yet earned it and it has an obligation (a liability) to deliver the related goods or services in the future."
+    },
+    "text": "The figure \u20a61000 represent what in the balance sheet.",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAssets",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLiability",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncapital",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSubscription",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe opening balance is represented as bal b/f. From the question above and the closing cash balance is represented as bal c/d. Both balance indicate cash in the balance sheet."
+    },
+    "text": "What is the opening cash balance",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a620,600",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a68,050",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a63,650",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a68,500",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nProvision for bad debts and trade discount allowed will not appear in the account."
+    },
+    "text": "Which of these will not appear in the preparation of control account.\nI. Bad debts\nII. Discounts\nIII. Returns\nIV. Provision for bad debts",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nII and III",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI and III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIV only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n\n\u00a0\n\u20a6\n\u20a6\n\n\nOpening stock of raw materials\nPurchase of Raw material\nCarriage Inwards\n\n145,600\n7000\n32,160\n\n\n\nless closing stock\n\n\u00a0\n184,760\n29,640\n\n\nCost of Raw materials consumed\n\u00a0\n155,120"
+    },
+    "text": "Use the following Information to answer this question.",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a653,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a6150,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a6152,120",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a6148,120",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\n\nCost of Raw material consumed\nManufacturing Wages\nDirect expenses\n\u20a6\n152,600\n52,860\n12,500\n\n\n\u00a0\n220,480"
+    },
+    "text": "Use the following Information to answer this question.",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n220,480",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n213,480",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n200,480",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n190,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDepreciation is the reduction in the economic service potentials of an asset as a result of wears, usuage, tears and passage of time."
+    },
+    "text": "A fall or decrease in the economic service potential of an asset as a result of wear, tear and obsolescence is referred to as",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEstimate",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDepreciation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAsset",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nUseful Life",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe formula to be adopted is :\ncost - estimated value\nyears of useful life\n10,000 - 4000 = 1500\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 4"
+    },
+    "text": "The cost of a machine is \u20a610,000. The residual value is \u20a64,000. It is expected to last for 4 years. Using the straight line method, what is the amount of depreciation charged per annum?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1500",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2500",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n\nRecurrent expenditure\n\u20a6\n\n\nStationery\nElectricity\nPurchase of drugs\n300,000\n45,000\n76,000\n\n\n\u00a0\n421,000"
+    },
+    "text": "Recurrent expenditure is",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a6345,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a63,245,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a6421,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a64,245,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nCapital Expenditure\n\u20a6\n\n\nSinking of boreholes\nPurchase of motor cars\nPurchase of beds\n2,900,000\n920,000\n425,000\n\n\n\u00a0\n4,245,000"
+    },
+    "text": "Capital expenditure is",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a6345,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a63,245,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a6421,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a64,245,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThere are three different pricing methods which are used for charging goods to branches.\nThey are:\n1. At cost price\n2. At cost plus a percentage\n3. At selling price."
+    },
+    "text": "Goods can be charged to branches using any of these pricing methods except",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncost price",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncost plus percentage",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nselling price",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nselling plus percentage",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nGoods sent to branch : Selling price\n\u21d2 \u20a630,870\nConvert mark-up to margin\n\n\n\n50\n 100\n=\n1\n 2\n=\n1\n 2 + 1\n=\n1\n 3\n\n\n\n\u00a0\n\n\n\nProfit\n=\n1\n 3\n\u00d7\n30,870\n\n\n\n= \u20a610,290"
+    },
+    "text": "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is \u20a630,870, cash sales \u20a613,020 and Bad debt amounted to 129. From the following, what is the profit?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20,580",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10,290",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7980",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n30,870",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nCost of goods sold for departmental B\nopening stock + purchases - closing stock\n800 + 2000\n\u21d2 **2,800"
+    },
+    "text": "The cost of goods for department B is",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4,120",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3400",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2800",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nCost of goods sold for departmental = 1000 + 1500 = 2,500\nGross profit = Sales - Cost of goods sold\n3000 - 2500\n\u21d2 \u20a6500\nTherefore, Net profit = Gross profit - Expenses\n500 - (50 \u00f7 2 + 100 \u00f7 2)\n500 - (25 + 50)\n500 - 75\nNet profit = \u20a6425"
+    },
+    "text": "The net profit for departmental A is",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1880",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1600",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n880",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n425",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe entity concept ensures that only the expenses incurred by/for the business, incomes earned by the business, assets acquired for the business and liabilities owed by the business are respectively recorded as expenses, incomes, assets and liabilities in the books of the business."
+    },
+    "text": "Every economic unit, regardless of its legal form of existence, is treated as a separate entity from parties having economic interest is",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nrealisation concept",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nentity concept",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngoing concern concept",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmatching concept",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAccounting bases are the totality of method adopted by an enterprises for applying fundamental accounting concepts to its Financial transactions. However, the two bases are cash and Accrual basis"
+    },
+    "text": "The two recognised accounting bases are",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncash and credit",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npersonal and impersonal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAccrual and Cash",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDrawings and Private",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nUsing the formula:\nOC + AC + NP - D = CC\nwhere: OC = Opening Capital\nAC = Additional Capital\nNP = Net Profit\nD = Drawings\nCC = Closing Capital\nThen;\n8000 + 4000 + 1500 - D = 12,000\n13,500 - D = 12,000\nD = 13,500 - 12,000\nD = \u20a61500"
+    },
+    "text": "Given:",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1500",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10,500",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nBank statement is prepared by the bank to an account border showing the transactions between the customer and the bank within a period of time. It is usually issued monthly or at agreed intervals to the customers."
+    },
+    "text": "The importance of bank statement is all except",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nverifies the accuracy of balances of cash book and cheque book",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhelps to detect and rectify any error",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhelps to debit an account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhelps to update the cash book",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAccounting standard is a statement issued by the appropriate standard - setting body locally or internationally on a specific area or topic in Financial Accounting.\nAccounting standards are issued at the International level by the International Accounting Standards Board (IASB) - formerly International Accounting Standards Committee (IASC)."
+    },
+    "text": "Accounting standards are issued at the International level by the",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nStandards Advisory Council",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nInternational Accounting Standards Board",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNigerian Accounting Standards Board",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nStanding Interpretations Committee",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nWeighted Average Price (WAP): Under this method issues are priced at a weighted average price which is obtained by dividing the value by the unit of stock in hand. Issues will continue to be priced at this price until a new batch is received when a new weighted Average price is calculated."
+    },
+    "text": "The method of stock valuation in which the issue price is obtained by dividing the value of stock in hand by unit of stock in hand is",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFIFO",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLIFO",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSAP",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nWAP",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nJoint venture is for a specific venture while partnership is for a perpetual succession."
+    },
+    "text": "One of these is not a similarity between Joint Venture and Partnership.",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAIM is profit making",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIt is for a specific venture",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nInvolves two people",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhave rights and duties",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn credit transactions, the transfer of ownership takes place before payment to the supplier i.e settlement is at a future safe."
+    },
+    "text": "Majority of commercial transactions are termed credit transactions, which means",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThe buyers pay immediately for goods bought",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSettlement is deferred to a future date",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNo account will be opened",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nItem of expenditure increases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe motor vehicle account is the receiver while bank account is giving out. Therefore, there will be an increase in motor account and a decrease in bank account."
+    },
+    "text": "Bought motor vehicle \u20a660 paying by cheque. The effect of the transaction will be",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nIncrease in assets of motor vehicle account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDecrease in assets of motor vehicle account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIncrease in assets of bank account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIncrease in liabilities of bank account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWhen a proprietor withdraw cash for private use, himself or owner's use, it is regarded as drawings.\nThe account involve is cash and drawings account. Therefore, the cash account gives while the drawings account receives."
+    },
+    "text": "A proprietor withdraws cash from the business for private use, he",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncredits cash account and debits bank account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncredits cash account and debits drawing A/C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndebits cash account and credits drawings account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndebits bank account and credits drawings account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nDouble entry system is the entry of debit and credit for each transaction in the ledger. Hence the double entry rules states that \"debit the receivers, credit the giver\"."
+    },
+    "text": "The rules of double entry states that",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nfor every debit entry, there must be a corresponding debit entry",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfor every credit entry, there must be a corresponding credit entry",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nall transactions must be recorded in two accounts, one account is debited and another is credited",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nall transaction must be credited",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nDouble entry is based on dual concept, i.e two-fold aspect of transaction whereby single entry ignored the principle of double entry."
+    },
+    "text": "The difference between double entry and single entry is",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndouble entry is based on the dual concept while single entry is not based on dual concept",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndouble entry is an account while single entry is not an account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndouble entry keeps personal account while single does not",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndouble entry is useful for business enterprise while single entry is not",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nSince Rent is receiving then rent account is debited while Samson's account is credited because it is giving out."
+    },
+    "text": "A rent of \u20a650,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDebit rent account, Credit bank account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDebit Rent account, Credit Samson's account",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDebit Bank account, Credit Rent account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDebit Samson's account, Credit Rent account",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe profit and loss account also known as Income statement is prepared to ascertain the net profit. The net profit is ascertain when the expenses is deducted from the Gross Profit."
+    },
+    "text": "The purpose of profit and loss account is to ascertain",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGross profit",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCapital",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nExpenses",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNet profit",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDiscount received is treated as income to the business hence it is credited to the profit and loss."
+    },
+    "text": "Discount received is charge to",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n current account",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nprofit and loss",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntrading account",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbalance sheet",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nCost of goods sold = Opening stock + Purchases - closing stocks\n20,000 + 70,000 - 15,000\n\u21d2 \u20a675,000"
+    },
+    "text": "What was the cost of goods sold?",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a625,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a635,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a650,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a675,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nGross profit = sales - cost of goods sold\n100,000 - 75,000\n\u21d2 \u20a625,000"
+    },
+    "text": "What was the gross profit?",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a635,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a675,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a650,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a625,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nShare issued at discount is a situation whereby shares are quoted below the nominal value."
+    },
+    "text": "An ordinary share of \u20a6100 was issued at \u20a680. The share was issued at",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npremium",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npar",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndiscount",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nloss",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nRight issue are offered to existing shareholders in a company."
+    },
+    "text": "Shares that are offered to existing shareholders at a price is called",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npar",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npremium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nright issue",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbonus issue",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nAverage\nprofit\n=\n14,000 + 24,000 + 10,000 + 16,000\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04\n\n\n\n\u00a0\n\n\n\n=\n64,000\n\u00a0 \u00a04\n=\n\u20a616,000"
+    },
+    "text": "Use the following information to answer this question",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n32,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n64,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAccording to section 24 of the partnership Act 1890. If no specific agreement is made by the partners, the following takes place:\n1. No partners may introduce a new person without the consent of all other partners 2.5% interest a year on loans made by partner e.t.c"
+    },
+    "text": "Where there is no agreement made by the partners, the following provisions takes place except",
+    "structure": "OBJECTIVE",
+    "number": 51,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNo salary for partners acting in the business",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThere is interest on capital",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNo interest to be charged on drawings",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nProfit and loss are to be shared equally",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIf no specific agreement is made, 5% interest 2 year on loans made by partners in excess of the 'agreed capitals'."
+    },
+    "text": "In the absence of partnership agreement, a loan by a partner attracts interest at",
+    "structure": "OBJECTIVE",
+    "number": 52,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe excess of the assets over the liabilities of a non-profit making concern is called Accumulated Fund. It is the capital of a non-profit making association. In order to ascertain the accumulated fund, a statement of affairs will be prepared."
+    },
+    "text": "In a non-profit making organisation, the excess of Assets over liabilities equals",
+    "structure": "OBJECTIVE",
+    "number": 53,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncapital",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncapital employed",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncapital owned",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\naccumulated funds",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe receipts and payment accounts include both capital and revenue items while income and expenditure account include only revenue items."
+    },
+    "text": "The similarities between Receipts and payments and income and expenditure account is",
+    "structure": "OBJECTIVE",
+    "number": 54,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBoth accounts follows the principle of double entry",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThey are summaries of financial statements",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nBoth include capital items",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBoth are prepared by non-profit making concern",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAccumulated fund = Assets - liabilities\n10,000 + 15,000 + 3500 - 4500 + 3000 + 150\n28,500 - 7650\n\u20a620,850"
+    },
+    "text": "Given:",
+    "structure": "OBJECTIVE",
+    "number": 55,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a614,150",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a620,850",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a621,850",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a614,200",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n12,250 + 550 - 830\n13,080 - 830\n\u20a611,970"
+    },
+    "text": "Use the information to answer this question\n\nPayment to creditors \u20a612,250\nCreditors at start \u20a6550\nCreditors at end \u20a6830",
+    "structure": "OBJECTIVE",
+    "number": 56,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a611,970",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a611,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a61,250",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a612,053",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe creditors at end figure is used for the balance sheet."
+    },
+    "text": "Use the information to answer this question\n\nPayment to creditors \u20a612,250\nCreditors at start \u20a6550\nCreditors at end \u20a6830",
+    "structure": "OBJECTIVE",
+    "number": 57,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a6550",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a612,250",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a612,530",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a6830",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe difference between opening and closing capital will give either a profit or loss.\nIf the opening capital is greater than closing capital then loss and vice versa."
+    },
+    "text": "In the preparation of statement of profit, if the opening capital is greater than closing capital, there will be",
+    "structure": "OBJECTIVE",
+    "number": 58,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprofit",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncapital",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nloss",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncash",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe manufacturing account forms an integral part of the revenue account of a manufacturing organization. It is prepared to know\u00a0the cost of the goods manufactured or to ascertain the amount of any profit on the manufacturing process i.e the cost of production."
+    },
+    "text": "The manufacturing account is prepared to ascertain",
+    "structure": "OBJECTIVE",
+    "number": 59,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncost of goods sold",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncost of production",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGross profit",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFinished goods",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nDistribution expenses cover the cost of warehousing, transport, material handling e.t.c. It is a non-manufacturing cost and not part of the production cost."
+    },
+    "text": "Which of the following is not charged to the manufacturing account?",
+    "structure": "OBJECTIVE",
+    "number": 60,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDirect expenses",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFactory wages",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDistribution expenses",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRaw materials",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nLand is permanent. It does not\u00a0wear and tear. Rather it appreciates in value over time."
+    },
+    "text": "Which of the following cannot depreciate?",
+    "structure": "OBJECTIVE",
+    "number": 61,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nplant and machinery",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmotor van",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npremises",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nland",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe Auditor General ensures that all money collected is properly accounted for and that the records comply with the rules and regulations."
+    },
+    "text": "An officer that is charged with the responsibility of carrying out investigations on the book of accounts to show the true and fair view is",
+    "structure": "OBJECTIVE",
+    "number": 62,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMinistry of Finance",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAccountant General",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRevenue office",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAuditor General",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nWarrant is the only authority through which money is expended in government."
+    },
+    "text": "The instrument isued by the Minister who authorized an officer to incure expenditure is a/an",
+    "structure": "OBJECTIVE",
+    "number": 63,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nwarrant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbudget",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nimprest",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconsolidated fund",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nBranch account enables control to be exercised by management over the affairs of the branch."
+    },
+    "text": "One of the objective of maintaining the account of a branch at the head office is to",
+    "structure": "OBJECTIVE",
+    "number": 64,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nto access the performance of the branches",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncheck the excesses of customers",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nrecord charges in shareholdings",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nrecord charges in liabilities",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nConvert mark-up to margin\n\\(\\frac{25}{100}={1}{4}={1}{1+4}={1}{5}\\)\nprofit = \\(\\frac{1}{5}\\) x 30,870 = 6,174"
+    },
+    "text": "A company goods sent to branch at invoiced price is \u20a630,870 at cost plus 25%. The mark-up is",
+    "structure": "OBJECTIVE",
+    "number": 65,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a620,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a66,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a66,174",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a610,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe preparation of departmental accounts will show which department is most profitable and may guide in decision making process as to which department must be closed down in some organizations."
+    },
+    "text": "The objective of departmentalization is to",
+    "structure": "OBJECTIVE",
+    "number": 66,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nensure that departmental managers are adequately monitored",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrecord transactions for each department for better documentation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntackle any recording problem as a result of expansion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nevaluate the profit of different departments",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCapital = Total Assets - Total liabilities\n\u21d2 55,000 + 13,000 - 20,000\n68,000 - 20,000\n\u20a648,000"
+    },
+    "text": "Given:",
+    "structure": "OBJECTIVE",
+    "number": 67,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a688,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a648,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a662,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a655,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn accounting, all transactions are recorded in monetary terms. There is no other terms of recording transactions except monetary terms."
+    },
+    "text": "One of the limitations of accounting is that",
+    "structure": "OBJECTIVE",
+    "number": 68,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nit ascertain financial position",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nit prevent fraud",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntransactions are recorded in monetary terms",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nit monitor the progress of the enterprise",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nP = 400,000 - 250,000 + 15,000\nP = \u20a6165,000\nNOTE: Drawings\u00a0are amounts or items given to the owner of a business\u00a0for personal use. Till recovered, it is an\u00a0asset. Drawings\u00a0are not considered a business\u00a0expense, therefore it is always added on the asset side of the balance sheet."
+    },
+    "text": "Capital at start was \u20a6250,000, while capital at the end of the year was \u20a6400,000. Drawings during the year amounted to \u20a615,000. What is the profit?",
+    "structure": "OBJECTIVE",
+    "number": 69,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u20a6165,000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\u20a6635,000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\u20a6600,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\u20a6156,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe business entity concept state that business is treated as a separate entity from parties having proprietary or economic interest in it."
+    },
+    "text": "In the preparation of account, the owners of the business and the business concerned are treated as:",
+    "structure": "OBJECTIVE",
+    "number": 70,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": " \npartners",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\njoint venture",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe same person",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nseparate legal entities",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFeb1 : bought (200 \u00d7 2)\u00a0 =\u00a0400\nfeb 3 : bought (100 \u00d7 1) =\u00a0 \u00a0100\u00a0 \u00a0\u00a0500\nFeb 4 : issued (120\u00d7 2) =\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (240)\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 260\nFeb 5: bought (50 x 3 =\u00a0 \u00a0150\u00a0 \u00a0 \u00a0 \u00a0410\nFeb 5: issued (80 x 2) =\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(160)\u00a0\u00a0\n''\u00a0 \u00a0 \u00a0''\u00a0 \u00a0 \u00a0''\u00a0 \u00a0 \u00a0 \u00a0 \u00a0(20x 1) =\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(20)\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0230\nThe value of the closing stock is \u20a6230"
+    },
+    "text": "From the following, determine the value of the closing stock using:",
+    "structure": "OBJECTIVE",
+    "number": 71,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n330",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n420",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n230",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n320",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "ACCOUNTS PRINCIPLES OF ACCOUNTS",
+    "type": "JAMB",
+    "year": 2019
+  }
+]

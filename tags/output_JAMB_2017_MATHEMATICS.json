@@ -1,0 +1,138 @@
+[
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Given T = { even numbers from 1 to 12 }\n N = {common factors of 6, 8 and 12}\n Find T \u2229 N",
+    "explanation": "T = {evenn numbers from 1 to 12}N = {common factors of 6,8 and 12}Find T \u2229 NT = {2, 4, 6, 8, 10, 12}N = {2}T \u2229 N = {2} i.e value common to T & N",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "What is the next number in the series 2, 1, \\(\\frac{1}{2}\\), \\(\\frac{1}{4}\\)...",
+    "explanation": "2, 1, \\(\\frac{1}{2}\\), \\(\\frac{1}{4}\\)..... There are 4 terms in the series  Therefore the next number will be the 5th term Tn = ar\\(^{n \u2212 1}\\) (formular for geometric series) a = first term = 2 r = common rate = \\(\\frac{\\text{next term}}{\\text{previous term}}\\) = \\(\\frac{1}{2}\\) n = number of terms T5 = 5th term = ? T5 = ar\\(^{5 - 1}\\) = ar\\(^4\\) = 2 \u00d7 (ar\\(^{n \u2212 1}\\))4 = 2 \u00d7 \\(\\frac{1}{16}\\) = \\(\\frac{1}{8}\\)",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "If U = {x : x is an integer and 1 \u2264 x \u2264 }\n E\n1\n = {x: x is a multiple of 3}\n E\n2\n = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E\n2",
+    "explanation": "U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20} E1 = {3, 6, 9, 12, 15, 18} E2 = {4, 8, 12, 16, 20} Probability of E2 = \\(\\frac{5}{20}\\) i.e \\(\\frac{\\text{Total number in}E_2}{\\text{Entire number in set}}\\) Probability of set E2 = 1 \u2212 \\(\\frac{5}{20}\\) = \\(\\frac{15}{20}\\) = \\(\\frac{3}{4}\\)",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "If two graphs y = px\n2\n + q and y = 2x\n2\n \u2212 1 intersect at x =2, find the value of p in terms of q",
+    "explanation": "y = px2 + q y = 2x2 - 1 px2 + q = 2x2 - 1 px2 = 2x2 - 1 - q p = \\(\\frac{2x^2 - 1 - q}{x^2}\\) at x = 2 p = \\(\\frac{2(2)^2 - 1 - q}{2^2}\\) = \\(\\frac{2(4) - 1 -q}{4}\\) = \\(\\frac{8 - 1 - q}{4}\\) p = \\(\\frac{7 - q}{4}\\)",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "D",
+    "imageUrl": "https://nigerianscholars.com/assets/uploads/2018/05/math303.jpg",
+    "text": "Evaluate (\\(\\sin\\)45\no\n + \\(\\sin\\)3\no\n ) in surd form.",
+    "explanation": "hypotenusesin = \\(\\frac{1}{2}\\)\\(\\sin45 = \\frac{1}{\\sqrt{2}}\\)= \\(\\frac{2}{2}\\)\u2234 (sin45 + sin30)= \\(\\frac{1}{\\sqrt{2}} + \\frac{1}{2}\\)= \\(\\frac{\\sqrt{2}}{2}\\) + \\(\\frac{1}{2}\\)= \\(\\frac{\\sqrt{2} + 1}{2}\\)= \\(\\frac{1 + \\sqrt{2}}{2}\\)",
+    "options": [
+      {
+        "option": "E",
+        "text": "luate (\\(\\sin\\)45o + \\(\\sin\\)3o ) in surd form.",
+        "imageUrl": null
+      }
+    ],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "C",
+    "imageUrl": null,
+    "text": "If y = x Sin x, find \\(\\frac{dy}{dx}\\) when x = \\(\\frac{\\pi}{2}\\)",
+    "explanation": "y = xsinx \\(\\frac{dy}{dx}\\) = \\(1 \\sin x + x \\cos x\\) = \\(\\sin x + x \\cos x\\) At x = \\(\\frac{\\pi}{2}\\) = sin\\(\\frac{\\pi}{r}\\) + \\(\\frac{\\pi}{2} \\cos {\\frac{\\pi}{2}}\\) = 1 + \\(\\frac{\\pi}{2}\\) \u00d7 10 = 1",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "If temperature t is directly proportional to heat h, and when t = 20\no\nC, h = 50 J, find t when h = 60J",
+    "explanation": "t \u221d h, t = 20, h t = ? h = 60 t = kh where k is constant 20 = 50k  k = \\(\\frac{20}{50}\\) k = \\(\\frac{2}{5}\\) when h = 60, t = ? t = \\(\\frac{2}{5}\\) \u00d7 60 t = 24oC",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Evaluate \\(1 - (\\frac{1}{5} \\times \\frac{2}{3}) + (5 + \\frac{2}{3})\\)",
+    "explanation": "First, let's break down the given expression into smaller parts:\\(1 - (\\frac{1}{5} \\times \\frac{2}{3}) + (5 + \\frac{2}{3})\\)  Start by calculating the multiplication inside the parentheses: \\(\\frac{1}{5} \\times \\frac{2}{3} = \\frac{2}{15}\\)  Now, substitute the result back into the expression: \\(1 - \\frac{2}{15} + (5 + \\frac{2}{3})\\)  Next, calculate the addition inside the parentheses: \\(5 + \\frac{2}{3} = 5\\frac{2}{3}\\)  Substitute the result back into the expression: \\(1 - \\frac{2}{15} + 5\\frac{2}{3}\\)  Now, we need to find a common denominator to add or subtract the fractions. The least common multiple (LCM) of 3 and 15 is 15. So, we will convert the fractions to have denominator 15: \\(\\frac{2}{3} = \\frac{10}{15}\\)  Now, rewrite the expression with the updated fractions: \\(1 - \\frac{2}{15} + 5\\frac{10}{15}\\)  Add the fractions and whole numbers separately: \\(- \\frac{2}{15} + \\frac{10}{15} = \\frac{-2 + 10}{15} = \\frac{8}{15}\\) \\(1 + 5 = 6\\)  Combine the whole numbers and fractions: \\(6 + \\frac{8}{15} = 6\\frac{8}{15}\\)  Finally, since 8 and 15 have no common factors other than 1, the fraction is in its simplest form. The answer is: \\(6\\frac{8}{15} = 3\\frac{2}{3}\\)  So, the correct option is Option D: \\(3\\frac{2}{3}\\).",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "Given m = N\\(\\frac{\\sqrt{SL}}{T}\\) make T the subject of the formula",
+    "explanation": "M = \\(\\frac{\\sqrt{SL}}{T}\\),make T subject of formula square both sidesM2 = \\(\\frac{N^2SL}{T}\\)TM2 = N2SLT = \\(\\frac{N^2SL}{M^2}\\)",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "B",
+    "imageUrl": null,
+    "text": "Simplify 3 \\(^{n \u2212 1}\\) \u00d7 27 \\(\\frac{n + 1}{81^n}\\)",
+    "explanation": "3\\(^{n + 1}\\) \u00d7 27\\(\\frac{n + 1}{81^n}\\) = 3\\(^{n + 1}\\) \u00d7 3 \\(\\frac{3^{(n + 1)}}{3^{4n}}\\) = 3\\(^{n + 1 + 3n + 3 \u2212 4n}\\) = 3\\(^{4n \u2212 4n \u2212 1 + 3}\\) = 32 = 9",
+    "options": [],
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": "2017"
+  }
+]

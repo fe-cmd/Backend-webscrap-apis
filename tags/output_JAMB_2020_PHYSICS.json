@@ -1,0 +1,1632 @@
+[
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nDiffusion is the tendency of molecules to migrate and fill an empty space due to their random thermal motions.\nin diffusion, the diffusing molecules move from the places where their concentration high to places where their concentration is low.\nThere is an explanation video available below."
+    },
+    "text": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is\u00a0due to?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            convection",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            osmosis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            capillarity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            diffusion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            \\(\\frac{mv^2}{r}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            \\(\\frac{mr^2}{x}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            \\(\\frac{mr}{v}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            \\(\\frac{mv}{r^2}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nGun Momentum = bullet momentum\u00a0\nM\\(_a\\)V\\(_a\\) = M\\(_b\\)V\\(_b\\)\n5 x V\\(_a\\) = 0.05 x 100\u00a0\nV\\(_a\\) = 1m\\(^{-1}\\)\u00a0\nThere is an explanation video available below."
+    },
+    "text": "A machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms\\(^{-1}\\). The recoil speed of the machine gun is",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            0.5 ms\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            1.5 ms\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            1 ms\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            2ms\\(^-1\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIn a simple pendulum, T = 2\\(\\pi\\)\\(\\sqrt{\\frac{L}{g}}\\)\n\\(\\frac{T_1}{T_2} = \\sqrt{\\frac{L_1}{L_2}}\\)\u00a0 but L\\(_2\\) = 4L\\(_1\\)\u00a0\n\\(\\frac{T_1}{T_2} = \\sqrt{\\frac{L_1}{4L_1}}\\)\nT\\(_2\\) = 2T\\(_1\\)\u00a0\nThere is an explanation video available below."
+    },
+    "text": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of\u00a0four, its period is increased by a factor of?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            \\(\\frac{\\pi}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            \\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In what range of\u00a0temperature is the expansion of water anomalous?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            +208\\(^o\\)C to +212\\(^o\\)C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            -80\\(^o\\)C + -76\\(^o\\)C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            0\\(^o\\)C to +4\\(^o\\)C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            -4\\(^o\\)C to +0\\(^o\\)C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following statements about radioactivity is true?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            i, ii, iii, iv only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            i, ii, iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            iv and v only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            i, ii and v only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In the study of Physics, temperature and heat are often confused with\u00a0each other. Which of the following statements correctly defines these two elements?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": "https://myschool.ng/storage/classroom/xhSrT4ixHqzblALsM1jUuSGY7mozs2cvcMcS5MN1.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Temperature is a measure of the average kinetic energy of the molecules of a substance",
+        "imageUrl": "https://myschool.ng/storage/classroom/xhSrT4ixHqzblALsM1jUuSGY7mozs2cvcMcS5MN1.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Heat is a measure of the total kinetic energy of the molecules in a system",
+        "imageUrl": "https://myschool.ng/storage/classroom/xhSrT4ixHqzblALsM1jUuSGY7mozs2cvcMcS5MN1.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Different materials require different amounts of heat to cause a given change in temperature",
+        "imageUrl": "https://myschool.ng/storage/classroom/xhSrT4ixHqzblALsM1jUuSGY7mozs2cvcMcS5MN1.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            All of the above",
+        "imageUrl": "https://myschool.ng/storage/classroom/xhSrT4ixHqzblALsM1jUuSGY7mozs2cvcMcS5MN1.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nWhen K is open. Total Resistance = 8 + 2 = 10\\(\\Omega\\)\n1 = \\(\\frac{V}{\\Omega}\\) =\u00a0 \\(\\frac{6v}{\\Omega}\\) = 0.6A\nWhere K is closed, \\(\\frac{1}{8} + \\frac{1}{8} = \\frac{1}{\\Omega}\\)\u00a0\n\\(\\frac{2}{8} = \\frac{1}{\\Omega}\\)\n\\(\\Omega\\)\u00a0= \\(\\frac{8}{2}\\) = 4\\(\\Omega\\)\n\\(\\Omega\\)\u00a0= \\(\\frac{8}{2}\\) = 4\\(\\Omega\\)\n4\\(\\Omega\\)\u00a0 in series with 2\\(\\Omega\\)= 6\\(\\Omega\\)\n1 = \\(\\frac{V}{\\Omega}\\)\u00a0 = \\(\\frac{6}{6}\\) = 1A\n1 - 0.6A = 0.4A increase\nThere is an explanation video available below."
+    },
+    "text": "The effect of closing the key K in the circuit shown in the figure above would be to?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": "https://myschool.ng/storage/classroom/DY5IwHUFqLN10SwOQI26zyQ9aiGAONxP3dbregOv.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            increase the current by 0.4A",
+        "imageUrl": "https://myschool.ng/storage/classroom/DY5IwHUFqLN10SwOQI26zyQ9aiGAONxP3dbregOv.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            reduce the current by 0.4A",
+        "imageUrl": "https://myschool.ng/storage/classroom/DY5IwHUFqLN10SwOQI26zyQ9aiGAONxP3dbregOv.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            increase the current by 0.6A",
+        "imageUrl": "https://myschool.ng/storage/classroom/DY5IwHUFqLN10SwOQI26zyQ9aiGAONxP3dbregOv.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            reduce the current by 0.6A",
+        "imageUrl": "https://myschool.ng/storage/classroom/DY5IwHUFqLN10SwOQI26zyQ9aiGAONxP3dbregOv.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following statements on the use of X-rays is incorrect? X-rays are used",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            In a hospital to obtain photographs of tissues and bones in the body",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            For the treatment of malignant growths like cancer cells",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            In detecting fingerprints",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            To reveal hidden flaws in metal castings and welded joints work of art",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Natural radioactivity consists of emission?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            \\(\\alpha\\)-particles and \\(\\beta\\)-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            \\(\\alpha\\)-particles and X-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            \\(\\gamma\\)-ray and X-rays",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            \\(\\alpha\\)-particles and \\(\\beta\\)-rays and \\(\\gamma\\)-rays",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe Doppler effect or Doppler shift is\u00a0the change in frequency of a wave in relation to an observer who is moving relative to the wave source.\nThe drop in pitch of ambulance sirens as they pass by and the shift in red light\u00a0are common examples of the Doppler Effect.\u00a0\nThere is an explanation video available below."
+    },
+    "text": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            doppler effect",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            resonance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            ultra sound",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            rarefaction",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following can be described as high tension transmission?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            High resistance and low voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Low current and high voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            High current and low voltage",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            High current and low resistance",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            N0.65",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            N0.39",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            N3.90",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            N0.13",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Tha mass of a proton is approximately equal to that of",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            an \\(\\alpha\\)-particle",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            a \\(\\beta\\)-Particle",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            a neutron",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            an electron",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor transformation, Es = e.m.f. of secondary coil\u00a0\nEp = Np\u00a0\nNp = e.m.f. of secondary coil\u00a0\nNs = number of turns in secondary coil\u00a0\nNs = number of turns in primary coil\u00a0\n\\(\\frac{30}{300}\\) = \\(\\frac{x}{100}\\) = 300\u00a0\nX = 3000\u00a0\nX = 10 volts\u00a0\nThere is an explanation video available below."
+    },
+    "text": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            5 volts",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            10 volts",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            15 volts",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            20 volts",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nRelative density of solid\n\\(\\frac{\\text{weight of solid}}{\\text{weight of an equal volume of water}}\\)\n= \\(\\frac{4.8}{4.8 - 2.8}\\)\u00a0\n= \\(\\frac{4.8}{2}\\) = 2.4\nRelative density of liquid\u00a0\n=\u00a0\u00a0 \\(\\frac{\\text{Weight\u00a0 of\u00a0liquid kerosine}}{\\text{Weight of an equal volume of water}}\\)\u00a0\n= \\(\\frac{4.8 - 3.2}{4.8 - 2.8}\\)\u00a0 =\u00a0\\(\\frac{1.6}{2}\\) = 0.8\n= \\(\\frac{\\text{Ratio of relative density of solid}}{\\text{Relative density of Kerosine}}\\)\u00a0\n= \\(\\frac{\\text{density of solid}}{\\text{density of Kerosine}}\\)\n= \\(\\frac{2.4}{0.8}\\)\u00a0\n= 3\n\u00a0\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            \\(\\frac{3}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            \\(\\frac{2}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "One of the following readings represents the measurement of the\u00a0length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            5.16cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            5.165cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            5.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            5.160cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "When a sound wave passes from air into water its",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            speed and frequency increases but its wavelength remains the same",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            speed and wavelength increases but its frequency remains the same",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            speed decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            speed increases but its frequency and wavelength decreases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A convex mirror is used as a driving mirror because",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I and III only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            I and II only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            II and IIII only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            I, II and III only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nDeviation angle\u00a0\n= \\(\\theta_1 + \\theta_2\\) = 50 + 50 + 40 + 40\n= 180\\(^o\\)\nThere is an explanation video available below."
+    },
+    "text": "Two mirrors of the same length\u00a0are arranges as show in the diagram. A ray of light NO\u00a0strikes the system at O and emerges along PQ. The emergent ray has been deviated through",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": "https://myschool.ng/storage/classroom/SYq9uQIDdyyLwX3vH536j0zFDKoL8jCJkym0K0Vy.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            220\\(^o\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/SYq9uQIDdyyLwX3vH536j0zFDKoL8jCJkym0K0Vy.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            200\\(^o\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/SYq9uQIDdyyLwX3vH536j0zFDKoL8jCJkym0K0Vy.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            210\\(^o\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/SYq9uQIDdyyLwX3vH536j0zFDKoL8jCJkym0K0Vy.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            180\\(^o\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/SYq9uQIDdyyLwX3vH536j0zFDKoL8jCJkym0K0Vy.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            0\\(^o\\) and 0\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            60\\(^o\\) and 60\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            90\\(^o\\) and 90\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            90\\(^o\\) and 0\\(^o\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A hydrometer is an instrument for\u00a0measuring the",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            a depth of water of water in a vessel",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            relative density of a liquid by the method of flotation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            relative density of a liquid by finding the apparent loss in weight",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            relative humidity of the air",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": "https://myschool.ng/storage/classroom/5p6pD30djBv9ICt9LR07iUiFNWGqbhOS2M9xuoLf.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I only",
+        "imageUrl": "https://myschool.ng/storage/classroom/5p6pD30djBv9ICt9LR07iUiFNWGqbhOS2M9xuoLf.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            II only",
+        "imageUrl": "https://myschool.ng/storage/classroom/5p6pD30djBv9ICt9LR07iUiFNWGqbhOS2M9xuoLf.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            III only",
+        "imageUrl": "https://myschool.ng/storage/classroom/5p6pD30djBv9ICt9LR07iUiFNWGqbhOS2M9xuoLf.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            I, II and III only",
+        "imageUrl": "https://myschool.ng/storage/classroom/5p6pD30djBv9ICt9LR07iUiFNWGqbhOS2M9xuoLf.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nn = \\(\\frac{\\text{speed in air}}{\\text{speed in glass}}\\)\u00a0\n1.5 = \\(\\frac{3 \\times 10^4}{\\text{speed in glass}}\\)\nSpeed in glass = 3 x 10\\(^8\\)m/s / 1.5\n= 2 x 10\\(^8\\)m/s\nThere is an explanation video available below."
+    },
+    "text": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 x 10\\(^8ms^{-1}\\), the velocity of light in the liquid is",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            1.5 x 10\\(^8ms^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            2.0 x 10\\(^8ms^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            3.0 x 10\\(^8ms^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            4.5 x 10\\(^8ms^{-1}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nDifference in time = 1 sec\necho time = 1 \\(\\div\\) 2 = 0.5 sec\nDifference of cliff from ship = 0.5 x 250\n= 125m\nThere is an explanation video available below."
+    },
+    "text": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms\u00a0-1, how much closer is the ship to the cliff?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            10m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            350m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            175m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            125m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nStatements I & II are correct\nStatement III is incorrect because short sightedness is corrected by using suitable concave or diverging lens\nHence; option C is the correct option\nThere is an explanation video available below."
+    },
+    "text": "Which of the following statements about defects of vision is/are CORRECT?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            II only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            I and II only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            II and III only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe conditions for total internal reflection include\u00a0light\u00a0traveling from an optically denser medium (higher refractive index) to an optically less dense medium (lower refractive index) and that the\u00a0angle\u00a0of incidence is greater than the critical\u00a0angle.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I and II only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            II only III only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            III and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            I and III only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n3 x \\(\\alpha\\) = \\(\\frac{V_2 - V_1}{V_1 \\times \\Delta \\theta}\\)\n3 x 2 x 10\\(^{-5}\\) = \\(\\frac{V_2 - 10}{100 \\times 10}\\)\u00a0\nV\\(_2\\) = (100 x 10 x 3 x 2 10\\(^{-2}\\)) + 10\n= 10.06 cm\\(^3\\)\nThere is an explanation video available below."
+    },
+    "text": "The linear expansivity\u00a0of brass is 2 x 10\\(^{-5}\\)\u00a0 \\(^oC^{-1}\\). If the volume of piece of brass is 10cm\\(^3\\) at 0\\(^o\\)C. What will be its volume at 100\\(^o\\)C?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            10.06cm\\(^3\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            10.04 cm\\(^3\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            10.02 cm\\(^3\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            10.20 cm\\(^3\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{49 - 0}{210 - 0}\\) = \\(\\frac{\\theta - 0}{100 - \\theta}\\)\u00a0\n\\(\\frac{49}{210} = \\frac{\\theta}{100}\\)\u00a0\n49 x 100 = 210 x \\(\\theta\\)\u00a0\n\\(\\theta = \\frac{4900}{210}\\) = 23.3\\(^o\\)\nThere is an explanation video available below."
+    },
+    "text": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm\u00a0above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            55.3\\(^o\\)C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            23.3\\(^o\\)C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            49.0\\(^o\\)C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            16.43\\(^o\\)C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nHeat energy = Electrical Energy\u00a0\nMC\\(\\theta\\) = power x time\u00a0\n5 x 1 x 10\\(^{-2}\\) x C = 100 x 20\u00a0\nC = \\(\\frac{200}{5 \\times 10^2}\\)\u00a0\n= 4 x 10\\(^4\\) J/kg/\\(^oC\\)\u00a0\nThere is an explanation video available below."
+    },
+    "text": "Heat is supplied uniformly at the rate of 100W to 1.0 x 10\\(^{-2}\\)kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5\\(^o\\)C, then the specific heat capacity of the liquid is",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            2.0 x 10\\(^2\\)Jkg\\(^-1\\)K\\(^-1\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            2.0 x 10\\(^2\\)Jkg\\(^-1\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            4.0 x 10\\(^4\\)Jkg\\(^-1\\)K\\(^-1\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            4.0 x 10\\(^4\\)Jkg\\(^-1\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAtmospheric pressure equivalence of\u00a010m of water\r\n: \\(\\frac{p_2+10}{p_1+10}\\)\n\r\n= \\(\\frac{40+10}{20+10\\)\n\u00a0= \\(\\frac{50}{30}\\)\u00a0= 1.67\nThere is an explanation video available below."
+    },
+    "text": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is p\\(_1\\) while the pressure on H is P\\(_2\\), If the atmospheric pressure is equivalent to 10m\u00a0of water, then the value of P\\(_2\\)/P\\(_1\\) is?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            0.50",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            0.60",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            1.67",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            2.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nV.E = 6, load = 120N\u00a0\nEfficiency = M.A x \\(\\frac{1}{V.R}\\) x 100%\n40 = \\(\\frac{120}{effort}\\) x \\(\\frac{1}{6}\\) x \\(\\frac{100}{1}\\)\u00a0\nEffort = 50N\nThere is an explanation video available below."
+    },
+    "text": "The fiqure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40\\(^o\\), then the value of W is",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": "https://myschool.ng/storage/classroom/YGpJldeLPouIgwLwpRSbkK1Q9aV2ycrWrjmQ9Ggj.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            28.0N",
+        "imageUrl": "https://myschool.ng/storage/classroom/YGpJldeLPouIgwLwpRSbkK1Q9aV2ycrWrjmQ9Ggj.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            48.0N",
+        "imageUrl": "https://myschool.ng/storage/classroom/YGpJldeLPouIgwLwpRSbkK1Q9aV2ycrWrjmQ9Ggj.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            288.0N",
+        "imageUrl": "https://myschool.ng/storage/classroom/YGpJldeLPouIgwLwpRSbkK1Q9aV2ycrWrjmQ9Ggj.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            50.0N",
+        "imageUrl": "https://myschool.ng/storage/classroom/YGpJldeLPouIgwLwpRSbkK1Q9aV2ycrWrjmQ9Ggj.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In an experiment in which molten naphthalene\u00a0is allowed to cool, the cooling curve i n the figure was obtained. The temperature 80\\(^o\\)C is known as the",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": "https://myschool.ng/storage/classroom/cQ5mbtQdfDn5pVlVtNKJvKJuO4ZdxR8IErZsQldH.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            cooling temperature",
+        "imageUrl": "https://myschool.ng/storage/classroom/cQ5mbtQdfDn5pVlVtNKJvKJuO4ZdxR8IErZsQldH.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            boiling point",
+        "imageUrl": "https://myschool.ng/storage/classroom/cQ5mbtQdfDn5pVlVtNKJvKJuO4ZdxR8IErZsQldH.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            melting point",
+        "imageUrl": "https://myschool.ng/storage/classroom/cQ5mbtQdfDn5pVlVtNKJvKJuO4ZdxR8IErZsQldH.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            vaporization point",
+        "imageUrl": "https://myschool.ng/storage/classroom/cQ5mbtQdfDn5pVlVtNKJvKJuO4ZdxR8IErZsQldH.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nR\\(_T\\) = \\(\\frac{V}{1} = \\frac{12}{2}\\) = 6\\(\\Omega\\)\u00a0\nR\\(_T\\) = 3 + \\(\\frac{R \\times 6}{R + 6}\\)\u00a0\nR = 6\\(\\Omega\\)\u00a0\nThere is an explanation video available below."
+    },
+    "text": "In the figure, the value of R is",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": "https://myschool.ng/storage/classroom/Uc07fBz6cnNEYbjRk4PG630LkBcGNMQGODVAeME4.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            3\\(\\Omega\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/Uc07fBz6cnNEYbjRk4PG630LkBcGNMQGODVAeME4.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            6\\(\\Omega\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/Uc07fBz6cnNEYbjRk4PG630LkBcGNMQGODVAeME4.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            4\\(\\Omega\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/Uc07fBz6cnNEYbjRk4PG630LkBcGNMQGODVAeME4.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            5\\(\\Omega\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/Uc07fBz6cnNEYbjRk4PG630LkBcGNMQGODVAeME4.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n(I)\u00a0 I = \\(\\frac{P}{V} = \\frac{1000}{25}\\) = 4A\n(II) I = \\(\\frac{110}{220}\\) = 0.5A\n(III) I = \\(\\frac{30}{6}\\) = 5A\n(IV) I = \\(\\frac{500}{110}\\) = 4.55A\nThere is an explanation video available below."
+    },
+    "text": "Which of the following instruments consumes the highest current?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            II",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            III",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            IV",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In which of the following diagrams is the length of the tube equal to one wavelength?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": "https://myschool.ng/storage/classroom/gRXJ3QOkgnEDBIbqK54L1xwkq4t9ebfbukVQR1wk.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            a",
+        "imageUrl": "https://myschool.ng/storage/classroom/gRXJ3QOkgnEDBIbqK54L1xwkq4t9ebfbukVQR1wk.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\r\n            b",
+        "imageUrl": "https://myschool.ng/storage/classroom/gRXJ3QOkgnEDBIbqK54L1xwkq4t9ebfbukVQR1wk.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\r\n            c",
+        "imageUrl": "https://myschool.ng/storage/classroom/gRXJ3QOkgnEDBIbqK54L1xwkq4t9ebfbukVQR1wk.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\r\n            d",
+        "imageUrl": "https://myschool.ng/storage/classroom/gRXJ3QOkgnEDBIbqK54L1xwkq4t9ebfbukVQR1wk.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nExamples of electromagnetic waves are radio waves, X-rays, gamma rays, light rays, etc\nThere is an explanation video available below."
+    },
+    "text": "Which of the following pairs is\u00a0part of the electromagnetic spectrum?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I and II",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            III and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            I and III",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            II and IV",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nLet the count rate at zero time be N\u00a0\nN \\(\\frac{3 min}{\\to}\\)\u00a0 \\(\\frac{N}{2}\\) \\(\\frac{3 min}{\\to}\\) \\(\\frac{N}{4}\\)\n\\(\\frac{N}{4}\\)\u00a0\n= 400\nN = \\(\\frac{400}{N/4}\\) x N\u00a0\n= 1600\nThere is an explanation video available below."
+    },
+    "text": "A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            1600",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            1200",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            200",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            2400",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2020
+  }
+][
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "1kg of boiling water at 100\u00b0C is poured into an aluminium hot water bottle at 16\u00b0C. The temperature of the water quickly falls to 96\u00b0C. Assuming that there is no loss of heat, the mass of the bottle is",
+    "explanation": "To solve this problem, we can use the principle of heat exchange, which states that the heat gained by one object is equal to the heat lost by another object. In this case, the aluminium hot water bottle gains heat from the boiling water. We can use the heat capacity formula to calculate the mass of the bottle:Heat gained by the bottle = Heat lost by the watermbottle \u00d7 cbottle \u00d7 \u0394Tbottle = mwater \u00d7 cwater \u00d7 \u0394Twaterwhere m is the mass, c is the specific heat capacity, and \u0394T is the change in temperature. For aluminium, the specific heat capacity cbottle is 900 J/kg\u00b0C, and for water cwater is 4200 J/kg\u00b0C.Let's plug in the given values:mbottle \u00d7 900 \u00d7 (96 - 16) = 1 \u00d7 4200 \u00d7 (100 - 96)Solving for mbottle:mbottle = (1 \u00d7 4200 \u00d7 4) / (900 \u00d7 80)mbottle \u2248 0.25 kgTherefore, the mass of the aluminium hot water bottle is approximately 0.25 kg, which corresponds to Option A.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "E",
+    "imageUrl": null,
+    "text": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30\u00b0 with the resultant, find its magnitude",
+    "explanation": "The answer is E, 43.3N.\nMagnitude = 50 cos 30\\(^{\\circ}\\)\n= 43.3N",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "When a brick is taken from the earth's surface to the moon, its mass",
+    "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The pair of physical quantities that are scalar only are",
+    "explanation": "A scalar or scalar quantity in physics is a physical quantity that can be described by a single element of a number field such as a real number, often accompanied by units of measurement. A scalar is usually said to be a physical quantity that only has magnitude and no other characteristics such as direction. Volume, time, area and length are scalar quantities, while impulse, moment, momentum and displacement are vector quantities.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A simple pendulum of length 0.4m has a period 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
+    "explanation": "The period of a simple pendulum is given by the formula:\\[T = 2\\pi\\sqrt{\\frac{L}{g}}\\]Where \\(T\\) is the period, \\(L\\) is the length of the pendulum, and \\(g\\) is the acceleration due to gravity. In this question, we're given information about two pendulums and asked to find the period of the second pendulum:Pendulum 1: Length \\(L_1 = 0.4m\\), Period \\(T_1 = 2s\\)Pendulum 2: Length \\(L_2 = 0.8m\\), Period \\(T_2 = ?\\)We can write the formula for each pendulum and then divide the equation of Pendulum 2 by the equation of Pendulum 1 to eliminate the acceleration due to gravity, \\(g\\):\\[\\frac{T_2}{T_1} = \\frac{2\\pi\\sqrt{\\frac{L_2}{g}}}{2\\pi\\sqrt{\\frac{L_1}{g}}}\\]Notice that \\(2\\pi\\) and \\(g\\) will cancel out, which leaves us with:\\[\\frac{T_2}{T_1} = \\sqrt{\\frac{L_2}{L_1}}\\]Now plug in the given values of \\(L_1 = 0.4m\\), \\(L_2 = 0.8m\\), and \\(T_1 = 2s\\):\\[\\frac{T_2}{2} = \\sqrt{\\frac{0.8}{0.4}}\\]Solve for \\(T_2\\):\\[T_2 = 2 \\times \\sqrt{2} = 2\\sqrt{2}s\\]Therefore, the period of the second pendulum is 2\u221a2s (Option A).",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A train with an initial velocity of 20ms\n-1\n is subjected to a uniform deceleration of 2ms\n-2\n. The time required to bring the train to a complete halt is",
+    "explanation": "We have been given:final velocity = \\(v = 0\\text{m/s}\\), initial velocity = \\(u = 20\\text{m/s}\\), deceleration = \\(a = -2\\text{m/s}^2\\)  (this value is negative because it is decelerating)\\(v = u + at\\)\\(0=20+(-2t)\\)\\(2t=20\\)\\(t=20\u00f72=10\\text{s}\\)",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5ms\n-2\n.",
+    "explanation": "When a person is in an elevator moving downwards with an acceleration, their apparent weight loss can be calculated using the formula:\\(W_{apparent} = W_{actual} - W_{reduced}\\)where \\(W_{apparent}\\) is the apparent weight, \\(W_{actual}\\) is the actual weight, and \\(W_{reduced}\\) is the reduced weight due to the downward acceleration of the elevator.The actual weight of the man is given as 70 kg, and can be calculated using:\\(W_{actual} = m \\times g\\)where \\(m\\) is the mass of the man (70 kg) and \\(g\\) is the acceleration due to gravity (\\(9.8 ms^{-2}\\)).Calculating the actual weight:\\(W_{actual} = 70 \\times 9.8 = 686 N\\)Next, we need to calculate the reduced weight due to the downward acceleration of the elevator. The reduced weight \\(W_{reduced}\\) can be calculated using:\\(W_{reduced} = m \\times a\\)where \\(a\\) is the downward acceleration of the elevator (\\(1.5 ms^{-2}\\)).Calculating the reduced weight:\\(W_{reduced} = 70 \\times 1.5 = 105 N\\)Now, we can find the apparent weight loss by subtracting the reduced weight from the actual weight:\\(W_{apparent} = W_{actual} - W_{reduced} = 686 - 105 = 581 N\\)However, the correct answer given is 595 N, which is not the result we just calculated. This might be due to a mistake in the question or the given options. In this case, I recommend referring to the recommended textbooks for more information.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A piece of cork floats in a liquid. What fraction its volume will be immersed in the liquid? [density of the cork = 0.25 \u00d7 10\n3\nkgm\n-3\n, Density of the liquid = 1.25 \u00d7 10\n3\nkgm\n-3\n]",
+    "explanation": "When an object floats in a liquid, it displaces an amount of liquid equal to its weight. This is known as Archimedes' Principle. To find the fraction of the cork's volume that will be immersed in the liquid, we need to find the ratio of the weight of the liquid displaced to the weight of the cork.The weight of the liquid displaced can be found using the formula:\\(Weight = Volume \\times Density \\times g\\)Since the cork is floating, the weight of the liquid displaced is equal to the weight of the cork. Therefore, we can write:\\(V_{cork} \\times \\rho_{cork} \\times g = V_{liquid} \\times \\rho_{liquid} \\times g\\)Where \\(V_{cork}\\) is the volume of the cork, \\(\\rho_{cork}\\) is the density of the cork, \\(V_{liquid}\\) is the volume of the liquid displaced, and \\(\\rho_{liquid}\\) is the density of the liquid. The acceleration due to gravity, \\(g\\), can be cancelled out on both sides of the equation since it is a constant.Now we can find the fraction of the cork's volume that is immersed in the liquid:\\(\\frac{V_{liquid}}{V_{cork}} = \\frac{\\rho_{cork}}{\\rho_{liquid}}\\)Substitute the given densities:\\(\\frac{V_{liquid}}{V_{cork}} = \\frac{0.25 \\times 10^3}{1.25 \\times 10^3}\\)Simplify the expression:\\(\\frac{V_{liquid}}{V_{cork}} = 0.2\\)So, the fraction of the cork's volume that will be immersed in the liquid is 0.2, which is Option A.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "An object is moving with a velocity of 5ms\n-1\n. At what height must a similar body be situated to have a potential energy equal in value with the kinetic energy of the moving body? [g \u2248 10ms\n-2\n]",
+    "explanation": "Let's start from K.E = P.E:\\(\\text{mgh} = \\frac{1}{2}\\text{mv}^2\\)\\(\\text{mgh} = \\cfrac{\\text{mv}^2}{2}\\)Cross multiply:It gives us:\\(2\\text{mgh} = \\text{mv}^2\\)Divide both sides by m:It gives:\\(2\\text{gh} = \\text{v}^2\\)To get the value of h, divide both sides by 2gThe formula to use will become:\\(\\text{h} = \\cfrac{\\text{v}^2}{2\\text{g}}\\)Then \\(\\text{v} = 5\\text{ms}^{-1}\\)g = 10. Put this into the above formula:\\(\\text{h} = \\cfrac{5^2}{2 \\times 10}\\)\\(\\text{h} = \\cfrac{25}{20}\\)\\(\\text{h} = 1.3\\text{m}\\)",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 15 min, the power of the pump is",
+    "explanation": "To calculate the power of the pump, we first need to find the work done by the pump, and then divide that by the time taken to do the work. Work done is given by the equation:\\(W = mgh\\)where \\(m\\) is the mass of water lifted, \\(g\\) is the acceleration due to gravity, and \\(h\\) is the vertical height. Given that the pump lifts 5000 kg of water through a vertical height of 60 m, we can plug these values into the equation:\\(W = (5000 \\, kg)(9.81 \\, m/s^2)(60 \\, m)\\)Calculate the work done:\\(W = 2.943 \\times 10^6 \\, J\\)Now, we need to find the power, which is the work done divided by the time taken:\\(P = \\frac{W}{t}\\)The time taken is given as 15 minutes. We must first convert this to seconds:\\(t = 15 \\, min \\times 60 \\, s/min = 900 \\, s\\)Now, divide the work done by the time taken to find the power:\\(P = \\frac{2.943 \\times 10^6 \\, J}{900 \\, s}\\)Calculate the power:\\(P = 3.27 \\times 10^3 \\, Js^{-1}\\)So, the power of the pump is approximately 3.3 \u00d7 103 Js-1, which is Option A.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  }
+][
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "1kg of boiling water at 100\u00b0C is poured into an aluminium hot water bottle at 16\u00b0C. The temperature of the water quickly falls to 96\u00b0C. Assuming that there is no loss of heat, the mass of the bottle is",
+    "explanation": "To solve this problem, we can use the principle of heat exchange, which states that the heat gained by one object is equal to the heat lost by another object. In this case, the aluminium hot water bottle gains heat from the boiling water. We can use the heat capacity formula to calculate the mass of the bottle:Heat gained by the bottle = Heat lost by the watermbottle \u00d7 cbottle \u00d7 \u0394Tbottle = mwater \u00d7 cwater \u00d7 \u0394Twaterwhere m is the mass, c is the specific heat capacity, and \u0394T is the change in temperature. For aluminium, the specific heat capacity cbottle is 900 J/kg\u00b0C, and for water cwater is 4200 J/kg\u00b0C.Let's plug in the given values:mbottle \u00d7 900 \u00d7 (96 - 16) = 1 \u00d7 4200 \u00d7 (100 - 96)Solving for mbottle:mbottle = (1 \u00d7 4200 \u00d7 4) / (900 \u00d7 80)mbottle \u2248 0.25 kgTherefore, the mass of the aluminium hot water bottle is approximately 0.25 kg, which corresponds to Option A.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "correctOption": "E",
+    "imageUrl": null,
+    "text": "The resultant of two forces is 50N. If the forces are perpendicular to each other and one of them makes an angle of 30\u00b0 with the resultant, find its magnitude",
+    "explanation": "The answer is E, 43.3N.\nMagnitude = 50 cos 30\\(^{\\circ}\\)\n= 43.3N",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "When a brick is taken from the earth's surface to the moon, its mass",
+    "explanation": "The mass of an object is constant. Weight is measured as a product of mass and acceleration due to gravity which differs on the moon. In other words, while the weight of the object changes as gravity changes, the mass of an object stays the same.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "The pair of physical quantities that are scalar only are",
+    "explanation": "A scalar or scalar quantity in physics is a physical quantity that can be described by a single element of a number field such as a real number, often accompanied by units of measurement. A scalar is usually said to be a physical quantity that only has magnitude and no other characteristics such as direction. Volume, time, area and length are scalar quantities, while impulse, moment, momentum and displacement are vector quantities.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A simple pendulum of length 0.4m has a period 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
+    "explanation": "The period of a simple pendulum is given by the formula:\\[T = 2\\pi\\sqrt{\\frac{L}{g}}\\]Where \\(T\\) is the period, \\(L\\) is the length of the pendulum, and \\(g\\) is the acceleration due to gravity. In this question, we're given information about two pendulums and asked to find the period of the second pendulum:Pendulum 1: Length \\(L_1 = 0.4m\\), Period \\(T_1 = 2s\\)Pendulum 2: Length \\(L_2 = 0.8m\\), Period \\(T_2 = ?\\)We can write the formula for each pendulum and then divide the equation of Pendulum 2 by the equation of Pendulum 1 to eliminate the acceleration due to gravity, \\(g\\):\\[\\frac{T_2}{T_1} = \\frac{2\\pi\\sqrt{\\frac{L_2}{g}}}{2\\pi\\sqrt{\\frac{L_1}{g}}}\\]Notice that \\(2\\pi\\) and \\(g\\) will cancel out, which leaves us with:\\[\\frac{T_2}{T_1} = \\sqrt{\\frac{L_2}{L_1}}\\]Now plug in the given values of \\(L_1 = 0.4m\\), \\(L_2 = 0.8m\\), and \\(T_1 = 2s\\):\\[\\frac{T_2}{2} = \\sqrt{\\frac{0.8}{0.4}}\\]Solve for \\(T_2\\):\\[T_2 = 2 \\times \\sqrt{2} = 2\\sqrt{2}s\\]Therefore, the period of the second pendulum is 2\u221a2s (Option A).",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A train with an initial velocity of 20ms\n-1\n is subjected to a uniform deceleration of 2ms\n-2\n. The time required to bring the train to a complete halt is",
+    "explanation": "We have been given:final velocity = \\(v = 0\\text{m/s}\\), initial velocity = \\(u = 20\\text{m/s}\\), deceleration = \\(a = -2\\text{m/s}^2\\)  (this value is negative because it is decelerating)\\(v = u + at\\)\\(0=20+(-2t)\\)\\(2t=20\\)\\(t=20\u00f72=10\\text{s}\\)",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "correctOption": "D",
+    "imageUrl": null,
+    "text": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5ms\n-2\n.",
+    "explanation": "When a person is in an elevator moving downwards with an acceleration, their apparent weight loss can be calculated using the formula:\\(W_{apparent} = W_{actual} - W_{reduced}\\)where \\(W_{apparent}\\) is the apparent weight, \\(W_{actual}\\) is the actual weight, and \\(W_{reduced}\\) is the reduced weight due to the downward acceleration of the elevator.The actual weight of the man is given as 70 kg, and can be calculated using:\\(W_{actual} = m \\times g\\)where \\(m\\) is the mass of the man (70 kg) and \\(g\\) is the acceleration due to gravity (\\(9.8 ms^{-2}\\)).Calculating the actual weight:\\(W_{actual} = 70 \\times 9.8 = 686 N\\)Next, we need to calculate the reduced weight due to the downward acceleration of the elevator. The reduced weight \\(W_{reduced}\\) can be calculated using:\\(W_{reduced} = m \\times a\\)where \\(a\\) is the downward acceleration of the elevator (\\(1.5 ms^{-2}\\)).Calculating the reduced weight:\\(W_{reduced} = 70 \\times 1.5 = 105 N\\)Now, we can find the apparent weight loss by subtracting the reduced weight from the actual weight:\\(W_{apparent} = W_{actual} - W_{reduced} = 686 - 105 = 581 N\\)However, the correct answer given is 595 N, which is not the result we just calculated. This might be due to a mistake in the question or the given options. In this case, I recommend referring to the recommended textbooks for more information.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "A piece of cork floats in a liquid. What fraction its volume will be immersed in the liquid? [density of the cork = 0.25 \u00d7 10\n3\nkgm\n-3\n, Density of the liquid = 1.25 \u00d7 10\n3\nkgm\n-3\n]",
+    "explanation": "When an object floats in a liquid, it displaces an amount of liquid equal to its weight. This is known as Archimedes' Principle. To find the fraction of the cork's volume that will be immersed in the liquid, we need to find the ratio of the weight of the liquid displaced to the weight of the cork.The weight of the liquid displaced can be found using the formula:\\(Weight = Volume \\times Density \\times g\\)Since the cork is floating, the weight of the liquid displaced is equal to the weight of the cork. Therefore, we can write:\\(V_{cork} \\times \\rho_{cork} \\times g = V_{liquid} \\times \\rho_{liquid} \\times g\\)Where \\(V_{cork}\\) is the volume of the cork, \\(\\rho_{cork}\\) is the density of the cork, \\(V_{liquid}\\) is the volume of the liquid displaced, and \\(\\rho_{liquid}\\) is the density of the liquid. The acceleration due to gravity, \\(g\\), can be cancelled out on both sides of the equation since it is a constant.Now we can find the fraction of the cork's volume that is immersed in the liquid:\\(\\frac{V_{liquid}}{V_{cork}} = \\frac{\\rho_{cork}}{\\rho_{liquid}}\\)Substitute the given densities:\\(\\frac{V_{liquid}}{V_{cork}} = \\frac{0.25 \\times 10^3}{1.25 \\times 10^3}\\)Simplify the expression:\\(\\frac{V_{liquid}}{V_{cork}} = 0.2\\)So, the fraction of the cork's volume that will be immersed in the liquid is 0.2, which is Option A.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "An object is moving with a velocity of 5ms\n-1\n. At what height must a similar body be situated to have a potential energy equal in value with the kinetic energy of the moving body? [g \u2248 10ms\n-2\n]",
+    "explanation": "Let's start from K.E = P.E:\\(\\text{mgh} = \\frac{1}{2}\\text{mv}^2\\)\\(\\text{mgh} = \\cfrac{\\text{mv}^2}{2}\\)Cross multiply:It gives us:\\(2\\text{mgh} = \\text{mv}^2\\)Divide both sides by m:It gives:\\(2\\text{gh} = \\text{v}^2\\)To get the value of h, divide both sides by 2gThe formula to use will become:\\(\\text{h} = \\cfrac{\\text{v}^2}{2\\text{g}}\\)Then \\(\\text{v} = 5\\text{ms}^{-1}\\)g = 10. Put this into the above formula:\\(\\text{h} = \\cfrac{5^2}{2 \\times 10}\\)\\(\\text{h} = \\cfrac{25}{20}\\)\\(\\text{h} = 1.3\\text{m}\\)",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  },
+  {
+    "subType": null,
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "correctOption": "A",
+    "imageUrl": null,
+    "text": "If a pump is capable of lifting 5000 kg of water through a vertical height of 60 m in 15 min, the power of the pump is",
+    "explanation": "To calculate the power of the pump, we first need to find the work done by the pump, and then divide that by the time taken to do the work. Work done is given by the equation:\\(W = mgh\\)where \\(m\\) is the mass of water lifted, \\(g\\) is the acceleration due to gravity, and \\(h\\) is the vertical height. Given that the pump lifts 5000 kg of water through a vertical height of 60 m, we can plug these values into the equation:\\(W = (5000 \\, kg)(9.81 \\, m/s^2)(60 \\, m)\\)Calculate the work done:\\(W = 2.943 \\times 10^6 \\, J\\)Now, we need to find the power, which is the work done divided by the time taken:\\(P = \\frac{W}{t}\\)The time taken is given as 15 minutes. We must first convert this to seconds:\\(t = 15 \\, min \\times 60 \\, s/min = 900 \\, s\\)Now, divide the work done by the time taken to find the power:\\(P = \\frac{2.943 \\times 10^6 \\, J}{900 \\, s}\\)Calculate the power:\\(P = 3.27 \\times 10^3 \\, Js^{-1}\\)So, the power of the pump is approximately 3.3 \u00d7 103 Js-1, which is Option A.",
+    "options": [],
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": "2020"
+  }
+]

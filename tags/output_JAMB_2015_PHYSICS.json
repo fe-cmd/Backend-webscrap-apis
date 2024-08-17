@@ -1,0 +1,2378 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nGeneral formular of Gas laws\n\n(P1V1) \u00f7 T1= (P2V2) \u00f7 T2\n\nP1 = 800mmHg, V, = 76cm3, Tr = 273 + 27 = 300k\n\nP2 = 760mmHg, V2 = ? T2= 273 + 0 = 273 \u00a0\n\n(800 \u00d7 76) \u00f7 300 = (760 \u00d7 V2) \u00f7 273\n\nV2 = (300 \u00d7 76 \u00d7 273) \u00f7 (300 \u00d7 760) = 72.8 cm3\n\nThe volume of gas as S.T.P = 72.8 cm3\nThere is an explanation video available below."
+    },
+    "text": "If the volume of a gas is recorded as 76cm3 at a temperature of 27\u00b0C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n36.2cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n25.7cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n72.8cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n24.3cm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nBoyle\u2018s law stats that the volume of a given mass of a gas, at a constant temperature is inversely proportional to us pressure.\n\nMathematically\n\nV \u221d l/p, v = k/p (where k is constant)\n\nK = VP\n\nLet k = k1\n\nThen, if k = k, V and P = V1P1\n\nV1P1 = V2P2\nThere is an explanation video available below."
+    },
+    "text": "Boyle\u2019s law may be Written as",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nP1V1= P2V2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nV1 = V2 \u00f7 T1T2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nP1T1 = P2T2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nP1V1 \u00f7 T1 = P1V1 \u00f7 T2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nRay \u2013 a beam of light or radiation\nThere is an explanation video available below."
+    },
+    "text": "The direction of the path taken by light is called",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nLocus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLines",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRay",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBeam",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nXL = WL = 2\u03c0FL (w = 2\u03c0f)\n\nXL = reactance inductor (S.I unit \u03a9)\n\nL = inductance (L) in Henry\n\nXL = 1\u03a9, f = 50/\u03c0, L = ?\n\n1 = 2\u00d7 \u03c0 \u00d7 50/\u03c0 \u00d7 L\n\n1 = 100L\n\ni.e. 100L = 1\n\nL = 1/100\n\n0.01H\n\n\u2234 Inductance (L) of a inductor = 0.01H\nThere is an explanation video available below."
+    },
+    "text": "What is the inductance (L) of an inductor whose reactance is 1\u03a9 at 50/ \u03c0 hertz (H)?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n100 H",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.01H",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10H",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1H",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nStroboscope is a scientific instrument used to make a wave appears stationary when used\nThere is an explanation video available below."
+    },
+    "text": "A stroboscope can be used to make the wave appear \u2026\u2026\u2026\u2026..",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nStationary",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIn motion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDipper",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRipple",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn an inelastic collision, linear momentum is conserved and energy is decreased\n\nMomentum and kinetic energy are conserved in elastic collision\nThere is an explanation video available below."
+    },
+    "text": "In an elastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nII only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIII only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNote:The principle of floatation states that a floating body displaces its own weight of the fluid or which its float.\n\nFor object to sink weight of the object (W) > upthrust of the fluid (v) i.e. w > u\n\n(i.e. weight of the body (or object) mass of the fluid)\nThere is an explanation video available below."
+    },
+    "text": "Body floats in fluid when its \u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDisplaces its own volume of the liquid (fluid)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDisplaces its own weight of the fluid",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDisplace its own density of the fluid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIs no longer subjected to gravity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nFormula for general gas law\n\nV \u00d7 1/T \u00d7 P\n\nN [(PV) \u00f7 T] = K is constant\nThere is an explanation video available below."
+    },
+    "text": "The general gas law can be written as",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPV \u00f7 T = a constant",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPV = a constant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nv/t = a constant",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\np/T = a constant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe appearance of pool of water on road surfaces is called MIRAGE\n\nHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer\nThere is an explanation video available below."
+    },
+    "text": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver\u00a0drives a new truck on a sunny day. Which of the following explains his observation?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHe saw a flying objects",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nHe must be thinking of water and food",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nHe was seeing the shadow of the car",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe sun ray from the sky were passing from a hot air (layer) to cold layer",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nSun are self luminous source\nMoon is a non \u2013 luminous\nThere is an explanation video available below."
+    },
+    "text": "Which of the following is not luminous object?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThe sun",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe moon",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlight candle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nStar",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNote: moment of a couple = force \u00d7 length (fL)\n\nThe tangential force is actingin an opposite direction alongside its length\n\ni.e f1 L1 = f2L2\n\nf2L2 \u2212 f1 L1 = 0(i.e Zero)\nThere is an explanation video available below."
+    },
+    "text": "The resultant force of a couple is \u2026\u2026\u2026?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nInfinity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nZero",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nOne",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nHalf",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA vector quantity has both magnitude and direction\nThere is an explanation video available below."
+    },
+    "text": "A vector quantity can only be completely described when \u2026\u2026\u2026 and \u2026\u2026\u2026\u2026are mentioned.",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMagnitude and motion",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMagnitude and direction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDistance and specified displacement",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMoment and momentum",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nSimple pendulum does not depend on thermal expansion\n\nFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid\nThere is an explanation video available below."
+    },
+    "text": "In which of the following device is\u00a0the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nIII only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nII & III only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII, III & IV only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nEnergy due to position T is potential energy (P.E)\n\nEnergy due to motion is kinetic energy (K.E)\nThere is an explanation video available below."
+    },
+    "text": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMechanical energy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nStationary energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPotential energy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nVibrational energy",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nF = (Gm1m2) \u00f7 r2\n\nM1 = 1024Kg, M2 = 1027Kg , r = 102\n\n(Note: the gravitational constant of G = \\(6.67 \u00d7 10^{ 7ndash; 11}\\) \\( Nm^2/Kg^2 \\)\n\nF = \\( (6.67 \u00d7 10^{\u2013 11 + 24 + 27)} 10^40 = 6.67 \u00d7 (10^40 \u00f7 10^40)\n\n= 6.67N\n\nf = 6.67N\nThere is an explanation video available below."
+    },
+    "text": "Calculate the gravitation force of attraction between two planets of 1024kg and 1027kg separated by a distance of 1020meters.",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.67N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.56N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7.5N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.6N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAs object and image are usually at equal distance apart from the mirror /p>\n\nDistance between Abioye (a) and hip image (I) = AI\n\ni.e. AI = 4.7 + 47\n\n= 9.4m\nThere is an explanation video available below."
+    },
+    "text": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance\u00a04.7m away from him\u00a0in his room. At what distance is the image found from Abioye's eye?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9.4m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n7.5m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5.7m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.9m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nPrimary colours of light are red, blue and green\n\nSecondary colours of light are cyan, magneta and yellow\nThere is an explanation video available below."
+    },
+    "text": "Primary colours of light are",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRed, blue and green",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCyan, magneta and yellow",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nBlack, blue and green",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNone of these colours",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nJ.J. Thompson discovered ELECTRONS\nThere is an explanation video available below."
+    },
+    "text": "Electrons were discovered by",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nJames Chadwick B.",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nJ.J Thompson",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSir Isaac Newton",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCharles Newton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nhe relationship between M.A, V.R, e and 100% can be written as\n\ne = M.A/V.R \u00d7 100 %\n\ni.e E/100 = M.A/V.R\n\n= L \u00f7 E/x \u00f7 y = Ly/Ex\n\nE/100 = Ly/Ex\nThere is an explanation video available below."
+    },
+    "text": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ne = M.A/V.R \u00d7 100 %",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nM.A = E.V.R",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nV.R = 1 \u00f7 sin \u03b8 M.A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nM.A = 1/E \u00d7 100%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nVernier calliper is used\u00a0to measure the internal and external diameter of an object\nThere is an explanation video available below."
+    },
+    "text": "The external parts of an object can be measure accurately through the use of which scientific instrument?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMicrometer screw gauge",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nVernier Caliper",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMeter rule",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNone of the instrument",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNote: T = 273 + \u03b8\n\n\u03b8 = 45\u00b0\n\nT = 273 + 45\n\n= 318K\nThere is an explanation video available below."
+    },
+    "text": "Convert 45\u00b0C to kelvin",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n318K",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n250K",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n184K",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120K",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nWeightlessness:\u2013 The state of being free from the effects of gravity. (zero gravity)\nThere is an explanation video available below."
+    },
+    "text": "A member of the crew of a SPACESHIP experiences weightlessness in a space when they",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFall freely from the earth\u2019s gravitational field",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIs walking on the planet",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIn between the sun and the earth",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nHolding anything in space is negative",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA radio waves is an electromagnetic waves which travels with a constant velocity of 3 \u00d7 108m/s\nThere is an explanation video available below."
+    },
+    "text": "Radio waves belong to the class of wave whose velocity is about",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n34m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 \u00d7106m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 \u00d7108m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3 \u00d7 10-8m/s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe vibrating particles behave like a spiral spring with a series of compression region and space\u2013out region.\nThere is an explanation video available below."
+    },
+    "text": "The compressed regions and the space-out regions in longitude wave are refers to as",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCompression and Rarefaction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nComparison and Explosion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nReflection only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRefraction only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWork (w) = Force (f) \u00d7 Distance (d)\n\nNote: f = ma = mass \u00d7 acceleration\n\n= mass \u00d7acceleration \u00d7distance\n\n= kg \u00d7ms\u20132 \u00d7 m\n\n= kg m2 5\u20132\n\n(Note: the dimension of kg = M, M = L & S = T)\n\nWork = ML2 T\u20132 = Ma Lb Tc\n\ni.e. Ma Lb Tc = as 1, b = 2, c = \u20132\n\nThe value of a, band c = 1, 2, \u20132\nThere is an explanation video available below."
+    },
+    "text": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Ma Lb Tc?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1, \u2013 2, 1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1, 2, \u2013 2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1, 1, \u20132",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2, 2, 1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nMagnetic relay device :is the device that controls a circuit (i.e one circuit )if a current in the second circuit is large or dangerous\nThere is an explanation video available below."
+    },
+    "text": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nElectromagnetic devices",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMagnetic relay device",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNone at all",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSextant",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nConduction, convection\u00a0of heat or electricity through a material medium is required but radiation requires no material medium for heat transfer\u00a0\nThere is an explanation video available below."
+    },
+    "text": "Heat transfer in\u00a0the surrounding without a material medium is\u00a0possible through?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nConduction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nConvection",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRadiation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nExpansion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nCalorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change\nThere is an explanation video available below."
+    },
+    "text": "Quantities of heat Q can be measured using a container called",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMeasuring cylinder",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCalorimeter",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMeter rule",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLodestone is a natural magnet it points approximate at N \u2013 S when suspended freely\nThere is an explanation video available below."
+    },
+    "text": "Lodestone is a natural magnet, it points at",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN \u2013 W when suspended freely",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN\u2013S when suspended freely",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nS \u2013 E when suspended freely",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nS\u2013W when suspended freely",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nInfrared rays are easily detected by special photographic films and it can be used for taking picture in haze\nThere is an explanation video available below."
+    },
+    "text": "What type of electromagnetic radiation can be used to take photographs in the haze?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRadio waves",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ninfrared rays",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nVisible light",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nGamma rays",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nFrom S = ut + \u00bdgt2\n\nu = 0ms-1\n\n50 = (0 \u00d7 t) + \u00bd(10)(t2)\n\n50 = 5.0t2\n\nt2 =50/5\n\nt = \u221a10\n\nt = 3.2sec\nThere is an explanation video available below."
+    },
+    "text": "If a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2 sec",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 sec",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4sec",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3.2sec",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nHeat capacity (o) = mass (kg) specific heat of a substance (C2)\n\ni.e Q = MC\n\nwhere Q = 40 J/L, m = ?(380 J/Kgk)\n\n40 = m \u00d7 380\n\nm = 0.11kg (Approx)\nThere is an explanation video available below."
+    },
+    "text": "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.11kg",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.12kg",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.13kg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.14kg",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nUsing the equation\n\nS = ut + \u00bd gt2\n\nH = s = 20m, t = ?\n\nG =10m/s2, u = 0m/s\n\n20 = 0 \u00d7 t \u00d7 \u00bd \u00d7 10 t\n\n20 = 5t\n\ni.e 5t2 = 20\n\nt = 20/5 = 4\n\nt = 4 (squaring both sides)\n\n\u221a t2 = \u221a4\n\n= 2sec\n\n\u2234 t = 2sec\nThere is an explanation video available below."
+    },
+    "text": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2sec",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3sec",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n35sec",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.4sec",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nVelocity Ratio (V.R) = distance moved by the effort (x)\u00f7 distance moved by the load (y)\n\ni.e. V.R = x/y\n\nv. R = 5, x/y = ?\n\ni.e x/y = 5/1; , where x = 5, y = 1\n\nx : y = 5 : 1\nThere is an explanation video available below."
+    },
+    "text": "If the velocity ratio of a machine is 5. What is its ratio of x and y?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2 : 5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1 : 5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5 : 1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3 : 1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nMechanical advantage (M.A) of a machine is the ratio of its load to effort\n\nMathematically\n\nMechanical advantage (M.A) = Load (L) \u00f7 Effort (E)\n\nIn symbol M.A = L/E\n\nNote:Mechanical (advantages has no S.I unit)\n\nIf M.A = 4 then,\n\nL/E = 4/1\n\nThe ratio of load to effort = 4 : 1 respectively\nThere is an explanation video available below."
+    },
+    "text": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4:01",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1:04",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5:01",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2:01",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer\nThere is an explanation video available below."
+    },
+    "text": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMercury thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngas thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nclinical thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nalcohol thermometer",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n(Neglect of Air resistance)\n\nNote: Both objects reach the ground at the same time\nThere is an explanation video available below."
+    },
+    "text": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBoth the light and heavy subject reach the ground at the same time",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe light object get to the ground first before the heavy object",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThe heavy object to the ground first before the light object",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNone get to the ground first",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nM= 3kg, r = 0.7m, v = 2m/s\n\nv = wr\n\nw = angular velocity\n\nr = radius in an tangential circular\n\nv = speed of an object\n\nW = V/\u03b4 = 2/ 0.7 = 2.85\n\nW = 2.853rads\u20131 (total interest whole number)\n\nW = &approx.; 3rads\u20131Angular velocity (w) = 3rads\u20131\nThere is an explanation video available below."
+    },
+    "text": "If an object whose\u00a0mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4 rads\u20131",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1rads\u20131\u20131",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3\u20131rads\u20131",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4rads\u20131\u20131",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nMicroscope is used for nearby object\nThere is an explanation video available below."
+    },
+    "text": "The optical instrument which is suitable for viewing a nearby objects is \u2026\u2026\u2026..?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTelescope",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsextant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmicroscope",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nperiscope",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nElectron: A sub\u2013atomic particle haring a negative charge and orbiting the nucleus (note: the symbol 0\u20131e represent the particle of an electrons.)\nThere is an explanation video available below."
+    },
+    "text": "The symbol \u221210X used to represent which of the particles?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nProton",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNeutron",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nElectrons",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAtoms",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(Wavelength (\\lambda) = 10^{-13}m\\)\n\nSpeed of X-ray = speed of light \\(C = 3\u00d710^{8}m/s\\)\n\nFrequently (f) = ?\n\n\\(Using V = f\\lambda (or (\u2013 f \u03c0 for electromagnetic wave)\\)\n\n\\(f = \\frac{c}{\\lambda} = 3 \\times 10^{8} \u00f7 10^{-13} = 3 \\times 10^{8} \\times 10^{13}\\)\n\n= \\(3 \\times 10^{8} \\times 10^{13}\\)\n\n= \\(3 \\times 10^{21}Hz\\)\nThere is an explanation video available below."
+    },
+    "text": "A radioactive source emits X\u2013rays of very short wavelength (10 -13m ). what is the frequency\u00a0of these rays?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2 \u00d7 1018HZ",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 \u00d7 10 19HZ",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3 \u00d7 1021HZ",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3 \u00d7 10-19HZ",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The strength of an electromagnet increases with",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nIncreases in the number of turn of the coil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDecreases in current with the coil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIncreases in the distance between the pole",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIncreases in current without the coil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe simplest way to change the boiling point of a liquid is to change the surrounding pressure. (a) Using a closed system to artificially increase that pressure will raise the boiling point of a liquid. (b)\u00a0 Boiling point is dependent upon the strength of the bonds between its molecules. For this reason, adding a solute to the liquid will create stronger bonds between molecules, raising the solution\u2019s boiling point without increasing pressure.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following will increase\u00a0the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply\n\n.",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIII & IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nII & III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFig (I) (II) (III) are they in which a transformer was designed to reduce an energy loses by reducing through this collective designed or efforts\nThere is an explanation video available below."
+    },
+    "text": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI & II only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nII only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI, II, & III only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIII only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nMercury and alcohol are often used in THERMOMETER\n\nNote:Water is never allowed to be used in thermometer because, it doesn\u2019t expand uniformly\nThere is an explanation video available below."
+    },
+    "text": "The two liquids which are often used in thermometer on experiment basic is known as",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMercury only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAlcohol and Water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMercury and Alcohol",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAlcohol only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNeutron were discovered by James Chadwick in 1931\nThere is an explanation video available below."
+    },
+    "text": "Neutron were discovered by",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nJ.J. Thompson",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nJames Chadwick",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMichael faraday",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDalton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "If a projectile has maximum range of 36m, find the speed of projection (Take g = 9.8m/s2)",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n19m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4m/s2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7m/s2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNote: relative density has no S.I unit\n\n\u2234 Relative density = weight of substance \u00f7 weight of equal volume of water\n\nRD = w1 \u00f7 (w1 \u2013 w2) (no S. I unit)\nThere is an explanation video available below."
+    },
+    "text": "What is the S.I unit of relative density?",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nkg m-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nkg m2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nkg cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhas no S.I unit",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nGas thermometers are considered best for use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer\nThere is an explanation video available below."
+    },
+    "text": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMercury thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngas thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nclinical thermometer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nalcohol thermometer",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nf \u03b1 (MM \u00f7g2)\n\nF(GMM \u00f7 r2) [G \u2013 gravitational constant]\n\nGMM = Fr2\n\nG = F02 \u00f7 MM = m \u00d7 a\u03c0r2 \u00f7 MM (f = ma)\n\n= (m \u00d7 m5-2 \u00d7 r2) \u00f7 MM\n\n= (Kg.m52 \u00d7 m2) \u00f7 Kg.Kg\n\n=1 \u00f7 kg.m3.52\n\nThe dimension mathematically representation have a quantities of M, L AND T\n\nM (Mass) = kg, L (Length) = M, T (Time) second\n\nG = kg-1 m2.52(Using dimension rule)\n\nM-1.L3.T-2\n\n\u2234 The universal gravitational constant (G) =\\( M\u00ad^{\u20131}L^3 T^{\u20132} \\)\nThere is an explanation video available below."
+    },
+    "text": "The dimension of universal gravitational constant is\u2026\u2026\u2026.?",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\( M\u00ad^{\u20131}L^3 T^{\u20132} \\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nML3T2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nML3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMLT-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nA good electric cell should proses the following\n\n1. A long life of an electric cell,\n\n2. A minimum of polarization effect\n\n3. A cheap and safe electrolytes\n\nExcept D cost and dangerous of the electric cell\nThere is an explanation video available below."
+    },
+    "text": "A good electric cell should have the following except",
+    "structure": "OBJECTIVE",
+    "number": 51,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA minimum of polarization effect",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nA long life",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nA cheap and safe electrolytes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCost and dangerous of the cell",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nVr.m.s = V0 \u00f7 V2, where Vr.m.s rep. to as voltage root \u2013square mean, v = peak voltage\n\nVr.m.s = 200volt, v = ?\n\n200 = V0 \u00f7 V2\n\nV0 = 200v2\n\n= 200 \u00d7 1.414\n\n= 282.8 volts V0 = b &approx. 283 volts\nThere is an explanation video available below."
+    },
+    "text": "The r.m.s value of a supply voltage is quoted at 200v. What is the approximate peak value of the voltage?",
+    "structure": "OBJECTIVE",
+    "number": 52,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200volts",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n300volts",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n283volts",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n250volts",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nConvection take place commonly in liquids (water) and slightly in gasses\nThere is an explanation video available below."
+    },
+    "text": "Heat transfer by convection will take place in\u00a0one the following substance.",
+    "structure": "OBJECTIVE",
+    "number": 53,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nStone",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nWood",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMercury",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nWater",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe regular arrangement of atoms in a crystalline materials is called LATTICES\nThere is an explanation video available below."
+    },
+    "text": "A regular spacing or arrangement of atoms in a crystalline material is called",
+    "structure": "OBJECTIVE",
+    "number": 54,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nOrbit",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLattice",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAtomic structure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nEnergy level",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The net movement of solvent molecules from a region of high solvent potential to a region of lower solvent potential through a partially or semi permeable membrane is refer to as",
+    "structure": "OBJECTIVE",
+    "number": 55,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nDiffusion",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nOsmosis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSurface tension",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCohesion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nSclerotic coat (sclera) is the tough outer coat of the eye that coves the eyeball (ii) sclerotic coat is modified in front of the eye to from a transparent and horny window\nThere is an explanation video available below."
+    },
+    "text": "The eyeball consists of a round tough white skin called",
+    "structure": "OBJECTIVE",
+    "number": 56,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSclerotic",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nChoroid coal",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nOptical fiber",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAccommodation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nTemperature gradient(Tg) = DT \u00f7 L = T2 \u2013 T1 \u00f7 L\n\ni.e\u2013 it is the ratio of an increment in temperature to the length\n\nHence, Temperature gradient (Tg) has defined direction alongside with magnitude\n\nAnd it is a vector quantity\n\nMass, work & Time are scalar quantity\nThere is an explanation video available below."
+    },
+    "text": "Which one of the following is a vector quantity?",
+    "structure": "OBJECTIVE",
+    "number": 57,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTemperature gradient",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMass",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nWork",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTime",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nEfficiency of a transformer = (power developed in the secondary coil \u00f7 power supplied to the primary coil) \u00d7 100%\nThere is an explanation video available below."
+    },
+    "text": "Efficiency of a transformer is equal to",
+    "structure": "OBJECTIVE",
+    "number": 58,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEfficiency of transformer = (secondary coil \u00f7 primary coil) \u00d7 100%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEfficiency of transformer = (mechanical advantage \u00f7 velocity ratio) \u00d7 100%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nEfficiency of a transformer = (Number of turns in the secondary coil \u00f7 Number of turns in the primary coil) \u00d7 100%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nEfficiency of a transformer = (power developed in the secondary coil \u00f7 power supplied to the primary coil) \u00d7 100%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nVolatile liquids (i.e. Ammonia or Freon) are usually have low boiling point\nThere is an explanation video available below."
+    },
+    "text": "Volatile liquids usually",
+    "structure": "OBJECTIVE",
+    "number": 59,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHave high boiling points",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhave low boiling points",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhave high densities",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhave high melting points",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nd = y, s = 6 m/s (The Man & Plane Mirror)\n\nd \u2013 \u03b4y, s = (5 \u2013 ;6) m/s (The Man and Image)\n\nd2 \u00f7 s1 = d2 \u00f7 s2, y \u00f7 6 = 2y \u00f7 s + 6\n\nY (s + 6) = 2y \u00d7 6\n\ns + 6 = 12\n\nSo = 12 \u2013 6 = 6\n\nSince S + 6 = 0\n\nThen, S = 6 (substitute the value of S i.e S = 6)\n\nInto S + 6 = 0\n\n\u2234So = S + 6 = 6 + 6 = 12 m/s\n\n\u2234 S = 12 m/s\nThere is an explanation video available below."
+    },
+    "text": "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?",
+    "structure": "OBJECTIVE",
+    "number": 60,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2 m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4 m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12 m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n14 m/s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nVoltmeter: an instrument for measuring electric potential in volts\n\nGalvanometer: it is a device used to indicate direction of a small electric current\n\nPotentiometer: is a device for measuring or comparing e.m.fs of cells\n\nMeter rule: measuring a distance at different points\nThere is an explanation video available below."
+    },
+    "text": "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?",
+    "structure": "OBJECTIVE",
+    "number": 61,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nVoltmeter",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMeter rule",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGalvanometer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPotentiometer",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nIn an inelastic collision, linear momentum is conserved and energy is decreased\n\nMomentum and kinetic energy are conserved in elastic collision\nThere is an explanation video available below."
+    },
+    "text": "In an inelastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
+    "structure": "OBJECTIVE",
+    "number": 62,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nI only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nII and IV only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nII only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIII only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe range of temperature is between 35\u00b0C and 43\u00b0C but for normal temperature of human body is between the range of 35\u00b0C to 37\u00b0C respectively\nThere is an explanation video available below."
+    },
+    "text": "The normal temperature of human body is record at what ranges?",
+    "structure": "OBJECTIVE",
+    "number": 63,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n27\u00b0C to 43\u00b0C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30\u00b0C to 40\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n98.4\u00b0C only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBetween 35\u00b0C to 37\u00b0C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nInertia: the property of a body that resists any change to its uniform motion, equivalent to its mass\nThere is an explanation video available below."
+    },
+    "text": "The property of a body to remain at rest or to continue to move in a straight line is known as",
+    "structure": "OBJECTIVE",
+    "number": 64,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nforce",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nImpulse",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nEnergy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nInertia",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nMomentum and kinetic energy are conversed in elastic collision\nThere is an explanation video available below."
+    },
+    "text": "Momentum and Kinetic energy are conserved in",
+    "structure": "OBJECTIVE",
+    "number": 65,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nInelastic collision",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nElastic collision",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nExplosion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSpacecraft",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nF = 100HZ, period, T = 1/f = 1/100\n\n= 0.01 sec\n\nThe period (T) = 0.01sec\nThere is an explanation video available below."
+    },
+    "text": "An alternating current with a frequency of 100HZ has a period of",
+    "structure": "OBJECTIVE",
+    "number": 66,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.03sec",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.01sec",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.04sec",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.15sec",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2015
+  }
+]

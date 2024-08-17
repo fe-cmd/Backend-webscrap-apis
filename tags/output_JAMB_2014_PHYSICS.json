@@ -1,0 +1,1478 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What is the least possible error encountered when taking measurement with a meter rule?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.1mm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0mm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.5mm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.2mm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nDisplacement is a vector quantity\nThere is an explanation video available below."
+    },
+    "text": "A quantity which requires magnitude and direction to be specified is",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTemperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDistance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nDisplacement",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMass",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "I Electrical potential, II Torque, III Kinetic Energy, IV Momentum. Which of the quantities listed are vectors?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nII and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nI and II",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nI and III",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nII and III",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe tyre in motion makes a rotation and it translates in a straight line alongside. if the wheels is turned it continued further in a translational straight line through rotational motion.\nThere is an explanation video available below."
+    },
+    "text": "Which type of motion do the wheels of a moving car undergo?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nVibratory and translational motion",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nRandom and translational motion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRotational mand oscillatory motion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTranslational and rotational motion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nV2 = U2 x 2ax\nV2 = 0 x 2(3)(24)\nV2 = 144\nV = \\(\\sqrt{144}\\)\nV = 12ms-1\nThere is an explanation video available below."
+    },
+    "text": "A car accelerates uniformly from rest at 3ms-2. its velocity after traveling a distance of 24m is",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n144ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n72ms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n36ms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nVescape = \\(\\sqrt{2gR}\\)\nVescape = \\(\\sqrt{2\\times10\\times6.4\\times10^6}\\)\nVescape = \\(\\sqrt{128000000}\\)\nVescape = 11313.7085mS-1\nVescape = 11.313kmS-1\nThere is an explanation video available below."
+    },
+    "text": "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x106m",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n25.3kms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.2kms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.0kms-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n11.3kms-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n48N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n12N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n27N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n36N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAverage",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nZero",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNegative",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPositive",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nConditions for non-parallel coplanar forces\nThere is an explanation video available below."
+    },
+    "text": "What happens when three coplanar non-parallel forces are in equilibrium?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTheir lines of action are parallel.",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThey are represented in magnitude only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThey are represented in direction only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTheir lines of action meet at a point",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nKinetic Energy = mgh\n= 20 x 10 x 10 J\n= 2000J\nThere is an explanation video available below."
+    },
+    "text": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4000J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2000J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n500J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The energy in the nucleus of atoms produce heat which can be used to generate",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nKinetic energy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nMechanical energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nElectrical energy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPotential energy",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{MA}{VR}\\times\\frac{100}{1}=efficiency\\)\n\n\\(\\frac{L}{E}\\frac{1}{VR}\\times\\frac{100}{1}=75\\)\n\n\\(\\frac{1000}{E}\\frac{1}{4}\\times\\frac{100}{1}=75\\)\n\n\\(E = \\frac{250 \\times 100}{75}\\)\n\nE = 333.3N\nThere is an explanation video available below."
+    },
+    "text": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n343.32N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n233.33N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n333.33N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n334.33N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nVR = 800/200 = 4\n\\(Efficiency = \\frac{MA}{VR} \\times \\frac{100}{1}\\)\n\n\\(Efficiency = \\frac{L}{E} \\times \\frac{1}{VR} \\times \\frac{100}{1}\\)\n\n\\(Efficiency = \\frac{800}{250} \\times \\frac{1}{4} \\times \\frac{100}{1}\\)\n\n= 78.74%\n= 80%\nThere is an explanation video available below."
+    },
+    "text": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n90%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n80%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n85%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n87%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(Stress = \\frac{Force}{Area}\\)\n\n\\(Stress = \\frac{500}{0.2} = 2500\\)\n\n= 2.5 x 103Nm-3\nThere is an explanation video available below."
+    },
+    "text": "A force of 500N1 is applied to a steel wire of cross-sectional area 0.2m2, The tensile stress is",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5x104Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0x102Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.0x103Nm-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.5x103Nm-2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The small droplets of water that form on the grass in the early hours of the morning is",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nFog",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nHaul",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMist",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDew",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n= (20 - 273)\u00b0C\n= -253\u00b0C\nThere is an explanation video available below."
+    },
+    "text": "What is the equivalent of 20K in Celsius scale?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-253oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-293oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n68oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n36oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nif a=0, b=1 and c=-1 then\nP0V1T-1 = V/T (Charles Law)\nThere is an explanation video available below."
+    },
+    "text": "The equation PaVbTc= constant reduces to Charles Law if",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na=1, b=1and c=0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na=1, b=0 and c=-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na=0, b=1 and c=1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na=0, b=1 and c=-1",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The quantity of heat needed to raise the temperature of a body by 1K is the body's",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHeat capacity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nInternal energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSpecific heat capacity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLatent heat of fusion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The melting point of a substance is equivalent to its",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nVapour Pressure",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nSolidification Temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLiquidification Temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSolidification Pressures",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nBoiling point",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIce point",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nSaturation point",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDew point",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nLiquids and gases expand when they are heated.\u00a0The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas.\nThere is an explanation video available below."
+    },
+    "text": "Heat transfer by convection in a liquid is due to the",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nLatent heat of vaporization of the liquid",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nIncreased vibration of the molecules of the liquid about theit mean position",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nVariation of density of the liquid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nExpansion of the liquid as it is heated",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nWavelength = 15cm = 0.15m\n\nVelocity = 300m/s\n\nV = fx\n\nF = V/Wavelength\n\nF = 300/0.15 Hertz\n\nF = 2 x 103Hz\nThere is an explanation video available below."
+    },
+    "text": "The distance between two successive crests of a wave is 15cm and the velocity 300ms-1. Calculate the frequency.",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.0x102Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.5x103Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.0x103Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.5x102Hz",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nTime for echo both ways = 0.8\nTherefore time for echo in 1 way = 0.8/2 = 0.4\n\nDistance = Speed x time\n\nDistance = 340 x 0.4\n\nDistance = 136m\nThere is an explanation video available below."
+    },
+    "text": "A boy receives the echo of his clap reflected by a nearby hill 0.8s later. How far is he from the hill?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n528m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n66m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n136m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n264m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\text{Linear Magnification} = \\frac{\\text{Length of Camera}}{\\text{Distance of the Object}}\\)\n\n\\(\\text{Linear Magnification} = \\frac{25}{1000}\\)\n\n\\(\\text{Linear Magnification} = 2.5 \\times 10^{-2}\\)\nThere is an explanation video available below."
+    },
+    "text": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.5x102",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.5x10-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.5x10-1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.5x101",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{1}{U} + \\frac{1}{V} = \\frac{1}{f}\\)\n\n\\(\\frac{1}{8} + \\frac{1}{V} = \\frac{1}{2}\\)\n\n\\(V = \\frac{8}{3}\\)\n\n\\(V = 2.7cm\\)\nThere is an explanation video available below."
+    },
+    "text": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.7m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.3m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.5m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In a compound microscope, the objective and the eye piece focal lengths are",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAt infinity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLong",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nShort",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe same",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "When a telescope is in normal use, the final image is at",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nInfinity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe focus",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThe radius of curvature",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe near point",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRemains the same",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCollapses",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCollapses and diverges again",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDiverges",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nQ = CV = 0.1 x 10 = 1C\nThere is an explanation video available below."
+    },
+    "text": "What charge is stored in a 0.1F capacitor when a 10V supply is connected across it?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The maximum power transfer occur in a cell when the external resistance is",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTwice the internal resistance of the cell",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe same as the internal resistance of the cell",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nGreater than the internal resistance of the cell",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nLess than the internal resistance of the cell",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A circuit has a resistance of 200\u2126. The resistance of the circuit can be reduced to 120\u2126 when",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA 300\u2126 resistor is connected to it in parallel",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAn 80\u2126 resistor is conneceted to it in series",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nA 150\u2126 resistor is connected to it in parallel",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nA 240\u2126 resistor is connected to it in series",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "PHCN measures its electrical energy in",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nW",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nKWh",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nWh",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nJ",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What is the best method of demagnetizing a steel bar magnet?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHammering",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nHeating it",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nRough handling it",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSolenoid method",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The magnitude of the angle of dip at the equator is",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n360o",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0o",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n90o",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n180o",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "When an atom undergoes a beta decay, the atomic number of the nucleus",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRemains unchanged",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDecreases by one",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIncreases by one",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nBecomes zero",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nMass = ZIT kg\nMass = 3.3 x 10-7 x 4 x 2 x 60 x 60 kg\nMass = 9.5 x 10-3kg\nThere is an explanation video available below."
+    },
+    "text": "Calculate the mass of the copper deposited during electrolysis when a current of 4A passes through a copper salt for 2 hours. [Ece of Copper z=3.3x10-7kgC-1]",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.9x105kg",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n9.5x10-7kg",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9.5x10-3kg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.9x104kg",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which gas produces a red\u00a0coloured light in a discharge tube?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMercury",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nArgon",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAir",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNeon",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following is NOT a Fundamental S.I unit?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMetre",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nAmpere",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNewton",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSecond",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "When \\(^{210}_{82}Pb\\) decays to \\(^{206}_{80}Pb\\), it emits",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntwo alpha and two beta particles",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nan alpha particle",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\none beta particle",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\none alpha and one beta particle",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What type of reaction is represented by the equation \\(^{2}_{1}X+^{2}_{1}X\\rightarrow^{3}_{2}Y+^{1}_{0}n+Energy\\)",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nIonization",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nFusion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nFission",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nChain",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\gamma = \\frac{V_2 - V_1}{V(\\theta)}\\)\n\n\\(3(9 \\times 10^4) = \\frac{V_2 - 2 \\times 10^4}{2 \\times 10^4(30)}\\)\n\nV2 - 2 x 104 = 2 x 104 (30) x 3 (9 x 10-6)\n\n\nV2 = 2 x 104 2 x 104 (30) x 3 (9 x 10-6)\n\n\nV2 = 16.2 + 2 x 104\n\nV2 = 20016.2cm3\nThere is an explanation video available below."
+    },
+    "text": "A glass bottle of initial volume 2 x 104 cm3 is heated from 20oC to 50oC. If the linear expansivity of glass is 9 x 10-6K-1, the volume of the bottle at 50oC is",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20016.2cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n20005.4cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20008.1cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n20013.5cm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2014
+  }
+]

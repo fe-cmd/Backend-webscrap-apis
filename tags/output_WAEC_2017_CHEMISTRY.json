@@ -1,0 +1,1802 @@
+[
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAn element's chemical properties depend on its valence electrons.The chemical properties of elements depend on an element's electron configuration."
+    },
+    "text": "Which of the following species determines the chemical properties of an atom?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nElectron",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNeutron",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNucleus",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nProton",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nTest tubes are convenient containers for heating small amounts of liquids or solids with a Bunsen burner or alcohol burner."
+    },
+    "text": "The following glasswares are used to measure the volume of liquids EXCEPT",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ngraduated beaker",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npipette",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntest tube",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nburette",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPauli Exclusion Principle states that, in an atom or molecule, no two electrons can have the same four electronic quantum numbers."
+    },
+    "text": "Pauli exclusion principle is related to",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nquantity of electrons in the valence shell",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfilling the orbitals with lower energy first",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe filling of degenerated orbitals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nquantum numbers of electrons",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nScandium has electronic configuration \\(1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{1}4s^{2}\\) hence, \\(Sc^{3+}\\) has configuration \\(1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}\\). Hence, no electron in the 3d-orbital."
+    },
+    "text": "The species with no electron in the 3d-orbital is",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(Zn^{2+}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(Sc^{3+}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCu",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(Mn\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe various gases vaporize as their boiling points are reached, then they are pumped away and separately re-liquefied for convenient storage."
+    },
+    "text": "The seperation of Nitrogen from oxygen using fractional distillation of air is possible because",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnitrogen is less dense than oxygen",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\noxygen is more reactive than nitrogen",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nof the difference in their boiling points",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthey belong to the same period",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe purity of a solid can be determined by measuring the melting point. A pure solid will have a single, sharp melting point."
+    },
+    "text": "The purity of a solid sample can best be determined by its",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nboiling point",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmelting point",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconductivity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsolubility",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThis is same as asking for the molar mass of the compound\n= \\((2\\times 14.0)+ (8\\times 1.0) + 12.0+(16.0\\times 3)\\)\n= 28.0+8.0+12.0+48.0 = 96.0g"
+    },
+    "text": "The mass of one mole of \\((NH_{4})_{2}CO_{3}\\) is \u00a0 [O=16.0, N=14.0, C=12.0, H=1.0]",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n66.0g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n76.0g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n80.0g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n96.0g",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe orbital is a path or region around the nucleus. The electrons move in the orbitals and not through it."
+    },
+    "text": "Atomic orbital is",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe circular path through which electrons revolve round the nucleus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na region around the nucleus where electrons are most likely to be found",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe path around the nucleus through which electrons move",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe path around the nucleus through which protons move",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe ionic radius decreases across a period but increases along a group."
+    },
+    "text": "The property of elements which increases down a group of the periodic table is",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nelectronegativity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nelectron affinity",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nionic radius",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nionization energy",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThis is caused by the increase in the number of protons and electrons across a period."
+    },
+    "text": "The reason for the decrease in the atomic size of elements across a period is that",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnuclear charge increases while the outermost electrons are drawn closer to the nucleus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnuclear charge decreases while the outermost electrons are drawn closer to the nucleus",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvalence electrons increase across the period while the valence shell remains constant",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnuclear charge decreases while the distance of the valence shell from the nucleus is increasing",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(Pb(NO_{3})_{2}\\) = \\(+2 +2N + (-2\\times 6) = 0\\)\n= \\(2N = 10\\)\n\u21d2 \\(N = +5\\)"
+    },
+    "text": "The oxidation number of nitrogen in \\(Pb(NO_{3})_{2}\\) is",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n+2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n+3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n+4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n+5",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAs you move across a period, first ionization energy increases."
+    },
+    "text": "Which of the following arrangements indicates the correct decreasing order of ionization energy of period 3 elements?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNa, Al, P, Cl",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCl, P, Al, Na",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNa, P, Cl, Al",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAl, Na, P, Cl",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAluminium has the highest magnitude of charge of +3, hence it will form a stronger metallic bond."
+    },
+    "text": "Which of the following metals has the strongest metallic bond?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(_{13}Al\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(_{19}K\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(_{12}Mg\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(_{11}Na\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following substances does not have van der Waals' forces?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCopper",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nGraphite",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNeon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIodine crystals",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(XO_{4}^{3+}\\) = \\(X + (-2\\times 4) = -3\\)\n\\(X = -3+8 = +5\\)"
+    },
+    "text": "The oxidation number of X in \\(XO_{4}^{3+}\\) is",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n+1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n+3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n+4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n+5",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThese 3 factors affect the ionization energy:\n\nSize of the positive nuclear charge\nSize of atom (distance of outermost electron from the nucleus)\nScreening effect of inner shell electrons"
+    },
+    "text": "The ionization energy is affected by the following factors except",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndistance of the outermost electron(s) from the nucleus",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsize of the positive nuclear charge",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nability to attract shared electron(s)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nscreening effect of the inner electron(s)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nOne of the common features of materials with ionic bonds is that they conduct electricity when dissolved in water."
+    },
+    "text": "Which of the following statements is correct?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCovalent compounds would readily ionize in solution",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCovalent compounds consist of ions",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nHydrogen bond is formed between a metal and a non-metal",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nIonic compounds in solution would conduct electricity",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The bond angle in tetrahedral molecules such as tetrachloromethane is",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n180.0\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n109.5\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n105.5\u00b0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n90.0\u00b0",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCharacters of a good primary standard include: high purity, low reactivity with the air or surrounding environment, low hygroscopicity, large molar mass, a predictable reactivity and readily available."
+    },
+    "text": "The properties of a good primary standard include the following except",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhigh molecular mass",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlow molecular mass",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhigh degree of purity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreadily available",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nDiamonds are very hard, they are often used as an abrasive."
+    },
+    "text": "The use of diamond in abrasives is due to its",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhigh melting point",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhardness",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\noctahedral shape",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndurability",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nEndothermic reactions are those reactions which absorb energy from the surroundings and result in a net decrease in temperature."
+    },
+    "text": "Which of the following statements about endothermic reaction is correct?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nActivation energy is high",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nA catalyst is required",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nIt occurs reversibly",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nHeat energy is absorbed",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nDilution factor = \\(\\frac{molar conc. of diluted}{molar conc. of undiluted}\\)\n= \\(\\frac{0.001}{0.1} = 0.01\\)"
+    },
+    "text": "A 0.1\\(moldm^{-3}\\) solution of sodium hydroxide was diluted with distilled water to 0.001\\(moldm^{-3}\\). What is the dilution factor?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1000.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n100.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n10.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.01",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA diamond is pure carbon. Graphite is pure carbon. Both will burn to form carbon dioxide."
+    },
+    "text": "Graphite and Diamond are similar in that they",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhave octahedral shape",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhave same density",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nform carbon(IV) oxide on combustion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconduct electricity",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA\u00a0solution\u00a0that is in\u00a0equilibrium with undissolved solute\u00a0is\u00a0said\u00a0to be\u00a0saturated."
+    },
+    "text": "In a saturated solution at a given temperature, the undissolved solutes are in equilibrium with",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe solvent",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndissolved solute particles",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe saturated solution",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ninsoluble solute particles",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n1 mole = \\(6.02 \\times 10^{23}\\)\n2.5 moles = \\(6.02 \\times 10^{23} \\times 2.5\\)\n= \\(15.05 \\times 10^{23} = 1.505 \\times 10^{24}\\)\n\\(\\approxeq 1.5 \\times 10^{24}\\)"
+    },
+    "text": "The number of atoms present in 2.5moles of a triatomic gas is equivalent to\u00a0 \u00a0[1mole = \\(6.02\\times 10^{23}\\)]",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(2.5\\times 10^{23}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(1.5\\times 10^{23}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(1.5\\times 10^{24}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(2.5\\times 10^{24}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe Magnesium actually reacts with oxygen in the air, is burnt and produces a bright light. The bright light emits a lot of heat so the reaction is exothermic."
+    },
+    "text": "When Magnesium reacts with oxygen, heat is",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nabsorbed and the reaction is endothermic",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nevolved and the reaction is endothermic",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nevolved and the reaction is exothermic",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nabsorbed and the reaction is exothermic",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe compound CO is treated as a neutral oxide, though in truth, it is slightly acidic. Regardless of this, within the options supplied, CO is the best option available."
+    },
+    "text": "Which of the following gases is not acidic?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(SO_{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(NO_{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(Co_{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCO",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe percentage of Carbon in the compound is (100 - 14.3)%\u00a0 = 85.7%\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 C \u00a0 \u00a0 \u00a0\u00a0 : \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 H\n\\(\\frac{85.7}{12.0} \u00a0 : \u00a0 \u00a0\u00a0 \\frac{14.3}{1.0}\\)\n\\( 7.14 \u00a0 \u00a0 : \u00a0\u00a0 14.3\\)\n\\(\\frac{7.14}{7.14} \u00a0 \u00a0 : \u00a0 \u00a0 \\frac{14.3}{7.14}\\)\n\\(\\approxeq \u00a0 1\u00a0 : \u00a0 2\\)\nTherefore, the empirical formula is \\(CH_{2}\\)."
+    },
+    "text": "A hydrocarbon contained 14.3% hydrogen. The empirical formula for the hydrocarbon is \u00a0 [H= 1.0, C= 12.0]",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(CH\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(CH_{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(CH_{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(CH_{4}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAmmonium salts react with bases to release ammonia and not with acids."
+    },
+    "text": "Which of the following statements is NOT a chemical property of an acid?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEvolution of ammonia when heated with ammonium salts",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEvolution of carbon dioxide gas when added to a trioxocarbonate (IV) salt",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nFormation of salt and water with alkalis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFormation of salt and hydrogen gas with reactive metals",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe word \"halogen\" is a Greek word meaning salt former, because they form salts when they react with metals eg NaCl."
+    },
+    "text": "Halogens generally react with metals to form",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nalkalis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nacids",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsalts",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nFor a substance to conduct electricity, it must have charge particles like electrons and ions within it that are able to move freely throughout it. In its solid state, potassium chloride (like many other ionic compounds) have fixed ions, hence, they are immobile and can't conduct electricity."
+    },
+    "text": "Potassium Chloride solid does not conduct electricity because",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nit is a covalent compound",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstrong cohesive forces make its ions immobile",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nstrong cohesive force makes its molecule immobile",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\neach of potassium and chlorine structures contain noble gas structure",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nWhen water is added to white coloured anhydrous copper sulphate, its colour changes to blue, indicating that the blue coloured copper sulphate pentahydrate is regenerated."
+    },
+    "text": "When water was added to a white anhydrous substance X, the colour changed to blue. X is",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(CuSO_{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(FeSO_{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(Na_{2}SO_{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(PbSO_{4}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Solubility curve can be used in the determination of the",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\namount of crystals formed",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\namount of solvent that can be recovered",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\namount of solid drugs in a given solution",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntemperature of the solution",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nSolubility in\u00a0\\(gdm^{-3}\\) = \\(\\frac{mass of salt in gram}{volume of liquid in dm^{3}}\\)\n200\\(cm^{3}\\) = \\(\\frac{200}{1000} dm^{3}\u00a0 = 0.2dm^{3}\\)\nSolubility = \\(\\frac{0.2g}{0.2dm^{3}}\\)\n= 1.0\\(gdm^{-3}\\)"
+    },
+    "text": "If 0.2g of a salt is required to saturate 200\\(cm^{3}\\) of water at room temperature, what is the solubility of the salt?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.2\\(gdm^{-3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0\\(gdm^{-3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.0\\(gdm^{-3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5.0\\(gdm^{-3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe activation energy is the amount of energy that is required to form products in a reaction. The presence of a catalyst helps to speed up the reaction such that the energy needed for the reaction is reduced."
+    },
+    "text": "The property of a chemical reaction that is affected by the presence of a catalyst is",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nactivation energy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nfree energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nequilibrium position",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nenthalpy change",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Soluble salts can be prepared by the following methods except",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nneutralization",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nreaction of an acid with trioxocarbonate(IV) salt",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndouble decomposition",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreaction of an acid with electropositive metals",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe energy of the reactants must be more than the activation energy in order for product to be formed."
+    },
+    "text": "Chemical reactions occurs when the colliding reactants have energy that is",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nless than the activation energy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngreater than the activation energy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngreater than the energy of the product",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nless than the energy of effective collision",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn both the electrochemical cell and the electrolytic cell, at the anode, oxidation is involved."
+    },
+    "text": "The common feature of reactions at the anode is that",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nelectrons are consumed",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nions are reduced",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\noxidation is involved",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe electrode dissolves",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nIn NO, the oxidation number for nitrogen is N - 2 = 0\n\u21d2 N = +2\nIn \\(NO_{2}\\), we have N - (2x2) =0\nN - 4 =0\nN =+4"
+    },
+    "text": "Consider the following reaction equation: \\(2NO_{(g)} + O_{{2}{(g)}} \\to 2NO_{{2}{(g)}}\\). What is the change in the oxidation number of nitrogen?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n+2 to 0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n+2 to -2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n+2 to +4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n+4 to +2",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe difference between every successive member of the same homologous series is always \\(CH_{2}\\) eg methane is \\(CH_{4}\\) and ethane is \\(C_{2}H_{6}\\), difference being \\(CH_{2}\\)."
+    },
+    "text": "Which of the following factors characterize members of the same homologous series?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThe chemical property change gradually throughout the series",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nphysical properties of members are similar",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThey have the same molecular formular",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSuccessive members undergo changes in molecular formula by \\(CH_{2}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(Cu^{2+} + 2e^{-}\u00a0 \\to\u00a0 Cu_{(s)}\\)\n\\( 2 \\times 96500C = 193000C\u00a0 deposits 64g of Cu\\)\n\\(M \\propto It\\)\n\\(Q = It = 0.45A \\times 1hr15mins\\)\n= \\( 0.45 \\times 75 \\times 60\\) [converting the time to seconds]\nQuantity of electricity passed = 2025C\n\\(193000C \\to 64g Cu\\)\n\\(1C \\to \\frac{64}{193000}\\)\n\\(2025C \\to \\frac{64}{193000} \\times 2025\\)\n\\(= 0.6715g\u00a0 \\approxeq\u00a0 0.67g\\)"
+    },
+    "text": "Calculate the mass of copper deposited if a current of 0.45A flows through \\(CuSO_{4}\\) solution for 1hour 15mins. \u00a0 [Cu=64.0, S= 32.0, O =16.0, 1F= 96500C]",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n6.40g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.67g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.64g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.45g",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAlkanols can be classified as primary, secondary or tertiary, according to the number of alkyl groups attached to the carbon which bears the -OH group."
+    },
+    "text": "Classification of alkanols is based on the",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnumber of carbon atoms present in the compound",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmolecular mass of the compound",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmolecular formula of the compound",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nnumber of alkyl groups bonded to the carbon having the hydroxyl group",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe alkyl group is attached to the parent chain being a carboxylic acid. The name of the compound is gotten by writing the name of the attached alkyl group first and then the parent carboxylic acid is written but you change the -oic acid to -oate.\u00a0\nThe alkyl group in this case is \\(C_{3}H_{7}\\)\nThe parent carboxylic acid is \\(C_{4}H_{9}COOH\\) which is pentanoic acid.\u00a0\nHence, the name is propyl pentanoate."
+    },
+    "text": "The name of the compound \\(C_{4}H_{9}COOC_{3}H_{7}\\) is",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npropyl pentanoate",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npentyl propanoate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbutyl propanoate",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npropyl butanoate",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following pairs of gases are pollutants from car exhaust?",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNitrogen(II) oxide and Carbon(IV) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCarbon(IV) oxide and Nitrogen",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCarbon(II) oxide and Sulphur(IV) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCarbon(II) oxide and oxygen",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nParaffin oil is gotten from petroleum distillation and can't be a source of fats and oil."
+    },
+    "text": "Fats and oils can be obtained from any of the following sources except",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nparaffin oil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nanimals",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngroundnuts",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npalm kernel",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA maltose is a dissacharide formed from two units of glucose."
+    },
+    "text": "The condensation of two units of glucose will produce a dissacharide with the formula \\(C_{12}H_{22}O_{11}\\) which is",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsucrose",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmaltose",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngalactose",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmannose",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe parent chain for the compound is \\(C_{2}H_{5}OH\\) in which one of the hydrogen atoms is replaced by the Cl atom. Giving the chlorine the smallest number while naming, we have 1- chloroethanol."
+    },
+    "text": "The IUPAC name for the compound \\(ClCH_{2}CH_{2}OH\\) is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1- chloropropanol",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2-chloropropanol",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1-chloroethanol",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2-chloroethanol",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nChlorofluorocarbons are harmful to environment and living beings because it increases greenhouse gases in the environment which results in forming holes in the ozone layer.. And if this happens it will cause to an increase in the ultraviolet rays exposer, and which will make the earth's surface much hotter than usual."
+    },
+    "text": "The real harmful effect of the release of chlorofluorocarbons into the atmosphere is that it eventually causes",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nexcessive ultraviolet light from the sun to reach the earth surface",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nexcessive release of infrared light from the sun to the earth surface",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncorrosive effect of the chemicals on humans and animals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nacidic effect of chemicals on humans",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAlkanols have the formula \\(C_{n}H_{2n+1}OH\\).\n\u21d2\u00a0 \\( 12n + (1\\times (2n+1)) + 16.0 + 1.0 = 60\\)\n= (14n +18 = 60\\)\n\\(n = \\frac{60-18}{14} = \\frac{42}{14} = 3\\)\nHence, the alkanol is gotten by putting n=3,\n=\\(C_{3}H_{7}OH\\)"
+    },
+    "text": "A primary alkanol has a molecular mass of 60. What is the structural formula of the compound? [C= 12.0, H= 1.0, O= 16.0)",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": "https://myschool.ng/storage/classroom/eQP9YLl1gA640pJmhDuLM267JHWhE41iazEj9H2z.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA",
+        "imageUrl": "https://myschool.ng/storage/classroom/eQP9YLl1gA640pJmhDuLM267JHWhE41iazEj9H2z.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nB",
+        "imageUrl": "https://myschool.ng/storage/classroom/eQP9YLl1gA640pJmhDuLM267JHWhE41iazEj9H2z.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nC",
+        "imageUrl": "https://myschool.ng/storage/classroom/eQP9YLl1gA640pJmhDuLM267JHWhE41iazEj9H2z.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nD",
+        "imageUrl": "https://myschool.ng/storage/classroom/eQP9YLl1gA640pJmhDuLM267JHWhE41iazEj9H2z.jpeg"
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Petroleum is a non-renewable source of energy because it",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nis formed naturally",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nis cheap",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncan be recycled after use",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncannot be regenerated once used up",
+        "imageUrl": null
+      }
+    ],
+    "subType": "MAY/JUNE",
+    "subject": "CHEMISTRY",
+    "type": "WAEC",
+    "year": 2017
+  }
+]

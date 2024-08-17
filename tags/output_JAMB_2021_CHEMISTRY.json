@@ -1,0 +1,1445 @@
+[
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCommon name :\u00a0Isobutyl bromide\nIUPAC name\u00a0:\u00a01-Bromo-2-methylpropane\nBoiling point : 102\u00b0C\nFormula :\u00a0C\\(_4\\)H\\(_9\\)Br\nThere is an explanation video available below."
+    },
+    "text": "Give the common name for the following compound (CH\\(_{3}\\))\\(_{2}\\) CH CH\\(_{2}\\) -Br",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Isobutyl bromide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Methyl bromide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            propyl bromide",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Butyl bromide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nZymase is an enzyme complex that\u00a0catalyzes the fermentation of sugar into ethanol and carbon dioxide. It occurs naturally in yeasts.\nThere is an explanation video available below."
+    },
+    "text": "The enzyme that converts glucose to ethyl\u00a0alcohol is?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            maltase",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            zymase",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Diatase",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Invertase",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe principle described by the physicist Albert Einstein's famous formula: E = mc^2, involves\u00a0mass\u2013energy equivalence.\nI.e. the relationship between mass and energy.\nThere is an explanation video available below."
+    },
+    "text": "The scientist who stated that matter can be converted into energy is?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Boyle",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Lavoiser",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Avogadro",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Einstein",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nPropyne (methylacetylene) is an alkyne with the chemical formula\u00a0HC\\(\\equiv\\)CCH\\(_{3}\\)\nThere is an explanation video available below."
+    },
+    "text": "What is the IUPAC name for the following compound? HC\\(\\equiv\\)CCH\\(_{3}\\)",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Acetylene",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Methyl acetylene",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Butanol",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Decanoic acid",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nCopper(II) carbonate or cupric carbonate is a chemical compound with formula CuCO\\(_{3}\\)\u00a0\nThere is an explanation video available below."
+    },
+    "text": "What is the chemical name for the compound CuCO\\(_{3}\\)?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Copper (iii) carbonate",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Copper (ii) carbonate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Copper (i) carbonate",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Copper",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe earliest developed breathalyzer was based on reaction of alcohol if present in the exhaled air with a cocktail of chemicals containing\u00a0sulfuric acid, potassium dichromate, silver nitrate, and water. Silver nitrate catalyzes the reaction between alcohol and potassium dichromate in acidic medium.\nThere is an explanation video available below."
+    },
+    "text": "A 'breath test' used by traffic police to check drunken driving uses?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Tumeric on filter paper",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Silica gel coated with saliva nitrate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Potassium permanganate-sulphuric acid",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Potassium dichromatic-sulphuric acid",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA\u00a0\u00a0mixture is a material made up of two or more different chemical substances which are not chemically combined.\u00a0\nMercury is a chemical element with the symbol Hg and atomic number 80.\nThere is an explanation video available below."
+    },
+    "text": "Which one of the following is not a mixture?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Air",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Mercury",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Milk",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Cement",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nBromine is a chemical element with the symbol Br and\u00a0atomic number 35. It is the third-lightest halogen and is a volatile red-brown liquid at room temperature that evaporates readily to form a similarly coloured vapour.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following is a non-metal that remains liquid at room temperature?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Chlorine",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Phosphorus",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Bromine",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Helium",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n                No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Which of the following are chemical changes?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I and II",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            I, II, and III",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            III and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            all of the above",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAtomic weight, also called relative atomic mass,\u00a0ratio of the average mass of a chemical element's atoms to some standard.\nThere is an explanation video available below."
+    },
+    "text": "The atomic weight of nitrogen is?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            10",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            12",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            14",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            16",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\u00a0Carbon dioxide, a colorless gas having a faint sharp odor and a sour taste. It is a greenhouse gas.\nGlobal warming occurs when carbon dioxide (CO2) and other air pollutants collect in the atmosphere and absorb sunlight and solar radiation that have bounced off the earth\u2019s surface. Normally this radiation would escape into space, but these pollutants, which can last for years to centuries in the atmosphere, trap the heat and cause the planet to get hotter. These heat-trapping pollutants\u2014specifically carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases\u2014are known as greenhouse gases, and their impact is called GREENHOUSE EFFECT\nThere is an explanation video available below."
+    },
+    "text": "The gas which causes global warming is?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            O\\(_{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            CO\\(_{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            N\\(_{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            He",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nKerosene contains hydrocarbon with twelve to eighteen carbon atoms per molecule\nThere is an explanation video available below."
+    },
+    "text": "Oxygen is absent in?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Kerosene",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Soil",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Glass",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Cement",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nSublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state.\nFamiliar substances that sublime readily include\u00a0iodine, dry ice, menthol, and camphor.\nThere is an explanation video available below."
+    },
+    "text": "A sample of any of the following substances disappears\u00a0after some time when exposed to air like camphor, naphthalene, or dry ice. This phenomenon is called?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Sublimation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Evaporation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Diffusion",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Radiation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe N shell is the fourth orbit with 32 max number of electrons using 2n\\(^2\\)\nThere is an explanation video available below."
+    },
+    "text": "The maximum electron in N shell is?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            18",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            32",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\u00a0-\u00a0Sir James Chadwick, was a British physicist who was awarded the 1935 Nobel Prize in Physics for his discovery of the neutron in 1932.\u00a0\n-\u00a0Ernest Rutherford\u00a0postulated the nuclear structure of the atom, discovered alpha and beta rays, and proposed the laws of radioactive decay.\n-\u00a0Sir Joseph John Thomson\u00a0was a British physicist and Nobel Laureate in Physics, credited with the discovery of the electron, the first subatomic particle to be discovered.\u00a0\n-\u00a0John Dalton was an English chemist, physicist and meteorologist. He is best known for introducing the atomic theory into chemistry\nThere is an explanation video available below."
+    },
+    "text": "Neutrons were discovered by?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            James Chadwick",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Ernest Rutherford",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            J.J Thompson",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            John Dalton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n- Calcium trioxocarbonate (IV) occurs abundantly in earth's crust as limestone, chalk and marble\n-\u00a0Eggshell is made almost entirely of\u00a0calcium carbonate (CaCO3) crystals.\nThere is an explanation video available below."
+    },
+    "text": "Which of the following is a form of calcium carbonate?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            I only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            I, II and IV",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            I and II only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            I, II, III, and IV",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nSince the surface tension forces become smaller as the distance between water molecules increases, the\u00a0intervening soap molecules decrease the surface tension.\nThere is an explanation video available below."
+    },
+    "text": "Soaps clean surfaces on the principle\u00a0based on?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            viscosity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            floatation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            elasticity",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            surface tension",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nfluorine (F), most reactive chemical element\u00a0and the lightest member of the halogen elements.\n\u00a0As the most electronegative element, it is extremely reactive.\nThere is an explanation video available below."
+    },
+    "text": "The reactivity of fluorine is due to?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            its high electro negativity",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            small size of fluorine atom",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            availability of D-orbitals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            strong f-f bond",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nmass number, is\u00a0the sum of the numbers of protons and neutrons present in the nucleus of an atom.\nThere is an explanation video available below."
+    },
+    "text": "The mass number of a nucleus is?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Always less than its atomic number",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            The sum of the number of protons and neutrons present in the nucleus",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Always more than the atomic weight",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            A fraction",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAvogadro's number is an absolute number: there are\u00a06.022\u00d710\\(^23\\) elementary entities in 1 mole.\n\u00a0helium has a molar mass of\u00a04.0 grams per mole. So one mole of helium has a mass of 4.0 grams.\nThere is an explanation video available below."
+    },
+    "text": "The mass of one Avogadro number of helium atoms is?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            1.00gram",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            4.00gram",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            8.00gram",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            6.00gram",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nOne mole of carbon dioxide molecules has a mass of\u00a044.01 g,\u00a0\n: 5\u00a0 mole of carbon dioxide molecules has a mass of 220g\nThere is an explanation video available below."
+    },
+    "text": "220g of carbon dioxide contains ----- moles",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nDNA now has three distinct functions\u2014genetics, immunological, and structural\u2014that are widely disparate and variously dependent on the sugar phosphate backbone and the bases.\nThere is an explanation video available below."
+    },
+    "text": "The inherited traits of an organism are controlled by?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            RNA molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Nucleotides",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            DNA molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Enzymes",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe most abundant naturally occurring gas is Nitrogen (N2), which makes up about 78% of air. Oxygen (O2) is the second most abundant gas at about 21%. The inert gas Argon (Ar)\u00a0is the third most abundant gas.\u00a0\nArgon\u00a0is the most abundant rare gas in the atmosphere. It is represented by the symbol Ar. The atomic number of Ar is 18.\nThere is an explanation video available below."
+    },
+    "text": "The most abundant rare gas in the atmosphere is?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            He",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Ne",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Ar",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Xe",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHeat capacity or thermal capacity:\u00a0The amount of heat to be supplied to an object to produce a unit change in its temperature(1k).\nThere is an explanation video available below."
+    },
+    "text": "The heat required to raise the temperature of the body by 1k is called?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Specific heat",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Thermal capacity",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Water equivalent",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            None of the above",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe\u00a0hydrogen atom\u00a0is the simplest of all atoms: it consists of a single proton and a single electron\nThere is an explanation video available below."
+    },
+    "text": "The nucleus\u00a0of a hydrogen\u00a0 atom consist of a?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            1 proton only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            1 proton, 2 neutron",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            1 neutron only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            1 electron only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe ideal metals to use for the task of recovering copper from an aqueous solution of copper sulphate are metals that are stronger reducing agents than copper but not reactive enough to react with the water that the solution consists of.\n\u00a0Zinc, Aluminium, Iron are relatively inexpensive and being unreactive on exposure to water.\nThere is an explanation video available below."
+    },
+    "text": "The metal used to recover copper from a solution of copper sulphate\u00a0is?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Na",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Ag",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Hg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Fe",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nAn\u00a0atom nucleus\u00a0is made up of protons and neutrons.\nAn electron is\u00a0a negatively charged subatomic particle that orbits the nucleus of an atom.\nThere is an explanation video available below."
+    },
+    "text": "The nucleus of an atom consists of?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Electrons and neutrons",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Electrons and protons",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Protons and neutrons",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            None of the above",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nMass of Solution =\u00a0Mass of Solute +\u00a0Mass of Solvent\u00a0\u2192 20g + 180g\n: Mass of Solution = 200g\nMass Percent = \\(\\frac{Mass of Solute}{Mass of Solution} * 100%\\)\nMass percent = \\(\\frac{20}{200} * 100%\\)\nMass percent = 10%\nThere is an explanation video available below."
+    },
+    "text": "A solution contains 20g of solute in 180g of solvent. If the solvent is water, what is the concentration of the solution in terms of mass by mass percentage",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            11.%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            22.2%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            10%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            20%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAluminium sulfate\u00a0is a salt soluble in water and is mainly used as a coagulating agent\u00a0in the purification of drinking water.\nCopper\u00a0demonstrated the greatest antimicrobial activity. The silver coatings demonstrated the second most antimicrobial surface.\nThere is an explanation video available below."
+    },
+    "text": "The only metal that is anti-bacterial is?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Iron",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Sodium",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Alluminium",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Copper",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe Group 7 elements are called the halogens. They are placed in the vertical column, second from the right, in the periodic table .\u00a0\nChlorine (17), bromine(35) and iodine(53)\u00a0are the first three of the\u00a0Group 7 elements.\nThere is an explanation video available below."
+    },
+    "text": "An element having the atomic number 17 will resemble which of the following elements having atomic number as given below?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            33",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            35",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            18",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            19",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nReduction,\u00a0any of a class of chemical reactions in which the number of electrons associated with an atom or a group of atoms is increased.\nThere is an explanation video available below."
+    },
+    "text": "A chemical process in which there is a gain of electrons is known as?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Sublimation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Reduction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Oxidation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Distillation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nRedox (reduction/oxidation) describes all chemical reactions in which atoms have an increase or decrease in oxidation number (oxidation state).\nThere is an explanation video available below."
+    },
+    "text": "The reactions involving simultaneous oxidation and reduction?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Automatic reactions",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Alternate reactions",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Reduction agency",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Redox reactions",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nAn\u00a0oxide\u00a0is a\u00a0chemical\u00a0compound that contains at least one oxygen atom and one other element in its\u00a0chemical\u00a0formula.\nThere is an explanation video available below."
+    },
+    "text": "A binary compound of oxygen with another element is referred to as?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Element",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Carbon",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Nitrogen",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nmetallurgy,\u00a0art and science of extracting metals from their ores and modifying the metals for use.\u00a0\nThere is an explanation video available below."
+    },
+    "text": "The process or act of extracting a metal from its ore and refining it is called?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Extraction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Metal mining",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Mettallurgy",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Prospecting",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nA hydrocarbon is\u00a0any of a class of organic chemicals made up of only the elements carbon (C) and hydrogen (H).\nClasses are Aliphatic and Aromatic Hydrocarbons.\nNatural sources are coal, natural gas and petroleum.\nThere is an explanation video available below."
+    },
+    "text": "The compounds made up of only carbon and hydrogen are called?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Carbon compounds",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Hydrocarbons",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Atoms",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Carbon hydrolysis",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n-\u00a0\u00a0Monosaccharides are reducing sugars.\n-\u00a0Pure monosaccharides are\u00a0water-soluble, white, crystaline solids.\n- They taste sweet\n- Form a black residue of carbon when dehydrated\nThere is an explanation video available below."
+    },
+    "text": "One of the following is not a physical property of monosaccharides?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Monosaccharides get charred when heated",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Monosaccharides are water-soluble, sweet substances",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            They are highly vital to the exploration of metals",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            They can be reduced to sugar alcohols",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n- The troposphere is the first and lowest layer of the atmosphere of the Earth.\n- Gases mix at this layer.\n- Weather occurs here\n- Region where plants and animals breathe and live\n-\u00a0Tropospheric pollution is caused due to the presence of unwanted gaseous or solid components in the air.\nThere is an explanation video available below."
+    },
+    "text": "In troposphere, the two types of pollutants are?",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Gaseous and particulate pollutants",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Carbon and metallic pollutants",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Natural and man-made pollutants",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Sulphuric and nitrogenous pollutants",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n- The enthalpy change associated with the removal of the first electron from an isolated gaseous atom.\n-\u00a0Ionization enthalpy is the\u00a0minimum amount of energy required to detach from an isolated\u00a0gaseous atom the most loosely bound electron and turn it into a gaseous cation.\nThere is an explanation video available below."
+    },
+    "text": "The molar enthalpy change accompanying the removal of an electron from a gas phase atom or\u00a0ion in its ground state is called?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Electron gain enthalpy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Ionization enthalpy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Enthalpy change",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Enthalpic gas removal",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe actinide or actinoid series encompasses the 15 metallic chemical elements with atomic numbers from 89 to 103, actinium through lawrencium.\nThe actinide series derives its name from the first element in the series, actinium.\nThere is an explanation video available below."
+    },
+    "text": "The fourteen elements (atomic number 90-103) after actinium are called?",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Actinoids",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Nucleotides",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Pre-actinum elements",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Atomic elements",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n- Hydrolysis\u00a0is any\u00a0chemical\u00a0reaction in which a molecule of water breaks one or more\u00a0chemical\u00a0bonds.\n-Salt hydrolysis is a\u00a0reaction in which one of the ions from a salt reacts with water, forming either an acidic or basic solution.\nThere is an explanation video available below."
+    },
+    "text": "The process by which salt and water reacted in a limited way to form an acid or a\u00a0base is?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\r\n            Neutral process",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\r\n            Basic acidic process",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\r\n            Hydrolysis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\r\n            Sublimation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2021
+  }
+
+ 
+]
+      

@@ -1,0 +1,82 @@
+{
+    "subType": "NOVEMBER/DECEMBER",
+    "flagged": false,
+    "flags": [],
+    "text": "The following data shows the budget of a hypothetical country in 2006. Study the data and answer the questions that follow:",
+    "subs": [
+      {
+        "sub": "a",
+        "text": "How much revenue was realised from:",
+        "Answer": "",
+        "imageUrl": "economic-2004-section-a.png",
+        "Score": 3,
+        "subs": [
+          {
+            "sub": "i",
+            "text": "Direct taxes",
+            "Answer": "",
+            "imageUrl": null,
+            "Score": 3
+          },
+          {
+            "sub": "ii",
+            "text": "Indirect taxes",
+            "Answer": "",
+            "imageUrl": "economic-2004-section-a.png",
+            "Score": 3
+          }
+        ]
+      },
+      {
+        "sub": "b",
+        "text": "Calculate the total:",
+        "Answer": "",
+        "imageUrl": "economic-2004-section-a.png",
+        "Score": null,
+        "subs": [
+          {
+            "sub": "i",
+            "text": "Recurrent expenditure",
+            "Answer": "",
+            "imageUrl": "economic-2004-section-a.png",
+            "Score": 3
+          },
+          {
+            "sub": "ii",
+            "text": "Capital expenditure;",
+            "Answer": "",
+            "imageUrl": "economic-2004-section-a.png",
+            "Score": 3
+          }
+        ]
+      },
+      {
+        "sub": "c",
+        "text": "What percentage of total revenue was collected as indirect tax?",
+        "Answer": "",
+        "imageUrl": "economic-2004-section-a.png",
+        "Score": 3
+      },
+      {
+        "sub": "d",
+        "text": "State two examples of non-tax revenue.",
+        "Answer": "",
+        "imageUrl": "economic-2004-section-a.png",
+        "Score": 3
+      },
+      {
+        "sub": "e",
+        "text": "What was the budget surplus or deficit? Explain your answer.",
+        "Answer": "",
+        "imageUrl": "economic-2004-section-a.png",
+        "Score": 3
+      }
+    ],
+    "year": 2016,
+    "subject": "ECONOMICS 2 & 1 ",
+    "type": "WASSCE",
+    "imageUrl": "economic-2004-section-a.png",
+    "__v": 0,
+    "structure": "THEORY",
+    "sectionInstruction": ""
+  }

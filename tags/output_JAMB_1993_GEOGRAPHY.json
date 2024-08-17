@@ -1,0 +1,1802 @@
+[
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nAn equinox is an astronomical event in which the plane of Earth's equator passes through the center of the Sun, which occurs twice each year, around 20 March and 23 September."
+    },
+    "text": "On September 23 each year, the earth experiences the?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsummer solstice",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nautumnal equinox",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nwinter solstice",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nvernal equinox",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following explains the variation in the lengths of day and night with the seasons?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nEarth's rotation on its axis",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEarth's revolution along its orbit",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThe inclination of the earth",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe sperical shape of the earth",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following pairs of longitudes forms a Great Circle?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60\u00b0E and 140\u00b0E",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n40\u00b0W and 140\u00b0E",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20\u00b0W and 160\u00b0W",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10\u00b0E and 180\u00b0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A layer of very fine wind-deposited sand and silt is known as?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nloess",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbarchan",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nseif",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbajada",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The variation in the volume of water in a river over time is known as its?",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nregime",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndischarge",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfluctuation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nvelocity",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following features is formed by the lower plucking, grinding and dragging action of ice?",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHanging valley",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nArete",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPyramidal peak",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCirque",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following are associated with the lower course of a river?",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGorge, rapids and waterfalls",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCorrasion, corrosion and attrition",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nFloodplains, ox-bow lakes and deltas",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMeanders, cliff and spurs",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The decrease in temperature at the rate of 6.5\u00b0C for every 1,000m of ascent is termed?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndry adiabatic lapse rate",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnormal lapse rate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nwet adiabatic lapse rate",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntemperature inversion",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Lands and sea breeze occurs as a result of?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndaily variations in temperature",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrotation of the the earth on its axis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nseasonal movement of the I.T.C.Z",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndifferential heating of land amd water",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The main effect of distance from the sea on rainfall is to reduce its?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\namount and seasonality",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\namount and duration",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nintensity and seasonality",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nintensity and duration",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Mediterranean vegetation is described as xerophytic because it?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nrequries abundant rainfall",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nis drought resistant",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nis heat tolerant",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nis luxuriant is very cold conditions",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is regarded as an active factor of soil formation?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTime",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nClimate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nParent material",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nRelief",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The inorganic component of an ecosystem is made up of?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nwater and microbes",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nplants and animals",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nminerals and litter",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsoil and climate",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The growth of population at a rate faster than the available resources may result in?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nunderpopulation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\noptimum population",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\noverpopulation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\naging population",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The tundra region is sparsely populated because of?",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nscarcity of water",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nharsh environmental conditions",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlow natural resources base",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nlow level of avaiable technology",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following BEST accounts for rural-urban migration in West Africa?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlimitless job opportunities in urban centres",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nimproved agricultural productivity in rural areas",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlimited opportunities in rural areas",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsocial unrest in rural areas",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A linear settlement is most likely to develop on a?",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nplain",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nrouteway",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhill top",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhighland",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following factors is MOST important in bringing about a rapid increase in urban population?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHigh birth rate",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nLow death rate",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ninternational migration",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmigration from rural areas",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The phenomenon whereby the population and functions of a single town in a country far exceed those of others is referred to as?",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprimacy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndominance",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nagglomeration",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nconurbation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A unique system of arable farming in the semi-arid, warm and cool temperate regions is known as?",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nmixed farming",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndry farming",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfloodland farming",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nalley croping",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following BEST explains why the Ganges Delta accounts for the world's largest production of jute?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\navailability of water for irrigation",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnearness to the equator",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMonsoon climate and deep rich soil",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nlarge population enaged in agriculture",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following combinations of factors BEST explains the absence of major ocean fishing ground around tropical Africa?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHot climate and warm ocean currents",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNarrow comtinental shelf and unindented coastline",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nUpwelling of deep sea water and poor plankton supply",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nWarm seas and pollution of sea water",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The port that specializes in receiving and re-exporting goods is known as?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsea port",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\njetty",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nentrepot",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ninternational port",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The three leading manufacturing countries of the world are?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nJapan, Italy and Portugal",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nU.S.A, Britain and Tawian",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nU.S.A, Germany and Japan",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nChina, Brazil and Spain",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following shipping routes carries the world's heavies ocean traffic?",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n Panama Canal West Coast U.S.A.",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEastern North America Western Europe",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMediterranean Suez Canal India Ocean",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nWestern Europe Southern Africa Australia",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In which of these groups of areas is limestone actively quarried for the manufacture cement in Nigeria?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNkalgu, Jos and Ukpilla",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nEwekoro, Etinam and Nkalagu",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nEungu, Nkalagu, and Ewekoro",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nEwekoro, Ukpilla and Nkalagu",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following BEST accounts for the cultivation of groundnut in the northern part of Nigeria?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nloamy soil",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngood transport",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncheap labour",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nirrigation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A major physical factor restricting the cultivation of perennial crops in the Sudan savannah of Nigeria is the?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nseasonal regime of the streams",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nmenace of pest",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nseasonal pattern of rainfall",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsandy nature of the soil",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The largest deposit of gold in West Africa is found in?",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGhana",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNigeria",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nLiberia",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nSierra Leone",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The greatest obstacles to regional economic cooperation in ECOWAS are?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntransportation, different currencies and colonial heritage",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npopulation distribution, ethnicity and illiteracy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npolitical instability, smuggling and high tarrifs",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nregional inequality, low productivity and poor communication",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following countries can be described as an archipelago?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMauritania",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNigeria",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThe Gambia",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCape Verde",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In most of West Africa countries, the primary purpose of establishing the railway system was to?",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntransport export goods to the coast",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndistribute locally produce commodities",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprovide cheap means of moving passengers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsupplement river transport",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The geological structure of Africa is largely composed of?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsedimentary rocks",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvolcanic rocks",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ngranitic rocks",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncrystalline rocks",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following factors account for the traffic on Africa rivers? 1. Availability of cheaper means of transport 2. Seasonal fluctuations of river flow. 3. Pressure of water falls and rapids. 4. Rivers flowing through sparsely populated areas.",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1 and 2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2 and 3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1 and 4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3 and 4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The hope for the development of crop and animal husbandry in parts of the Sahara Desert rests on the possibility of?",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntapping the huge reserves of underground water",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ndesalinization of occean water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ninterbasin transfer of water from wetter regions",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmechanizing farming in the oases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which type of climate is depicted by the graph?",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": "https://myschool.ng/storage/classroom/2730361662_geo199320.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nHumid mid latitude in the northern hemisphere",
+        "imageUrl": "https://myschool.ng/storage/classroom/2730361662_geo199320.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nHumid subtropical in the southern hemisphere",
+        "imageUrl": "https://myschool.ng/storage/classroom/2730361662_geo199320.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nRainy tropical in the southern hemisphere",
+        "imageUrl": "https://myschool.ng/storage/classroom/2730361662_geo199320.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nEquitorial hot and wet in the northern hemisphere",
+        "imageUrl": "https://myschool.ng/storage/classroom/2730361662_geo199320.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The temperature of this region is characterized by a",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": "https://myschool.ng/storage/classroom/19112534462_geo199320.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlow annual range of about 30oC",
+        "imageUrl": "https://myschool.ng/storage/classroom/19112534462_geo199320.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nseasonal range of more than 10oC",
+        "imageUrl": "https://myschool.ng/storage/classroom/19112534462_geo199320.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nhigh diurnal range of more than 15oC",
+        "imageUrl": "https://myschool.ng/storage/classroom/19112534462_geo199320.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nmarked effect of altitude",
+        "imageUrl": "https://myschool.ng/storage/classroom/19112534462_geo199320.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The most important minerals found in the area marked X are",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": "https://myschool.ng/storage/classroom/12288804120_geo199338.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\niron ore and thorium",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288804120_geo199338.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\ngalena and tantalite",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288804120_geo199338.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nlead and zinc",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288804120_geo199338.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\ntin and columbite",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288804120_geo199338.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The major environmental problem associated with the area marked Y is",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/12288805704_geo199338.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndrought",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288805704_geo199338.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\ninsect pest",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288805704_geo199338.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\noil pollution",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288805704_geo199338.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\ngully erosion",
+        "imageUrl": "https://myschool.ng/storage/classroom/12288805704_geo199338.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The most extensive vegetation type in the area marked Z is the",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": "https://myschool.ng/storage/classroom/9557960972_geo199338.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nfresh water swamp",
+        "imageUrl": "https://myschool.ng/storage/classroom/9557960972_geo199338.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nmangrove swamp",
+        "imageUrl": "https://myschool.ng/storage/classroom/9557960972_geo199338.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\ncoastal thicket",
+        "imageUrl": "https://myschool.ng/storage/classroom/9557960972_geo199338.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nrain forest",
+        "imageUrl": "https://myschool.ng/storage/classroom/9557960972_geo199338.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the ocean currents on the map is the Benguela Current?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": "https://myschool.ng/storage/classroom/4385544684_13082102_1063569827041017_5884617_n.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385544684_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385544684_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385544684_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385544684_13082102_1063569827041017_5884617_n.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The shaded areas marked Y on the map are",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": "https://myschool.ng/storage/classroom/4385545092_13082102_1063569827041017_5884617_n.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSalt lakes",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385545092_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nMajor groundwater aquifers",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385545092_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nOil-producing areas",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385545092_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nRegions of large-scale irrigation",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385545092_13082102_1063569827041017_5884617_n.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The Ahaggar plateau is the shaded area marked",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": "https://myschool.ng/storage/classroom/14618484480_13082102_1063569827041017_5884617_n.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nP",
+        "imageUrl": "https://myschool.ng/storage/classroom/14618484480_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nQ",
+        "imageUrl": "https://myschool.ng/storage/classroom/14618484480_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nR",
+        "imageUrl": "https://myschool.ng/storage/classroom/14618484480_13082102_1063569827041017_5884617_n.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n S",
+        "imageUrl": "https://myschool.ng/storage/classroom/14618484480_13082102_1063569827041017_5884617_n.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The broken lines in the diagram above represent a",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": "https://myschool.ng/storage/classroom/27775125395_13059436_1063568247041175_1123480815_n.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRiver capture",
+        "imageUrl": "https://myschool.ng/storage/classroom/27775125395_13059436_1063568247041175_1123480815_n.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nRidge",
+        "imageUrl": "https://myschool.ng/storage/classroom/27775125395_13059436_1063568247041175_1123480815_n.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nWatershed",
+        "imageUrl": "https://myschool.ng/storage/classroom/27775125395_13059436_1063568247041175_1123480815_n.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nRift valley",
+        "imageUrl": "https://myschool.ng/storage/classroom/27775125395_13059436_1063568247041175_1123480815_n.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The main work of the rivers in the shaded area is likely to be",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": "https://myschool.ng/storage/classroom/4385546454_13059436_1063568247041175_1123480815_n.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nTerracing",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385546454_13059436_1063568247041175_1123480815_n.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nLateral Erosion",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385546454_13059436_1063568247041175_1123480815_n.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nDeposition",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385546454_13059436_1063568247041175_1123480815_n.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nDown-cutting",
+        "imageUrl": "https://myschool.ng/storage/classroom/4385546454_13059436_1063568247041175_1123480815_n.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The area shown on the map is a",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": "https://myschool.ng/storage/classroom/21927734595_13078358_1063568097041190_438323264_o.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nScarpland",
+        "imageUrl": "https://myschool.ng/storage/classroom/21927734595_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nRidge",
+        "imageUrl": "https://myschool.ng/storage/classroom/21927734595_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nDissected plain",
+        "imageUrl": "https://myschool.ng/storage/classroom/21927734595_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nRugged upland",
+        "imageUrl": "https://myschool.ng/storage/classroom/21927734595_13078358_1063568097041190_438323264_o.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The principal functions of Ubi are most likely to be",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": "https://myschool.ng/storage/classroom/24851438916_13078358_1063568097041190_438323264_o.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nReligion, health care and farming",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851438916_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nTransportation, education and commerce",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851438916_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nTransportation, manufacturing and health care",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851438916_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nFarming, education and commerce",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851438916_13078358_1063568097041190_438323264_o.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The approximate height of the rest house north-east of Jeta is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": "https://myschool.ng/storage/classroom/17542193412_13078358_1063568097041190_438323264_o.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n30m",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542193412_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n40m",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542193412_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n45m",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542193412_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n50m",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542193412_13078358_1063568097041190_438323264_o.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The drainage pattern of the Gindi river basin is",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": "https://myschool.ng/storage/classroom/24851442605_13078358_1063568097041190_438323264_o.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRectangular",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851442605_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nRadial",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851442605_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nTrellis",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851442605_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nDendritic",
+        "imageUrl": "https://myschool.ng/storage/classroom/24851442605_13078358_1063568097041190_438323264_o.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The low density of settlements in the Gindi river basin is best explained by the",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": "https://myschool.ng/storage/classroom/17542197156_13078358_1063568097041190_438323264_o.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nRough topograghy",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542197156_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nDense forest",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542197156_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nPoor transport network",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542197156_13078358_1063568097041190_438323264_o.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nScarcity of farmland",
+        "imageUrl": "https://myschool.ng/storage/classroom/17542197156_13078358_1063568097041190_438323264_o.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "GEOGRAPHY",
+    "type": "JAMB",
+    "year": 1993
+  }
+]

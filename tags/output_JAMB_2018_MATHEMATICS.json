@@ -1,0 +1,2234 @@
+[
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nLet the number of people that offer both Mathematics and Physics = y\nThen, \\((32 - y) + y + (24 - y) + 4 = 40\\)\n\\(60 - y = 40 \\implies y = 20\\)\n\\(\\therefore\\) 20 students offer both Mathematics and Physics.\nThere is an explanation video available below."
+    },
+    "text": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n20",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac {x+2}{4}\\) - \\(\\frac{2x - 3}{3}\u00a0< 4\\)\n\\(\\frac{3(x + 2) - 4(2x - 3)}{12} < 4\\)\n\\(3x + 6 - 8x + 12 < 48 \\)\n\\(18 - 5x < 48 \\implies -5x < 30\\)\n\\(\\therefore x > -6\\)\nThere is an explanation video available below."
+    },
+    "text": "Find the values of x for which",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx < 8",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nx > -6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx < 4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx > -3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLet the angle for school fees = x\u00b0\nThen Housing = 2x\u00b0\n120\u00b0 + 90\u00b0 + x\u00b0 + 2x\u00b0 = 360\u00b0\n3x\u00b0 = 150\u00b0 \\(\\implies\\) x\u00b0 = 50\u00b0.\nAmount spent on housing = \\(\\frac{100}{360} \\times 7200\\)\n= N2000.\nThere is an explanation video available below."
+    },
+    "text": "The pie chart shows the monthly expenditure of a public servant. The monthly expenditure on housing is twice that of school fees. How much does the worker spend on housing if his monthly income is N7200?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": "https://myschool.ng/storage/classroom/uXgz1XwIFRLOprFX0QRG7ZSDHiU3lqeeUD40J7b8.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1000",
+        "imageUrl": "https://myschool.ng/storage/classroom/uXgz1XwIFRLOprFX0QRG7ZSDHiU3lqeeUD40J7b8.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n2000",
+        "imageUrl": "https://myschool.ng/storage/classroom/uXgz1XwIFRLOprFX0QRG7ZSDHiU3lqeeUD40J7b8.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n3000",
+        "imageUrl": "https://myschool.ng/storage/classroom/uXgz1XwIFRLOprFX0QRG7ZSDHiU3lqeeUD40J7b8.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n4000",
+        "imageUrl": "https://myschool.ng/storage/classroom/uXgz1XwIFRLOprFX0QRG7ZSDHiU3lqeeUD40J7b8.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nProfit (P) = 10\\(_x\\) \u2212 \\(_x\\)2\n\u00a0 Maximum profit can be achieved when the differential of profit with respect to number of bags(x) is 0\n\u00a0 i.e. \\(\\frac{dp}{dx}\\) = 0\n\u00a0\\(\\frac{dp}{dx}\\) = 10 - 2x = 0\n\u00a0 10 = 2x\n\u00a0 Then x = \\(\\frac{10}{2}\\) = 5\n\u00a0 Answer is C\nThere is an explanation video available below."
+    },
+    "text": "A trader realises 10x - x\\(^2\\)\u00a0Naira profit from the sale of x bags of corn. How many bags will give him the maximum profit?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n7",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\ny = 23\\(_{five}\\) + 101\\(_{three}\\)\n23\\(_{five}\\) = \\(2 \\times 5^1 + 3 \\times 5^0\\)\n= 13\\(_{ten}\\)\n101\\(_{three}\\) = \\(1 \\times 3^2 + 0 \\times 3^1 + 1 \\times 3^0\\)\n= 10\\(_{ten}\\)\ny\\(_{ten}\\) = 13\\(_{ten}\\) + 10\\(_{ten}\\)\n= 23\\(_{ten}\\)\n= 10111\\(_{two}\\)\nThere is an explanation video available below."
+    },
+    "text": "If y = 23\\(_{five}\\) + 101\\(_{three}\\)\u00a0, find y, leaving your answer in base two",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1110",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10111",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n11101",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n111100",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe diagram shows angles at a point, the total angle at a point is 360\n\u00a0 x - 10 + 4x - 50 + 2x + 3x + 20 = 360\n\u00a0 10x - 40 = 360\n\u00a0 10x = 360 + 40\n\u00a0 10x = 400\n\u00a0 x = \\(\\frac{400}{10}\\)\n\u00a0 x = 40\nThere is an explanation video available below."
+    },
+    "text": "Find the value of x in the diagram",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": "https://myschool.ng/storage/classroom/f5IiTpx6M61r2Es0ICA5vl98vwza1HICU1lVSkD5.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/f5IiTpx6M61r2Es0ICA5vl98vwza1HICU1lVSkD5.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n28\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/f5IiTpx6M61r2Es0ICA5vl98vwza1HICU1lVSkD5.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n36\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/f5IiTpx6M61r2Es0ICA5vl98vwza1HICU1lVSkD5.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n40\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/f5IiTpx6M61r2Es0ICA5vl98vwza1HICU1lVSkD5.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{3}{4}\\) t + \\(\\frac{1}{3}\\) (21 - t) = 11\n\u00a0 Multiply through by the LCM of 4 and 3 which is 12\n\u00a0 12 x(\\(\\frac{3}{4}\\) t) + 12 x (\\(\\frac{1}{3}\\) (21 - t)) = (11 x 12)\n\u00a0 9t + 4(21 - t) = 132\n\u00a0 9t + 84 - 4t = 132\n\u00a0 5t + 84 = 132\n\u00a0 5t = 132 - 84 = 48\n\u00a0 t = \\(\\frac{48}{5}\\)\n\u00a0 t = 9 \\(\\frac{3}{5}\\)\n\u00a0 Answer is D\nThere is an explanation video available below."
+    },
+    "text": "Solve for t in the equation \\(\\frac{3}{4}\\)t +\u00a0\\(\\frac{1}{3}\\)(21 - t) = 11",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{9}{13}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{7}{13}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9\\(\\frac{3}{5}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A school girl spends \\(\\frac{1}{4}\\) of her pocket money on books and \\(\\frac{1}{3}\\)\u00a0on dress. What fraction remains?",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{5}{6}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{7}{12}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{5}{12}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{1}{6}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{b(a + 1 - x)}{a + 1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{a + 1}{b(a - x + 1)}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{a(b - x + 1)}{b + 1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{b}{a(b - x + 1)}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nTotal surface area of a cupboard is given by the equation A = 2(lb + bh + lh) L = 12, b = 10, h = 8\n\u00a0 A = 2((12 x 10) + (10 x 8) + (12 x 8))\n\u00a0 A = 2(120 + 80 + 96)\n\u00a0 A = 2 x 296\n\u00a0 A = 592cm\\(^2\\)\n\u00a0 Answer is B\nThere is an explanation video available below."
+    },
+    "text": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1920cm\\(^2\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n592cm\\(^2\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n296cm\\(^2\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n148cm\\(^2\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Convert 0.04945 to two significant figures",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.040",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.049",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.050",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.49",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPr(both John and James passed)\n\u00a0 = \\(\\frac {3}{4}\\) x \\(\\frac {3}{5}\\)\n\u00a0 = \\(\\frac {9}{20}\\)\n\u00a0 Pr(john and james failed)= 1- Pr(john and james passed)\n\u00a0 = 1 \u2013 \\(\\frac {9}{20}\\)\n\u00a0 = \\(\\frac {11}{20}\\)\n\u00a0 Answer is D\nThere is an explanation video available below."
+    },
+    "text": "The probabilities that John and James pass an examination are\u00a0\\(\\frac {3}{4}\\)and \\(\\frac {3}{5}\\) respectively. Find the probability of both boys failing the examination.",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac {1}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac {2}{10}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac {9}{20}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac {11}{20}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nLength of the arc = \\(\\frac{\\theta}{360} \\times 2\\pi r\\)\n= \\(\\frac{300}{360} \\times 2 \\times \\frac{22}{7} \\times 14\\)\n= \\(\\frac{220}{3}\\)\n= 73.33 cm\nPerimeter of the sector = Length of the arc + 2r\n= 73.33 + 2(14)\n= 101.33 cm\nThere is an explanation video available below."
+    },
+    "text": "An arc of a circle of radius 14cm subtends angle 300\u00b0 at the centre. Find the perimeter of the sector formed by the arc (take \u03c0 = \\(\\frac{22}{7}\\))",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n14.67cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n73.33 cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n101.33cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n513.33cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac {25^{\\frac{2}{3}} \\div\u00a0 25^{\\frac{1}{6}}}\u00a0{(\\frac{1}{5})^{\\frac{7}{6}} \\div\u00a0(\\frac{1}{5})^{\\frac{1}{6}}}\\)\n= \\(\\frac{25^{\\frac{2}{3} - \\frac{1}{6}}}{(\\frac{1}{5})^{\\frac{7}{6} - \\frac{1}{6}}}\\)\n= \\(\\frac{25^{\\frac{1}{2}}}{(\\frac{1}{5})}\\)\n= \\(5 \\div \\frac{1}{5}\\)\n= 25\nThere is an explanation video available below."
+    },
+    "text": "Simplify",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n25",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{1}{25}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Make T the subject of the relation.",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": "https://myschool.ng/storage/classroom/WkeMTDpzxSHugHw0Sss0b8qZkLIkwDVH9iaYUG1S.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nT = \\(\\frac{R + P3}{15Q}\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/WkeMTDpzxSHugHw0Sss0b8qZkLIkwDVH9iaYUG1S.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nT = \\(\\frac{R - 15P^3}{Q}\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/WkeMTDpzxSHugHw0Sss0b8qZkLIkwDVH9iaYUG1S.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nT =R - \\(\\frac{15P^3}{Q}\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/WkeMTDpzxSHugHw0Sss0b8qZkLIkwDVH9iaYUG1S.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nT = \\(\\frac{15R + Q}{P^3}\\)",
+        "imageUrl": "https://myschool.ng/storage/classroom/WkeMTDpzxSHugHw0Sss0b8qZkLIkwDVH9iaYUG1S.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "What is the place value of 9 in the number 3.0492?",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{9}{10000}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{9}{1000}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{9}{100}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{9}{10}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "If the simple interest on a sum of money invested at 3% per annum for 2\\(\\frac{1}{2}\\)\u00a0\u00a0years is N123, find the principal.",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN676.50",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN820",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN1,640",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN4,920",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nSince it depreciates by 10% At the end of first year, its value = 90% of 20000\n\u00a0 = \\(\\frac{90}{100}\\) x 20000 =18000\n\u00a0 At the end of second year, its value = 90% of 18000\n\u00a0 = \\(\\frac{90}{100}\\) x 18000 = \u20a616,200\n\u00a0 Answer is A\nThere is an explanation video available below."
+    },
+    "text": "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN16,200",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN14,200",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN12,000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN8,000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nTotal frequency = 1 + 2 + 7 + 5 + 4 + 3 = 22\n\u00a0 Median is the middle number\n\u00a0= \\(\\frac{Nth}{2}\\)\n\u00a0 term = \\(\\frac{22th}{2}\\) = 11th term\n\u00a0 Going in ascending order, 11th term is 3, going in descending order 11th term is 3\n\u00a0 Median = 3 + \\(\\frac{3}{2}\\) = \\(\\frac{6}{2}\\) = 3\n\u00a0 Answer is C\nThere is an explanation video available below."
+    },
+    "text": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{1}{11}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{5}{22}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{7}{22}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{6}{11}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n24",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nsince 1litre cost \u20a663\n\u00a0 So \u20a6900 is the cost of \\(\\frac{900}{63}\\) litres\n\u00a0 = 14.2857litres of petrol\nnbsp; The car uses 1 litre for 14km\n\u00a0 So 14.2857 litres will be used for (14.2857 x 14)\n\u00a0 = 200km\n\u00a0 Answer is D\nThere is an explanation video available below."
+    },
+    "text": "A car uses one litre of petrol for every 14km. If one litre of petrol cost N63.00, how far can the car go with N900.00 worth of petrol?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n420Km",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n405Km",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n210Km",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n200Km",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of \u2220EHF",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": "https://myschool.ng/storage/classroom/91UltQHRpqqUoY6EZiyH5dvwovjXe7wrZehmfVJB.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n126\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/91UltQHRpqqUoY6EZiyH5dvwovjXe7wrZehmfVJB.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n72\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/91UltQHRpqqUoY6EZiyH5dvwovjXe7wrZehmfVJB.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n54\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/91UltQHRpqqUoY6EZiyH5dvwovjXe7wrZehmfVJB.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n28\u00b0",
+        "imageUrl": "https://myschool.ng/storage/classroom/91UltQHRpqqUoY6EZiyH5dvwovjXe7wrZehmfVJB.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nIn terms of distance, a circle has a total distance or perimeter of 2\u03c0r or \u03c0d\n\u00a0 Where r is radius and d\u00a0is the diameter\n\u00a0 So perimeter = \\(\\frac{22}{7}\\) x 100\n\u00a0 = 314.2857m\n\u00a0 To cover a distance of 1000m, he is going to round the circular track for \\(\\frac{1000}{314.2857}\\) = 3.18\n\\(\\approxeq\\) 3 (to the nearest whole number)\nThere is an explanation video available below."
+    },
+    "text": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "\\(\\frac{0.00256 \\times 0.0064}{0.025 \\times 0.08}\\)",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8.8 x 10\\(^{-1}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8.8 x 10\\(^{-2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8.2 x 10\\(^{-3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.8 x 10\\(^{3}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\)\u00a0of her share to Taiwo for N720.00. Find the value of the\u00a0store",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN1,080.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN2,400.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN3,000.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN3,600.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nGiven length of the room = 12m; breadth = 9m and height = 8m.\nThe room is a cuboid in shape, therefore the length of the diagonal = \\(\\sqrt{l^2 + b^2 + h^2}\\)\n= \\(\\sqrt{12^2 + 9^2 + 8^2}\\)\n=\\(\\sqrt{289}\\)\n= 17m.\nThe diagonal makes an angle with the diagonal of the floor: \\(\\sqrt{12^2 + 9^2}\\)\n= \\(\\sqrt{225}\\)\n= 15m\nThe cosine of the angle that the diagonal makes with the floor (\\(\\theta\\)) = \\(\\frac{15}{17}\\).\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room.",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{15}{17}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{9}{17}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{8}{15}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{12}{17}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n48",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Find the equation of the line through (5,7) parallel to the line 7x + 5y = 12",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5x + 7y = 20",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n7x + 5y = 70",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nxy = 7",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15x + 17y = 90",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nSince the salary increases by #36 after every 6 months\n: 2\u00a0years and 8 months imply an\u00a0increase of five\u00a0times only:\n36 * 5\u00a0\u2192\u00a0 #180\n\u00a0His salary then = initial salary + increment\n\u00a0 = 540 + 180\n\u00a0 = #720\n\u00a0 Answer is C\nThere is an explanation video available below."
+    },
+    "text": "A man's initial salary is N540.00 a month and increases after each period of six months by N36.00. Find his salary in the eight month of the third year.",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nN828.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nN756.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nN720.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nN684.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nTan 74 = 150/x\n\u00a0 x = 150/tan 74\n\u00a0 = 43.01cm\nThere is an explanation video available below."
+    },
+    "text": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74\u00b0. Find the distance of the boat from the base of the tree.",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n52cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n43cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n40cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n6x\\(^2\\) - 2x + 1\n\\(\\frac{6x^{2+1}}{2+1} - \\frac{2x^{1+1}}{1+1}+ 1x = \\frac{6x^3}{3} - \\frac{2x^2}{2}\u00a0+ x\\)\n\\(2x^3\u00a0- x^2 + x + c\\)\nThere is an explanation video available below."
+    },
+    "text": "Integrate the expression 6x\\(^2\\) - 2x + 1",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3x\\(^3\\) - 2x\\(^2\\) + x + c",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2x\\(^3\\) - x\\(^2\\) + x + c",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2x\\(^3\\) \u2013 3x\\(^2\\) + c",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx\\(^3\\) + x\\(^2\\) \u2013 x + c",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nThe word LEADER has 1L 2E 1A 1D and 1R making total of 6! \\(\\frac{6}{1!2!1!1!1!}\\) = \\(\\frac{6!}{2!}\\)\n\u00a0 = \\(\\frac{6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1}{2 \\times 1}\\)\n\u00a0 = 360\nThere is an explanation video available below."
+    },
+    "text": "In how many ways can the letters LEADER be arranged?",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n72",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n144",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n360",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n720",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFrom the figure,\n\u00a0 \u2220 XMN = \u2220 XZY\n\u00a0 Angle X is common\n\u00a0 So, \u2220 XNM = \u2220 XYZ\n\u00a0 Then from the angle relationship\n\u00a0 \\(\\frac{XM}{XZ}\\) = \\(\\frac{XN}{XY}\\) = \\(\\frac{MN}{ZY}\\)\n\u00a0 XM = 8, XZ = 12 + 4 = 16,\n\u00a0 XN = 12, XY = 8 + YM\n\u00a0 \\(\\frac{8}{16}\\) = \\(\\frac{12}{(8 +\u00a0YM) }\\)\n\u00a0 Cross multiply\n\u00a0 8(8 + YM) = 192\n\u00a0 64 + 8YM = 192\n\u00a0 8YM = 128\n\u00a0 YM = \\(\\frac{128}{8}\\)\n\u00a0 = 16cm\nThere is an explanation video available below."
+    },
+    "text": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and \u2220 XMN = \u2220 XZY. Calculate /YM/",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": "https://myschool.ng/storage/classroom/DVp8gg97OuYlEzIaP3Co2M5JrRQ8dIsucx4SfBIN.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n32cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/DVp8gg97OuYlEzIaP3Co2M5JrRQ8dIsucx4SfBIN.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n24 cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/DVp8gg97OuYlEzIaP3Co2M5JrRQ8dIsucx4SfBIN.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n16 cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/DVp8gg97OuYlEzIaP3Co2M5JrRQ8dIsucx4SfBIN.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n12 cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/DVp8gg97OuYlEzIaP3Co2M5JrRQ8dIsucx4SfBIN.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe two numbers must be expressed in the same unit. To convert 495g to kg, it will be divided by 1000\n\u00a0 495g = \\(\\frac{495}{1000}\\)\n\u00a0 = 0.495kg\n\u00a0 To express in percentage, 0.495 will be divided by 16.5 and then multiplied by 100\n\u00a0 % will be added to the answer \\(\\frac{0.4950}{16.5}\\) x 100\n\u00a0 = 3%\nThere is an explanation video available below."
+    },
+    "text": "Express 495g as a percentage of 16.5kg",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n3 \\(\\frac{1}{3}\\)%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n15%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n30%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n2\u221a3 - 4) ( 2\u221a3 + 4)\n\u00a0 = 12 + 8\u221a3 - 8\u221a3 \u2013 16\n\u00a0 = 12 \u2013 16\n\u00a0 = -4\n\u00a0 The two expressions in the bracket are conjugate of each other\nThere is an explanation video available below."
+    },
+    "text": "Evaluate (2\u221a3 - 4) (2\u221a3 + 4)",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe gradient to the curve is found by differentiating the curve equation with respect to x\n\u00a0 So \\(\\frac{dy}{dx}\\) 2x - 2\n\u00a0 The gradient of the curve is the same with that of the tangent.\n\u00a0 At point (2, 0) \\(\\frac{dy}{dx}\\) = 2(2) - 2\n\u00a0 = 4 \u2013 2 = 2\n\u00a0 The equation of the tangent is given by (y - y1) \\(\\frac{dy}{dx}\\) (x \u2013 x1)\n\u00a0 At point (x1, y1) = (2, 0)\n\u00a0 y - 0 = 2(x - 2)\n\u00a0 y = 2x - 4\nThere is an explanation video available below."
+    },
+    "text": "Find the equation of the tangent at the point (2, 0) to the curve y = x\\(^2\\) - 2x",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ny = 2x - 4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ny = 2x + 4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ny = 2x - 2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ny = 2x + 2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe minimum value is the lowest value of the curve on y axis which gives a value of -5.3\nThere is an explanation video available below."
+    },
+    "text": "Use the quadratic equation curve to answer this questions\nWhat is the minimum value of the graph?",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": "https://myschool.ng/storage/classroom/2Cgh2bwCU6f3MIa0qJaW0VIlja87QJBISZL1svpK.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-5.3",
+        "imageUrl": "https://myschool.ng/storage/classroom/2Cgh2bwCU6f3MIa0qJaW0VIlja87QJBISZL1svpK.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n0.5",
+        "imageUrl": "https://myschool.ng/storage/classroom/2Cgh2bwCU6f3MIa0qJaW0VIlja87QJBISZL1svpK.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": "https://myschool.ng/storage/classroom/2Cgh2bwCU6f3MIa0qJaW0VIlja87QJBISZL1svpK.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n8",
+        "imageUrl": "https://myschool.ng/storage/classroom/2Cgh2bwCU6f3MIa0qJaW0VIlja87QJBISZL1svpK.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nlog\\(_2\\) 8 \u2013 log\\(_3\\) \\(\\frac{1}{9}\\)\n\u00a0 = log \\(_2\\) 2\\(^3\\) \u2013 log\\(_3\\) 9\\(^{-1}\\)\n\u00a0 = log\\(_2\\) 2\\(^3\\) \u2013 log\\(_3\\) 3\\(^{-2}\\)\n\u00a0 Based on law of logarithm\n\u00a0 = 3 log\\(_2\\) 2 \u2013 (-2 log\\(_3\\) 3)\n\u00a0 But log\\(_2\\) 2 = 1,\n\u00a0 log\\(_3\\) 3 = 1\n\u00a0 So, = 3 + 2\n\u00a0 = 5\nThere is an explanation video available below."
+    },
+    "text": "Evaluate log\\(_2\\) 8 \u2013 log\\(_3\\) \\(\\frac{1}{9}\\)",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-1 1\\(\\frac{1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\u00a0 First quadrant: Sin, Cos and Tan are all positive\n\u00a0 Second quadrant: Sin is positive, Cos is negative and Tan is negative\n\u00a0 Third quadrant: Tan is positive, Sin is negative and Cos is negative\n\u00a0 Fourth quadrant: Cos is positive, Sin is negative and Tan is negative\n\u00a0 The correct option is the third quadrant only where Tan\u03b8 is positive and Sin\u03b8 is negative\nThere is an explanation video available below."
+    },
+    "text": "Tan\u03b8 is positive and Sin\u03b8 is negative. In which quadrant does \u03b8 lies",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nSecond only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThird only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nFourth only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nFirst and third only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe total number of students is \u2211 f = 3 + 4 + 5 + 6 + 7 + 6 + 5 + 4\n\u00a0 = 40\nThere is an explanation video available below."
+    },
+    "text": "",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": "https://myschool.ng/storage/classroom/NPMTWTqcHTwcdJdRXq57DH7T1xVnVTZXPB6zOzHm.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n36",
+        "imageUrl": "https://myschool.ng/storage/classroom/NPMTWTqcHTwcdJdRXq57DH7T1xVnVTZXPB6zOzHm.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n40",
+        "imageUrl": "https://myschool.ng/storage/classroom/NPMTWTqcHTwcdJdRXq57DH7T1xVnVTZXPB6zOzHm.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n44",
+        "imageUrl": "https://myschool.ng/storage/classroom/NPMTWTqcHTwcdJdRXq57DH7T1xVnVTZXPB6zOzHm.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n50",
+        "imageUrl": "https://myschool.ng/storage/classroom/NPMTWTqcHTwcdJdRXq57DH7T1xVnVTZXPB6zOzHm.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nA = (p, q, r, t, u, v)\n\u00a0 B = (r, s, t, u)\n\u00a0 A U B = Elements in both A and B = (p, q, r, s, t, u, v)\n\u00a0 (A U B)1 = elements in the universal set E but not in (A U B)= (w, x, y, z)\n\u00a0 n(A U B) 1 = number of the elements in (A U B)1 = 4\nThere is an explanation video available below."
+    },
+    "text": "The figure above\u00a0is a Venn diagram showing the elements arranged within sets A,B,C,\u03b5.\nUse the figure to answer this question",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": "https://myschool.ng/storage/classroom/ldSRxCNo55SRZR9HvwZ8UUvU5fzGMjs1psZWQ97B.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": "https://myschool.ng/storage/classroom/ldSRxCNo55SRZR9HvwZ8UUvU5fzGMjs1psZWQ97B.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n3",
+        "imageUrl": "https://myschool.ng/storage/classroom/ldSRxCNo55SRZR9HvwZ8UUvU5fzGMjs1psZWQ97B.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n4",
+        "imageUrl": "https://myschool.ng/storage/classroom/ldSRxCNo55SRZR9HvwZ8UUvU5fzGMjs1psZWQ97B.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n7",
+        "imageUrl": "https://myschool.ng/storage/classroom/ldSRxCNo55SRZR9HvwZ8UUvU5fzGMjs1psZWQ97B.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nLocus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.\nThere is an explanation video available below."
+    },
+    "text": "What is the loci of a distance 4cm from a given point P?",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA straight line of length 4cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na circle of radius 4cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nperpendicular to point P at 4cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na circle of diameter 4cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nSin(5x - 28) = Cos(3x - 50)\u2026\u2026\u2026..i\n\u00a0 But Sin\u03b1 = Cos(90 - \u03b1)\n\u00a0 So Sin(5x - 28) = Cos(90 - [5x - 28])\n\u00a0 Sin(5x - 28) = Cos(90 - 5x + 28)\n\u00a0 Sin(5x - 28) = Cos(118 - 5x)\u2026\u2026\u2026ii\n\u00a0 Combining i and ii\n\u00a0 Cos(3x - 50) = Cos(118 - 5x)\n\u00a0 3x - 50 = 118 - 5x\n\u00a0 Collecting the like terms\n\u00a0 3x + 5x = 118 + 50\n\u00a0 8x = 168\n\u00a0 x = \\(\\frac{168}{8}\\)\n\u00a0 x = 21\\(^o\\)\n\u00a0 Answer is B\nThere is an explanation video available below."
+    },
+    "text": "Given that Sin (5\\(_x\\) \u2212 28)\\(^o\\) = Cos(3\\(_x\\) \u2212 50)\\(^o\\), o < x < 90\\(^o\\)\nFind the value of x",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n14\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n21\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n32\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n39\\(^o\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nPrime numbers are numbers that has only two factors (i.e 1 and itself). They are numbers that are only divisible by 1 and their selves. First four Prime numbers greater than 10 are 11, 13, 17 and 19\n\u00a0 Average = sum of numbers / number\n\u00a0 = \\(frac{(11 + 13 + 17 + 19)}{4}\\)\n\u00a0 = \\(\\frac{60}{4}\\)\n\u00a0 = 15\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "Find the average of the first four prime numbers greater than 10",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n20",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n19",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n17",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n15",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nThe modal age is the age with the highest frequency, and that is age 5 years with f of 7\nThere is an explanation video available below."
+    },
+    "text": "What is the modal age?",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": "https://myschool.ng/storage/classroom/XGnFFe18OLqce38zIgy4YeBcLYQs6iBKxGxjvG5H.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": "https://myschool.ng/storage/classroom/XGnFFe18OLqce38zIgy4YeBcLYQs6iBKxGxjvG5H.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": "https://myschool.ng/storage/classroom/XGnFFe18OLqce38zIgy4YeBcLYQs6iBKxGxjvG5H.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n6",
+        "imageUrl": "https://myschool.ng/storage/classroom/XGnFFe18OLqce38zIgy4YeBcLYQs6iBKxGxjvG5H.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n7",
+        "imageUrl": "https://myschool.ng/storage/classroom/XGnFFe18OLqce38zIgy4YeBcLYQs6iBKxGxjvG5H.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n0.04945 to 2s.f is 0.049\nThere is an explanation video available below."
+    },
+    "text": "Convert 0.04945 to two significant figures",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.040",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.049",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.050",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.49",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nSince they are of different base, convert to base 10\n\u00a0 243\\(_{six}\\) = (2 x 62) + (4 x 61) + (3 x 60)\n\u00a0 = 72 + 24 + 3 = 99 base 10\n\u00a0 243\\(_{six}\\) = 2 x 52 + 4 x 51 +3 x 50\n\u00a0 50 + 20 + 3 = 73 base 10\n\u00a0 Subtracting them, 99 - 73\n\u00a0 = 26\nThere is an explanation video available below."
+    },
+    "text": "Calculate 243\\(_{six}\\) \u2013 243\\(_{five}\\) expressing your answer in base 10",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n26",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n46",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\u222b\\(\\frac{5}{x}\\) dx = 5 \u222b\\(\\frac{1}{x}\\) = 5Inx\n\u00a0 Since the integral of \\(\\frac{1}{x}\\) is Inx\n\u00a0 \u222b\\(^2\\) \\(_1\\)\u222b \\(\\frac{5}{x}\\) dx = 5\n\u00a0 dx = 5 (In<2 \u2013 InIn1)\n\u00a0 = 3.4657\n\u00a0 = 3.47\nThere is an explanation video available below."
+    },
+    "text": "Evaluate \u222b\\(^2_1\\) \\(\\frac{5}{x}\\) dx",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.47",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.67",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.23",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3.47",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nP( tail on a coin) = \\(\\frac{1}{2}\\)\n\u00a0 Even numbers on a care 2, 4 and 6\n\u00a0 P( even number on a die) = \\(\\frac{3}{6}\\) = \\(\\frac{1}{2}\\)\n\u00a0 P( tail on a coin and even number on a die) = \\(\\frac{1}{2}\\) x \\(\\frac{1}{2}\\) = \\(\\frac{1}{4}\\)\nThere is an explanation video available below."
+    },
+    "text": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+    "structure": "OBJECTIVE",
+    "number": 50,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{1}{16}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{1}{6}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{3}{8}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nTo form words having 3 consonants and 2 vowels out of 7 consonants and 4 vowels, the number of such words is 7/3C x 4/2C = 35 x 6\n\u00a0 = 210\nThere is an explanation video available below."
+    },
+    "text": "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+    "structure": "OBJECTIVE",
+    "number": 51,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n210",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1050",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n21400",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25200",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nUsing Pythagoras theorem\n\u00a0 PR\\(^2\\) = 5\\(^2\\) + 12\\(^2\\)\n\u00a0 25 + 144 = 169\n\u00a0 PR = \u221a(169)= 13km\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "From a point P, Q\u00a0is 5km due West and\u00a0R is12km due South of Q. Find the distance between P and R.",
+    "structure": "OBJECTIVE",
+    "number": 52,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5km",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n12km",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n13km",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n17km",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\n\n\nFirst we convert the numbers to base ten\n\u00a0 23\\(_{five}\\)= 2 x 51 + 3 x 50\n\u00a0 = 10 + 3 = 13\n\u00a0 101\\(_{five}\\) = (1 x 32) + (0 x 31) + (1 x 30)\n\u00a0 = 9 + 0 + 1 = 10\n\u00a0 So, y = 13 + 10 = 23\n\u00a0 To convert 23 to base 2 (as in the diagram above)\nY = 23\n\u00a0 = 10111\\(_{five}\\)\nAnswer is B\nThere is an explanation video available below."
+    },
+    "text": "if y = 23\\(_{five}\\) + 101\\(_{three}\\) find y leaving your answer in base two",
+    "structure": "OBJECTIVE",
+    "number": 53,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1110",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10111",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n11101",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n111100",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nTotal number of balls = 2 + 4 = 6\n\u00a0 P(of picking a red ball) = \\(\\frac{2}{6}\\) = \\(\\frac{1}{3}\\)\n\u00a0 P(of picking a blue ball) = \\(\\frac{4}{6}\\) = \\(\\frac{2}{3}\\)\n\u00a0 With replacement,\n\u00a0 P( picking two red balls) = \\(\\frac{1}{3}\\) \u00d7 \\(\\frac{1}{3}\\) = \\(\\frac{1}{9}\\)\nThere is an explanation video available below."
+    },
+    "text": "A box contains two red balls and four blue balls. A ball is drawn at random from the box and then replaced before a second ball is drawn. Find the probability of drawing two red balls.",
+    "structure": "OBJECTIVE",
+    "number": 54,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{2}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{1}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{1}{9}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nA1 = Elements in the universal set but not in A = {s, w, x, y, z}\n\u00a0 B = {r, s. t, u}\n\u00a0 C = {t, u, v, w, x}\n\u00a0 A1 n B n C = elements common to the three sets = none = empty set = \u03a6\nThere is an explanation video available below."
+    },
+    "text": "Which one of the following gives the members of the set A1 n B n C?",
+    "structure": "OBJECTIVE",
+    "number": 55,
+    "imageUrl": "https://myschool.ng/storage/classroom/1h4J8JwhwXMiWuf8oiXD2vXzN4nJbv9tTRqxZsHn.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\u03a6",
+        "imageUrl": "https://myschool.ng/storage/classroom/1h4J8JwhwXMiWuf8oiXD2vXzN4nJbv9tTRqxZsHn.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n{s}",
+        "imageUrl": "https://myschool.ng/storage/classroom/1h4J8JwhwXMiWuf8oiXD2vXzN4nJbv9tTRqxZsHn.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n{t, u}",
+        "imageUrl": "https://myschool.ng/storage/classroom/1h4J8JwhwXMiWuf8oiXD2vXzN4nJbv9tTRqxZsHn.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n{y, z}",
+        "imageUrl": "https://myschool.ng/storage/classroom/1h4J8JwhwXMiWuf8oiXD2vXzN4nJbv9tTRqxZsHn.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAn equilateral triangle has all sides equal and all angles equal as 600\n\u00a0 Area = \\(\\frac{1}{2}\\) absin\u03b8\n\u00a0 Area = \\(\\frac{1}{2}\\) x 8 x 8 x sin60\n\u00a0 = \\(\\frac{1}{2}\\) x 64 x \\(\\sqrt{\\frac{3}{2}}\\)\n\u00a0 = 16\u221a3 cm\\(^2\\)\nThere is an explanation video available below."
+    },
+    "text": "Calculate the area of an equilateral triangle of side 8cm",
+    "structure": "OBJECTIVE",
+    "number": 56,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8\u221a3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4\u221a3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n16\u221a3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n9 is on one decimal place, the next number to it is 8 which will be rounded up to 1 because it is greater than 5 and then added to 9 to give 10, 10 cannot be written, it will then be rounded up to 1 and added to 0.\n\u00a0 So the answer is 1.0\nThere is an explanation video available below."
+    },
+    "text": "Approximate 0.9875 to 1 decimal place.",
+    "structure": "OBJECTIVE",
+    "number": 57,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.9",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.10",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nUsing law of indices\n25\\(\\frac{1}{2}\\) \u00d7 8\\(\\frac{-2}{3}\\)\n\u00a0 = \u221a25 x (\\(\\sqrt[3]{8}\\)) -2\n\u00a0 = 5 x 2-2\n\u00a0 = 5 x \\(\\frac{1}{2^2}\\) =\n\u00a0\\(\\frac{5}{4}\\) = \\(\\frac{11}{4}\\)\n\u00a0 Answer is A\nThere is an explanation video available below."
+    },
+    "text": "Simplify 25\\(\\frac{1}{2}\\) \u00d7 8\\(\\frac{-2}{3}\\)",
+    "structure": "OBJECTIVE",
+    "number": 58,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2\\(\\frac{1}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n10",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\n\n\nCos \u03b8 = \\(\\frac{adj}{hyp}\\)\n\u00a0 = \\(\\frac{300}{600}\\)\n\u00a0 = 0.5\n\u00a0 \u03b8 = Cos - 10.5\n\u00a0 = 60\n\u00a0 \u2220 RPQ = \u2220 PQs\n\u00a0 So the bearing of P from Q is 180 + 60 = 240\\(^o\\)\n\u00a0 Answer is D\nThere is an explanation video available below."
+    },
+    "text": "From a point R, 300m north of P, a man walks eastwards to a place; Q which is 600m from P. Find the bearing of P from Q correct to the nearest degree",
+    "structure": "OBJECTIVE",
+    "number": 59,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n026\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n045\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n210\\(^o\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n240\\(^o\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n54 \\(_{eight}\\) and 67\\(_{eight}\\) = 1438\n\u00a0 Starting with normal addition, 4 + 7 gives 11\n\u00a0 (it is more than the base, 8) 8 goes in 11 just 1 time, remaining 3, the remainder will be written, and the 1 will be added to the sum of 5 and 6 which gives 12 altogether, 8 goes in 12 one time remaining 4, the remainder 4 was written and then the 1 that was the quotient was then written since nothing to add the 1 to.\n\u00a0 So answer is 143 in base eight\nThere is an explanation video available below."
+    },
+    "text": "Add 54 \\(_{eight}\\) and 67\\(_{eight}\\) giving your answers in base eight",
+    "structure": "OBJECTIVE",
+    "number": 60,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n111",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n121",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n123",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n143",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\n\n\nx\n1\n2\n3\n4\n\n\n1\n1*\n2*\n3*\n4*\n\n\n2\n2*\n4*\n6*\n8\n\n\n3\n3*\n6*\n9\n12\n\n\n4\n4*\n8\n12\n16\n\n\n\nThe numbers that are not greater than 6 are either less than 6 or equal to 6.\nP(picking a number not greater than 6) = \\(\\frac{10}{16}\\)\n= \\(\\frac{5}{8}\\)\nThere is an explanation video available below."
+    },
+    "text": "If X, Y can take values from the set (1, 2, 3 ,4), find the probability that the product of X and Y is not greater than 6",
+    "structure": "OBJECTIVE",
+    "number": 61,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{5}{8}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{5}{16}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{1}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{3}{8}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\(\\begin{vmatrix} 3 & 5 & -4 \\\\ 6 & -3 & -5 \\\\ -2 & 2 & 1 \\end{vmatrix}\\)\n= \\(3(-3 - (-10)) - 5(6 - 10) + (-4)(12 - 6)\\)\n= \\(21 + 20 - 24\\)\n= 17\nThere is an explanation video available below."
+    },
+    "text": "If \\(N = \\begin{pmatrix} 3 & 5 & -4 \\\\ 6 & -3 & -5 \\\\ -2 & 2 & 1 \\end{pmatrix}\\), find \\(|N|\\).",
+    "structure": "OBJECTIVE",
+    "number": 62,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n65",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n23",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n17",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n91",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2018
+  }
+]

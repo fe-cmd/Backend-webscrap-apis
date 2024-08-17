@@ -1,0 +1,1766 @@
+[
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is the most suitable for use as an altimeter?",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA mecury barometer",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nA fortin barometer",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nA mecury manometer",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAn aneroid barometer",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nhorizontal component = W cos(90o - \\(\\theta\\))\n\n= W sin"
+    },
+    "text": "A body of weight W N rest on a smooth plane inclined at an angle\\(\\theta\\)o to the horizontal. What is the resolved part of the weight in Newtons along the plane?",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nW sin\\(\\theta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nW cos\\(\\theta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nW sec\\(\\theta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nW tan\\(\\theta\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nTime from tower to top, t = \\(\\frac{u - v}{g}\\)\n\n= \\(\\frac{20 - 0}{10}\\)\n\n= 2s\n\ndistance from tower to top\n\nx = ut - \\(\\frac{1}{2}\\)gt2\n\n= (20 x 2) - (\\(\\frac{1}{2}\\) x 10 x 2 x 2)\n\n= 20m\n\nTime from the top to the ground, t = 6 - 2\n\n= 4s\n\ndistance from top to ground,\n\nx = ut - \\(\\frac{1}{2}\\)gt2\n\n= (0 x 4) + (\\(\\frac{1}{2}\\) x 10 x 4 x 4)\n\n= 80cm\n\ntherefore, height of tower = 80 - 20 \n\n= 60m"
+    },
+    "text": "A small metal ball thrown vertically upwards from the top of a tower with an initial velocity of 20ms-1. If the ball took a total of 6s to reach ground level, determine the height of the tower [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n60m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n80m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n100m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An object moves with uniform speed round a circle. Its acceleration has",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconstant magnitude and constant direction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nconstant magnitude and varying direction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nvarying magnitude but constant direction",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nvarying magnitude and varying direction",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nInitial momentum = 0.1 x 10 = 1Ns\n\nfinal velocity = -2ms-1\n\nFinal momentum = -2 x 0.1 = -0.2Ns\n\nChange in momentum = -0.2 - 1 = -1.2Ns"
+    },
+    "text": "A body of mass 100g moving with a velocity of 10.0ms-1 collides with a wall. If after collision, it moves with a velocity of 2.0ms-1 in the opposite direction, calculate the change in momentum.",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.8Ns",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1.2Ns",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12.0Ns",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80.0Ns",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nP.E = \\(\\frac{1}{2}\\)Fe\n\n= \\(\\frac{1}{2}\\)\\(\\frac{F}{K}\\)\n\n= \\(\\frac{1}{2}\\) x \\(\\frac{75 \\times 75}{1500}\\)\n\n= 1.9J"
+    },
+    "text": "A spring of force constant 1500Nm-1 is acted upon by a constant force of 75N. Calculate the potential energy stored in the string",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.9J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.8J",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.45J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.43J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nEfficiency = m.A x \\(\\frac{1}{V.R}\\) x 100%\n\n85 = \\(\\frac{load}{1200}\\) x \\(\\frac{10}{80}\\) x \\(\\frac{100}{1}\\)\n\nload = 8160N"
+    },
+    "text": "A wheel and axle have radii 80cm and 10cm respectively. If the efficiency of the machine is 0.85, an applied force of 1200N to the wheel will raise a load of",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8.0N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.8N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8160N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9600N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nEfficiency = m.A x \\(\\frac{1}{V.R}\\) X 100%\n\n75 = \\(\\frac{20 \\times 10}{effort}\\) x \\(\\frac{1}{\\frac{g}{sin\\theta}}\\) x 100%\n\nEffort = 133.3N"
+    },
+    "text": "A 20kg mass is to be pulled up a slope inclined at 30o to the horizontal. If the efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n13.3N",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n73.5N",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n133.3N",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n53.2N",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nlet the length be Lcm \n\n\\(\\frac{5 - 3}{25 - L}\\) = \\(\\frac{10 - 5}{30 - 25}\\)\n\nL = 23cm"
+    },
+    "text": "The spiral spring of a spring balance is 25.0cm long when 5N hangs on it and 30cm long, when the weight is 10N. What is the length of the spring if the weight is 3N assuming Hooke's law is obeyed?",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n15.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n17.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n23.0cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nR.D = \\(\\frac{\\text{ mass of liquid displaced}}{\\text {mass of water displaced}}\\)\n\n2 = \\(\\frac{m - 10}{m - 15}\\)\n\nm = 20g"
+    },
+    "text": "The mass of a stone is 15.0g when completely immersed in water and 10.0g when completely immersed in a liquid of relative density 2.0. The mass of the stone in air is",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.0g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n12.0g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n20.0g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25.0g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nDifference in pressure = 75 - 63 \n\n= 12cmHg \n\npressure = hge \n\ndifference in height = \\(\\frac{12}{10 \\times \\frac{0.00013}{13}}\\)\n\n= 1200m"
+    },
+    "text": "A pilot records the atmospheric pressure outside its plane as 63cm of Hg while a ground observer records a reading of 75cm of Hg for the atmospheric pressure on the ground. Assuming that the density of the atmosphere is constant, calculate the height of the plane above the ground. (Relative density of Hg = 13.0 and that of air = 0.00013)",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1200m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6300m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7500m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n13800m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\u00a0A carefully placed small needle can be made to float on the surface of water even though it is several times as dense as water. If the surface is agitated to break up the surface tension, then needle will quickly sink."
+    },
+    "text": "In which of the following is surface tension important?",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe floating of a ship in water",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe floating of a dry needle in water",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe floating of a baloon in air",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe diffusion of sugar solution across a membrane",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n100oC ... 90oS\n\n\\(\\theta\\)oC ... 60oS\n\n0oC ... 30oS\n\n\\(\\frac{\\theta - 0}{100 - 0}\\) = \\(\\frac{60 - (-30)}{90 - (-30)}\\)\n\n\\(\\theta\\) = 75oC"
+    },
+    "text": "A thermometer with an arbitrary scale S, of equal division registers -30oS at the ice point and +90oS at the steam point. Calculate the Celsius temperature corresponding to 60oS",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n25.0oC",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n50.0oC",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n66.7oC",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n75.0oC",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\alpha\\) = \\(\\frac{L_2 - L_1}{L_1 \\times \\Delta \\theta}\\)\n\n18 x 10-6 = \\(\\frac{L_2 - 2}{2\\times 100}\\)\n\nL = 2.0036m"
+    },
+    "text": "A brass rod is 2m long at a certain temperature. What is the length for a temperature rise of 100K, if the expansivity of brass is 18 x 10-6K-1?",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2.0036m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0018cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.1800",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0360m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nHeat by water = mc\\(\\theta\\)\n\nHeat by steam = mc\\(\\theta\\) + mL\n\nDifference = mL = 4 x 2,260,000\n\n= 9,040,000J"
+    },
+    "text": "What is the difference in the amount of heat given out by 4kg of steam and 4kg of water when both are cooled from 100oC to 80oC? [the specific latent heat of steam is 2,260,000Jkg-1, specific heat capacity of water is 4200Jkg-1K-1]",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4200J",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2,260,OOOJ",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9,040,000J",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n9,380,000J",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nHeat energy = Elect. energy \n\nmc\\(\\theta\\) = power x time \n\n1 x 4200 x (50 - 20) = 750 x t\n\nt = 168s"
+    },
+    "text": "How long does it take a 750W heater to raise the temperature of 1kg of water from 20oC to 50oC [specific heat capacity of water = 4200Jkg-1K-1]",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n84s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n112s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n168s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n280s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The saturated vapour pressure of a liquid increases as the",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nvolume of the liquid increases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvolume of the liquid decreases",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntemperature of the liquid increases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntemperature of the liquid decreases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The absolute temperature of a perfect gas is proportional to the average",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npotential energy of the molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nseperation between the molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nkinetic energy of the molecules",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nvelocity of the molecules",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A room is heated by means of a charcoal fire, An occupant of the room standing away from the fire is warmed mainly by",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nconvection",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nradiation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nconduction",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreflection",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nTotal time = (3 x 60) + 29\n= 209sec\n\nperiod \\(\\frac{t}{n}\\) = \\(\\frac{209}{90}\\)\n\n= 2.32sec"
+    },
+    "text": "A boy timed 30 oscillations of a certain pendulum thrice and obtained 1min. 10s, 1min. 12s and 1min. 7s respectively.The mean period of oscillation of the pendulum is",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.14s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.43s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.32s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.97s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following is TRUE of light and sound waves?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthey both transmit energy",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthey both need a mediumfor propagation",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthey are both transverse waves",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ntheir velocities in air are equal",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The image in a pin-hole camera is",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nerrect and formed by refraction through a lens",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nvirtual and formed by dispersion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nerect and gets sharper as the hole becomes larger",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ninverted and formed by the light from each point travelling in a straight line",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When a plane mirror at which a ray is incident is rotated through an angle \\( \\theta \\), the reflected ray will be rotated through",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{1}{2}\\)\\(\\theta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\theta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2\\(\\theta\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3\\(\\theta\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{4}{3}\\) = \\(\\frac{12}{\\text {Apparent depth}}\\)\n\nApparent depth = 9cm\n\nHeight by which coin is raised = 12 - 9 \n\n= 3cm"
+    },
+    "text": "A trough 12.0cm deep is filled with water of refractive index \\(\\frac{4}{3}\\). By how much would a coin at the bottom of the trough appear to be displaced when viewed vertically from above the water surface?",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n6.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n9.0cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n16.0cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In a ray diagram for a thin converging lens, a ray that is not parallel to the optic axis but passes through the optic center will",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npass through undeviated",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npass through the center of curvature after refraction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nemerge parallel to the principal axis",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npass through the principal focus after refraction",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nF = \\(\\frac{uv}{u + v}\\)\n\nF = -ve\n\n-12 = \\(\\frac{4 \\times v}{4 + v}\\)\n\nv = -3cm"
+    },
+    "text": "Which of the following correctly, describes the image of an object, 4cm from a diverging lens of focal length 12cm?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nThe image is virtual, 3cm in front of the lens",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nThe image is real, 6cm behind the lens",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nThe image is virtual, 6cm in front of the lens",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nThe image is real, 3cm in front the lens",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nF = F2 - F1\n\n= 260 - 256 \n\n= 4Hz"
+    },
+    "text": "Two tuning forks of frequency 256Hz and 260Hz are sounded close to each other. What is the frequency of the beats produced?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n8Hz",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n258Hz",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nv = \\(\\lambda\\)F\n\n260 x 1.29 =335.4ms-1\n\nEcho time = \\(\\frac{2}{2}\\) = 1sec.\n\ndistance = v x t \n\n= 335.4 x 1 = 335.4m"
+    },
+    "text": "A man hears his echo from a nearby hill 2s after he shouted. If the frequency of his voice is 260Hz and the wavelength is 1.29m, how far away is the hill?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n330.0m",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n335.4m",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n660.0m",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n670.8m",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When the bottom tip of a vibrating tuning fork is held in contact with a wooden box, a louder sound is heard. This phenomenon is known as",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nbeats",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nechoing",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nresonance",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreverberation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following statements is CORRECT about the earth's magnetic field?",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nthe angle of dip is the angle which a freely suspended magnet makes with the vertical",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nthe angle of declination is the angle between the magnetic meridian and the geographic meridian",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nthe angle of declination is the angle which a magnetic compass makes with the magnetic meridian",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe angle of inclination is the difference between the angle of dip and the angle of declination",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "An insulated rod when rubbed with a material acquires",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\na negative charge if it is made of glass and rubbed with silk",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nno charge if it is made of glass and rubbed with fur",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nno charge if it is made of copper and rubbed with silk",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na positive charge if it is made of copper and rubbed with fur",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The function of the system of granulated carbon mixed with manganese (IV) oxide in a Letanche cell is to",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nincrease the e.m.f. of the cell to 2.0V",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nprevent local action in the cell",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nprevent polarisation in the cell",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmake the cell black and hence a good radiator",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A moving coil galvanometer of 300\\(\\Omega\\) resistance gives full scale deflection for 1.0mA. The resistance R, of the shunt that is required to convert the galvanometer into a 3.0A ammeter is",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n899.70\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n10.00\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.10\\(\\Omega\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.01\\(\\Omega\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following obeys Ohm's Law?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nGlass",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nDiode",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAll electrolytes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nAll metals",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nP = I2R \\(\\Rightarrow\\) I = \\(\\sqrt\\frac{P}{R}\\)\n\nI = \\(\\sqrt\\frac{1500}{375}\\)\n\n= 2A"
+    },
+    "text": "An equipment whose power is 1500W and resistance is 375 ohms would draw a current of",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.10A",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.00A",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.00A",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n77.5A",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "To convert an alternating current dynamo into a direct current dynamo, the",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnumber of turns in the coil is increased",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nstrength of the field magnet is increased",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nslip rings are replaced with a split ring commutator",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ncoil is wound on a soft iron armature",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If a current carrying coil is mounted on a metal frame, the back e.m.f. induced in the coil causes",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ninductance",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\neddy currents",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nelecro-magnetism",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndipole moment",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nm = Itz\n\n1 = 100 x 5 x 10-7 x t\n\nt = 20,000sec \n\n= 5.6hrs"
+    },
+    "text": "The electrochemical equivalent of platinum is 5.0 x 10-7kgC-1 to plate-out 1.0kg of platinum, a current of 100A must be passed through an appropriate vessel for",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.6 hours",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n56 hours",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.4 x 104 hours",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.0 x 104 hours",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "which of the following statements are TRUE of isotopes? i. isotopes of an element have the same chemical properties because they have the same number of electrons. ii. isotopes of elements are normally separated using physical properties. iii. isotopes of an element have the same number of protons in their nuclei.",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When an atom loses or gains a charge, it becomes",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nan electron",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nan ion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na neutron",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\na proton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nhalf-life = 10 days\u00a0\nafter 10 days, the 4g of element = 2g remaining with 2g disintegrated\nafter 10 days, 2g of element = 1g left with 1g disintegrated\nhence, after 20 days, 3g of the element has been disintegrated with 1g left.\nafter 10 days, the 1g of element = 0.5g left with 0.5g disintegrated\nafter 30 days, we have 0.5g of element left with 3.5g disintegrated."
+    },
+    "text": "4g of a radioactive material of half-life 10 days is spilled on a laboratory floor. How long would it take to disintegrate 3.5g of the material?",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1\\(\\frac{1}{4}\\) days",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8\\(\\frac{1}{4}\\) days",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n30 days",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n80 days",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nEnergy is given out"
+    },
+    "text": "In a nuclear fusion process, four protons each of mass Mp were fused to produce a nucleus X of mass Mx. Which of the following equations is CORRECT?",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4Mp > Mx",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4Mp = Mx",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4Mp < Mx",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nMp > Mx",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following are True for \\(\\alpha\\)-decay. i. mass number, decrease by four. ii. Atomic number decreases by two. iii. mass number does not change.",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ni and ii only",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nii and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ni and iii only",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ni, ii, and iii only",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following phenomena is called photoelectric effect?",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhigh energy electrons impinge on a metalic anode which then emits photons",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\na high energy photon emits photons as it slowed down",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\na metal absorbs quanta of light and then emits electrons",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nTwo electrons are created from a quantum of light",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Find the tension T1 in the diagram above if the system is in equilibrium \n\n[G = 10ms-2]",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": "https://myschool.ng/storage/classroom/18961459907_19910001.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n200/\u221a3N",
+        "imageUrl": "https://myschool.ng/storage/classroom/18961459907_19910001.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n100/\u221a3N",
+        "imageUrl": "https://myschool.ng/storage/classroom/18961459907_19910001.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n300/\u221a3N",
+        "imageUrl": "https://myschool.ng/storage/classroom/18961459907_19910001.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n100N",
+        "imageUrl": "https://myschool.ng/storage/classroom/18961459907_19910001.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A body is under action of a force F such that the force displacement graph of the body is semi circular as shown above. The work done on the body by the force in moving through 24 meters is",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": "https://myschool.ng/storage/classroom/20420047200_19910002.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n36\u03c0 J",
+        "imageUrl": "https://myschool.ng/storage/classroom/20420047200_19910002.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n72\u03c0 J",
+        "imageUrl": "https://myschool.ng/storage/classroom/20420047200_19910002.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n144\u03c0 J",
+        "imageUrl": "https://myschool.ng/storage/classroom/20420047200_19910002.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n288\u03c0 J",
+        "imageUrl": "https://myschool.ng/storage/classroom/20420047200_19910002.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Th internal resistance of each of the cells E1 and E2 Shown in the figure above is 2 Ohm. Calculate the total current in the circuit",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": "https://myschool.ng/storage/classroom/27712925570_19910003.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.80A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27712925570_19910003.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n0.50A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27712925570_19910003.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n0.40A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27712925570_19910003.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n0.004A",
+        "imageUrl": "https://myschool.ng/storage/classroom/27712925570_19910003.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The net capacitance of the circuit shown above is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": "https://myschool.ng/storage/classroom/29171508560_19910004.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8.0\u00b5F",
+        "imageUrl": "https://myschool.ng/storage/classroom/29171508560_19910004.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\n6.0\u00b5F",
+        "imageUrl": "https://myschool.ng/storage/classroom/29171508560_19910004.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\n4.0\u00b5F",
+        "imageUrl": "https://myschool.ng/storage/classroom/29171508560_19910004.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\n2.0\u00b5F",
+        "imageUrl": "https://myschool.ng/storage/classroom/29171508560_19910004.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the above circuit, The fuse wire melts when",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": "https://myschool.ng/storage/classroom/26254360944_19910005.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nK is Opened",
+        "imageUrl": "https://myschool.ng/storage/classroom/26254360944_19910005.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nK is closed",
+        "imageUrl": "https://myschool.ng/storage/classroom/26254360944_19910005.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nthe 14 ohm resistor is doubled with k closed",
+        "imageUrl": "https://myschool.ng/storage/classroom/26254360944_19910005.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nthe 6 ohm resistor is doubled with k closed",
+        "imageUrl": "https://myschool.ng/storage/classroom/26254360944_19910005.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 1991
+  }
+]

@@ -1,0 +1,1447 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\((8^{-1})^{k+2}\\) =\u00a0\\((8^{0})\\)\nbase 8 cancel out on both sides\n-1(k+2) = 0\n-k -2 = 0\n: k = -2\nThere is an explanation video available below."
+    },
+    "text": "Solve for k in the equation \\(\\frac{1}{8}^{k+2}\\) = 1",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n-4",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n\\((101_{two})^3\\) = \\((5_{ten})^3\\)\n5\\(^3\\) = 125\nAnd 125 =\u00a0\u00a0\\(1111101_{two}\\)\nThere is an explanation video available below."
+    },
+    "text": "Evaluate\u00a0\\((101_{two})^3\\)",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(111101_{two}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(11111101_{two}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(1111101_{two}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(11001_{two}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n-The shaded/stripped portion in the diagram is set F only.\n-This implies that sets E and G though present in the Universal set, are not included in the expression.\n-Mathematically; we have\u00a0E' n F n G'\nThere is an explanation video available below."
+    },
+    "text": "The shaded portion in the venn diagram above represents?",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": "https://myschool.ng/storage/classroom/8m7siNFQgpsF9Anxp5BT1swrfKtQBGwdGJfEN5ww.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nF - (E n F) - (G n F)",
+        "imageUrl": "https://myschool.ng/storage/classroom/8m7siNFQgpsF9Anxp5BT1swrfKtQBGwdGJfEN5ww.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nE' n F n G'",
+        "imageUrl": "https://myschool.ng/storage/classroom/8m7siNFQgpsF9Anxp5BT1swrfKtQBGwdGJfEN5ww.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nE u F u G",
+        "imageUrl": "https://myschool.ng/storage/classroom/8m7siNFQgpsF9Anxp5BT1swrfKtQBGwdGJfEN5ww.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nF",
+        "imageUrl": "https://myschool.ng/storage/classroom/8m7siNFQgpsF9Anxp5BT1swrfKtQBGwdGJfEN5ww.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\nThere is an explanation video available below."
+    },
+    "text": "If a fair coin is tossed twice, what is the probability of obtaining at least one head?",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.25",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.75",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.33",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nFirstly; solving for x\n6 = \\(\\frac{2 + 5 + x+1 + x+2 + 7 + 9}{6}\\)\ncross multiply to have:\n6 * 6 =\u00a02 + 5 + x+1 + x+2 + 7 + 9\n36 = 2x + 26\n36 - 26 = 2x\n10 = 2x\nx = 5\nMedian =\u00a0\\(\\frac{7+6}{2}\\)\n\u2192 6.5\nThere is an explanation video available below."
+    },
+    "text": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n5.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n6.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nWhere sin\u00a0\u03b8 = \\(\\frac{opp}{hyp}\\)\u00a0\u2192\u00a0\\(\\frac{-3}{5}\\)\nopp = -3, hyp = 5\nusing pythagoras formula\u00a0\nhyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\nadj\\(^2\\) = hyp\\(^2\\) - opp\\(^2\\)\nadj\\(^2\\) = 5\\(^2\\) - 3\\(^2\\)\u00a0\u2192 25 - 9\nadj\\(^2\\) = 16\nadj = 4\ncos\u00a0\u03b8 =\u00a0\\(\\frac{adj}{hyp}\\)\u00a0\u2192\u00a0\\(\\frac{4}{5}\\)\nIn third quadrant:\u00a0cos\u00a0\u03b8 is negative\u00a0\u2192 - \\(\\frac{4}{5}\\)\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "If sin\u00a0\u03b8 = -\u00a0 \\(\\frac{3}{5}\\) and\u00a0\u03b8 lies in the third quadrant, find cos\u00a0\u03b8",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{4}{5}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n- \\(\\frac{5}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{5}{4}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n- \\(\\frac{4}{5}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nRationalization with\u00a0conjugate \\({3+\u221a2}\\)\n\u00a0\\(\\frac{1}{3-\u221a2}\\)\n\u2192\u00a0\\(\\frac{1 * [3+\u221a2]}{[3-\u221a2][3+\u221a2]}\\)\n=\u00a0\u00a0\\(\\frac{3+\u221a2}{9 -3\u221a2 +\u00a03\u221a2 + \u221a4}\\)\n=\u00a0\u00a0\\(\\frac{3+\u221a2}{9 -\u00a02}\\)\u00a0\u2192\u00a0\u00a0\\(\\frac{3+\u221a2}{7}\\)\n=\u00a0\\(\\frac{3}{7}\\) +\u00a0\u00a0\\(\\frac{\u221a2}{7}\\)\nThere is an explanation video available below."
+    },
+    "text": "Simplify \\(\\frac{1}{3-\u221a2}\\) in the form of p + q\u221a2",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{7}{3}\\) - \\(\\frac{1}{7\u221a2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{7}{3}\\) + \\(\\frac{1}{7\u221a2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{3}{7}\\) - \\(\\frac{1}{7\u221a2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{3}{7}\\) + \\(\\frac{\u221a2}{7}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nUsing pythagoras formula:\nHyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\n5\\(^2\\) = opp\\(^2\\) + 3\\(^2\\)\u00a0\n5\\(^2\\) - 3\\(^2\\) = adj\\(^2\\)\n4 = adj\nlength of the\u00a0chord = 2 * 4 = 8cm\nThere is an explanation video available below."
+    },
+    "text": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n8cm",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n5.6cm",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n7cm",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6.5cm",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{28 * 360}{100}\\)\u00a0\n= 100.8\u00ba\nThere is an explanation video available below."
+    },
+    "text": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicate in the table below:",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n108.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n100.8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n98.8",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nVolume of a\u00a0rectangular pyramid = \\(\\frac{length * width * height}{3}\\) or\u00a0\\(\\frac{area * height}{3}\\)\n=\u00a0\\(\\frac{24 * 7.5}{3}\\)\u00a0\u2192\u00a0\\(\\frac{180}{3}\\)\nVolume of the\u00a0rectangular pyramid = 60cm\\(^3\\)\nThere is an explanation video available below."
+    },
+    "text": "A rectangular pyramid has an area 24cm\\(^2\\) and height 7.5cm. Find its volume?",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n65.0cm\\(^3\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n70.5cm\\(^3\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n56.5cm\\(^3\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60.0cm\\(^3\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nTn = a + (n-1)d\n10th term = 32\n32 = 3/2 + 9d\u00a0\n9d = 32 - 3/2\n9d = 61/2\nd = 61/18\n: T4 = 3/2 + 3(61/18)\nT4 = 3/2 + 61/6\u00a0\u2192 35/3\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "The 10th term of an AP is 32. If the first term is 3/2, what is the 4th term?",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n35/3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n64",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n16",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n35/2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nUsing line LZ with angles sum = 180\u00ba\n: \u2220MNY = 180\u00ba - (g + h)\u00ba or 180\u00ba - g\u00ba - h\u00ba\nThere is an explanation video available below."
+    },
+    "text": "In the diagram above angle LNM and angle YNZ are represented by g and h respectively. Find\u00a0\u2220MNY",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": "https://myschool.ng/storage/classroom/uRbuwoyJcJCz5YCjaQVEsDxpaxk0tMLI9C1Hnca6.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n180\u00ba - g\u00ba - h\u00ba",
+        "imageUrl": "https://myschool.ng/storage/classroom/uRbuwoyJcJCz5YCjaQVEsDxpaxk0tMLI9C1Hnca6.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\n360\u00ba - (g-h)\u00ba",
+        "imageUrl": "https://myschool.ng/storage/classroom/uRbuwoyJcJCz5YCjaQVEsDxpaxk0tMLI9C1Hnca6.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\n180\u00ba - (g-h)\u00ba",
+        "imageUrl": "https://myschool.ng/storage/classroom/uRbuwoyJcJCz5YCjaQVEsDxpaxk0tMLI9C1Hnca6.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\n360\u00ba - g\u00ba - h\u00ba",
+        "imageUrl": "https://myschool.ng/storage/classroom/uRbuwoyJcJCz5YCjaQVEsDxpaxk0tMLI9C1Hnca6.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nZoology has 7 letters in total, with O repeated thrice\n\\(\\frac{7!}{3!}\\)\u00a0\u2192\u00a0\\(\\frac{7*6*5*4*3*2*1}{3*2*1}\\)\n= 840ways\nThere is an explanation video available below."
+    },
+    "text": "In how many ways can the letter of ZOOLOGY be arranged?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n720",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n360",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n840",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n120",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nRecall chain rule:\u00a0\nu = 2x +1; du = 2dx\u00a0\u2192 dx =\u00a0\\(\\frac{du}{2}\\)\nu\\(^3\\) =\u00a0\u222b\u00a0u\\(^3\\)\u00a0\\(\\frac{du}{2}\\)\u00a0\u2192\u00a0\\(\\frac{1}{2}\\)\u00a0\u222b\u00a0u\\(^3\\)\n=\u00a0\u00a0\\(\\frac{1*u^4}{2*4}\\)\u00a0\n=\u00a0\u00a0\\(\\frac{u^4}{8}\\)\u00a0\u2192\u00a0\u00a0\\(\\frac{{2x+1}^4}{8}\\) + C\nThere is an explanation video available below."
+    },
+    "text": "Integrate (2x+1)\\(^3\\)",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\frac{{2x+1}^3}{8}\\) + C",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{{2x+1}^4}{8}\\) + C",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{{2x+1}^4}{4}\\) + C",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\frac{{2x+1}^2}{6}\\) + C",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "MATHEMATICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nGiven A =\u00a0\\(\\begin{pmatrix} 2\u00a0& 1\u00a0\\\\ 2\u00a0& 3 \\\\ 1 & 2\u00a0\\end{pmatrix}\\) and B =\u00a0\\(\\begin{pmatrix} 3\u00a0& 2\u00a0\\\\ 4\u00a0& 2\u00a0\\end{pmatrix}\\).\nWe can multiply these matrices since the number of colums in A = number of rows in B\n\u00a0\nAB =\u00a0\\(\\begin{pmatrix} (2*3)+(1*4)\u00a0&\u00a0(2*2)+(1*2) \\\\ (2*3)+(3*4) & (2*2)+(3*2) \\\\ (1*3)+(2*4) &\u00a0(1*2)+(2*2)\u00a0\\end{pmatrix}\\)\n\u00a0\nAB =\u00a0\\(\\begin{pmatrix} (6+4)\u00a0& (4+2)\u00a0\\\\ (6+12)\u00a0& (4+6)\u00a0\\\\ (3+8)\u00a0& (2+4)\u00a0\\end{pmatrix}\\)\n\u00a0\n= \\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 18\u00a0& 10\u00a0\\\\ 11\u00a0& 6\u00a0\\end{pmatrix}\\)\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "If A =\u00a0\\(\\begin{pmatrix} 2\u00a0& 1\u00a0\\\\ 2\u00a0& 3 \\\\ 1 & 2\u00a0\\end{pmatrix}\\) and B =\u00a0\\(\\begin{pmatrix} 3\u00a0& 2\u00a0\\\\ 4\u00a0& 2\u00a0\\end{pmatrix}\\). Find AB",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n\\(\\begin{pmatrix} 18\u00a0& 6\u00a0\\\\ 12\u00a0& 10 \\\\ 10 & 6\u00a0\\end{pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 13\u00a0& 10 \\\\ 12 & 6\u00a0\\end{pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 12\u00a0& 10 \\\\ 11 & 6\u00a0\\end{pmatrix}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n\\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 18\u00a0& 10 \\\\ 11 & 6\u00a0\\end{pmatrix}\\)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nsquare both sides to remove the big square root\n\u2192 r\\(^2\\) = \\(\\frac{3v}{\u03c0h}\\)\ncross multiply\n3v = r\\(^2\\)\u00a0*\u00a0\u03c0h\nv = \\(\\frac{\u03c0r^2h}{3}\\)\nThere is an explanation video available below."
+    },
+    "text": "Given that r =\u00a0\\( \\sqrt\u00a0\\frac{3v}{\\pi\u00a0h} \\), make v the subject of the formula",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nv = 3\u00a0\\(\u03c0r^2\\) h",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nv = \\(\\frac{\u03c0rh}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nv = \u00a0\\(\\frac{\u03c0r^2h}{3}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nv = 3\u03c0rh",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n|A| = (2*3) - (1*3)\n\u2192 6 - 3\n= 3\nThere is an explanation video available below."
+    },
+    "text": "Find the determinant of the matrix A =\u00a0\\(\\begin{pmatrix} 2\u00a0& 3\u00a0\\\\ 1\u00a0& 3\u00a0\\end{pmatrix}\\)",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nwhere\u00a0Log\\(_2\\) 8\u221a2\u00a0\u2192\u00a0Log\\(_2\\) \u221a128\u00a0\n\u2192\u00a0Log\\(_2\\) 128\\(^\\frac{1}{2}\\)\n=\u00a0\\(\\frac{1}{2}\\) * (Log\\(_2\\) 128)\u00a0\u2192\u00a0\\(\\frac{1}{2}\\) * (Log\\(_2\\) 2\\(^7\\))\n=\u00a0\u00a07 *\u00a0\\(\\frac{1}{2}\\) * (Log\\(_2\\) 2)\nwhere\u00a0(Log\\(_2\\) 2) = 1\u00a0\n\u2192\u00a0\u00a07 *\u00a0\\(\\frac{1}{2}\\) * 1\n=\u00a0\\(\\frac{7}{2}\\) or 3.5\nThere is an explanation video available below."
+    },
+    "text": "Evaluate Log\\(_2\\) 8\u221a2",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3.0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n4.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nDefinition of a circle\nThere is an explanation video available below."
+    },
+    "text": "The locus of points\u00a0equidistant from a fixed point.",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncircle",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nperpendicular lines",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nstraight line",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbisector",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNumerator: 96 \u2192\u00a037.5% of 96 = 36\nDecreased by 36\u00a0\u2192 96 - 36\nNew numerator = 60\n\u00a0\nDenominator: 50\u00a0\u2192 20% of 50 = 10\nDecreased by 10\u00a0\u2192 50 - 10 = 40\nNew\u00a0Denominator = 40\n\u00a0\nNew fraction = \\(\\frac{60}{40}\\) or 1.5\nThere is an explanation video available below."
+    },
+    "text": "What will be the result obtained when the numerator of \\(\\frac{96}{50}\\) is decreased by 37.5% and its denominator decreased by 20%.",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n\\(\\frac{5}{2}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n\\(\\frac{96}{48}\\)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n5 crates = 30 eggs * 5 = 150eggs\n1/2 crate = 15 eggs\nTotal sold = 165\nremainder = 200 - 165 = 35\nAnd 35 is equivalent 17.5% of the realized eggs\u00a0\nThere is an explanation video available below."
+    },
+    "text": "A poultry farmer realized 200 eggs from his birds and sold 5 \\(\\frac{1}{2}\\) crates of eggs. What percentages of eggs are left?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n82.5%",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n15%",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n17.5%",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n85%",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nGiven that sec\\(^2\\)\u03b8 + tan\\(^2\\)\u03b8 = 3\nWhere sec\\(^2\\)\u03b8\u00a0= 1\u00a0 + tan\\(^2\\)\u03b8\n: 1 + tan\\(^2\\)\u03b8 + tan\\(^2\\)\u03b8 = 3\n2tan\\(^2\\)\u03b8 = 3 - 1\n2tan\\(^2\\)\u03b8 = 2\ndivide both sides by 2\ntan\\(^2\\)\u03b8 = 1\ntan\u03b8\u00a0=\u00a0\u00a0\u221a1\ntan\u03b8\u00a0= 1\n\u03b8 = tan\\(^{-1}\\) (1)\n\u03b8 = 45\u00ba\nThere is an explanation video available below."
+    },
+    "text": "If sec\\(^2\\)\u03b8 + tan\\(^2\\)\u03b8 = 3, then the angle\u00a0\u03b8 is equal to?",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n90\u00ba",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30\u00ba",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n45\u00ba",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n60\u00ba",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n\\(\\frac{x^3 + 6x - 7}{x-1}\\):\nWhen numerator is differentiated \u2192 3x\\(^2\\) + 6\u00a0\u00a0\nWhen denominator is differentiated \u2192 1\n:\u00a0\\(\\frac{3x^2 + 6}{1}\\)\nsubstitute x for 1\n\u00a0\\(\\frac{3 * 1^2 + 6}{1}\\) =\u00a0\u00a0\\(\\frac{3\u00a0+ 6}{1}\\)\u00a0\n=\u00a0\u00a0\\(\\frac{9}{1}\\)\n= 9\nThere is an explanation video available below."
+    },
+    "text": "find the limit of y = \\(\\frac{x^3 + 6x - 7}{x-1}\\) as x tends to 1",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n8",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n7",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nCondition for Parallelism means that their gradient value is same\nline 2x - y = 5 is rearranged\nAs y = 2x - 5 from y = mx + c\n: line 2x - y = 5 has the gradient of 2\nA parallel line with gradient of 2 and intercept of 5\n\u2192\u00a02x - y = -5\nRearranged as y = 2x + 5\nThere is an explanation video available below."
+    },
+    "text": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2x + y = 5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2x + y = -5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2x - y = -5",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n2x - y = 5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nWhen rearranged: 10, 10, 13, 14, 17, 18\nmedian = \\(\\frac{13+14}{2}\\)\n= \\(\\frac{27}{2}\\) or 13.5\nThere is an explanation video available below."
+    },
+    "text": "Calculate the median of 14, 17, 10, 13, 18 and 10.",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n12.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n13.5",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n13.2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n14.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nUsing the expansion method on\u00a0(10110.011)\\(_2\\)\n(1 * 2\\(^4\\)) +\u00a0(0\u00a0* 2\\(^3\\)) +\u00a0(1 * 2\\(^2\\)) +\u00a0(1 * 2\\(^1\\))\u00a0(0\u00a0* 2\\(^0\\)) +\u00a0(0\u00a0* 2\\(^{-1}\\)) +\u00a0(1\u00a0* 2\\(^{-2}\\))\u00a0 +\u00a0(1\u00a0* 2\\(^{-3}\\))\n(1*16) + 0 (1*4) +\u00a0(1*2) + 0 +\u00a00 +\u00a0(1*\\(\\frac{1}{4}\\)) +\u00a0(1*\\(\\frac{1}{8}\\))\u00a0\n16 + 4 + 2 +\u00a0(0.25 + 0.125)\n22 + 0.375\n(10110.011)\\(_2\\) = 22.375\\(_{10}\\)\nThere is an explanation video available below."
+    },
+    "text": "The equivalent of (10110.011)\\(_2\\) in base 10 is?",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n26.325",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n24.372",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n42.443",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n22.375",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nif 20 students = 10000\n: #500 per student\n#1,000,000\u00a0\u00f7 500\n= 2,000 cover students\nThere is an explanation video available below."
+    },
+    "text": "The cost C of running a school is directly proportional to the number of students N, if 20 students cost #10,000, How many students can #1,000,000 cover?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n3000",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1000",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2000",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4000",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nGiven Data: x\\(_1\\) = -3,\u00a0 x\\(_2\\) = 2,\u00a0 y\\(_1\\) = 5,\u00a0 y\\(_2\\) = 10\ncoordinates of the mid-point of the line = (\\(\\frac{x_1 + x_2}{2}\\) ,\u00a0\\(\\frac{y_1 + y_2}{2}\\))\n(\\(\\frac{-3\u00a0+2}{2}\\) ,\u00a0\\(\\frac{5\u00a0+ 10}{2}\\))\n=\u00a0 \\(\\frac{-1}{2}\\)) ,\u00a0\\(\\frac{15}{2}\\))\nThere is an explanation video available below."
+    },
+    "text": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by?",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n( \\(\\frac{1}{2}\\), \\(\\frac{15}{2}\\) )",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n( \\(\\frac{1}{2}\\), \\(\\frac{-15}{2}\\) )",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n( \\(\\frac{-1}{2}\\), \\(\\frac{-15}{2}\\) )",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n( \\(\\frac{-1}{2}\\), \\(\\frac{15}{2}\\) )",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\n\\(^{3^2 + 1}\\)C\\(_{3+5}\\)\n\\(^{9\u00a0+ 1}\\)C\\(_{3+5}\\)\u00a0\n\\(^{10}\\)C\\(_{8}\\) =\u00a0\\(\\frac{10!}{8! 2!}\\)\n\\(\\frac{10 * 9 * 8!}{8! 2!}\\) =\u00a0\\(\\frac{10 * 9}{2}\\)\n= 45\nThere is an explanation video available below."
+    },
+    "text": "Evaluate \\(^{n^2 + 1}\\)C\\(_{n+5}\\) if n = 3",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n55",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n45",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n35",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n25",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here\nThere is an explanation video available below."
+    },
+    "text": "Given that S =\u00a0\\(3t^{2}\\) + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n5m/s",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n6m/s",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n\u00a0\nhyp = 5cm, adj =\u00a0 \\(\\frac{8cm}{2}\\) 4cm, opp = xcm\nPythagoras theorem:\u00a0\nhyp\\(^2\\) = opp\\(^2\\) + adj\\(^2\\)\n5\\(^2\\) = x\\(^2\\) + 4\\(^2\\)\nx\\(^2\\) = 25 - 16\nx = \u221a9\nx = 3cm\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": "https://myschool.ng/storage/classroom/VZS2B12A2okYfmXjUS6n4svtPJV4c1kloye9Qzoo.png",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n9cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/VZS2B12A2okYfmXjUS6n4svtPJV4c1kloye9Qzoo.png"
+      },
+      {
+        "option": "B",
+        "text": "\n3.4cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/VZS2B12A2okYfmXjUS6n4svtPJV4c1kloye9Qzoo.png"
+      },
+      {
+        "option": "C",
+        "text": "\n9.1cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/VZS2B12A2okYfmXjUS6n4svtPJV4c1kloye9Qzoo.png"
+      },
+      {
+        "option": "D",
+        "text": "\n3cm",
+        "imageUrl": "https://myschool.ng/storage/classroom/VZS2B12A2okYfmXjUS6n4svtPJV4c1kloye9Qzoo.png"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n3 * 5 = 3 - 5 + (3 x 5)\\(^2\\)\n-2 + (15)\\(^2\\)\n-2 + 225\u00a0\n= 223\nThere is an explanation video available below."
+    },
+    "text": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)\\(^2\\), then find 3 * 5",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n223",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n232",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n32",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n-232",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\ny = 1/x; y = \\(\\frac{k}{x}\\)\nk =xy\u00a0\u2192 3 * 4 = 12\nx =\u00a0\\(\\frac{k}{y}\\)\u00a0\nx =\u00a0\\(\\frac{12}{12}\\) = 1\nThere is an explanation video available below."
+    },
+    "text": "If y varies inversely as x and x = 3 when y =4. Find the value of x when y = 12",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n4",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nThe common difference is 6.\nJust add 6 to get the next term\n8, 14, 20 and 26\nThere is an explanation video available below."
+    },
+    "text": "If 8, p, q and 26 is an A.P. Find the values of p and q",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\np = 14 and q = 14",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\np = 20 and q = 14",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\np = 20 and q = 20",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\np = 14 and q = 20",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nmean (4) =\u00a0\u00a0\\(\\frac{2x + 4x +\u00a02x -\u00a013 +\u00a06x}{4}\\)\n16 = 14x -\u00a013\n16 + 13 = 14x\nx = 29/14 or 2.07\nThere is an explanation video available below."
+    },
+    "text": "Find x if the mean of 2x, 4x, 2x -\u00a013 and 6x is 4.",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.5",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n1.0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nCheck:\n(2a-3b) (2a+3b)\n4a\\(^2\\) + 6ab - 6ab - 9b\\(^2\\)\n\u00a04a\\(^2\\) - 9b\\(^2\\)\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "Factorize 4a\\(^2\\) - 9b\\(^2\\)",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n(2a-3b) (2a+3b)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n(2a-b) (2a+3b)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n(2a-3b) (a+3b)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n(a-3b) (a+3b)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nn(PuQ) = n(p) + n(q) -\u00a0 n(PnQ)\n40 = 20 + 30 -\u00a0 n(PnQ)\nn(PnQ) = 50 - 40 = 10\nThere is an explanation video available below."
+    },
+    "text": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ)",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n10",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n30",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n15",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n40",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThree times a certain number (x) = 3x\nminus 2 = -2\nis less than = <\nthe number minus 6 = x -6\nMathematically; 3x - 2 < x - 6\ncollect like terms\n3x - x < -6 + 2\n2x < -4\nx < -2 is\u00a0 the possible values of x\n\u00a0\n\u00a0\nThere is an explanation video available below."
+    },
+    "text": "Three times a certain number (x), minus 2 is less than the number minus 6.Find the possible values of x.",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx <-2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nx>2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nx>-2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nx<2",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nx \u2265 2\u00a0is represented by an arrow with an filled-in dot above the 2.\nThe arrow points in the direction of all the numbers that are greater than 2.\nThere is an explanation video available below."
+    },
+    "text": "The number line represented by the inequality",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/yJfNCS2j5SJkv9h9AC8Hwyilf2pHx0FjXNx7ry9T.jpeg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nx\u22642",
+        "imageUrl": "https://myschool.ng/storage/classroom/yJfNCS2j5SJkv9h9AC8Hwyilf2pHx0FjXNx7ry9T.jpeg"
+      },
+      {
+        "option": "B",
+        "text": "\nx<2",
+        "imageUrl": "https://myschool.ng/storage/classroom/yJfNCS2j5SJkv9h9AC8Hwyilf2pHx0FjXNx7ry9T.jpeg"
+      },
+      {
+        "option": "C",
+        "text": "\nx\u22652",
+        "imageUrl": "https://myschool.ng/storage/classroom/yJfNCS2j5SJkv9h9AC8Hwyilf2pHx0FjXNx7ry9T.jpeg"
+      },
+      {
+        "option": "D",
+        "text": "\nx>2",
+        "imageUrl": "https://myschool.ng/storage/classroom/yJfNCS2j5SJkv9h9AC8Hwyilf2pHx0FjXNx7ry9T.jpeg"
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nIt is given that the cost of the item reduces to #3800.00\u00a0after the discount on the item.\nLet original price = x\nx \u2013 (20% of x) = 100\n\u21d2 x \u2013 0.2x = 100\n\u21d2 0.8x = #3800\n\u21d2 x = \\(\\frac{3800}{0.8}\\)\n\u21d2\u00a0x =\u00a04,750\nThere is an explanation video available below."
+    },
+    "text": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n#3,000.00",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n#4,000.00",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n#5,000.00",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n#4,750.00",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "PHYSICS",
+    "type": "JAMB",
+    "year": 2022
+  }
+]

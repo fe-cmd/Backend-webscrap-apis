@@ -1,0 +1,1766 @@
+[
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Chlorophyll obtained from given leaves of plant can be shown to be composed of more than one coloured component by the technique of",
+    "structure": "OBJECTIVE",
+    "number": 1,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncrystallization",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nhydrolysis",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nchromatography",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsublimation",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In countries where the temperature falls below 273K, salt is always sprinkled on the icy road in order to",
+    "structure": "OBJECTIVE",
+    "number": 2,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlower the melting point of the ice",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincrease the density of the ice",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmake the ice impure",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nraise the melting point of the ice",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n2Na(s) + 2H2O(l) \u2192 2NaOH(aq) + H2(g)\nRelative molecular mass of NaOH = 23 + 16 + 1 = 40smol-1\n2 * 23g of sodium react with water to produce \n2 * 40g of NaOH\n\u2234 2.3g of sodium will react with water to produce\n(2.3 * 40 * 2)/(23 * 2) = 4.00g"
+    },
+    "text": "2Na(s) + 2H2O(l) \u2192 2NaOH(aq) + H2(g)\nFrom the equation above, calculate the mass of sodium hydroxide produced by 2.3g of sodium.\n[H = 1, O = 16, Na = 23]",
+    "structure": "OBJECTIVE",
+    "number": 3,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.40g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.80g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.00g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.00g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\n2NaHCO3(s) \u2192 Na2CO3(s) + H2O(l) + CO2\nRelative molecular mass of NaHCO3 = 23 +1 + 12 + 16 * 3 = 84smol-1\n2 * 84g of NaHCO3 will be liberated 22.4dm3 or CO2 at s.t.p\n16.8g of NaHCO3 will libertae (16.8 * 22.4)/(2 * 84) = 2.24 dm3"
+    },
+    "text": "16.8 g of sodium hydrogen trioxocarbonate (IV) is completely decomposed by heat. Calculate the volume of carbon(IV) oxide given off s.t.p \n[Na 23, C = 12, O = 16, H = 1, Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "structure": "OBJECTIVE",
+    "number": 4,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n22.40 dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n11.20 dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n2.24 dm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1.12 dm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nP1V1= P2V2\n800 * 300 = 650 * V2\nV2 = (800 * 300)/650 = 369.23 cm3"
+    },
+    "text": "300 cm3 of gas has a pressure of 800 mmHg. If the pressure is reduced to 650 mmHg, find its volume",
+    "structure": "OBJECTIVE",
+    "number": 5,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n243.75 cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n369.23 cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n738.46 cm3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n1733.36 cm3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Diffusion is slowest in solid particles than in particles of liquid and gases because",
+    "structure": "OBJECTIVE",
+    "number": 6,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsolid particles have more kinetic energy than the particles of liquid and gases",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsolid particles have less kinetic energy than the particles of liqiud and gases",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsolid particles have less restriction in their movement than liquid and gas particles",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nthe particles in solids are far apart and the cohesive forces between them are negligible",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The experiment that showed that atoms have tiny positively charged nucleus was first carried out by",
+    "structure": "OBJECTIVE",
+    "number": 7,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nMoseley",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nRutherford",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nMillikan",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nDalton",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The atom of an element X is represented as zyX. The basic chemical properties of X depends on the value of",
+    "structure": "OBJECTIVE",
+    "number": 8,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nY",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nZ",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nY - Z",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nZ - Y",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The diagram above represent the electron sub-level for",
+    "structure": "OBJECTIVE",
+    "number": 9,
+    "imageUrl": "https://myschool.ng/storage/classroom/9464983332_chem08 9.png",
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncarbon",
+        "imageUrl": "https://myschool.ng/storage/classroom/9464983332_chem08 9.png"
+      },
+      {
+        "option": "B",
+        "text": "\nnitrogen",
+        "imageUrl": "https://myschool.ng/storage/classroom/9464983332_chem08 9.png"
+      },
+      {
+        "option": "C",
+        "text": "\noxygen",
+        "imageUrl": "https://myschool.ng/storage/classroom/9464983332_chem08 9.png"
+      },
+      {
+        "option": "D",
+        "text": "\nflourine",
+        "imageUrl": "https://myschool.ng/storage/classroom/9464983332_chem08 9.png"
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In the periodic table, the electrical and thermal conductivities are properties of elements that",
+    "structure": "OBJECTIVE",
+    "number": 10,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ndecrease across the period and increase down the group",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincrease across the period and decrease down the group",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndecrease across the period and down the group`",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nincrease acrosss the period and down the group",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "\\( _{11} ^{11}Na + _0^1n \u2192 _{11}^{24}Na \\)\nThe reaction above is an example of",
+    "structure": "OBJECTIVE",
+    "number": 11,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnuclear fission",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nnuclear fusion",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nartificial transmutation",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nbeta decay",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Air boiled out of water as steam is richer in",
+    "structure": "OBJECTIVE",
+    "number": 12,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nnitrogen and oxygen",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncarbon (IV) oxide and oxygen",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nnoble gases and carbon (IV) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\noxygen and noble gases",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nPotash alum [kAl(S\\({O}_4\\))\\(_2\\)] n sodium aluminate (ii) (NaHCO\\(_2\\)) are added to cause coagulation.\nAs \u00a0fine particles to clump together, forming large particles heavy enough to settle at the\u00a0bottom of the\u00a0tanks as impurities."
+    },
+    "text": "In the course of purifying water for town supply the water is passed through large settlings tanks, containing sodium aluminate (III) to remove?",
+    "structure": "OBJECTIVE",
+    "number": 13,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nlarge particles",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ngerms",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfine particles",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nodour",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When a few drops of water is added to a blue anhydrous cobalt (II) chloride, the colour changes to",
+    "structure": "OBJECTIVE",
+    "number": 14,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nwhite",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npink",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nred",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nblue",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The vulcanizer's solution is prepared by dissolving rubber in",
+    "structure": "OBJECTIVE",
+    "number": 15,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nethanol",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nkerosine",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nbenzene",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npetrol",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nRelative molecular mass of NaCl = 23 + 35.5 = 55.5 g/mol\nNo. of mole of NaCl = 117/55.5 = 2.1 mol"
+    },
+    "text": "117.0g of sodium chloride was dissolved in the solubility in 1.0dm3 of distilled water at 25oC. Determine the solubility in mol dm-3 of sodium chloride at that temperature \n[Na = 23, Cl = 35.5]",
+    "structure": "OBJECTIVE",
+    "number": 16,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.0",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.0",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3.0",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4.0",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The uncovered raw food that is sold along major roads is likely to contain some amounts of",
+    "structure": "OBJECTIVE",
+    "number": 17,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPb",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCu",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nAg",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNa",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\n[H+] [OH-] = 10-14\n[H+] = 10-14/[OH-] = 10-14/(1 * 10-3) = 10-11\npH = -Log10[H+]\n= - Log10[10-11] = - 1 * -11 Log10[10-11] = 1 = -1 * -11 * 1 = 11"
+    },
+    "text": "What is the pH of 0.001 mol dm-3 solution of sodium hydroxide",
+    "structure": "OBJECTIVE",
+    "number": 18,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n14",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n13",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n12",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n11",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The basicity of CH3COOH is",
+    "structure": "OBJECTIVE",
+    "number": 19,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n4",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nHCl + NaOH \u2192 NaCl + H2O\nCAVA = NA/NB = (0.05 * 32)/(CB * 25) \n\u2234 CB = (0.05 * 32)/25 = 0.064 mol dm-3"
+    },
+    "text": "0.05 mol dm-3 HCl is neutralized by 25 cm3 NaOH. If the volume of acid used is 32.00cm3, what is the concentration of the base",
+    "structure": "OBJECTIVE",
+    "number": 20,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n0.016 mol dm-3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n0.032 mol dm-3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n0.039 mol dm-3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n0.064 mol dm-3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nAn insoluble salt can be prepared\u00a0by a precipitation method through a double decomposition reaction.\nTwo soluble metal salts react with each other to form one soluble salt and one insoluble salt .\nLead nitrate solution and sodium chloride solution react to produce solid lead chloride , leaving soluble sodium nitrate in solution.\nThe lead chloride can be recovered by filtration."
+    },
+    "text": "Insoluble salts can be prepared by?",
+    "structure": "OBJECTIVE",
+    "number": 21,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntitrating an alkali against an appropriate acid",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nreacting an acid with trioxocarbonate (IV) salt",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ndirecting combination of the elements which make up the salt",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmixing two soluble compounds containing the metallic radical and the acidic radical",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nHCOOH\nO.N of H + O.N of C + 2* O.N of oxygen of \nH = 0\n1 + X + 2X - 2 + 1 = 0\n2 + X -4 = 0\nX = 4 - 2 = +2"
+    },
+    "text": "The oxidation state of carbon in HCOOH is",
+    "structure": "OBJECTIVE",
+    "number": 22,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n-1",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n+2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n+3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nzero",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "What is the IUPAC nomenclature of the compound NaCIO?",
+    "structure": "OBJECTIVE",
+    "number": 23,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsodium oxochlorate (I)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsodium chloro (I) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nsodium monooxochlorate (II)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nsodium chloro (I) monoxide",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "In recharging a lead-acid accumulator, the reaction at the cathode can be represented as",
+    "structure": "OBJECTIVE",
+    "number": 24,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nPb2+(aq) + SO2-4(aq) \u2192PbSO4(s)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nPb2+(aq) + 2e- \u2192Pb(s)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nPb2+(aq) + 2H2O(l) \u2192 PbO2(s) + 4H+(aq) + 4e-",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nPb(s) \u2192 Pb2+(aq) + 2e-",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If a given quantity of electricity liberates 0.65g of Zn2+, what amount of Hg2+ would be liberated by the same quantity of current?\n[Zn = 65, Hg = 201]",
+    "structure": "OBJECTIVE",
+    "number": 25,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\n1.00g",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\n2.10g",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\n4.02g",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\n8.04g",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "NH3(g) + HCl(s) \u2192 NH4Cl(s)\nThe entropy change in the system above is",
+    "structure": "OBJECTIVE",
+    "number": 26,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\npositive",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nzero",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nnegative",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nindeterminate",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following reaction is endothermic?",
+    "structure": "OBJECTIVE",
+    "number": 27,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nC(s) + O2(g) \u2192 CO2(g)",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCaO(s) + H2O(l) \u2192 Ca(OH)2(s)",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nC(s) + H2O(g) \u2192 CO(g) + H2(g)",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nHCl(aq) + NaOH(aq) \u2192 NaCl(aq) + H2O(l)",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A catalyst speeds up the rate of chemical reaction by",
+    "structure": "OBJECTIVE",
+    "number": 28,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ntaking part in the reaction",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nincreasing the activation energy of the reaction",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nlowering the activation energy of the reaction",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nincreasing the heat content",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The rate of a reaction usually decrease in the concentration of reactants because",
+    "structure": "OBJECTIVE",
+    "number": 29,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nkinetic energy decrease",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ntemperature increase",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nspeed increases",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nreactants collision decrease",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The substance that is used in the steel industry for the removal of carbon, sulphur and phosphorus impurities from pig iron is",
+    "structure": "OBJECTIVE",
+    "number": 30,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\noxygen",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nchlorine",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nnitrogen",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nhydrogen",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Which of the following compounds of trioxonitrate (V) will decomposes to give dinitrogen (i) oxide and water when heated?",
+    "structure": "OBJECTIVE",
+    "number": 31,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nNaNO3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nZn(NO3)2",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCu(NO3)2",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nNH4NO3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "When a solution of ammonium trioxocarbonate (IV) is added to a solution of an unknown salt, a white precipitate which is soluble in dilute hydrochloric acid but insoluble in ethanoic acid is formed. This indicates the presence of",
+    "structure": "OBJECTIVE",
+    "number": 32,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCa2+",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNa+",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nZn2+",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nK+",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Leads is used for making bullets and lead shots because of its",
+    "structure": "OBJECTIVE",
+    "number": 33,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nresistance to corrosion",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nlow melting point",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nhigh density",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nflexibility",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "which of the following gives a precipitate when treated with NaOH solution?",
+    "structure": "OBJECTIVE",
+    "number": 34,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nAlCl3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nNH4Cl",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nNa2CO3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCH3COONa",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The most common ores of iron include",
+    "structure": "OBJECTIVE",
+    "number": 35,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhaematite, malachite and limonite",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nchalcolite, calamine and bornite",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nmagnetite, haematite and bornite",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nmagnetite, chalcolite and bornite",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The type of isomerism shown by cis- and trans- isomers is",
+    "structure": "OBJECTIVE",
+    "number": 36,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\noptical isomerism",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\npositional isomerism",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nfunctional isomerism",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ngeometrical isomerism",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "D",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If the silver mirror test is positive, it indicates the presence of an",
+    "structure": "OBJECTIVE",
+    "number": 37,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nalkyne",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nalkanol",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nalkanone",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nalkanal",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "If glucose is heated with concentration tetraoxosulphate (VI) acid, it will be dehydrated to",
+    "structure": "OBJECTIVE",
+    "number": 38,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncarbon",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncarbon (IV) oxide",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nethene",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nethanol",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nThe longest carbon chain in the compound is the pent-2-ene.\nCounting all the attachments, the IUPAC nomenclature of the compound is 2,3 - dichloro-4,4,5 - trimethyl pent-2-ene."
+    },
+    "text": "The IUPAC nomenclature for the structure above is",
+    "structure": "OBJECTIVE",
+    "number": 39,
+    "imageUrl": "https://myschool.ng/storage/classroom/12171316122_chem 2008 41.png",
+    "options": [
+      {
+        "option": "A",
+        "text": "\n2, 3 - dichloro - 4, 4, 5 - trimethyl pent - 2 - ene",
+        "imageUrl": "https://myschool.ng/storage/classroom/12171316122_chem 2008 41.png"
+      },
+      {
+        "option": "B",
+        "text": "\n4, 5 - dichloro - 2, 3 - dimethyl hex - 2 - ene",
+        "imageUrl": "https://myschool.ng/storage/classroom/12171316122_chem 2008 41.png"
+      },
+      {
+        "option": "C",
+        "text": "\n2, 3 - dichloro - 4, 4 - dimethyl hex - 2- ene",
+        "imageUrl": "https://myschool.ng/storage/classroom/12171316122_chem 2008 41.png"
+      },
+      {
+        "option": "D",
+        "text": "\n2, 3 dichloro - 2, 2 - dimethyl hex - 2 - ene",
+        "imageUrl": "https://myschool.ng/storage/classroom/12171316122_chem 2008 41.png"
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\n% of H2 = 100 - 92.3 = 7.7%\nmole = Carbon [92.3 / 12] = 7.7\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Hydrogen [7.7 / 1] = 7.7\ndivide with the lowest:\n\nCarbon - 7.1 / 7.1 = 1\nHydrogen\u00a0 - 7.1 / 7.1 = 1\n\nempirical formula = CH\n\n(CH)n = 26\n(12 + 1)n = 26\n(13)n = 26\nn = 26/13 = 2\n\nmolecular formula = C\\(_2\\)H\\(_2\\)"
+    },
+    "text": "A hydrocarbon X with a molar mass of 26 consists of 92.3% carbon. What is its molecular formular?",
+    "structure": "OBJECTIVE",
+    "number": 40,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nC2H2",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nC3H3",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nC4H4",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nC5H5",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into",
+    "structure": "OBJECTIVE",
+    "number": 41,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nCH2 = CH - CH2 - CH3",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nCH3 CH2 - C \u2261 CH",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nCH3 CH2 CH2 CH3",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nCH3 - C C - CH3",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Reduction of nitroalkanes, nitrites and amides is a route for the preparation of",
+    "structure": "OBJECTIVE",
+    "number": 42,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\namines",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nalkenes",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npolymers",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\ndetergents",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Reduction of alkanonoes with LialH4 produces",
+    "structure": "OBJECTIVE",
+    "number": 43,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nprimary alkanols",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nsecondary alkanols",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ntertiary alkanols",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\npolyhydric alkanols",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "The product obtained when a mixture of benzene vapour and hydrogen are passed over nickel catalyst at 180oC is",
+    "structure": "OBJECTIVE",
+    "number": 44,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\ncyclohexane",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\ncyclopentane",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\nn- hexane",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nn - pentane",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Polyvinyl chloride is used in the production of",
+    "structure": "OBJECTIVE",
+    "number": 45,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nglass",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nalloy",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\npipes",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nceramics",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "B",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Detergents are manufactured with straight hydrocarbon chains so as to make them",
+    "structure": "OBJECTIVE",
+    "number": 46,
+    "imageUrl": null,
+    "options": [
+      {
+        "option": "A",
+        "text": "\nsoluble",
+        "imageUrl": null
+      },
+      {
+        "option": "B",
+        "text": "\nbiodegradable",
+        "imageUrl": null
+      },
+      {
+        "option": "C",
+        "text": "\ncheaper",
+        "imageUrl": null
+      },
+      {
+        "option": "D",
+        "text": "\nfoamy",
+        "imageUrl": null
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "A",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the diagram to answer this question. The gas that can be used to demonstrate the experiment is",
+    "structure": "OBJECTIVE",
+    "number": 47,
+    "imageUrl": "https://myschool.ng/storage/classroom/18522266659_scan work11.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nhydrogen chloride",
+        "imageUrl": "https://myschool.ng/storage/classroom/18522266659_scan work11.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nhydrogen sulphide",
+        "imageUrl": "https://myschool.ng/storage/classroom/18522266659_scan work11.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nnitrogen(ll) oxide",
+        "imageUrl": "https://myschool.ng/storage/classroom/18522266659_scan work11.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\ndinitrogen (l) oxide",
+        "imageUrl": "https://myschool.ng/storage/classroom/18522266659_scan work11.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Use the diagram to answer this question.The colour of the fountain water is",
+    "structure": "OBJECTIVE",
+    "number": 48,
+    "imageUrl": "https://myschool.ng/storage/classroom/15672688064_scan work11.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nblue",
+        "imageUrl": "https://myschool.ng/storage/classroom/15672688064_scan work11.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\norange",
+        "imageUrl": "https://myschool.ng/storage/classroom/15672688064_scan work11.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nred",
+        "imageUrl": "https://myschool.ng/storage/classroom/15672688064_scan work11.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nyellow",
+        "imageUrl": "https://myschool.ng/storage/classroom/15672688064_scan work11.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  },
+  {
+    "correctOption": "C",
+    "explanation": {
+      "text": "Explanation\nNo official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please click here"
+    },
+    "text": "Choose the correct option from the structure above",
+    "structure": "OBJECTIVE",
+    "number": 49,
+    "imageUrl": "https://myschool.ng/storage/classroom/5699162324_co.jpg",
+    "options": [
+      {
+        "option": "A",
+        "text": "\nA",
+        "imageUrl": "https://myschool.ng/storage/classroom/5699162324_co.jpg"
+      },
+      {
+        "option": "B",
+        "text": "\nB",
+        "imageUrl": "https://myschool.ng/storage/classroom/5699162324_co.jpg"
+      },
+      {
+        "option": "C",
+        "text": "\nC",
+        "imageUrl": "https://myschool.ng/storage/classroom/5699162324_co.jpg"
+      },
+      {
+        "option": "D",
+        "text": "\nD",
+        "imageUrl": "https://myschool.ng/storage/classroom/5699162324_co.jpg"
+      }
+    ],
+    "subType": null,
+    "subject": "CHEMISTRY",
+    "type": "JAMB",
+    "year": 2008
+  }
+]
